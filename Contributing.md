@@ -86,9 +86,26 @@ Current categories:
 - **Low and No-Code Builders** - visual and browser-based agent builders
 - **Voice and Multimodal Agents** - audio, video, and cross-modal agents
 - **Safety Guardrails and Observability** - monitoring, security, and governance
+- **Agent Interfaces and UIs** - frontend workspaces and chat interfaces
 - **Agent Deployment and Hosting** - platforms for running agents in production
 - **Agent Evaluation and Benchmarks** - benchmarks and evaluation frameworks
 - **Learning Resources** - courses, papers, and guides
+- **Agent Communication** - notifications, messaging, and channel integrations
+- **Data Pipeline and Workflow** - data orchestration and long-running workflows
+- **Secure Execution Environments** - sandboxes, VMs, and serverless runtimes
+- **Creative AI Agents** - image, video, music, audio, and 3D generation
+- **Customer Support and CRM Agents** - support automation, CRM, and sales outreach
+- **Voice Agent Platforms** - voice AI platforms for calls and conversations
+- **Deep Research Agents** - autonomous multi-step research and report generation
+- **Prompt-to-App Builders** - natural language to full-stack application generation
+- **Multi-Agent Consumer Platforms** - all-in-one consumer AI platforms
+- **Open-Source Models for Agents** - open-weight LLMs optimized for agentic tasks
+- **Market Stats and Benchmarks 2026** - market data, valuations, and growth metrics
+- **Local and Self-Hosted AI** - local LLM runners and self-hosted agent platforms
+- **AI Governance and Compliance** - regulatory frameworks and governance tools
+- **Cybersecurity Agents** - pentesting, threat detection, and security analysis
+- **Healthcare and Therapy Agents** - mental health, cognitive training, and therapy AI
+- **Newsletters and Communities** - curated newsletters, podcasts, and forums
 
 ---
 

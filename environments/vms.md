@@ -196,7 +196,7 @@ Start here: What's your threat model?
 | ---- | --------- | ---------- | -------------- | -------------- | -------- |
 | Firecracker | microVM | ~125ms | No (own API) | E2B, Modal | High-throughput agent sandboxes |
 | gVisor | Syscall intercept | ~200ms | Yes | GKE Sandbox | Drop-in Docker security upgrade |
-| Kata Containers | VM-wrapped container | ~1s | Yes | Azure ACI | K8s clusters needing VM isolation |
+| Kata Containers | VM-wrapped container | ~1s | Yes | Azure Container Instances | K8s clusters needing VM isolation |
 
 ---
 

@@ -31,6 +31,9 @@ jobs:
             --exclude-path node_modules
             --exclude "star-history.com"
             --exclude "shields.io"
+            --exclude "stableaudio.com"
+            --exclude "mckinsey.com"
+            --exclude "servicenow.com"
             --timeout 30
             README.md
           fail: true

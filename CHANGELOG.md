@@ -10,6 +10,8 @@ All notable changes to this list will be documented here.
 
 | Date | Change |
 |---|---|
+| May 04 2026 | Massive expansion to 426+ tools across 33 categories. Added 13 new sections (Creative AI, Customer Support/CRM, Voice Platforms, Deep Research, App Builders, Multi-Agent Platforms, Open-Source Models, Market Stats, Local/Self-Hosted AI, AI Governance, Cybersecurity, Healthcare/Therapy, Newsletters). Backfilled 60+ missing entries across existing categories. Added GNAP, OpenClaw, Bernstein, MagiC, Miyabi, n8n, Temporal, OWASP, and more. Full awesome-lint compliance. |
+| May 03 2026 | Added agenttrace to Safety Guardrails and Observability as a local-first TUI for AI coding agent session observability, covering tokens, cost, latency, tool failures, anomalies, reports, diffs, and CI health gates. |
 | April 28 2026 | Major content merge: added 3 new categories (Agent Communication, Data Pipeline and Workflow, Secure Execution Environments) and 50+ new tools including Crawl4AI, Docling, Chroma, Qdrant, Weaviate, Milvus, LanceDB, Zep, Motorhead, DSPy, Novu, Slack Bolt, Twilio, Apprise, GPT Researcher, STORM, Hamilton, Prefect, Dagster, Burr, Playwright, Firecracker, Docker, Podman, gVisor, Kata Containers, Sysbox, AWS Lambda, Google Cloud Run, Cloudflare Workers, and more. Tool count now at 173+. |
 | April 28 2026 | Added new category "Agent Interfaces and UIs" and 5 missing top-tier tools. Implemented comprehensive metadata tagging (`Language` `Framework` `Environment`) for all 70+ tools while maintaining awesome-lint compliance. |
 | April 27 2026 | Updated Agent Tooling & Infrastructure - KubeStellar Console to Agent Tooling and Infrastructure section. |
