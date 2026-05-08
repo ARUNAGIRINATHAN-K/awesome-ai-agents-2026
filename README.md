@@ -534,7 +534,7 @@ AI platforms that conduct autonomous multi-step research, synthesize findings fr
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Multi-agent research system from ByteDance with planning and execution loops for autonomous investigation (🏷️ `Python` `Open-Source` `Research`).
 - [Gemini Deep Research](https://blog.google/products/gemini/google-gemini-deep-research) - Leverages Google Search and Knowledge Graph integration with 1M token context for breadth-first research (🏷️ `Cloud` `Google` `Web`).
 - [Perplexity Pro](https://www.perplexity.ai) - Provides real-time search answers with inline citations and follow-up threads for iterative research (🏷️ `Cloud` `Freemium` `Web`).
-- [CAJAL](https://github.com/Agnuxo1/CAJAL) - Local AI agent that generates publication-ready scientific papers with real arXiv citations, tribunal scoring, and 100% offline execution via Ollama (🏷️ `Local` `Open-Source` `Research`).
+- [CAJAL](https://github.com/Agnuxo1/CAJAL) - Local AI agent that generates publication-ready scientific papers with real arXiv citations, tribunal scoring, and 100% offline execution via Ollama (🏷️ `Python` `Ollama` `Local`).
 
 ## Prompt-to-App Builders
 
