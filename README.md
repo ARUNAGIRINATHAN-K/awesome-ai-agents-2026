@@ -101,7 +101,6 @@
 - [GitHub Copilot](https://github.com/features/copilot) - Agent Mode in VS Code with Copilot Workspace for issue-to-PR workflows across Claude, GPT, and Gemini (🏷️ `TypeScript` `VS Code` `IDE`).
 - [Goose](https://github.com/aaif-goose/goose) - Open-source extensible AI agent that goes beyond code suggestions, installs, executes, edits, and tests with any LLM (🏷️ `Rust` `CLI` `Local`).
 - [JetBrains AI](https://www.jetbrains.com/ai/) - Deep AI integration across all JetBrains IDEs with context-aware completions and refactoring (🏷️ `Kotlin` `JetBrains` `IDE`).
-- [Kilo Code](https://github.com/kilocode/kilo-code) - Structured coding agent with tighter context management and reduced hallucinations for VS Code (🏷️ `TypeScript` `VS Code` `IDE`).
 - [Kiro](https://kiro.dev) - Spec-driven development agent that writes specs, auto-generates tasks, implements code, and automates DevOps workflows (🏷️ `Cloud` `AWS` `IDE`).
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) - Execute code locally via natural-language model instructions with a ChatGPT-like interface (🏷️ `Python` `CLI` `Local`).
 - [opencode](https://github.com/anomalyco/opencode) - Open-source coding agent available as a desktop application with a visual interface (🏷️ `TypeScript` `Electron` `Desktop`).
@@ -145,6 +144,7 @@
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - Evaluates and evolves agentic workflows over time using automatic optimization (🏷️ `Python` `Optimization` `SDK`).
 - [Hivemoot](https://github.com/hivemoot/hivemoot) - Autonomous agent teams that collaboratively build software on GitHub (🏷️ `Python` `GitHub` `SDK`).
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Simulates a full software company workflow from requirements to PRs using role-playing agents (🏷️ `Python` `Role-Playing` `SDK`).
+- [P2PCLAW](https://github.com/Agnuxo1/OpenCLAW-P2P) - Decentralized scientific research network with 14+ autonomous agents featuring P2P mesh, IPFS storage, and Lean 4 formal verification, self-hosted with Docker Compose (🏷️ `Python` `P2P` `Self-Hosted`).
 - [Swarm](https://github.com/openai/swarm) - Lightweight framework for agent handoffs, context variables, and function calling patterns from OpenAI (🏷️ `Python` `OpenAI` `SDK`).
 - [Swarms Framework](https://github.com/kyegomez/swarms) - Multi-agent orchestration for production use cases with scalability and reliability at its core (🏷️ `Python` `Production` `SDK`).
 
@@ -160,15 +160,18 @@ The protocol layer that enables agents to discover tools, communicate with each 
 
 ### MCP (Model Context Protocol)
 
-- [A2A Protocol](https://github.com/a2aproject/A2A) - Google's open protocol enabling AI agents to communicate, collaborate, and delegate tasks across frameworks (🏷️ `Protobuf` `Standard` `RPC`).
+- [A2A Protocol](https://github.com/google/A2A) - Google's open protocol enabling AI agents to communicate, collaborate, and delegate tasks across frameworks (🏷️ `Protobuf` `Standard` `RPC`).
 - [Arcade AI](https://github.com/ArcadeAI/arcade-mcp) - Tool-use platform with authentication, authorization, and logging for agent-tool interactions (🏷️ `Python` `Cloud` `API`).
 - [Composio](https://github.com/ComposioHQ/composio) - Integration platform with 250+ pre-built tool connectors for AI agents and LLMs (🏷️ `TypeScript` `Cloud` `API`).
-- [Docker MCP](https://github.com/docker/mcp-gateway) - Docker's MCP gateway CLI plugin for running MCP servers in isolated containers (🏷️ `Go` `Docker` `CLI`).
-- [HCS Agent Protocol](https://github.com/hashgraph/hedera-agent-kit-js) - Hedera open standards for agent identity with trustless P2P communication and 187K+ verified agents (🏷️ `TypeScript` `Hedera` `Protocol`).
+- [Docker MCP](https://github.com/docker/docker-mcp) - Docker's MCP gateway CLI plugin for running MCP servers in isolated containers (🏷️ `Go` `Docker` `CLI`).
+- [mcpx](https://github.com/CharanBharathula/mcpx) - Unified Model Context Protocol (MCP) server for executing code and managing files (🏷️ `Python` `MCP` `CLI`).
+- [HCS Agent Protocol](https://github.com/hashgraph/hedera-agent-kit) - Hedera open standards for agent identity with trustless P2P communication and 187K+ verified agents (🏷️ `TypeScript` `Hedera` `Protocol`).
 - [MCP Registry](https://github.com/modelcontextprotocol) - Official Model Context Protocol specification and server implementations for standardized tool access (🏷️ `JSON` `Standard` `Registry`).
 - [mcp-nest](https://github.com/CharanBharathula/mcp-nest) - Unified Model Context Protocol (MCP) server for executing code and managing files (🏷️ `Python` `MCP` `CLI`).
+- [NotFair](https://notfair.co) - Hosted Google Ads MCP server for diagnosing, optimizing, and executing campaign changes via the Google Ads API with a human-approval gate (🏷️ `Cloud` `MCP` `Marketing`).
 - [Toolhouse](https://toolhouse.ai) - Cloud-hosted tool infrastructure for agents with optimized execution and low-latency access (🏷️ `Python` `Cloud` `API`).
 - [Zapier MCP Server](https://zapier.com/mcp) - Connect agents to 7,000+ app integrations via MCP, powered by Zapier's automation platform (🏷️ `Cloud` `Zapier` `API`).
+- [zero-api-key-web-search](https://github.com/wd041216-bit/zero-api-key-web-search) - Free web search toolkit for AI agents with no API keys, MCP server support (🏷️ `Python` `MCP` `Search`).
 
 ## Browser and Computer Use Agents
 
@@ -184,9 +187,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to turn natural language instructions into browser automation (🏷️ `Python` `Selenium` `SDK`).
 - [Manus](https://manus.im) - Autonomous digital employee with Browser Operator extension acquired by Meta for web-based task execution (🏷️ `Cloud` `Meta` `Platform`).
 - [MultiOn](https://multion.ai) - Reliable web automation API with CAPTCHA handling for building production browser agents (🏷️ `Cloud` `API` `Platform`).
-- [onUI](https://github.com/nichochar/onui) - Open-source browser extension and MCP server for annotation-first UI pair programming with AI agents (🏷️ `TypeScript` `MCP` `Extension`).
 - [OpenAI Operator](https://openai.com/index/computer-using-agent/) - ChatGPT autonomous web agent with human checkpoints using Computer Use Agent technology (🏷️ `Cloud` `OpenAI` `Platform`).
-- [Plasmate](https://github.com/nichochar/plasmate) - Headless browser compiling HTML to structured JSON with 17.5x compression and 13 MCP tools (🏷️ `Rust` `MCP` `SDK`).
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - MCP server wrapping Playwright for seamless browser automation integration with LLM agents (🏷️ `TypeScript` `MCP` `SDK`).
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with computer vision and LLMs, no brittle selectors needed (🏷️ `Python` `Playwright` `Cloud`).
 - [Stagehand](https://github.com/browserbase/stagehand) - AI web browsing framework built on Playwright with natural-language selectors and actions (🏷️ `TypeScript` `Playwright` `SDK`).
@@ -256,7 +257,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [LangSmith](https://smith.langchain.com) - LangChain platform for tracing, testing, and evaluating agent performance with production monitoring (🏷️ `Cloud` `LangChain` `Platform`).
 - [LLM Guard](https://github.com/protectai/llm-guard) - Security toolkit for scanning LLM inputs and outputs to prevent prompt injection and data leaks (🏷️ `Python` `Security` `SDK`).
 - [Logfire](https://github.com/pydantic/logfire) - Python-native observability from the Pydantic team with deep integration for high-performance agent monitoring (🏷️ `Python` `Pydantic` `Platform`).
-- [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NVIDIA programmable guardrails toolkit for controlling and securing LLM-powered agent conversations (🏷️ `Python` `NVIDIA` `SDK`).
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NVIDIA programmable guardrails toolkit for controlling and securing LLM-powered agent conversations (🏷️ `Python` `NVIDIA` `SDK`).
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Modules for agent runtime security, self-audit trails, and collective cognition patterns (🏷️ `Python` `Security` `SDK`).
 - [OWASP Top 10 for Agentic Apps](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Security framework covering goal hijacking, tool misuse, and cascading failure mitigations for agents (🏷️ `Policy` `Security` `Framework`).
 - [Rebuff](https://github.com/protectai/rebuff) - Self-hardening prompt injection detection system for securing agent inputs against adversarial attacks (🏷️ `Python` `Security` `SDK`).
@@ -268,7 +269,8 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - All-in-one AI application with RAG, agents, and multi-model support for desktop and Docker (🏷️ `TypeScript` `Docker` `Desktop`).
 - [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Data interaction platform with local LLM support for 100% private database and analytics agents (🏷️ `Python` `Database` `Web`).
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Self-hosted multi-model chat interface supporting all major AI providers with access control (🏷️ `TypeScript` `Docker` `Web`).
-- [LobeChat](https://github.com/lobehub/lobehub) - Modern, open-source AI chat framework with a massive plugin ecosystem for autonomous agent capabilities (🏷️ `TypeScript` `Next.js` `Web`).
+- [LobeHub](https://github.com/lobehub/lobehub) - Modern platform for hybrid work and AI-driven collaboration with extensible agent teams and rapid integration (🏷️ `TypeScript` `Next.js` `Web`).
+- [LobeChat](https://github.com/lobehub/lobe-chat) - Modern, open-source AI chat framework with a massive plugin ecosystem for autonomous agent capabilities (🏷️ `TypeScript` `Next.js` `Web`).
 - [OpenWebUI](https://github.com/open-webui/open-webui) - Extensible local AI interface with built-in RAG, tool use, and support for multi-agent workflows (🏷️ `TypeScript` `Svelte` `Web`).
 
 ## Agent Deployment and Hosting
@@ -362,6 +364,7 @@ Infrastructure for running agent-generated code safely in isolated, sandboxed, o
 | AWS Lambda          | Firecracker VM     | ~200ms     | Python, TS, Go         |
 | Cloudflare Workers  | V8 isolate         | ~0ms       | TS, Rust (WebAssembly) |
 
+- [agentbox](https://github.com/CharanBharathula/agentbox) - Docker for AI Agents — package, test, version, and govern AI agents across every framework (🏷️ `Python` `Docker` `CLI`).
 - [agentnotary](https://github.com/CharanBharathula/agentnotary) - Notarize, govern, and audit AI agents — cryptographic seal, runtime guard, EU AI Act docs, and adversarial fuzzer (🏷️ `Python` `Compliance` `CLI`).
 - [AWS Lambda](https://github.com/aws/aws-lambda-python-runtime-interface-client) - Serverless function runtime with Firecracker isolation for executing short-lived agent tasks at scale (🏷️ `Python` `AWS` `Serverless`).
 - [Cloudflare Workers](https://github.com/cloudflare/workers-sdk) - Ultra-low-latency V8-isolate serverless runtime at the edge for lightweight agent task execution (🏷️ `TypeScript` `Cloudflare` `Serverless`).
@@ -657,8 +660,9 @@ Frameworks and tools for AI risk management, regulatory compliance, and governan
 - [Credo AI](https://www.credo.ai) - End-to-end AI governance platform with EU AI Act policy packs and model inventory management (🏷️ `Cloud` `Governance` `Platform`).
 - [EU AI Act](https://artificialintelligenceact.eu) - Official EU regulatory framework classifying AI systems by risk tier from unacceptable to minimal risk (🏷️ `Policy` `Regulation` `EU`).
 - [IBM watsonx.governance](https://www.ibm.com/products/watsonx-governance) - Enterprise AI risk, compliance, and model monitoring platform for regulated industries (🏷️ `Cloud` `IBM` `Platform`).
-- [NIST AI RMF](https://airc.nist.gov/) - US framework for AI risk management covering Govern, Map, Measure, and Manage functions (🏷️ `Policy` `Framework` `US`).
-- [OneTrust AI Governance](https://www.onetrust.com/solutions/ai-governance/) - Risk classification, consent management, and compliance workflows for AI agent deployments (🏷️ `Cloud` `Compliance` `Platform`).
+- [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic receipts for AI agent actions with two Ed25519 signatures per action, hash-chained for tamper-evident audit trails (🏷️ `TypeScript` `Security` `Cryptography`).
+- [NIST AI RMF](https://airc.nist.gov/Home) - US framework for AI risk management covering Govern, Map, Measure, and Manage functions (🏷️ `Policy` `Framework` `US`).
+- [OneTrust AI Governance](https://www.onetrust.com/solutions/ai-governance) - Risk classification, consent management, and compliance workflows for AI agent deployments (🏷️ `Cloud` `Compliance` `Platform`).
 
 ## Cybersecurity Agents
 
@@ -690,7 +694,6 @@ Curated newsletters, podcasts, and communities for staying current with AI agent
 - [AI Engineering Newsletter](https://www.latent.space) - AI engineering podcast and newsletter by Swyx and Alessio covering agent architectures and tooling (🏷️ `Newsletter` `Podcast` `Web`).
 - [aibtc.news](https://aibtc.news) - Bitcoin-focused agent news platform with bounties and classifieds for the agent economy (🏷️ `Newsletter` `Bitcoin` `Web`).
 - [Awesome Agents Newsletter](https://awesomeagents.substack.com) - Weekly curated tools and reviews covering the latest in AI agent development (🏷️ `Newsletter` `Weekly` `Web`).
-- [Ben's Bites](https://bensbites.beehiiv.com) - Daily AI newsletter with a builder focus covering tools, launches, and trends (🏷️ `Newsletter` `Daily` `Web`).
 - [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) - Reddit community for Claude users sharing agent workflows, prompts, and integration patterns (🏷️ `Community` `Reddit` `Forum`).
 - [r/LangChain](https://www.reddit.com/r/LangChain/) - Reddit community for agent developers using LangChain, LangGraph, and related frameworks (🏷️ `Community` `Reddit` `Forum`).
 - [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - Reddit community for self-hosted LLM users sharing local deployment and agent setup guides (🏷️ `Community` `Reddit` `Forum`).
