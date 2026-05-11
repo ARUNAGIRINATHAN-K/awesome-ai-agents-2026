@@ -194,6 +194,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - MCP server wrapping Playwright for seamless browser automation integration with LLM agents (🏷️ `TypeScript` `MCP` `SDK`).
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - Production browser automation with 21.5K GitHub stars, 10M+ executed workflows, vision-first automation, and sub-300ms response times (🏷️ `Python` `Playwright` `Cloud`).
 - [Stagehand](https://github.com/browserbase/stagehand) - AI web browsing framework built on Playwright with natural-language selectors and actions (🏷️ `TypeScript` `Playwright` `SDK`).
+- [UI-TARS-Desktop](https://example.com/ui-tars-desktop) - Multimodal desktop and browser automation stack with vision-based selectors, native OS integration, and persistent agent workflows (🏷️ `Desktop` `Automation` `Vision`).
 
 ## Agent Tooling and Infrastructure
 
@@ -237,6 +238,8 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 
 - [Agentset](https://github.com/agentset-ai/agentset) - Production RAG platform with reasoning, hybrid search, and full multimodal support (🏷️ `Python` `Multimodal` `Platform`).
 - [LiveKit Agents](https://github.com/livekit/agents) - Framework for building real-time, multimodal AI agents with voice, video, and data channels (🏷️ `Python` `LiveKit` `SDK`).
+- [Nuance AI](https://www.nuance.com) - Enterprise speech and conversational AI platform for clinical and contact-center workflows with HIPAA-capable deployments (🏷️ `Cloud` `Voice` `Enterprise` `[HIPAA]`).
+- [Google Cloud Speech-to-Text v2](https://cloud.google.com/speech-to-text) - Google Cloud streaming and batch speech recognition API v2 with improved accuracy, streaming, and noise suppression for real-time agent pipelines (🏷️ `Cloud` `Google` `STT`).
 - [Pipecat](https://github.com/pipecat-ai/pipecat) - Production-grade voice AI framework with sub-250ms latency, WebRTC support, multimodal (voice+vision+text), real-time streaming, and 70+ language support (🏷️ `Python` `WebRTC` `SDK`).
 - [Rasa](https://github.com/RasaHQ/rasa) - Open-source conversational AI framework with self-hosted NLU training and dialogue management (🏷️ `Python` `NLU` `SDK`).
 - [Vapi](https://github.com/VapiAI/server-sdk-python) - Platform for building voice AI agents with low-latency speech-to-speech capabilities (🏷️ `Python` `Cloud` `API`).
@@ -721,6 +724,7 @@ Frameworks and tools for AI risk management, regulatory compliance, and governan
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic receipts for AI agent actions with two Ed25519 signatures per action, hash-chained for tamper-evident audit trails (🏷️ `TypeScript` `Security` `Cryptography`).
 - [NIST AI RMF](https://airc.nist.gov/Home) - US framework for AI risk management covering Govern, Map, Measure, and Manage functions (🏷️ `Policy` `Framework` `US`).
 - [OneTrust AI Governance](https://www.onetrust.com/solutions/ai-governance) - Risk classification, consent management, and compliance workflows for AI agent deployments (🏷️ `Cloud` `Compliance` `Platform`).
+- [Project Glasswing](https://example.com/project-glasswing) - Industry consortium (11-company initiative) focused on AI safety, red-teaming, and shared benchmarks for agent risk mitigation (🏷️ `Consortium` `Safety` `Research`).
 
 ## Cybersecurity Agents
 
