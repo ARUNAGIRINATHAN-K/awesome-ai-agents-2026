@@ -28,27 +28,23 @@ Every entry follows this exact format:
 - Description follows ` - ` (space, hyphen, space) after the closing parenthesis
 - Description is exactly **one sentence**, ending with a period
 - No promotional language ("the best", "revolutionary", "game-changing")
-- Mandatory metadata tags at the end of the sentence formatted exactly as `(🏷️ \`Language\` \`Framework\` \`Environment\`)` inside the period
 - Entries within each category are sorted **alphabetically** by tool name
 
 **Good example:**
 
 ```markdown
-- [Mem0](https://github.com/mem0ai/mem0) - Memory layer for AI applications with long-term, short-term, and semantic memory extraction (🏷️ `Python` `Vector DB` `Cloud`).
+- [Mem0](https://github.com/mem0ai/mem0) - Memory layer for AI applications with long-term, short-term, and semantic memory extraction.
 ```
 
 **Bad examples:**
 
 ```markdown
-# Wrong: tags placed after the period (fails awesome-lint)
-- [Mem0](https://github.com/mem0ai/mem0) - Memory layer for AI applications. (🏷️ `Python` `Vector` `Cloud`)
-
 # Wrong: uses heading instead of list item
 ### Mem0
 **[GitHub](https://github.com/mem0ai/mem0)** - Memory layer for AI
 
 # Wrong: uses em-dash instead of hyphen
-- [Mem0](https://github.com/mem0ai/mem0) — Memory layer for AI applications (🏷️ `Python`).
+- [Mem0](https://github.com/mem0ai/mem0) — Memory layer for AI applications.
 
 # Wrong: multiple sentences
 - [Mem0](https://github.com/mem0ai/mem0) - Memory layer for AI applications. It supports long-term memory extraction.
@@ -106,6 +102,7 @@ Current categories:
 - **Cybersecurity Agents** - pentesting, threat detection, and security analysis
 - **Healthcare and Therapy Agents** - mental health, cognitive training, and therapy AI
 - **Newsletters and Communities** - curated newsletters, podcasts, and forums
+- **Experience Intent Libraries** - prompt templates and vibe libraries that define design languages and interaction tones
 
 ---
 
@@ -132,7 +129,7 @@ This list passes `awesome-lint` and automated link checking on every push. Your 
 
 ## Code of Conduct
 
-By contributing, you agree to abide by the [Code of Conduct](Code_of_conduct.md). Be respectful, constructive, and collaborative.
+By contributing, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 
