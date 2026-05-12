@@ -122,6 +122,7 @@
 
 - [Acontext](https://github.com/memodb-io/Acontext) - Manages agent skills and long-term memory as a layered data structure for persistent context (🏷️ `Python` `SDK` `Local`).
 - [Chroma](https://github.com/chroma-core/chroma) - Lightweight, embeddable vector store for building memory-augmented AI agents with fast semantic retrieval (🏷️ `Python` `TypeScript` `SDK`).
+- [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native agent memory server with 87.8% LoCoMo benchmark score; decay-weighted recall, hybrid BM25+HNSW retrieval, 83 MCP tools, knowledge graph layer — Rust binary, zero external LLM deps (🏷️ `Rust` `MCP` `Self-hosted`).
 - [cognee](https://github.com/topoteretes/cognee) - Knowledge engine for AI agent memory, set up in 6 lines of code with graph-based knowledge extraction (🏷️ `Python` `Neo4j` `SDK`).
 - [Cortex Memory](https://github.com/prem-research/cortex) - Full-stack solution for agent memory covering extraction, vector search, and optimization (🏷️ `Python` `Vector DB` `SDK`).
 - [graphiti](https://github.com/getzep/graphiti) - Build real-time knowledge graphs for AI agents with automatic entity extraction and linking (🏷️ `Python` `Knowledge Graph` `SDK`).
