@@ -350,7 +350,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 
 ### Government & Compliance
 
-- [Anthropic Government Agents](https://www.anthropic.com) - Policy analysis and public sector agents for regulated workflows (🏷️ `Cloud` `Government` `Enterprise`).
+- Anthropic Government Agents - Policy analysis and public sector agents for regulated workflows (🏷️ `Cloud` `Government` `Enterprise`).
 - Tax & Insurance Agent Platforms - Generic category placeholder for compliance-focused tax and underwriting agents (🏷️ `Cloud` `Compliance` `Enterprise`).
 
 ## Learning Resources
