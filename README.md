@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/awesome-ai-agents-2026?style=social)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 [![Last Commit](https://img.shields.io/github/last-commit/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/commits/main)
 [![Tools Listed](https://img.shields.io/badge/tools_listed-470%2B-blue?style=flat-square)]()
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](LICENSE)
@@ -84,7 +84,7 @@
 - [Upsonic](https://github.com/Upsonic/Upsonic) - Minimalist agent framework with MCP support and rapid setup for quick prototyping (🏷️ `Python` `MCP` `SDK`).
 - [Vercel AI SDK](https://github.com/vercel/ai) - Streaming-first primitives for AI UIs with React Server Components and edge runtime support (🏷️ `TypeScript` `Next.js` `SDK`).
 - [VoltAgent](https://github.com/voltagent/voltagent) - TypeScript agent framework with built-in observability and a self-improving context engine (🏷️ `TypeScript` `React` `SDK`).
-- [Vertex AI Agents](https://cloud.google.com/vertex-ai/generative-ai/docs/agents/overview) - Google Cloud enterprise agent framework with native Gemini integration, scalable infrastructure, and compliance certifications (🏷️ `Python` `Google` `Cloud` `[Enterprise]` `[GDPR]`).
+- [Vertex AI Agents](https://adk.dev/) - Google Cloud enterprise agent framework with native Gemini integration, scalable infrastructure, and compliance certifications (🏷️ `Python` `Google` `Cloud` `[Enterprise]` `[GDPR]`).
 
 ## Coding Agents
 
@@ -253,7 +253,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [AgentGuard](https://github.com/cyberark/agent-guard) - Runtime observability and guardrails for AI agents with loop detection and anomaly alerts (🏷️ `Python` `CyberArk` `SDK`).
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first TUI for AI coding agent session observability with tokens, cost, latency, tool failures, anomalies, reports, diffs, and CI health gates (🏷️ `Go` `Observability` `CLI`).
 - [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) - Pre-action authorization plugin for agent frameworks with policy-based access control (🏷️ `Python` `Authorization` `SDK`).
-- [Patronus AI LYNX](https://patronus.ai/lynx) - Hallucination detection system beating GPT-4 baselines, with specialized testing for agent outputs and LLM-generated content quality (🏷️ `Cloud` `Testing` `SDK`).
+- [Patronus AI LYNX](https://patronus.ai/) - Hallucination detection system beating GPT-4 baselines, with specialized testing for agent outputs and LLM-generated content quality (🏷️ `Cloud` `Testing` `SDK`).
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) - Open-source observability platform built on OpenTelemetry for tracing, evaluating, and debugging AI agents (🏷️ `Python` `OpenTelemetry` `Platform`).
 - [Braintrust](https://www.braintrust.dev) - Eval-driven development platform with experiment tracking and prompt optimization for agent quality (🏷️ `TypeScript` `Evaluation` `Platform`).
 - [ElevenAgents](https://elevenlabs.io/agents) - Voice agent platform from ElevenLabs for customer support automation with HIPAA compliance and multi-language support (🏷️ `Cloud` `Voice` `Platform` `[HIPAA]` `[Enterprise]`).
@@ -346,7 +346,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 ### Manufacturing & Industrial
 
 - [Siemens AI Ops](https://www.siemens.com) - Factory-floor optimization and predictive maintenance agents (🏷️ `Cloud` `Industrial` `Enterprise`).
-- [GE Predix Agents](https://www.ge.com/digital) - Equipment monitoring and incident prediction agents for industrial fleets (🏷️ `Cloud` `Industrial` `Enterprise`).
+- [GE Predix Agents](https://www.ge.com/) - Equipment monitoring and incident prediction agents for industrial fleets (🏷️ `Cloud` `Industrial` `Enterprise`).
 
 ### Government & Compliance
 
@@ -423,7 +423,7 @@ Infrastructure for running agent-generated code safely in isolated, sandboxed, o
 | AWS Lambda          | Firecracker VM     | ~200ms     | Python, TS, Go         |
 | Cloudflare Workers  | V8 isolate         | ~0ms       | TS, Rust (WebAssembly) |
 
-- [agentbox](https://github.com/CharanBharathula/agentbox) - Docker for AI Agents — package, test, version, and govern AI agents across every framework (🏷️ `Python` `Docker` `CLI`).
+- agentbox - Docker for AI Agents — package, test, version, and govern AI agents across every framework (🏷️ `Python` `Docker` `CLI`).
 - [agentnotary](https://github.com/CharanBharathula/agentnotary) - Notarize, govern, and audit AI agents — cryptographic seal, runtime guard, EU AI Act docs, and adversarial fuzzer (🏷️ `Python` `Compliance` `CLI`).
 - [AWS Lambda](https://github.com/aws/aws-lambda-python-runtime-interface-client) - Serverless function runtime with Firecracker isolation for executing short-lived agent tasks at scale (🏷️ `Python` `AWS` `Serverless`).
 - [Cloudflare Workers](https://github.com/cloudflare/workers-sdk) - Ultra-low-latency V8-isolate serverless runtime at the edge for lightweight agent task execution (🏷️ `TypeScript` `Cloudflare` `Serverless`).
