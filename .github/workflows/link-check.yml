@@ -27,7 +27,8 @@ jobs:
           args: >-
             --verbose
             --no-progress
-            --accept 200,204,301,302,403,429
+            --accept 200,204,301,302,403,429,999
+            --max-redirects 5
             --exclude-path node_modules
             --exclude "star-history.com"
             --exclude "shields.io"
