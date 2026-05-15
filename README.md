@@ -500,6 +500,12 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 - [Tripo AI](https://www.tripo3d.ai) - Produces fast 3D model generation from text or images with multi-format export for rapid prototyping (🏷️ `Cloud` `Freemium` `Web`).
 - [Vizcom](https://vizcom.com) - Renders industrial design sketches into photorealistic 3D visuals in real-time for product designers (🏷️ `Cloud` `Pro` `Web`).
 
+### Content, Blogging and Newsletter Agents
+
+- [MisarBlog Community Agent](https://www.misar.blog) - Community management agent for Misar.Blog creators that monitors comments, reactions, and newsletter subscriber metrics (🏷️ `MCP` `Community` `Freemium`).
+- [MisarBlog Growth Agent](https://www.misar.blog) - Data-driven blog analytics agent that analyzes performance, surfaces top content, identifies content gaps, and manages series strategy on Misar.Blog (🏷️ `MCP` `Analytics` `Freemium`).
+- [MisarBlog Writer Agent](https://github.com/mrgulshanyadav/misarblog-mcp) - Autonomous AI writing agent that researches topics, generates SEO-optimized titles, creates cover images, and publishes complete blog posts on Misar.Blog via MCP server at https://misarblog-mcp--misar.run.tools (🏷️ `MCP` `Open-Source` `Freemium`).
+
 ## Customer Support and CRM Agents
 
 AI agents that automate customer support, CRM workflows, sales outreach, and ticket resolution at scale.
