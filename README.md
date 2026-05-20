@@ -67,6 +67,7 @@
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - The open-source AI copilot platform for React, allowing developers to embed custom AI agents directly into their applications (🏷️ `TypeScript` `React` `SDK`).
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Production multi-agent framework with 5K+ GitHub stars, role-based collaboration, async execution, and 1500+ company adoptions (🏷️ `Python` `LangChain` `SDK` `[Enterprise]`).
 - [DSPy](https://github.com/stanfordnlp/dspy) - Programmatically optimizes LLM prompts and chains using machine learning instead of manual prompt engineering (🏷️ `Python` `Stanford` `SDK`).
+- [Ontheia](https://github.com/Ontheia/ontheia) - Self-hosted, open-source AI agent platform with Chain Engine for visual workflow automation, MCP-native tool integration, multi-provider support (Claude, OpenAI, Gemini, Ollama), long-term memory via pgvector, multi-user RBAC, and GDPR-compliant architecture (🏷️ `TypeScript` `Self-hosted` `MCP` `Docker` `[Enterprise]` `[GDPR]`).
 - [Google ADK](https://github.com/google/adk-python) - Modular agent dev kit integrating Gemini and Vertex AI natively (🏷️ `Python` `Vertex AI` `SDK`).
 - [Haystack](https://github.com/deepset-ai/haystack) - Production-ready AI orchestration framework focused on building customizable LLM applications and RAG pipelines (🏷️ `Python` `RAG` `SDK`).
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Enterprise framework for stateful, graph-based agent workflows (🏷️ `Python` `LangChain` `SDK`).
