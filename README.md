@@ -14,7 +14,7 @@
 *The most comprehensive, structured guide to AI agent frameworks, tools, and resources.*  
 *Updated weekly. Compared side-by-side. Built for developers who ship.*
 
-**[Explore the Stack](#contents) • [Read the Docs](#contributing) • [Submit a Tool](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues/new)**
+**[Explore the Stack](#contents) • [Read the Docs](#contributing) • [Submit a Tool](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues)**
 
 </div>
 
@@ -33,6 +33,8 @@
 - [Agent Interfaces and UIs](#agent-interfaces-and-uis)
 - [Agent Deployment and Hosting](#agent-deployment-and-hosting)
 - [Agent Evaluation and Benchmarks](#agent-evaluation-and-benchmarks)
+- [Agent Testing & Debugging](#agent-testing--debugging)
+- [Industry-Specific Agents](#industry-specific-agents)
 - [Learning Resources](#learning-resources)
 - [Agent Communication](#agent-communication)
 - [Data Pipeline and Workflow](#data-pipeline-and-workflow)
@@ -51,6 +53,7 @@
 - [Healthcare and Therapy Agents](#healthcare-and-therapy-agents)
 - [Newsletters and Communities](#newsletters-and-communities)
 - [Changelog](#changelog)
+- [Contributing](#contributing)
 - [Star History](#star-history)
 
 ## Orchestration Frameworks
@@ -167,7 +170,6 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Arcade AI](https://github.com/ArcadeAI/arcade-mcp) - Tool-use platform with authentication, authorization, and logging for agent-tool interactions (🏷️ `Python` `Cloud` `API`).
 - [Composio](https://github.com/ComposioHQ/composio) - Integration platform with 250+ pre-built tool connectors for AI agents and LLMs (🏷️ `TypeScript` `Cloud` `API`).
 - [Docker MCP](https://github.com/docker/mcp-gateway) - Docker's MCP gateway CLI plugin for running MCP servers in isolated containers (🏷️ `Go` `Docker` `CLI`).
-- [mcpx](https://github.com/CharanBharathula/mcp-nest) - Unified Model Context Protocol (MCP) server for executing code and managing files (🏷️ `Python` `MCP` `CLI`).
 - [HCS Agent Protocol](https://github.com/hashgraph/hedera-agent-kit-js) - Hedera open standards for agent identity with trustless P2P communication and 187K+ verified agents (🏷️ `TypeScript` `Hedera` `Protocol`).
 - [MCP Registry](https://github.com/modelcontextprotocol) - Official Model Context Protocol specification and server implementations for standardized tool access (🏷️ `JSON` `Standard` `Registry`).
 - [mcp-nest](https://github.com/CharanBharathula/mcp-nest) - Unified Model Context Protocol (MCP) server for executing code and managing files (🏷️ `Python` `MCP` `CLI`).
@@ -278,7 +280,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - All-in-one AI application with RAG, agents, and multi-model support for desktop and Docker (🏷️ `TypeScript` `Docker` `Desktop`).
 - [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Data interaction platform with local LLM support for 100% private database and analytics agents (🏷️ `Python` `Database` `Web`).
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Self-hosted multi-model chat interface supporting all major AI providers with access control (🏷️ `TypeScript` `Docker` `Web`).
-- [LobeHub](https://github.com/lobehub/lobehub) - Modern platform for hybrid work and AI-driven collaboration with extensible agent teams and rapid integration (🏷️ `TypeScript` `Next.js` `Web`).
+- [LobeHub](https://lobehub.com/) - Modern platform for hybrid work and AI-driven collaboration with extensible agent teams and rapid integration (🏷️ `TypeScript` `Next.js` `Web`).
 - [LobeChat](https://github.com/lobehub/lobehub) - Modern, open-source AI chat framework with a massive plugin ecosystem for autonomous agent capabilities (🏷️ `TypeScript` `Next.js` `Web`).
 - [OpenWebUI](https://github.com/open-webui/open-webui) - Extensible local AI interface with built-in RAG, tool use, and support for multi-agent workflows (🏷️ `TypeScript` `Svelte` `Web`).
 
@@ -290,7 +292,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [Groq Cloud](https://groq.com) - Ultra-fast LPU-based LLM inference for Mixtral, Llama, and Gemma with a free API tier (🏷️ `Cloud` `Inference` `API`).
 - [Modal](https://github.com/modal-labs/modal-client) - Serverless GPU compute purpose-built for AI workloads with fast cold starts and Python-native deployment (🏷️ `Python` `Serverless` `Cloud`).
 - [Northflank](https://northflank.com/) - Full-stack platform with GPU orchestration, Git-based CI/CD, and bring-your-own-cloud support (🏷️ `Kubernetes` `Cloud` `Platform`).
-- [Railway](https://railway.com/) - One-click deploy from GitHub with persistent volumes and databases for stateful agent deployments (🏷️ `Nix` `Cloud` `Platform`).
+- [Railway](https://railway.app/) - One-click deploy from GitHub with persistent volumes and databases for stateful agent deployments (🏷️ `Nix` `Cloud` `Platform`).
 - [Together AI](https://www.together.ai) - Inference API hosting 200+ open models with fast generation and a free tier for developers (🏷️ `Cloud` `Inference` `API`).
 - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Background job platform with cron, webhook, and event triggers purpose-built for long-running agent tasks (🏷️ `TypeScript` `Serverless` `Cloud`).
 
@@ -307,16 +309,16 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 
 **Tools and frameworks focused on testing, debugging and evaluating agent workflows in production.**
 
-| Tool | Debugging | Testing | Eval | Latency | Notes |
-|------|-----------|---------|------|---------|-------|
-| agenttrace | Advanced | Basic | ✓ | Local | Session observability, tokens/cost/latency (see Safety Guardrails) |
-| Inspect AI | ✗ | ✓ | ✓ | API | Composable evaluation framework (see Agent Evaluation) |
-| Patronus AI LYNX | ✓ | ✓ | ✓ | Cloud | Hallucination detection for agent outputs |
-| Braintrust Evals | Basic | ✓ | ✓ | Cloud | Eval-driven development and experiment tracking |
-| pytest-Agents | ✗ | ✓ | ✗ | Local | Pytest fixtures & runners for agent unit tests (local doc) |
-| Agent Mutation Testing | ✗ | ✓ | ✗ | Local | Generates adversarial mutations to test agent robustness (local doc) |
-| Cortex Debugger | ✓ | ✗ | ✗ | Local | Step-through debugging primitives for agent workflows (local doc) |
-| Agent Coverage Tools | ✗ | ✓ | ✗ | Local | Coverage analysis for agent branches and tool calls (local doc) |
+| Tool                    | Debugging | Testing | Eval | Latency | Notes                                                                |
+| ----------------------- | --------- | ------- | ---- | ------- | -------------------------------------------------------------------- |
+| agenttrace              | Advanced  | Basic   | ✓    | Local   | Session observability, tokens/cost/latency (see Safety Guardrails)   |
+| Inspect AI              | ✗         | ✓       | ✓    | API     | Composable evaluation framework (see Agent Evaluation)                |
+| Patronus AI LYNX        | ✓         | ✓       | ✓    | Cloud   | Hallucination detection for agent outputs                            |
+| Braintrust Evals        | Basic     | ✓       | ✓    | Cloud   | Eval-driven development and experiment tracking                      |
+| pytest-Agents           | ✗         | ✓       | ✗    | Local   | Pytest fixtures & runners for agent unit tests (local doc)           |
+| Agent Mutation Testing  | ✗         | ✓       | ✗    | Local   | Generates adversarial mutations to test agent robustness (local doc) |
+| Cortex Debugger         | ✓         | ✗       | ✗    | Local   | Step-through debugging primitives for agent workflows (local doc)    |
+| Agent Coverage Tools    | ✗         | ✓       | ✗    | Local   | Coverage analysis for agent branches and tool calls (local doc)      |
 
 Notes: Several of these projects already appear elsewhere in this document (agenttrace, Inspect AI, Patronus). New local docs link to conceptual testing tools not yet listed elsewhere.
 
@@ -334,7 +336,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 ### Healthcare
 
 - Epic AI Assistant (https://www.epic.com) - Clinical documentation and workflow agents integrated with Epic HER (🏷️ `Cloud` `Healthcare` `Enterprise`).
-- [Nuance Healthcare AI](https://dragon.nuance.com/en-us/home) - Speech and clinical AI solutions for documentation and radiology (🏷️ `Cloud` `Healthcare` `Enterprise` `[HIPAA]`).
+- [Nuance Healthcare AI](https://www.nuance.com/healthcare.html) - Speech and clinical AI solutions for documentation and radiology (🏷️ `Cloud` `Healthcare` `Enterprise` `[HIPAA]`).
 - [Tempus AI](https://www.tempus.com) - Oncology research and clinical decision support agents (🏷️ `Cloud` `Healthcare` `Research`).
 
 ### Legal
@@ -360,7 +362,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [AI Engineering by Chip Huyen](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) - Comprehensive guide on AI systems design and deployment covering agent architecture patterns (🏷️ `Book` `O'Reilly` `Print`).
 - [Anthropic Cookbook](https://github.com/anthropics/claude-cookbooks) - Collection of Claude agent recipes and integration patterns from Anthropic (🏷️ `Guide` `Anthropic` `GitHub`).
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Anthropic's guide on agent design patterns, evaluation strategies, and production best practices (🏷️ `Guide` `Anthropic` `Web`).
-- [Google ADK Documentation](https://adk.dev/) - Official documentation for Google Agent Development Kit with tutorials and best practices (🏷️ `Guide` `Google` `Web`).
+- [Google ADK Documentation](https://adk.dev/docs) - Official documentation for Google Agent Development Kit with tutorials and best practices (🏷️ `Guide` `Google` `Web`).
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Open-source course on building AI agents using Hugging Face tools and models (🏷️ `Course` `HuggingFace` `Web`).
 - [LATS: Language Agent Tree Search](https://github.com/lapisrocks/LanguageAgentTreeSearch) - Combines Monte Carlo tree search with LLM reasoning for complex multi-step planning tasks (🏷️ `Paper` `Python` `Research`).
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Deep breakdown of LLM-powered agent components: planning, memory, and tool use (🏷️ `Blog` `Weng` `Web`).
@@ -482,7 +484,7 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 - [Luma Dream Machine](https://lumalabs.ai/app) - Creates physics-accurate 4K HDR video scenes with 3D-style output for cinematic quality (🏷️ `Cloud` `Freemium` `Web`).
 - [Pika 2.5](https://pika.art/login) - Beginner-friendly video generation tool with fast turnaround and intuitive editing controls (🏷️ `Cloud` `Freemium` `Web`).
 - [Runway Gen-4.5](https://runwayml.com) - Professional video generation with Motion Brush and the highest benchmark scores for visual quality (🏷️ `Cloud` `Pro` `Web`).
-- [Seedance 2.0](https://www.seedance.ai) - Quad-modal input video generator with built-in lip-sync and 2K resolution output (🏷️ `Cloud` `Freemium` `Web`).
+- [Seedance 2.0](https://seed.bytedance.com/en/seedance) - Quad-modal input video generator with built-in lip-sync and 2K resolution output (🏷️ `Cloud` `Freemium` `Web`).
 - [Sora 2](https://sora.com) - Generates 25-second cinematic video clips with strong narrative coherence from text prompts by OpenAI (🏷️ `Cloud` `OpenAI` `Web`).
 - [Wan 2.1](https://github.com/Wan-Video/Wan2.1) - Open-source self-hosted video generation model with unlimited length and no per-video costs (🏷️ `Python` `Open-Source` `Local`).
 
@@ -552,7 +554,7 @@ Platforms for building, deploying, and scaling voice-based AI agents across call
 | PolyAI     | Low     | Yes   | Enterprise scale         |
 
 - [AssemblyAI](https://www.assemblyai.com) - Speech-to-text API with speaker diarization, sentiment analysis, and summarization for voice agent pipelines (🏷️ `Cloud` `STT` `API`).
-- [Bland AI](https://www.bland.ai) - Automates outbound phone calls at scale with SOC2 and HIPAA compliance and CRM integration (🏷️ `Cloud` `Telephony` `API`).
+- [Bland AI](https://bland.ai/) - Automates outbound phone calls at scale with SOC2 and HIPAA compliance and CRM integration (🏷️ `Cloud` `Telephony` `API`).
 - [Deepgram](https://deepgram.com) - Sub-300ms speech-to-text and text-to-speech APIs purpose-built for real-time voice agent pipelines (🏷️ `Cloud` `STT/TTS` `API`).
 - [ElevenLabs](https://elevenlabs.io) - Industry-leading voice AI with 75ms latency, Conversational AI 2.0, RAG, and HIPAA compliance (🏷️ `Cloud` `Voice` `Platform`).
 - [HeyGen](https://www.heygen.com) - Creates AI talking avatars with voice cloning and lip-sync for video-based agent interactions (🏷️ `Cloud` `Avatar` `Web`).
