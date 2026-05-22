@@ -217,6 +217,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python web-scraping library that uses LLMs to build intelligent scraping pipelines from natural-language instructions (🏷️ `Python` `LangChain` `SDK`).
 - [Surya](https://github.com/datalab-to/surya) - Runs OCR and layout detection on documents in 90+ languages for multilingual document agents (🏷️ `Python` `PDF` `CLI`).
 - [Tavily](https://github.com/tavily-ai/tavily-python) - Search API purpose-built for LLM agents providing real-time, accurate web data with source citations (🏷️ `Python` `Cloud` `API`).
+- [TheCrawler](https://github.com/manchittlab/TheCrawler) - GitHub-source MCP server and CLI for web crawling, extraction diagnostics, and validated extraction contracts for agent workflows (🏷️ `TypeScript` `MCP` `CLI`).
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) - Ingests and preprocesses documents across 25+ file types for downstream LLM and agent pipelines (🏷️ `Python` `Pipeline` `SDK`).
 
 ## Low and No-Code Builders
