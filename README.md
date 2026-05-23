@@ -92,6 +92,7 @@
 ## Coding Agents
 
 - [Aider](https://github.com/Aider-AI/aider) - Terminal-first pair programmer that edits code in local repos, preserves Git history, and supports multi-file changes (🏷️ `Python` `CLI` `Local`).
+- [Alfred](https://github.com/luminik-io/alfred-os) - Self-hosted runtime that turns GitHub issues into reviewed pull requests through autonomous Claude Code and Codex agents (🏷️ `Python` `CLI` `Local`).
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS-native AI coding assistant with Lambda, CloudWatch, infrastructure support, and security scanning (🏷️ `Python` `AWS` `IDE`).
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Mature autonomous agent platform with Forge framework and public benchmarks for evaluating agent capabilities (🏷️ `Python` `Forge` `CLI`).
 - [Claude Code](https://github.com/anthropics/claude-code) - Terminal-first agentic coding from Anthropic with Computer Use integration, multi-file edits, persistent shell sessions, Git operations, and fine-tuning support (🏷️ `TypeScript` `CLI` `Local` `[Anthropic]`).
