@@ -10,6 +10,7 @@ All notable changes to this list will be documented here.
 
 | Date | Change |
 |---|---|
+| May 25 2026 | Added Sistava to Multi-Agent Consumer Platforms. |
 | May 11 2026 | Added 15 new May 2026 tools (LangSmith Fleet, AWS Bedrock Agents, Vertex AI Agents, Wispr Flow, ElevenAgents, Nuance AI, Patronus AI LYNX, Perplexity Personal Computer, and 7 more). Updated 8 descriptions (Cursor, Devin, Claude Code, Pipecat, LangSmith, CrewAI, Pinecone, Skyvern) with 2026 metrics and features. Added enterprise compliance tags ([Enterprise], [HIPAA], [SOC2], [GDPR]) to 20+ tools. Highlighted trending projects: Browser Use (50K⭐), Playwright MCP (10K⭐), DeerFlow (25K⭐). Updated tool count 426→450+. |
 | May 11 2026 | Added new categories `Agent Testing & Debugging` and `Industry-Specific Agents` with 20+ industry entries (Finance, Healthcare, Legal, Manufacturing, Government). Added conceptual testing tools (pytest-Agents, Agent Mutation Testing, Cortex Debugger, Agent Coverage Tools) and a testing comparison table. Standardized enterprise metadata across verticals. Updated README badge to 470+. |
 | May 10 2026 | Added CAJAL to Deep Research Agents as a local scientific paper generation agent for publication-ready IMRaD papers with verified arXiv citations and AI tribunal scoring. |

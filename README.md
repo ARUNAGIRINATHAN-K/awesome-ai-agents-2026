@@ -623,6 +623,7 @@ All-in-one AI platforms providing access to agents, tools, and models through co
 - [Grok](https://x.ai/grok) - Real-time AI with live X data access, Grok Build for 8-agent parallel code generation, and image generation (🏷️ `Cloud` `xAI` `Web`).
 - [Meta AI](https://meta.ai) - Llama-powered AI integrated across WhatsApp, Messenger, and Instagram for conversational assistance (🏷️ `Cloud` `Meta` `Web`).
 - [Microsoft Copilot](https://copilot.microsoft.com) - AI assistant integrated into Office 365, Teams, and Power Platform for enterprise productivity workflows (🏷️ `Cloud` `Microsoft` `Web`).
+- [Sistava](https://sistava.com) - AI agent orchestration platform for deploying multi-channel agents across messaging, voice, and APIs with full Computer Use capabilities on your own OS (🏷️ `Cloud` `Sistava` `Web`).
 
 ## Open-Source Models for Agents
 
