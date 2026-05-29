@@ -1,4 +1,4 @@
-<div align="center">
+``<div align="center">
 
 ![](img/ARUNAGIRINATHAN-K.png)
 
@@ -777,3 +777,6 @@ Your contributions are what keep this list useful. Read [Contributing.md](Contri
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ARUNAGIRINATHAN-K/awesome-ai-agents-2026&type=Date)](https://star-history.com/#ARUNAGIRINATHAN-K/awesome-ai-agents-2026&Date)
+## ☁️ Cloud Operations & GreenOps
+
+- [GreenOps Agent](https://github.com/raghu-putta/greenops-agent) - 4-agent GCP cost & carbon optimization pipeline. Detects idle VMs, unattached disks, unused reserved IPs, calculates CO₂ footprint, and executes cleanups with human approval. Built on Google ADK + Gemini Flash + Cloud Run.
