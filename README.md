@@ -73,6 +73,7 @@
 - [Google ADK](https://github.com/google/adk-python) - Modular agent dev kit integrating Gemini and Vertex AI natively (🏷️ `Python` `Vertex AI` `SDK`).
 - [Haystack](https://github.com/deepset-ai/haystack) - Production-ready AI orchestration framework focused on building customizable LLM applications and RAG pipelines (🏷️ `Python` `RAG` `SDK`).
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Enterprise framework for stateful, graph-based agent workflows (🏷️ `Python` `LangChain` `SDK`).
+- [LightAgent](https://github.com/wanxingai/LightAgent) - Lightweight Python agent framework with memory, MCP/SSE integration, reusable Skills, Tree-of-Thought planning, streaming, and LightSwarm multi-agent collaboration (🏷️ `Python` `MCP` `SDK` `Multi-Agent`).
 - [Letta](https://github.com/letta-ai/letta) - Formerly MemGPT. Stateful agents with built-in long-term memory and a REST API server (🏷️ `Python` `REST` `SDK`).
 - [LlamaIndex](https://github.com/run-llama/llama_index) - The leading framework for connecting LLMs to your data, with powerful indexing and retrieval capabilities (🏷️ `Python` `RAG` `SDK`).
 - [LangSmith Fleet](https://smith.langchain.com/hub/fleet) - No-code agent orchestration platform with visual workflow builder, real-time monitoring, and enterprise deployment (🏷️ `Cloud` `LangChain` `Platform` `[Enterprise]`).
