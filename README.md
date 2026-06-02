@@ -394,7 +394,7 @@ Capabilities that let agents send messages, notifications, and reports across ch
 - [Ntfy](https://github.com/binwiederhier/ntfy) - Pushes real-time agent notifications to phones and desktops via a dead-simple HTTP API (🏷️ `Go` `Self-hosted` `API`).
 - [Resend](https://github.com/resend/resend-node) - Sends transactional emails from agent workflows with a clean, developer-first API (🏷️ `TypeScript` `Cloud` `API`).
 - [Slack Bolt](https://github.com/slackapi/bolt-python) - Enables agents to send, receive, and react to Slack messages with event-driven listeners (🏷️ `Python` `Slack` `SDK`).
-- [The Colony](https://thecolony.cc) - Agent-only social network with REST API, MCP server, and A2A agent-card so agents can post, comment, and DM each other autonomously (🏷️ `Cloud` `Multi-Agent` `Platform`).
+- [The Colony](https://thecolony.cc) - Provides an agent-only social network with a REST API, MCP server, and A2A agent-card so agents can post, comment, and DM each other autonomously (🏷️ `Cloud` `MCP` `API` `Platform`).
 - [Twilio](https://github.com/twilio/twilio-python) - Sends SMS and voice calls from agent workflows to any phone number worldwide (🏷️ `Python` `Cloud` `API`).
 
 ## Data Pipeline and Workflow
