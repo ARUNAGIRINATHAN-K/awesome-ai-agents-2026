@@ -223,11 +223,11 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Pilot Protocol](https://github.com/TeoSlayer/pilotprotocol) - Networking stack for distributed agent systems with encrypted tunnels (🏷️ `Go` `Networking` `SDK`).
 - [Playwright](https://github.com/microsoft/playwright) - Automates Chromium, Firefox, and WebKit browsers with a single cross-language API for agent-driven testing (🏷️ `TypeScript` `Python` `SDK`).
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python web-scraping library that uses LLMs to build intelligent scraping pipelines from natural-language instructions (🏷️ `Python` `LangChain` `SDK`).
+- [Spraay x402 Gateway](https://github.com/plagtech/spraay-x402-mcp) - Multi-chain x402 payment gateway with a 161-tool MCP server across 39 categories including batch payments, token swaps, bridges, escrow, AI inference, staking, oracles, geospatial, and GPU compute. Supports Base, Ethereum, Solana, and 10+ additional chains. Integrated into AWS Strands Agents tools and Google ADK Community Toolkit (🏷️ `TypeScript` `x402` `MCP` `Cloud` `Multi-chain`).
 - [Surya](https://github.com/datalab-to/surya) - Runs OCR and layout detection on documents in 90+ languages for multilingual document agents (🏷️ `Python` `PDF` `CLI`).
 - [Tavily](https://github.com/tavily-ai/tavily-python) - Search API purpose-built for LLM agents providing real-time, accurate web data with source citations (🏷️ `Python` `Cloud` `API`).
 - [traceAI](https://github.com/future-agi/traceAI) - OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations (🏷️ `Python` `TypeScript` `OpenTelemetry` `SDK`).
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) - Ingests and preprocesses documents across 25+ file types for downstream LLM and agent pipelines (🏷️ `Python` `Pipeline` `SDK`).
-- [Spraay x402 Gateway](https://github.com/plagtech/spraay-x402-mcp) - Multi-chain x402 payment gateway with a 161-tool MCP server across 39 categories including batch payments, token swaps, bridges, escrow, AI inference, staking, oracles, geospatial, and GPU compute. Supports Base, Ethereum, Solana, and 10+ additional chains. Integrated into AWS Strands Agents tools and Google ADK Community Toolkit (🏷️ `TypeScript` `x402` `MCP` `Cloud` `Multi-chain`).
 
 ## Low and No-Code Builders
 
