@@ -561,6 +561,7 @@ Platforms for building, deploying, and scaling voice-based AI agents across call
 | Bland AI   | Medium  | Yes   | Outbound call automation |
 | PolyAI     | Low     | Yes   | Enterprise scale         |
 
+- [AgentLine](https://agentline.cloud/) - Telephony infrastructure for AI agents — provision phone numbers, make/receive calls, and manage voice pipelines via API (🏷️ `Cloud` `Telephony` `API`).
 - [AssemblyAI](https://www.assemblyai.com) - Speech-to-text API with speaker diarization, sentiment analysis, and summarization for voice agent pipelines (🏷️ `Cloud` `STT` `API`).
 - [Bland AI](https://www.bland.ai/) - Automates outbound phone calls at scale with SOC2 and HIPAA compliance and CRM integration (🏷️ `Cloud` `Telephony` `API`).
 - [Deepgram](https://deepgram.com) - Sub-300ms speech-to-text and text-to-speech APIs purpose-built for real-time voice agent pipelines (🏷️ `Cloud` `STT/TTS` `API`).
