@@ -227,6 +227,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Tavily](https://github.com/tavily-ai/tavily-python) - Search API purpose-built for LLM agents providing real-time, accurate web data with source citations (🏷️ `Python` `Cloud` `API`).
 - [traceAI](https://github.com/future-agi/traceAI) - OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations (🏷️ `Python` `TypeScript` `OpenTelemetry` `SDK`).
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) - Ingests and preprocesses documents across 25+ file types for downstream LLM and agent pipelines (🏷️ `Python` `Pipeline` `SDK`).
+- [Spraay x402 Gateway](https://github.com/plagtech/spraay-x402-mcp) - Multi-chain x402 payment gateway with a 161-tool MCP server across 39 categories including batch payments, token swaps, bridges, escrow, AI inference, staking, oracles, geospatial, and GPU compute. Supports Base, Ethereum, Solana, and 10+ additional chains. Integrated into AWS Strands Agents tools and Google ADK Community Toolkit (🏷️ `TypeScript` `x402` `MCP` `Cloud` `Multi-chain`).
 
 ## Low and No-Code Builders
 
