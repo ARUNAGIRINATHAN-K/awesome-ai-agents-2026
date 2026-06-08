@@ -183,6 +183,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [NotFair](https://notfair.co) - Hosted Google Ads MCP server for diagnosing, optimizing, and executing campaign changes via the Google Ads API with a human-approval gate (🏷️ `Cloud` `MCP` `Marketing`).
 - [Toolhouse](https://toolhouse.ai) - Cloud-hosted tool infrastructure for agents with optimized execution and low-latency access (🏷️ `Python` `Cloud` `API`).
 - [Zapier MCP Server](https://zapier.com/mcp) - Connect agents to 7,000+ app integrations via MCP, powered by Zapier's automation platform (🏷️ `Cloud` `Zapier` `API`).
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for Solana AI agent wallets — verify agent identities by on-chain x402 payment history; free `score_agent` + paid `get_trust_receipt` via HTTP 402 (🏷️ `Cloud` `MCP` `Solana` `x402` `Trust`).
 - [zero-api-key-web-search](https://github.com/wd041216-bit/zero-api-key-web-search) - Free web search toolkit for AI agents with no API keys, MCP server support (🏷️ `Python` `MCP` `Search`).
 
 ## Browser and Computer Use Agents
