@@ -483,6 +483,7 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 | Wan 2.1          | Unlimited  | Variable   | Yes         |
 | HunyuanVideo     | Unlimited  | Variable   | Yes         |
 
+- [cv.cm/v Drama Agent](https://cv.cm/v/agent) - Turns a one-sentence idea into a short drama by auto-writing the concept and generating its images and video (🏷️ `Cloud` `Freemium` `Web`).
 - [Google Veo 3.1](https://deepmind.google/models/veo/) - Generates the highest cinematic quality video with native audio from text prompts via Google DeepMind (🏷️ `Cloud` `Google` `API`).
 - [HaiLuo AI](https://hailuoai.video) - Budget video generation platform offering 10 free videos per day with HD output quality (🏷️ `Cloud` `Freemium` `Web`).
 - [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - Open-source video generation model from Tencent that runs on consumer-grade GPUs (🏷️ `Python` `Open-Source` `Local`).
