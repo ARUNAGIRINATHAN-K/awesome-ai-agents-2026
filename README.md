@@ -374,7 +374,6 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [AI Engineering by Chip Huyen](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) - Comprehensive guide on AI systems design and deployment covering agent architecture patterns (🏷️ `Book` `O'Reilly` `Print`).
 - [Anthropic Cookbook](https://github.com/anthropics/claude-cookbooks) - Collection of Claude agent recipes and integration patterns from Anthropic (🏷️ `Guide` `Anthropic` `GitHub`).
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Anthropic's guide on agent design patterns, evaluation strategies, and production best practices (🏷️ `Guide` `Anthropic` `Web`).
-- [Google ADK Documentation](https://adk.dev/) - Official documentation for Google Agent Development Kit with tutorials and best practices (🏷️ `Guide` `Google` `Web`).
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Open-source course on building AI agents using Hugging Face tools and models (🏷️ `Course` `HuggingFace` `Web`).
 - [LATS: Language Agent Tree Search](https://github.com/lapisrocks/LanguageAgentTreeSearch) - Combines Monte Carlo tree search with LLM reasoning for complex multi-step planning tasks (🏷️ `Paper` `Python` `Research`).
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Deep breakdown of LLM-powered agent components: planning, memory, and tool use (🏷️ `Blog` `Weng` `Web`).
