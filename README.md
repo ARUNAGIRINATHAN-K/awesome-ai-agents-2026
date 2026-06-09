@@ -533,7 +533,6 @@ AI agents that automate customer support, CRM workflows, sales outreach, and tic
 
 - [Creatio](https://www.creatio.com) - No-code CRM platform with pre-built AI agents for sales, marketing, and service automation (🏷️ `Cloud` `No-Code` `Platform`).
 - [Dynamics 365 Copilot](https://www.microsoft.com/en-us/dynamics-365/solutions/service) - Drafts, summarizes, and translates across Office 365 with deep Microsoft ecosystem integration (🏷️ `Cloud` `Microsoft` `Platform`).
-- [HubSpot Breeze](https://www.hubspot.com/products/artificial-intelligence) - AI copilot with agent workflows and intelligence layer across marketing, sales, and service hubs (🏷️ `Cloud` `HubSpot` `Platform`).
 - [Monday CRM Lexi](https://monday.com/crm) - AI sales agent with automated lead sourcing, qualification, and pipeline management for SMBs (🏷️ `Cloud` `Monday` `Platform`).
 - [Pipedrive AI](https://www.pipedrive.com/en/features/ai-sales-assistant) - AI-powered email drafting, deal prioritization, and smart reporting for small sales teams (🏷️ `Cloud` `Pipedrive` `Platform`).
 - [Salesforce Einstein](https://www.salesforce.com/artificial-intelligence/?bc=OTH) - Enterprise AI with predictions, autonomous agents, and CRM automation across the Salesforce platform (🏷️ `Cloud` `Salesforce` `Platform`).
