@@ -768,6 +768,7 @@ Curated newsletters, podcasts, and communities for staying current with AI agent
 - [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - Reddit community for self-hosted LLM users sharing local deployment and agent setup guides (🏷️ `Community` `Reddit` `Forum`).
 - [The Rundown AI](https://www.therundown.ai) - Daily AI digest reaching 600K+ subscribers with concise coverage of agent news and launches (🏷️ `Newsletter` `Daily` `Web`).
 
+- [Agents Launchpad](https://launchpad.smartbizcalc.com) - Community-curated directory of indie AI agents and tools. Browse by category, upvote your favorites, and submit your own agent for free.
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for the full update history.
