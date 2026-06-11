@@ -134,6 +134,7 @@
 - [Memoir](https://github.com/zhangfengcdt/memoir) - Git-like versioned semantic memory for AI agents with branching, commits, and cryptographic integrity over hierarchical paths (🏷️ `Python` `Git-like` `SDK`).
 - [Memvid](https://github.com/memvid/memvid) - Replace complex RAG pipelines with a serverless, single-file memory layer for instant retrieval (🏷️ `Python` `Multimodal` `SDK`).
 - [Milvus](https://github.com/milvus-io/milvus) - Scales vector search to billions of embeddings for large-scale agent knowledge bases (🏷️ `Go` `Python` `Platform`).
+- [Mori (森)](https://github.com/fjwood69/mori) - Sovereign shared memory layer for AI coding agents with zero-instrumentation capture via lifecycle hooks, a dream pipeline that distills sessions into curated governed memories, and support for Claude Code, Cursor, Codex, and Antigravity (🏷️ `Python` `MCP` `Self-Hosted` `Governance` `Sovereign`).
 - [Motorhead](https://github.com/getmetal/motorhead) - Manages conversation context windows for agents with automatic background summarization (🏷️ `Rust` `Python` `SDK`).
 - [Pathway](https://github.com/pathwaycom/pathway) - Live data RAG engine with real-time streaming for agents that need up-to-the-second knowledge (🏷️ `Python` `Streaming` `SDK`).
 - [Pinecone](https://www.pinecone.io) - Managed vector database with agent namespaces for multi-tenant isolation, hybrid search (vector + keyword), serverless auto-scaling, and $11B valuation (🏷️ `Cloud` `Vector DB` `API` `[Enterprise]` `[SOC2]`).
@@ -150,6 +151,7 @@
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - Evaluates and evolves agentic workflows over time using automatic optimization (🏷️ `Python` `Optimization` `SDK`).
 - [Hivemoot](https://github.com/hivemoot/hivemoot) - Autonomous agent teams that collaboratively build software on GitHub (🏷️ `Python` `GitHub` `SDK`).
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Simulates a full software company workflow from requirements to PRs using role-playing agents (🏷️ `Python` `Role-Playing` `SDK`).
+- [NarraNexus](https://github.com/NetMindAI-Open/NarraNexus) - Ready-to-run AI agent team workspace by NetMind.AI whose agents remember, collaborate, and use tools from day one (🏷️ `Python` `Multi-Agent` `Persistent Memory` `Self-Hosted`).
 - [P2PCLAW](https://github.com/Agnuxo1/OpenCLAW-P2P) - Decentralized scientific research network with 14+ autonomous agents featuring P2P mesh, IPFS storage, and Lean 4 formal verification, self-hosted with Docker Compose (🏷️ `Python` `P2P` `Self-Hosted`).
 - [Swarm](https://github.com/openai/swarm) - Lightweight framework for agent handoffs, context variables, and function calling patterns from OpenAI (🏷️ `Python` `OpenAI` `SDK`).
 - [Swarms Framework](https://github.com/kyegomez/swarms) - Multi-agent orchestration for production use cases with scalability and reliability at its core (🏷️ `Python` `Production` `SDK`).
@@ -767,6 +769,7 @@ Curated newsletters, podcasts, and communities for staying current with AI agent
 - [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - Reddit community for self-hosted LLM users sharing local deployment and agent setup guides (🏷️ `Community` `Reddit` `Forum`).
 - [The Rundown AI](https://www.therundown.ai) - Daily AI digest reaching 600K+ subscribers with concise coverage of agent news and launches (🏷️ `Newsletter` `Daily` `Web`).
 
+- [Agents Launchpad](https://launchpad.smartbizcalc.com) - Community-curated directory of indie AI agents and tools. Browse by category, upvote your favorites, and submit your own agent for free.
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for the full update history.
