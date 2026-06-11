@@ -773,7 +773,7 @@ See [CHANGELOG.md](CHANGELOG.md) for the full update history.
 
 ## Contributing
 
-Your contributions are what keep this list useful. Read [Contributing.md](Contributing.md) for the entry format, inclusion criteria, and style guide.
+Your contributions are what keep this list useful. Read [Contributing.md](CONTRIBUTING.md) for the entry format, inclusion criteria, and style guide.
 
 ## Star History
 

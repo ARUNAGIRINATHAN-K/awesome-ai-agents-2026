@@ -110,7 +110,7 @@ Current categories:
 
 1. **Fork** this repo
 2. **Add** your entry in the correct category, in alphabetical order
-3. **Verify** that your link works and your description follows the format above
+3. **Verify** that your link works, your description follows the format above, and the URL is not already used elsewhere in the list
 4. **Submit** a pull request with a clear title like: `Add [Tool Name] to [Category]`
 
 The maintainers will review your PR within a few days. We may suggest edits to the description or move the entry to a different category.
@@ -123,6 +123,7 @@ This list passes `awesome-lint` and automated link checking on every push. Your 
 
 - Pass the awesome-lint check (no em-dashes, no duplicate links, correct formatting)
 - Have no broken links
+- Not reuse a URL already present elsewhere in the README
 - Follow alphabetical ordering within its category
 
 ---
