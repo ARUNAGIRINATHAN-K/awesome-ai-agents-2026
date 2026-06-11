@@ -151,6 +151,7 @@
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - Evaluates and evolves agentic workflows over time using automatic optimization (🏷️ `Python` `Optimization` `SDK`).
 - [Hivemoot](https://github.com/hivemoot/hivemoot) - Autonomous agent teams that collaboratively build software on GitHub (🏷️ `Python` `GitHub` `SDK`).
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Simulates a full software company workflow from requirements to PRs using role-playing agents (🏷️ `Python` `Role-Playing` `SDK`).
+- [NarraNexus](https://github.com/NetMindAI-Open/NarraNexus) - Ready-to-run AI agent team workspace by NetMind.AI whose agents remember, collaborate, and use tools from day one (🏷️ `Python` `Multi-Agent` `Persistent Memory` `Self-Hosted`).
 - [P2PCLAW](https://github.com/Agnuxo1/OpenCLAW-P2P) - Decentralized scientific research network with 14+ autonomous agents featuring P2P mesh, IPFS storage, and Lean 4 formal verification, self-hosted with Docker Compose (🏷️ `Python` `P2P` `Self-Hosted`).
 - [Swarm](https://github.com/openai/swarm) - Lightweight framework for agent handoffs, context variables, and function calling patterns from OpenAI (🏷️ `Python` `OpenAI` `SDK`).
 - [Swarms Framework](https://github.com/kyegomez/swarms) - Multi-agent orchestration for production use cases with scalability and reliability at its core (🏷️ `Python` `Production` `SDK`).
