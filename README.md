@@ -131,6 +131,7 @@
 - [LanceDB](https://github.com/lancedb/lancedb) - Serverless vector search database embedded directly in the agent process with no infrastructure needed (🏷️ `Rust` `Python` `SDK`).
 - [Langmem](https://github.com/langchain-ai/langmem) - Helps agents learn and adapt from their interactions over time with persistent memory (🏷️ `Python` `LangChain` `SDK`).
 - [Mem0](https://github.com/mem0ai/mem0) - Memory layer for AI applications with long-term, short-term, and semantic memory extraction (🏷️ `Python` `Vector` `Cloud`).
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app for personal context. It parses files, webpages, recordings, emails, messages, images, and more into local indexes and vectors so agents retrieve focused context instead of repeatedly grepping directories or loading entire documents into prompts (🏷️ `Desktop` `Local-first` `Memory` `Knowledge Base` `Vector`).
 - [Memoir](https://github.com/zhangfengcdt/memoir) - Git-like versioned semantic memory for AI agents with branching, commits, and cryptographic integrity over hierarchical paths (🏷️ `Python` `Git-like` `SDK`).
 - [Memvid](https://github.com/memvid/memvid) - Replace complex RAG pipelines with a serverless, single-file memory layer for instant retrieval (🏷️ `Python` `Multimodal` `SDK`).
 - [Milvus](https://github.com/milvus-io/milvus) - Scales vector search to billions of embeddings for large-scale agent knowledge bases (🏷️ `Go` `Python` `Platform`).
