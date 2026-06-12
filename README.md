@@ -288,6 +288,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 Frontend workspaces and chat interfaces with built-in agent plugins and tool-use capabilities.
 
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - All-in-one AI application with RAG, agents, and multi-model support for desktop and Docker (🏷️ `TypeScript` `Docker` `Desktop`).
+- [Boardroom](https://github.com/jamiejhouston-commits/boardroom) - Local-first iOS command center for running Hermes Agent as a human-supervised autonomous company with boardroom debates and owner approvals (🏷️ `Swift` `iOS` `Local` `Multi-Agent`).
 - [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Data interaction platform with local LLM support for 100% private database and analytics agents (🏷️ `Python` `Database` `Web`).
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Self-hosted multi-model chat interface supporting all major AI providers with access control (🏷️ `TypeScript` `Docker` `Web`).
 - [LobeHub](https://lobehub.com/) - Modern platform for hybrid work and AI-driven collaboration with extensible agent teams and rapid integration (🏷️ `TypeScript` `Next.js` `Web`).
