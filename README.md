@@ -590,6 +590,7 @@ AI platforms that conduct autonomous multi-step research, synthesize findings fr
 - [Gemini Deep Research](https://blog.google/products-and-platforms/products/gemini/google-gemini-deep-research/) - Leverages Google Search and Knowledge Graph integration with 1M token context for breadth-first research (🏷️ `Cloud` `Google` `Web`).
 - [Perplexity Pro](https://www.perplexity.ai) - Provides real-time search answers with inline citations and follow-up threads for iterative research (🏷️ `Cloud` `Freemium` `Web`).
 - [Perplexity Personal Computer](https://www.perplexity.ai/pc) - Autonomous research agent with vision capabilities, real-time search integration, and document analysis for comprehensive research workflows (🏷️ `Cloud` `Research` `Consumer`).
+- [Superhighway](https://superhighway.walls.sh) - Web search API for agents (search, news, scrape, research) with a Python guide for building an academic [literature-review agent](https://superhighway.walls.sh/guides/academic-research-agent) (🏷️ `API` `Python` `Web`).
 
 ## Prompt-to-App Builders
 
