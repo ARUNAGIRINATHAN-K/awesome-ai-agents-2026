@@ -461,6 +461,7 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 | Stable Diffusion  | Full control       | Yes         | Free (OSS)    |
 | Ideogram v3       | Text rendering     | No          | Free / $7+/mo |
 | Google Imagen 4   | Highest fidelity   | No          | API           |
+| Seedream AI Studio | Multi-model (5.0/4.5/4.0) | No | Free / Paid |
 
 - [Adobe Firefly 3](https://firefly.adobe.com) - Generates commercially safe images from text prompts using a model trained exclusively on licensed data (🏷️ `Cloud` `Adobe CC` `Web`).
 - [DALL-E 3.5](https://openai.com/dall-e-3) - Generates detailed images from text prompts with 95% text accuracy integrated directly into ChatGPT (🏷️ `Cloud` `OpenAI` `API`).
@@ -470,6 +471,7 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 - [Leonardo AI](https://leonardo.ai) - Multi-model image platform with Realtime Canvas and 3D gaming asset generation now owned by Canva (🏷️ `Cloud` `Canva` `Web`).
 - [Midjourney v7](https://midjourney.com) - Produces the highest artistic quality images with unmatched aesthetics via Discord and web interface (🏷️ `Cloud` `Discord` `Web`).
 - [Recraft](https://www.recraft.ai) - Design-first image generator with native vector art output and brand consistency tools for designers (🏷️ `Cloud` `Freemium` `Web`).
+- [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image generation platform by ByteDance using Seedream 5.0/4.5/4.0 models with one-click image-to-video animation via Kling 2.1 (🏷️ `Cloud` `ByteDance` `Freemium` `Web`).
 - [Stable Diffusion 3.5](https://stability.ai) - Open-source foundation model with full ControlNet, LoRA, and ComfyUI ecosystem for custom pipelines (🏷️ `Python` `Open-Source` `Local`).
 
 ### Video Generation
