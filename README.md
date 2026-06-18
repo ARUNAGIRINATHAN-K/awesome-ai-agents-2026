@@ -726,7 +726,7 @@ Tools for running LLMs locally and self-hosting AI agent platforms with full pri
 - [LM Studio](https://lmstudio.ai) - Desktop application for running local LLMs with a polished UI across all major platforms (🏷️ `TypeScript` `Electron` `Desktop`).
 - [LocalAI](https://github.com/mudler/LocalAI) - Drop-in OpenAI API replacement that runs models locally without requiring a GPU (🏷️ `Go` `Docker` `Local`).
 - [Ollama](https://github.com/ollama/ollama) - Run LLMs locally with a dead-simple CLI interface and 162K+ GitHub stars (🏷️ `Go` `CLI` `Local`).
-- [RustFox](https://github.com/chinkan/RustFox) - Self-hosted Telegram AI assistant written in Rust with sandboxed tool execution, MCP integration, persistent memory, scheduling, and agentic multi-agent orchestration via OpenRouter LLM (🏷️ `Rust` `Telegram` `Self-Hosted` `MCP` `Sandbox`).
+- [RustFox](https://github.com/chinkan/RustFox) - Self-hosted Telegram AI assistant written in Rust with sandboxed tool execution, MCP integration, persistent memory, scheduling, and multi-agent orchestration via OpenRouter (🏷️ `Rust` `Telegram` `Self-Hosted` `MCP` `Sandbox`).
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput LLM serving engine with PagedAttention for production-grade local inference (🏷️ `Python` `CUDA` `Local`).
 - [Yao Agents](https://github.com/YaoApp/yao) - Local-first AI execution platform with Docker sandbox isolation, BYOK model configuration, MCP support, 5-stage Pipeline, and multi-platform messaging via WeChat, Feishu, DingTalk, Telegram, and Discord (🏷️ `Go` `TypeScript` `Docker` `Desktop` `Self-Hosted`).
 
