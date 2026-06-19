@@ -129,6 +129,7 @@
 - [cognee](https://github.com/topoteretes/cognee) - Knowledge engine for AI agent memory, set up in 6 lines of code with graph-based knowledge extraction (🏷️ `Python` `Neo4j` `SDK`).
 - [Cortex Memory](https://github.com/prem-research/cortex) - Full-stack solution for agent memory covering extraction, vector search, and optimization (🏷️ `Python` `Vector DB` `SDK`).
 - [graphiti](https://github.com/getzep/graphiti) - Build real-time knowledge graphs for AI agents with automatic entity extraction and linking (🏷️ `Python` `Knowledge Graph` `SDK`).
+- [Kage](https://github.com/kage-core/Kage) - Git-native memory for coding agents that stores decisions and fixes as repo files and verifies them against the codebase, withholding stale knowledge (🏷️ `TypeScript` `MCP` `Git-native`).
 - [LanceDB](https://github.com/lancedb/lancedb) - Serverless vector search database embedded directly in the agent process with no infrastructure needed (🏷️ `Rust` `Python` `SDK`).
 - [Langmem](https://github.com/langchain-ai/langmem) - Helps agents learn and adapt from their interactions over time with persistent memory (🏷️ `Python` `LangChain` `SDK`).
 - [Mem0](https://github.com/mem0ai/mem0) - Memory layer for AI applications with long-term, short-term, and semantic memory extraction (🏷️ `Python` `Vector` `Cloud`).
