@@ -182,6 +182,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [MCP Registry](https://github.com/modelcontextprotocol) - Official Model Context Protocol specification and server implementations for standardized tool access (🏷️ `JSON` `Standard` `Registry`).
 - [mcp-nest](https://github.com/CharanBharathula/mcp-nest) - Unified Model Context Protocol (MCP) server for executing code and managing files (🏷️ `Python` `MCP` `CLI`).
 - [NotFair](https://notfair.co) - Hosted Google Ads MCP server for diagnosing, optimizing, and executing campaign changes via the Google Ads API with a human-approval gate (🏷️ `Cloud` `MCP` `Marketing`).
+- [NotFair Skills](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP (🏷️ `TypeScript` `MCP` `Claude Code`).
 - [Toolhouse](https://toolhouse.ai) - Cloud-hosted tool infrastructure for agents with optimized execution and low-latency access (🏷️ `Python` `Cloud` `API`).
 - [Zapier MCP Server](https://zapier.com/mcp) - Connect agents to 7,000+ app integrations via MCP, powered by Zapier's automation platform (🏷️ `Cloud` `Zapier` `API`).
 - [zero-api-key-web-search](https://github.com/wd041216-bit/zero-api-key-web-search) - Free web search toolkit for AI agents with no API keys, MCP server support (🏷️ `Python` `MCP` `Search`).
