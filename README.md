@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/awesome-ai-agents-2026?style=social)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/stargazers)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 [![Last Commit](https://img.shields.io/github/last-commit/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/commits/main)
-[![Tools Listed](https://img.shields.io/badge/tools_listed-470%2B-blue?style=flat-square)]
+![Tools Listed](https://img.shields.io/badge/tools_listed-470%2B-blue?style=flat-square)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](LICENSE)
 
 *The most comprehensive, structured guide to AI agent frameworks, tools, and resources.*  
