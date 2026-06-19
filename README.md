@@ -654,6 +654,7 @@ Open-weight LLMs optimized for agentic tasks including tool use, planning, multi
 - [Gemma 3](https://github.com/google-deepmind/gemma) - Efficient multimodal model from Google in 1B to 27B sizes ideal for edge and on-device agents (🏷️ `Python` `Google` `Local`).
 - [Gemma 4](https://deepmind.google/models/gemma/) - Consumer and IoT-optimized model from Google in 2B to 31B sizes with E2B and E4B variants (🏷️ `Python` `Google` `Local`).
 - [GLM-4](https://github.com/zai-org/GLM-4) - Zhipu AI's 744B MoE model achieving the lowest hallucination rate and 77.8% on SWE-bench (🏷️ `Python` `Open-Source` `Local`).
+- [GLM-5.2](https://github.com/zai-org/GLM-5) - Zhipu AI’s newest open-source GLM family release optimized for large-context reasoning and agentic tool use (🏷️ `Python` `Open-Source` `Local`).
 - [InternLM 3](https://github.com/InternLM/InternLM) - Shanghai AI Lab model with strong long-context reasoning capabilities for complex agent tasks (🏷️ `Python` `Open-Source` `Local`).
 - [Llama 4](https://github.com/meta-llama/llama-models) - Meta's flagship open model family with Scout and Maverick variants and strong tool use capabilities (🏷️ `Python` `Meta` `Local`).
 - [Mistral Large 2](https://mistral.ai/models/) - Leading European open model at 123B parameters with strong function calling for agent workflows (🏷️ `Python` `Mistral` `API`).
