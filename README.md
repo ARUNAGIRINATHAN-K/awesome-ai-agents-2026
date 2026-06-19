@@ -285,7 +285,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Modules for agent runtime security, self-audit trails, and collective cognition patterns (🏷️ `Python` `Security` `SDK`).
 - [OWASP Top 10 for Agentic Apps](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Security framework covering goal hijacking, tool misuse, and cascading failure mitigations for agents (🏷️ `Policy` `Security` `Framework`).
 - [Rebuff](https://github.com/protectai/rebuff) - Self-hardening prompt injection detection system for securing agent inputs against adversarial attacks (🏷️ `Python` `Security` `SDK`).
-- [WalletPrint](https://github.com/Loai17/walletprint-sdk) - Behavioral risk scoring for agent wallets that flags anomalies before transactions are signed using wallet behavioral history (🏷️ `TypeScript` `Security` `SDK`).
+- [WalletPrint](https://github.com/Loai17/walletprint-sdk) - Behavioral risk scoring for agent wallets that flags anomalies before transactions are signed (🏷️ `TypeScript` `Security` `SDK`).
 - [ai-evaluation](https://github.com/future-agi/ai-evaluation) - LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, injection) (🏷️ `Python` `Evaluation` `Guardrails` `SDK`).
 - [Future AGI](https://github.com/future-agi/future-agi) - Self-hostable end-to-end agent engineering platform with tracing, evals, guardrails, and gateway (🏷️ `Python` `Platform` `Self-hosted`).
 
