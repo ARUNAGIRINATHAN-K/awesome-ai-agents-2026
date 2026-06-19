@@ -540,6 +540,7 @@ AI agents that automate customer support, CRM workflows, sales outreach, and tic
 - [Salesforce Einstein](https://www.salesforce.com/artificial-intelligence/?bc=OTH) - Enterprise AI with predictions, autonomous agents, and CRM automation across the Salesforce platform (🏷️ `Cloud` `Salesforce` `Platform`).
 - [Salesmate](https://www.salesmate.io) - CRM with AI-powered call summarization, lead qualification, and pipeline automation for small teams (🏷️ `Cloud` `CRM` `Platform`).
 - [ServiceNow AI Agents](https://www.servicenow.com/products/ai-agents.html) - Orchestrates AI agents across IT, HR, and CRM workflows for enterprise service management (🏷️ `Cloud` `ServiceNow` `Platform`).
+- [StaffAble AI](https://staffableai.com) - Provides AI agents for small businesses to automate WhatsApp and Instagram messaging, lead qualification, appointment scheduling, and calling (🏷️ `Cloud` `CRM` `WhatsApp`).
 - [XMACNA Funcionarios Digitais](https://xmacna.ai/funcionario-digital) - Provides AI/IA agents for WhatsApp, phone, CRM updates, lead qualification, follow-up, and human handoff (🏷️ `Cloud` `CRM` `Sales` `WhatsApp`).
 - [Zoho CRM Zia](https://www.zoho.com/zia/) - Predictive scoring, sentiment analysis, and voice commands for sales automation across Zoho products (🏷️ `Cloud` `Zoho` `Platform`).
 
