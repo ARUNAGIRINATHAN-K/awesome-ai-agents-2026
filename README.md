@@ -279,6 +279,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Laminar](https://github.com/lmnr-ai/lmnr) - Open-source observability and analytics platform purpose-built for the full lifecycle of AI agents (🏷️ `Rust` `Observability` `Platform`).
 - [Langfuse](https://github.com/langfuse/langfuse) - Open-source LLM observability platform for tracing, prompt versioning, and LLM-as-a-judge evaluations (🏷️ `TypeScript` `Next.js` `Platform`).
 - [LangSmith](https://smith.langchain.com) - LangChain platform for tracing, testing, and evaluating agent performance with production monitoring (🏷️ `Cloud` `LangChain` `Platform`).
+- [Lelu-ai](https://github.com/lelu-auth/lelu) - Runtime authorization engine for AI agents that detects when an authorized agent is being manipulated and routes each tool call to allow, deny, human review, or a safe alternative (🏷️ `Go` `Authorization` `SDK`).
 - [LLM Guard](https://github.com/protectai/llm-guard) - Security toolkit for scanning LLM inputs and outputs to prevent prompt injection and data leaks (🏷️ `Python` `Security` `SDK`).
 - [Logfire](https://github.com/pydantic/logfire) - Python-native observability from the Pydantic team with deep integration for high-performance agent monitoring (🏷️ `Python` `Pydantic` `Platform`).
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NVIDIA programmable guardrails toolkit for controlling and securing LLM-powered agent conversations (🏷️ `Python` `NVIDIA` `SDK`).
