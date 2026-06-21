@@ -59,6 +59,7 @@
 
 ## Orchestration Frameworks
 
+- [Aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs coding agents inside GitHub Actions workflows without approval loops or manual intervention (🏷️ `TypeScript` `GitHub Actions` `Claude Code`).
 - [Agency Swarm](https://github.com/VRSEN/agency-swarm) - Orchestrates multi-agent systems built on the OpenAI Assistants API with role-based collaboration (🏷️ `Python` `OpenAI` `SDK`).
 - [AgentScope](https://github.com/agentscope-ai/agentscope) - Alibaba multi-agent framework with distributed deployment and fault tolerance for production use (🏷️ `Python` `Alibaba` `SDK`).
 - [Agno](https://github.com/agno-agi/agno) - Multi-agent framework with a runtime and control plane for managing agent deployments at scale (`Python` `FastAPI` `Cloud`) (🏷️ `Python` `FastAPI` `Cloud`).
