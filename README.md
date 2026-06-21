@@ -216,6 +216,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 
 - [AgentDock](https://github.com/agentdock/agentdock) - Framework for building and deploying production-ready AI agents with composable node architecture (🏷️ `Python` `Docker` `Platform`).
 - [Agent Starter](https://github.com/raintree-technology/agent-starter) - Project-local config manager that syncs one `agent.json` manifest into Claude Code, Codex, Cursor, and MCP setup while preserving manual edits and detecting drift (🏷️ `JavaScript` `CLI` `MCP` `Config`).
+- [Armorer](https://github.com/ArmorerLabs/Armorer) - Local control plane for running AI agents with sandboxes, approvals, guardrails, credentials, managed apps, and runtime health (🏷️ `TypeScript` `Local` `Security` `Control Plane`).
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) - Bash CLI for switching OpenAI Codex CLI and Desktop profiles with isolated CODEX_HOME directories (🏷️ `Bash` `CLI` `Local`).
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Extracts structured data from web pages using LLM-friendly output formats optimized for agent ingestion (🏷️ `Python` `Playwright` `SDK`).
 - [Docling](https://github.com/docling-project/docling) - Parses PDFs, DOCX, and slides into structured text with deep layout understanding for document agents (🏷️ `Python` `PDF` `SDK`).
@@ -271,6 +272,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [AgentGuard](https://github.com/cyberark/agent-guard) - Runtime observability and guardrails for AI agents with loop detection and anomaly alerts (🏷️ `Python` `CyberArk` `SDK`).
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first TUI for AI coding agent session observability with tokens, cost, latency, tool failures, anomalies, reports, diffs, and CI health gates (🏷️ `Go` `Observability` `CLI`).
 - [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) - Pre-action authorization plugin for agent frameworks with policy-based access control (🏷️ `Python` `Authorization` `SDK`).
+- [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) - Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leaks, exfiltration, and risky tool-call arguments before execution (🏷️ `Rust` `MCP` `Security` `Local`).
 - [Patronus AI LYNX](https://patronus.ai/) - Hallucination detection system beating GPT-4 baselines, with specialized testing for agent outputs and LLM-generated content quality (🏷️ `Cloud` `Testing` `SDK`).
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) - Open-source observability platform built on OpenTelemetry for tracing, evaluating, and debugging AI agents (🏷️ `Python` `OpenTelemetry` `Platform`).
 - [ax](https://github.com/Necmttn/ax) - Local-first evidence graph for coding agents with read-only MCP queries for sessions, tool calls, skills, and costs (🏷️ `TypeScript` `MCP` `Observability` `Local`).
