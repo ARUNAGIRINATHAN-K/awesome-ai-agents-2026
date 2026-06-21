@@ -108,6 +108,7 @@
 - [Goose](https://github.com/aaif-goose/goose) - Open-source extensible AI agent that goes beyond code suggestions, installs, executes, edits, and tests with any LLM (🏷️ `Rust` `CLI` `Local`).
 - [JetBrains AI](https://www.jetbrains.com/ai/) - Deep AI integration across all JetBrains IDEs with context-aware completions and refactoring (🏷️ `Kotlin` `JetBrains` `IDE`).
 - [Kiro](https://kiro.dev) - Spec-driven development agent that writes specs, auto-generates tasks, implements code, and automates DevOps workflows (🏷️ `Cloud` `AWS` `IDE`).
+- [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local GUI orchestrator for AI coding agents where an LLM Council plans, atomic beads execute in isolated Git worktrees, and a Ralph Loop retries failures with fresh context to fight context rot (🏷️ `TypeScript` `Local` `OpenCode`).
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) - Execute code locally via natural-language model instructions with a ChatGPT-like interface (🏷️ `Python` `CLI` `Local`).
 - [opencode](https://github.com/anomalyco/opencode) - Open-source coding agent available as a desktop application with a visual interface (🏷️ `TypeScript` `Electron` `Desktop`).
 - [OpenHands](https://github.com/OpenHands/OpenHands) - AI-driven development platform that writes, tests, and deploys code autonomously (🏷️ `Python` `Docker` `Web`).
