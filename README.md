@@ -125,6 +125,7 @@
 
 ## Memory and Context
 
+- [AccInt](https://github.com/maxbaluev/accreted-intelligence) - Local-first MCP work model for coding agents that combines scored memory retrieval, commitment tracking, and outcome-based credit so Claude Code, Codex, Cursor, and OpenCode can reuse lessons across sessions (🏷️ `Rust` `MCP` `Memory` `Local-first` `Coding Agents`).
 - [Acontext](https://github.com/memodb-io/Acontext) - Manages agent skills and long-term memory as a layered data structure for persistent context (🏷️ `Python` `SDK` `Local`).
 - [Agentage Memory](https://agentage.io) - Cross-vendor shared memory layer exposed as a remote MCP server at `memory.agentage.io/mcp` (Streamable HTTP, OAuth 2.1 + PKCE + DCR) that Claude, Cursor, and ChatGPT read and write as plain markdown you own (🏷️ `Cloud` `MCP` `Memory` `OAuth`).
 - [Chroma](https://github.com/chroma-core/chroma) - Lightweight, embeddable vector store for building memory-augmented AI agents with fast semantic retrieval (🏷️ `Python` `TypeScript` `SDK`).
