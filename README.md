@@ -464,14 +464,14 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 
 ### Image Generation
 
-| Generator          | Strength                   | Open Source | Pricing       |
-| ------------------ | -------------------------- | ----------- | ------------- |
-| Midjourney v7      | Artistic quality           | No          | $10-120/mo    |
-| FLUX 2             | Photorealism               | Yes         | Free / API    |
-| Stable Diffusion   | Full control               | Yes         | Free (OSS)    |
-| Ideogram v3        | Text rendering             | No          | Free / $7+/mo |
-| Google Imagen 4    | Highest fidelity           | No          | API           |
-| Seedream AI Studio | Multi-model (5.0/4.5/4.0)  | No          | Free / Paid   |
+| Generator           | Strength                  | Open Source | Pricing        |
+| ------------------- | ------------------------- | ----------- | -------------- |
+| Midjourney v7       | Artistic quality          | No          | $10-120/mo     |
+| FLUX 2              | Photorealism              | Yes         | Free / API     |
+| Stable Diffusion    | Full control              | Yes         | Free (OSS)     |
+| Ideogram v3         | Text rendering            | No          | Free / $7+/mo  |
+| Google Imagen 4     | Highest fidelity          | No          | API            |
+| Seedream AI Studio  | Multi-model (5.0/4.5/4.0) | No          | Free / Paid    |
 
 - [Adobe Firefly 3](https://firefly.adobe.com) - Generates commercially safe images from text prompts using a model trained exclusively on licensed data (🏷️ `Cloud` `Adobe CC` `Web`).
 - [DALL-E 3.5](https://openai.com/dall-e-3) - Generates detailed images from text prompts with 95% text accuracy integrated directly into ChatGPT (🏷️ `Cloud` `OpenAI` `API`).
