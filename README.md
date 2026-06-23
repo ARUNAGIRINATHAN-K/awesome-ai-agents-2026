@@ -223,7 +223,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [E2B](https://github.com/e2b-dev/e2b) - Cloud sandboxes for AI agents to run code securely in isolated environments (🏷️ `TypeScript` `Cloud` `Sandbox`).
 - [Engram](https://github.com/kwstx/translator) - Universal bridge for multi-protocol AI agent systems with automated semantic mapping (🏷️ `Python` `Networking` `SDK`).
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - Web scraping API built for LLMs that converts websites to clean, structured markdown (🏷️ `TypeScript` `Cloud` `API`).
-- [intelligence-sync](https://github.com/ainova-systems/intelligence-sync) - Config manager that authors AI coding rules, agents, and skills once in plain markdown and routes them into the native format each tool reads, across Claude Code, Cursor, Copilot, Codex, and AGENTS.md (🏷️ `Bash` `CLI` `Config`).
+- [intelligence-sync](https://github.com/ainova-systems/intelligence-sync) - Config manager that authors AI coding rules, agents, and skills once in plain markdown and routes them into the native formats each tool reads, across Claude Code, Cursor, GitHub Copilot, Codex, and AGENTS.md (🏷️ `Bash` `CLI` `Config`).
 - [Jina Reader](https://github.com/jina-ai/reader) - Converts any URL to LLM-ready clean text via a simple API prefix for agent ingestion (🏷️ `TypeScript` `Cloud` `API`).
 - [LlamaParse](https://github.com/run-llama/llama_cloud_services) - GenAI-native document parser designed to extract complex tables and layouts for RAG pipelines (🏷️ `Python` `Cloud` `API`).
 - [Marker](https://github.com/datalab-to/marker) - Converts PDF documents to markdown with high accuracy for tables, equations, and figures (🏷️ `Python` `PDF` `CLI`).
