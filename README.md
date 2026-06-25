@@ -579,6 +579,7 @@ Platforms for building, deploying, and scaling voice-based AI agents across call
 - [Bland AI](https://www.bland.ai/) - Automates outbound phone calls at scale with SOC2 and HIPAA compliance and CRM integration (🏷️ `Cloud` `Telephony` `API`).
 - [Deepgram](https://deepgram.com) - Sub-300ms speech-to-text and text-to-speech APIs purpose-built for real-time voice agent pipelines (🏷️ `Cloud` `STT/TTS` `API`).
 - [ElevenLabs](https://elevenlabs.io) - Industry-leading voice AI with 75ms latency, Conversational AI 2.0, RAG, and HIPAA compliance (🏷️ `Cloud` `Voice` `Platform`).
+-  [Hermes](https://www.buildwithhermes.com) - White-label voice agent platform for agencies with native CRM, campaign orchestration, and transparent usage billing. (🏷️ `Cloud` `Agency` `Platform`).
 - [HeyGen](https://www.heygen.com) - Creates AI talking avatars with voice cloning and lip-sync for video-based agent interactions (🏷️ `Cloud` `Avatar` `Web`).
 - [PolyAI](https://poly.ai/en) - Enterprise voice AI platform for natural multi-turn conversations with high-volume call handling (🏷️ `Cloud` `Enterprise` `Platform`).
 - [Retell AI](https://www.retellai.com) - Builds human-like voice agents with multi-language telephony support and low-latency responses (🏷️ `Cloud` `Telephony` `API`).
