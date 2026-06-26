@@ -10,6 +10,7 @@ All notable changes to this list will be documented here.
 
 | Date | Change |
 |---|---|
+| June 26 2026 | **Style reformatting** — Converted all 407 tool entries to the new compact format: `` `TIER` `[Language]` `[Type]` `` replacing the legacy `(🏷️ ...)` tag style. Tier badges (`🚀` Production-Ready, `🌱` Growing, `🔬` Emerging) applied consistently across all sections. Descriptions trimmed to one clear sentence, promotional language removed. Zero duplicate links. Full awesome-lint structural compliance maintained. |
 | June 07 2026 | Performed link audit: fixed redirected URLs (including Bland AI, Podman, Strands Agents, Google ADK, Mistral, Railway, Sistava, Windsurf, Nuance, ADK loop-agents), updated Project Glasswing to correct official link, and removed dead TinyTools link. |
 | May 25 2026 | Added Sistava to Multi-Agent Consumer Platforms. |
 | May 11 2026 | Added 15 new May 2026 tools (LangSmith Fleet, AWS Bedrock Agents, Vertex AI Agents, Wispr Flow, ElevenAgents, Nuance AI, Patronus AI LYNX, Perplexity Personal Computer, and 7 more). Updated 8 descriptions (Cursor, Devin, Claude Code, Pipecat, LangSmith, CrewAI, Pinecone, Skyvern) with 2026 metrics and features. Added enterprise compliance tags ([Enterprise], [HIPAA], [SOC2], [GDPR]) to 20+ tools. Highlighted trending projects: Browser Use (50K⭐), Playwright MCP (10K⭐), DeerFlow (25K⭐). Updated tool count 426→450+. |
