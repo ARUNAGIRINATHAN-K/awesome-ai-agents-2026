@@ -125,6 +125,7 @@
 
 - [Acontext](https://github.com/memodb-io/Acontext) `🌱` `[Python]` `[Local]` - Manages agent skills and long-term memory as a layered data structure for persistent context.
 - [Agentage Memory](https://agentage.io) `🌱` `[Cloud]` `[MCP]` - Cross-vendor shared memory layer exposed as a remote MCP server at `memory.agentage.io/mcp` (Streamable HTTP, OAuth 2.1 + PKCE + DCR) that Claude, Cursor, and ChatGPT read and write as plain markdown you own.
+- [Auferet](https://auferet.com) `🔬` `[Cloud]` `[Memory]` - AI game master that keeps persistent memory of your characters, places, and uploaded lore across sessions.
 - [Chroma](https://github.com/chroma-core/chroma) `🌱` `[Python]` `[Vector DB]` - Lightweight, embeddable vector store for building memory-augmented AI agents with fast semantic retrieval.
 - [cognee](https://github.com/topoteretes/cognee) `🌱` `[Python]` `[Graph-Based]` - Knowledge engine for AI agent memory, set up in 6 lines of code with graph-based knowledge extraction.
 - [Cortex Memory](https://github.com/prem-research/cortex) `🌱` `[Python]` `[Vector DB]` - Full-stack solution for agent memory covering extraction, vector search, and optimization.
