@@ -379,7 +379,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457) `🌱` `[Python]` `[Benchmark]` - EMNLP 2025 paper introducing PersonaEvolve, an LLM-based optimizer that refines agent personas so crowds of LLM agents behave realistically against expert benchmarks.
 - [LATS: Language Agent Tree Search](https://github.com/lapisrocks/LanguageAgentTreeSearch) `🌱` `[Python]` `[Paper]` - Combines Monte Carlo tree search with LLM reasoning for complex multi-step planning tasks.
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) `🌱` `[Python]` `[Multi-Agent]` - Deep breakdown of LLM-powered agent components: planning, memory, and tool use.
-- [Microsoft GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) `🚀` `[Python]` `[Microsoft]` - 21-lesson course on generative AI concepts and agent development from Microsoft.
+- [Microsoft GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) `🚀` `[Python]` `[Microsoft]` - A 21-lesson course on generative AI concepts and agent development from Microsoft.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) `🚀` `[Python]` `[OpenAI]` - Practical guides and recipes for building with OpenAI APIs including agent patterns.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) `🌱` `[Python]` `[IDE]` - Community-maintained guide covering prompt engineering techniques and agent strategies.
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) `🌱` `[Python]` `[Paper]` - The foundational paper behind the ReAct prompting pattern used in most agent frameworks.
@@ -648,7 +648,7 @@ Open-weight LLMs optimized for agentic tasks including tool use, planning, multi
 
 - [Baichuan 3](https://huggingface.co/baichuan-inc) `🌱` `[Python]` `[Local]` - Chinese-optimized open model family with strong domain performance for multilingual agent deployments.
 - [Command R+](https://cohere.com/command) `🚀` `[Cloud]` `[RAG]` - Cohere's 104B parameter model optimized specifically for RAG and enterprise tool use in agent workflows.
-- [DeepSeek V3](https://github.com/deepseek-ai/DeepSeek-V3) `🌱` `[Python]` `[Local]` - 671B MoE model that delivers GPT-4 level reasoning at 68x lower cost for budget-conscious agent deployments.
+- [DeepSeek V3](https://github.com/deepseek-ai/DeepSeek-V3) `🌱` `[Python]` `[Local]` - A 671B MoE model that delivers GPT-4 level reasoning at 68x lower cost for budget-conscious agent deployments.
 - [Falcon 3](https://huggingface.co/tiiuae) `🌱` `[Python]` `[Local]` - Efficient open model from TII UAE with strong multilingual support across 10B to 180B parameter variants.
 - [Gemma 3](https://github.com/google-deepmind/gemma) `🚀` `[Python]` `[IDE]` - Efficient multimodal model from Google in 1B to 27B sizes ideal for edge and on-device agents.
 - [Gemma 4](https://deepmind.google/models/gemma/) `🚀` `[Python]` `[Local]` - Consumer and IoT-optimized model from Google in 2B to 31B sizes with E2B and E4B variants.
@@ -661,7 +661,7 @@ Open-weight LLMs optimized for agentic tasks including tool use, planning, multi
 - [Qwen 3](https://github.com/QwenLM/Qwen3) `🚀` `[Python]` `[MCP]` - MCP-native multilingual model family from Alibaba with thinking mode across 0.6B to 235B sizes.
 - [Qwen 3.6-Plus](https://qwenlm.github.io/blog/qwen3/) `🚀` `[Python]` `[MCP]` - Agentic-focused model with 1M context window, repo-level coding, and MCP-native tool use.
 - [StarCoder 2](https://github.com/bigcode-project/starcoder2) `🌱` `[Python]` `[Local]` - Code-focused open model trained on 600+ programming languages for specialized coding agents.
-- [Yi-Lightning](https://github.com/01-ai/Yi) `🌱` `[Python]` `[Local]` - 01.AI's multilingual model with long context and fast inference across 6B to 200B parameter sizes.
+- [Yi-Lightning](https://github.com/01-ai/Yi) `🌱` `[Python]` `[Local]` - A multilingual model from 01.AI with long context and fast inference across 6B to 200B parameter sizes.
 
 ## Market Stats and Benchmarks 2026
 
