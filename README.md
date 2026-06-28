@@ -172,7 +172,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 ### MCP (Model Context Protocol)
 
 - [A2A Protocol](https://github.com/a2aproject/A2A) `🚀` `[Python]` `[Multi-Agent]` - Google's open protocol enabling AI agents to communicate, collaborate, and delegate tasks across frameworks.
-- [AgentsCoin MCP](https://github.com/axiosdevs/agentscoin-mcp) `🚀` `[TypeScript]` `[Web3]` - Gives an AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, create/trade tokens. Remote MCP at https://agents-coin.com/mcp.
+- [AgentsCoin MCP](https://github.com/axiosdevs/agentscoin-mcp) `🌱` `[TypeScript]` `[MCP]` - Gives an AI agent its own wallet and money on a live EVM chain to send, create, and trade tokens.
 - [Arcade AI](https://github.com/ArcadeAI/arcade-mcp) `🌱` `[Python]` `[Multi-Agent]` - Tool-use platform with authentication, authorization, and logging for agent-tool interactions.
 - [Composio](https://github.com/ComposioHQ/composio) `🌱` `[TypeScript]` `[Multi-Agent]` - Integration platform with 250+ pre-built tool connectors for AI agents and LLMs.
 - [Docker MCP](https://github.com/docker/mcp-gateway) `🌱` `[Go]` `[MCP]` - Docker's MCP gateway CLI plugin for running MCP servers in isolated containers.
