@@ -550,6 +550,7 @@ AI agents that automate customer support, CRM workflows, sales outreach, and tic
 ### Sales and Outreach Agents
 
 - [Apollo.io](https://www.apollo.io) `🌱` `[Cloud]` `[Multi-Agent]` - AI prospecting platform with 275M+ contacts, lead scoring, and automated email sequencing.
+- [BuyWhere](https://buywhere.ai) `🌱` `[Cloud]` `[MCP]` - AI shopping agent for real-time product search and price comparison across 11M+ products in SG/SEA/US markets. MCP-native server with 8 tools for search, deals, comparison, and affiliate links.
 - [Clay](https://www.clay.com) `🌱` `[Cloud]` `[IDE]` - Enriches leads from 70+ data providers and generates hyper-personalized outreach at scale.
 - [Instantly](https://instantly.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Generates AI cold emails with smart sender rotation and built-in domain warmup for deliverability.
 - [Lavender](https://www.lavender.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Coaches email writing in real-time with AI response scoring and recipient intelligence.
