@@ -796,3 +796,5 @@ Your contributions are what keep this list useful. Read [Contributing.md](CONTRI
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ARUNAGIRINATHAN-K/awesome-ai-agents-2026&type=Date)](https://star-history.com/#ARUNAGIRINATHAN-K/awesome-ai-agents-2026&Date)
+
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) — Spec-driven delivery framework for product managers — 4 delivery tiers, 0D triage, prototype testability, AI runtime governance, 5 domain modules
