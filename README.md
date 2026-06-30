@@ -187,6 +187,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Toolhouse](https://toolhouse.ai) `🌱` `[Python]` `[Multi-Agent]` - Cloud-hosted tool infrastructure for agents with optimized execution and low-latency access.
 - [Zapier MCP Server](https://zapier.com/mcp) `🌱` `[Cloud]` `[MCP]` - Connect agents to 7,000+ app integrations via MCP, powered by Zapier's automation platform.
 - [zero-api-key-web-search](https://github.com/wd041216-bit/zero-api-key-web-search) `🌱` `[Python]` `[MCP]` - Free web search toolkit for AI agents with no API keys, MCP server support.
+- [OrcaLayer](https://github.com/orcalayer/orcalayer-mcp) 🌱 `[Python]` `[MCP]` - Polymarket whale and smart-money analytics for agents: rank wallets by P&L and win rate, inspect positions, and surface markets where smart money is clustering.
 
 ## Browser and Computer Use Agents
 
