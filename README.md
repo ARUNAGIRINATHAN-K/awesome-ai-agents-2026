@@ -298,6 +298,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [LibreChat](https://github.com/danny-avila/LibreChat) `🌱` `[TypeScript]` `[IDE]` - Self-hosted multi-model chat interface supporting all major AI providers with access control.
 - [LobeHub](https://lobehub.com/) `🌱` `[TypeScript]` `[Multi-Agent]` - Modern platform for hybrid work and AI-driven collaboration with extensible agent teams and rapid integration.
 - [LobeChat](https://github.com/lobehub/lobehub) `🌱` `[TypeScript]` `[Multi-Agent]` - Modern, open-source AI chat framework with a massive plugin ecosystem for autonomous agent capabilities.
+- [OpenHuman](https://github.com/tinyhumansai/openhuman) `🚀` `[Rust]` `[Memory]` - Self-hosted local-first personal AI assistant with a Rust core, desktop apps, knowledge-graph memory, skills, voice, and multi-channel messaging.
 - [OpenWebUI](https://github.com/open-webui/open-webui) `🌱` `[TypeScript]` `[RAG]` - Extensible local AI interface with built-in RAG, tool use, and support for multi-agent workflows.
 
 ## Agent Deployment and Hosting
