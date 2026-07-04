@@ -756,6 +756,7 @@ Frameworks and tools for AI risk management, regulatory compliance, and governan
 
 AI agents specialized in penetration testing, vulnerability discovery, threat detection, and security analysis.
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) `🌱` `[CLI]` `[Security]` - Autonomous AI penetration testing platform where Markdown playbooks orchestrate 80+ offensive tools via MCP across web, cloud, Active Directory, Kubernetes and API targets.
 - [Microsoft Security Copilot](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot) `🚀` `[Cloud]` `[Microsoft]` - Enterprise threat detection and incident response AI integrated across Microsoft security products.
 - [PentestGPT](https://github.com/GreyDGL/PentestGPT) `🌱` `[Python]` `[CLI]` - GPT-powered penetration testing tool with automated reasoning for vulnerability assessment.
 - [YAWNING TITAN](https://github.com/dstl/YAWNING-TITAN) `🌱` `[Python]` `[Graph-Based]` - Graph-based cybersecurity simulation environment for training and testing defensive AI agents.
