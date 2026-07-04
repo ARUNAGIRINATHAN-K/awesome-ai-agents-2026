@@ -789,6 +789,7 @@ Curated newsletters, podcasts, and communities for staying current with AI agent
 - [The Rundown AI](https://www.therundown.ai) `🌱` `[Python]` `[RAG]` - Daily AI digest reaching 600K+ subscribers with concise coverage of agent news and launches.
 
 - [Agents Launchpad](https://launchpad.smartbizcalc.com) `🌱` `[Python]` `[Multi-Agent]` - Community-curated directory of indie AI agents and tools.
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT, one-command install.
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for the full update history.
