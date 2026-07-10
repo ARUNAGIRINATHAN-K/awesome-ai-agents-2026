@@ -287,6 +287,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) `🌱` `[Python]` `[Multi-Agent]` - NVIDIA programmable guardrails toolkit for controlling and securing LLM-powered agent conversations.
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) `🌱` `[Python]` `[Security]` - Modules for agent runtime security, self-audit trails, and collective cognition patterns.
 - [OWASP Top 10 for Agentic Apps](https://owasp.org/www-project-top-10-for-large-language-model-applications/) `🌱` `[Python]` `[Security]` - Security framework covering goal hijacking, tool misuse, and cascading failure mitigations for agents.
+- [Pluribus](https://github.com/caioribeiroclw-pixel/pluribus) `🔬` `[TypeScript]` `[Observability]` - Generates cross-tool agent context and privacy-safe evidence receipts for loaded authority, handoffs, and skill use.
 - [Rebuff](https://github.com/protectai/rebuff) `🌱` `[Python]` `[Security]` - Self-hardening prompt injection detection system for securing agent inputs against adversarial attacks.
 - [ai-evaluation](https://github.com/future-agi/ai-evaluation) `🌱` `[Python]` `[Evaluation]` - LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, injection).
 - [Future AGI](https://github.com/future-agi/future-agi) `🌱` `[Python]` `[Self-Hosted]` - Self-hostable end-to-end agent engineering platform with tracing, evals, guardrails, and gateway.
