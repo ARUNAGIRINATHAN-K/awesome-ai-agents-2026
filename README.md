@@ -418,7 +418,7 @@ Frameworks for orchestrating data transformations and long-running agent-driven 
 - [Hamilton](https://github.com/apache/hamilton) `🌱` `[Python]` `[Pipeline]` - Defines modular data transformations as Python functions wired automatically into a DAG for agent pipelines.
 - [Hex AI](https://hex.tech) `🌱` `[Cloud]` `[Multi-Agent]` - Collaborative data platform with AI-powered analysis and notebook-based data exploration for teams.
 - [Julius AI](https://julius.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Upload CSV or Excel files and analyze data using natural language questions for instant insights.
-- [Nika](https://github.com/supernovae-st/nika) `🌱` `[Rust]` `[Workflow]` - Runs repeated AI work as reviewable YAML DAGs, statically checked for schema, permits and an honest cost floor before any token is spent, with tamper-evident traces.
+- [Nika](https://github.com/supernovae-st/nika) `🌱` `[Rust]` `[Workflow]` - Runs repeated AI work as reviewable YAML DAGs, statically checked for schema, permits, and an honest cost floor before any token is spent, with tamper-evident traces.
 - [PandasAI](https://github.com/sinaptik-ai/pandas-ai) `🌱` `[Python]` `[Multi-Agent]` - Chat with your data using natural language queries that convert to Pandas and SQL operations.
 - [Prefect](https://github.com/PrefectHQ/prefect) `🌱` `[Python]` `[Pipeline]` - Orchestrates agent workflows and data pipelines with retries, caching, and built-in observability.
 - [Signals CLI](https://signals.dev) `🌱` `[Cloud]` `[CLI]` - Intent signal CLI detecting LinkedIn engagers, keyword posters, and funding events with JSON output for agent pipelines.
