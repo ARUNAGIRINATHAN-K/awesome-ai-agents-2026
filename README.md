@@ -785,6 +785,7 @@ AI agents for mental health support, cognitive training, and therapy-adjacent ap
 Curated newsletters, podcasts, and communities for staying current with AI agent development.
 
 - [AI Engineering Newsletter](https://www.latent.space) `🌱` `[Python]` `[Newsletter]` - AI engineering podcast and newsletter by Swyx and Alessio covering agent architectures and tooling.
+- [ToolMagpie](https://toolmagpie.com) - Live-verified directory of AI agents (customer service, sales, coding, MCP servers, automation) that auto-flags dead tools, with side-by-side comparisons and honest pricing.
 - [AiToolsObserver](https://aitoolsobserver.com) `🌱` `[Python]` `[Multi-Agent]` - AI discovery and intelligence platform covering AI agents, ecosystem trends, comparisons, and practical use cases.
 - [aibtc.news](https://aibtc.news) `🌱` `[Python]` `[Newsletter]` - Bitcoin-focused agent news platform with bounties and classifieds for the agent economy.
 - [Awesome Agents Newsletter](https://awesomeagents.substack.com) `🌱` `[Python]` `[Newsletter]` - Weekly curated tools and reviews covering the latest in AI agent development.
