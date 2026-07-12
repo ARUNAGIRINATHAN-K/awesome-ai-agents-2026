@@ -600,7 +600,7 @@ AI platforms that conduct autonomous multi-step research, synthesize findings fr
 | Gemini Research  | 1M tokens      | Google Search + KG          |
 | Perplexity Pro   | Variable       | Real-time cited search      |
 
-- [Agon](https://github.com/AutoResearch-Factory/Agon) `🔬` `[Python]` `[Multi-Agent]` - Omnidisciplinary autonomous research system built on Prompt Economy, reusable loops that maximize the return on every prompt.
+- [Agon](https://github.com/AutoResearch-Factory/Agon) `🔬` `[Python]` `[Multi-Agent]` - Omnidisciplinary autonomous research system built on Prompt Economy using reusable loops to maximize prompt returns.
 - [CAJAL](https://github.com/Agnuxo1/CAJAL) `🌱` `[Python]` `[Local]` - Local AI agent that generates publication-ready IMRaD scientific papers with verified arXiv citations and AI tribunal scoring.
 - [ChatGPT Deep Research](https://openai.com/index/introducing-deep-research) `🚀` `[Cloud]` `[OpenAI]` - Conducts extended reasoning with web browsing to produce structured research reports with Canvas output.
 - [Claude Deep Research](https://www.anthropic.com/research) `🚀` `[Cloud]` `[Anthropic]` - Performs multi-step investigation with verified source citations and 200K token context window.
