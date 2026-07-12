@@ -394,6 +394,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) `🌱` `[Python]` `[Paper]` - The foundational paper behind the ReAct prompting pattern used in most agent frameworks.
 - [Reflexion](https://github.com/noahshinn/reflexion) `🌱` `[Python]` `[Paper]` - Research framework letting agents learn from past mistakes via iterative verbal self-reflection loops.
 - [Tree of Thoughts](https://github.com/princeton-nlp/tree-of-thought-llm) `🌱` `[Python]` `[Paper]` - Explores multiple parallel reasoning paths before committing to a final answer for complex problems.
+- [What's Missing in Autonomous Research?](https://haizhaoyang.github.io/research/autoresearch-survey.html) `🔬` `[Python]` `[Research]` - Systematizes 56 autonomous research systems across seven axes; most can generate research artifacts but few can defend them before publication.
 
 ## Agent Communication
 
