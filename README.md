@@ -324,6 +324,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [ARC-AGI-2](https://arcprize.org) `🌱` `[Python]` `[Benchmark]` - Frontier benchmark for measuring general intelligence capabilities in AI agents beyond pattern matching.
 - [GAIA Benchmark](https://huggingface.co/papers/2311.12983) `🌱` `[Python]` `[Benchmark]` - Benchmark for General AI Assistants measuring real-world reasoning and tool use.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) `🌱` `[Python]` `[Evaluation]` - Framework for evaluating large language models with composable tasks and scoring.
+- [PerspectiveGap](https://github.com/WhymustIhaveaname/PerspectiveGap) `🔬` `[Python]` `[Benchmark]` - A benchmark for multi-agent orchestration prompt writing, across 110 scenarios and 10 topologies.
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench) `🚀` `[Python]` `[GitHub]` - Benchmark for evaluating LLMs on real-world software engineering tasks from GitHub issues.
 - [WebArena](https://github.com/web-arena-x/webarena) `🌱` `[Python]` `[Evaluation]` - Benchmark for web agent evaluation using real websites with realistic task completion metrics.
 
