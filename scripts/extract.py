@@ -13,12 +13,12 @@ from typing import Dict, List, Any, Set, Tuple
 # Path Configurations
 WORKSPACE_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 README_PATH = os.path.join(WORKSPACE_ROOT, "README.md")
-OUTPUT_DIR = os.path.join(WORKSPACE_ROOT, "data")
-AGENTS_JSON = os.path.join(OUTPUT_DIR, "agents.json")
-CATEGORIES_JSON = os.path.join(WORKSPACE_ROOT, "categories.json")
-TAGS_JSON = os.path.join(WORKSPACE_ROOT, "tags.json")
-FRAMEWORKS_JSON = os.path.join(WORKSPACE_ROOT, "frameworks.json")
-LANGUAGES_JSON = os.path.join(WORKSPACE_ROOT, "languages.json")
+WEB_DATA_DIR = os.path.join(WORKSPACE_ROOT, "web", "src", "data")
+AGENTS_JSON = os.path.join(WEB_DATA_DIR, "agents.json")
+CATEGORIES_JSON = os.path.join(WEB_DATA_DIR, "categories.json")
+TAGS_JSON = os.path.join(WEB_DATA_DIR, "tags.json")
+FRAMEWORKS_JSON = os.path.join(WEB_DATA_DIR, "frameworks.json")
+LANGUAGES_JSON = os.path.join(WEB_DATA_DIR, "languages.json")
 
 # Regex Patterns
 HEADER_RE = re.compile(r"^(##|###)\s+(.+)$")
@@ -325,7 +325,7 @@ def main():
 
     categories, tags, frameworks, languages = extract_auxiliary_metadata(normalized_agents)
     
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    os.makedirs(WEB_DATA_DIR, exist_ok=True)
     
     with open(AGENTS_JSON, "w", encoding="utf-8") as f:
         json.dump(normalized_agents, f, indent=2, ensure_ascii=False)

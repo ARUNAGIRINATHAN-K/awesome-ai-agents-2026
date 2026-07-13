@@ -1,8 +1,8 @@
 import { AgentRegistryEntry } from "@/types";
-import rawAgents from "../../../data/agents.json";
-import rawCategories from "../../../categories.json";
-import rawLanguages from "../../../languages.json";
-import rawFrameworks from "../../../frameworks.json";
+import rawAgents from "../data/agents.json";
+import rawCategories from "../data/categories.json";
+import rawLanguages from "../data/languages.json";
+import rawFrameworks from "../data/frameworks.json";
 
 // Typed data collections compiled at build-time
 const agents = rawAgents as AgentRegistryEntry[];

@@ -4,12 +4,12 @@ const path = require('path');
 // Path Configurations
 const WORKSPACE_ROOT = path.resolve(__dirname, '..');
 const README_PATH = path.join(WORKSPACE_ROOT, 'README.md');
-const OUTPUT_DIR = path.join(WORKSPACE_ROOT, 'data');
-const AGENTS_JSON = path.join(OUTPUT_DIR, 'agents.json');
-const CATEGORIES_JSON = path.join(WORKSPACE_ROOT, 'categories.json');
-const TAGS_JSON = path.join(WORKSPACE_ROOT, 'tags.json');
-const FRAMEWORKS_JSON = path.join(WORKSPACE_ROOT, 'frameworks.json');
-const LANGUAGES_JSON = path.join(WORKSPACE_ROOT, 'languages.json');
+const WEB_DATA_DIR = path.join(WORKSPACE_ROOT, 'web', 'src', 'data');
+const AGENTS_JSON = path.join(WEB_DATA_DIR, 'agents.json');
+const CATEGORIES_JSON = path.join(WEB_DATA_DIR, 'categories.json');
+const TAGS_JSON = path.join(WEB_DATA_DIR, 'tags.json');
+const FRAMEWORKS_JSON = path.join(WEB_DATA_DIR, 'frameworks.json');
+const LANGUAGES_JSON = path.join(WEB_DATA_DIR, 'languages.json');
 
 // Helper to slugify names
 function slugify(text) {
@@ -311,8 +311,8 @@ function run() {
   }
 
   // Create output directories
-  if (!fs.existsSync(OUTPUT_DIR)) {
-    fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  if (!fs.existsSync(WEB_DATA_DIR)) {
+    fs.mkdirSync(WEB_DATA_DIR, { recursive: true });
   }
 
   fs.writeFileSync(AGENTS_JSON, JSON.stringify(normalized, null, 2), 'utf-8');
