@@ -2,7 +2,7 @@
 
 import { useMemo, useState, useEffect, useTransition, useCallback } from "react";
 import { useRouter, useSearchParams, usePathname } from "next/navigation";
-import Fuse from "fuse.js";
+import Fuse, { type IFuseOptions } from "fuse.js";
 import { AgentRegistryEntry } from "@/types";
 
 export interface FilterState {
@@ -27,7 +27,7 @@ const DEFAULT_FILTERS: FilterState = {
   cloud: false,
 };
 
-const FUSE_OPTIONS: Fuse.IFuseOptions<AgentRegistryEntry> = {
+const FUSE_OPTIONS: IFuseOptions<AgentRegistryEntry> = {
   keys: [
     { name: "name", weight: 0.35 },
     { name: "description", weight: 0.25 },
