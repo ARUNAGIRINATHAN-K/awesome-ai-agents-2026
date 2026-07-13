@@ -6,5 +6,8 @@
     "type": "git",
     "url": "https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents.git"
   },
+  "scripts": {
+    "extract": "node scripts/extract.js"
+  },
   "license": "CC0-1.0"
 }

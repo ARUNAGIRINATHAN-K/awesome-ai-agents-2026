@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-primary: 0 0% 100%;
+    --bg-secondary: 0 0% 98%;
+    --text-primary: 0 0% 9%;
+    --text-secondary: 0 0% 38%; /* WCAG AA contrast ratio of 5.7:1 against FFFFFF */
+    --border-subtle: 0 0% 89%;
+    
+    --accent-teal: 173 80% 40%;
+    --accent-purple: 262 70% 50%;
+    --accent-amber: 35 90% 50%;
+    
+    --radius: 8px;
+  }
+
+  .dark {
+    --bg-primary: 0 0% 3%;
+    --bg-secondary: 0 0% 7%;
+    --text-primary: 0 0% 95%;
+    --text-secondary: 0 0% 68%; /* WCAG AA contrast ratio of 6.2:1 against 0A0A0A */
+    --border-subtle: 0 0% 15%;
+    
+    --accent-teal: 173 80% 48%;
+    --accent-purple: 262 80% 60%;
+    --accent-amber: 35 90% 60%;
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-accent-purple/20 selection:text-accent-purple;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+}

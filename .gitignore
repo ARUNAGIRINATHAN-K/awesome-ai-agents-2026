@@ -1,0 +1,40 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Next.js build outputs
+.next/
+**/.next/
+out/
+**/out/
+
+# Vercel configs
+.vercel/
+**/.vercel/
+
+# Environment files
+.env*.local
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# System files & IDE directories
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary analysis files
+repository_analysis_report.md
+
+img/*
+
