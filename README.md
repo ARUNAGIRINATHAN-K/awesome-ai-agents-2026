@@ -629,6 +629,7 @@ Platforms that generate full-stack applications, components, or web apps from na
 - [PlayCode Agent](https://playcode.io) `🌱` `[Cloud]` `[Multi-Agent]` - Browser-only lightweight web app creation tool with AI-assisted code generation.
 - [Replit Agent](https://replit.com/agent4) `🌱` `[Cloud]` `[Multi-Agent]` - Builds and deploys full-stack projects from prompts with integrated hosting and collaboration.
 - [v0 by Vercel](https://v0.app) `🚀` `[Cloud]` `[CLI]` - Generates React and Tailwind UI components from text descriptions with one-click Vercel deployment.
+- [VibeKit.bot](https://vibekit.bot) `🔬` `[Cloud]` `[Stateful]` - Builds and hosts full-stack apps from phone chat, with a persistent per-app agent and BYOK keys.
 
 ## Multi-Agent Consumer Platforms
 
