@@ -740,6 +740,7 @@ Key data points on the AI agent market covering adoption, growth, valuations, an
 
 Tools for running LLMs locally and self-hosting AI agent platforms with full privacy and control.
 
+- [Avelina](https://avelina.ai) `🌱` `[TypeScript]` `[Telegram]` - Self-hosted personal AI assistant on your own VPS that lives in Telegram, with persistent long-term memory, voice, and Claude-powered reasoning.
 - [GPT4All](https://github.com/nomic-ai/gpt4all) `🌱` `[C++]` `[Local]` - Open-source local chat application that runs LLMs on consumer hardware without cloud dependencies.
 - [Jan](https://github.com/janhq/jan) `🌱` `[TypeScript]` `[Local]` - Open-source ChatGPT alternative that runs 100% offline with local model management and privacy guarantees.
 - [Llamafile](https://github.com/mozilla-ai/llamafile) `🌱` `[C++]` `[Local]` - Distributes LLMs as single executable files with zero setup required from Mozilla.
