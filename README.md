@@ -288,6 +288,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [LangSmith](https://smith.langchain.com) `🚀` `[Cloud]` `[LangChain]` - LangChain platform for tracing, testing, and evaluating agent performance with production monitoring.
 - [LLM Guard](https://github.com/protectai/llm-guard) `🌱` `[Python]` `[Security]` - Security toolkit for scanning LLM inputs and outputs to prevent prompt injection and data leaks.
 - [Logfire](https://github.com/pydantic/logfire) `🌱` `[Python]` `[Pydantic]` - Python-native observability from the Pydantic team with deep integration for high-performance agent monitoring.
+- [MartinLoop](https://github.com/Keesan12/martin-loop) `🔬` `[TypeScript]` `[Compliance]` - Governs autonomous coding agents, turning open-ended runs into budgeted, verified software work with signed outcome receipts.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) `🌱` `[Python]` `[Multi-Agent]` - NVIDIA programmable guardrails toolkit for controlling and securing LLM-powered agent conversations.
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) `🌱` `[Python]` `[Security]` - Modules for agent runtime security, self-audit trails, and collective cognition patterns.
 - [OWASP Top 10 for Agentic Apps](https://owasp.org/www-project-top-10-for-large-language-model-applications/) `🌱` `[Python]` `[Security]` - Security framework covering goal hijacking, tool misuse, and cascading failure mitigations for agents.
