@@ -225,6 +225,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [E2B](https://github.com/e2b-dev/e2b) `🌱` `[TypeScript]` `[Multi-Agent]` - Cloud sandboxes for AI agents to run code securely in isolated environments.
 - [Engram](https://github.com/kwstx/translator) `🌱` `[Python]` `[Multi-Agent]` - Universal bridge for multi-protocol AI agent systems with automated semantic mapping.
 - [Firecrawl](https://github.com/firecrawl/firecrawl) `🌱` `[TypeScript]` `[Multi-Agent]` - Web scraping API built for LLMs that converts websites to clean, structured markdown.
+- [Intelica](https://github.com/teodorofodocrispin-cmyk/Intelica-docs) `🌱` `[Python]` `[x402]` - Competitive intelligence API for AI agents providing structured moat scoring, competitor mapping, and market entry analysis benchmarked against an accumulated competitive graph.
 - [Jina Reader](https://github.com/jina-ai/reader) `🌱` `[TypeScript]` `[Multi-Agent]` - Converts any URL to LLM-ready clean text via a simple API prefix for agent ingestion.
 - [LlamaParse](https://github.com/run-llama/llama_cloud_services) `🌱` `[Python]` `[RAG]` - GenAI-native document parser designed to extract complex tables and layouts for RAG pipelines.
 - [Marker](https://github.com/datalab-to/marker) `🌱` `[Python]` `[CLI]` - Converts PDF documents to markdown with high accuracy for tables, equations, and figures.
@@ -235,6 +236,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Surya](https://github.com/datalab-to/surya) `🌱` `[Python]` `[CLI]` - Runs OCR and layout detection on documents in 90+ languages for multilingual document agents.
 - [Tavily](https://github.com/tavily-ai/tavily-python) `🌱` `[Python]` `[Multi-Agent]` - Search API purpose-built for LLM agents providing real-time, accurate web data with source citations.
 - [traceAI](https://github.com/future-agi/traceAI) `🌱` `[Python]` `[Observability]` - OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations.
+- [TrustBoost](https://github.com/teodorofodocrispin-cmyk/trustboost-api) `🌱` `[Python]` `[x402]` - PII sanitization firewall for AI agent pipelines that redacts sensitive identifiers before content reaches an LLM with on-chain proof of sanitization.
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) `🌱` `[Python]` `[Pipeline]` - Ingests and preprocesses documents across 25+ file types for downstream LLM and agent pipelines.
 
 ## Low and No-Code Builders
@@ -764,6 +766,7 @@ Frameworks and tools for AI risk management, regulatory compliance, and governan
 - [NIST AI RMF](https://airc.nist.gov/) `🌱` `[Python]` `[Multi-Agent]` - US framework for AI risk management covering Govern, Map, Measure, and Manage functions.
 - [OneTrust AI Governance](https://www.onetrust.com/solutions/ai-governance/) `🌱` `[Cloud]` `[Compliance]` - Risk classification, consent management, and compliance workflows for AI agent deployments.
 - [Project Glasswing](https://www.anthropic.com/glasswing) `🌱` `[Python]` `[Benchmark]` - Industry consortium (11-company initiative) focused on AI safety, red-teaming, and shared benchmarks for agent risk mitigation.
+- [VeraData](https://github.com/teodorofodocrispin-cmyk/veradata-public) `🌱` `[Python]` `[x402]` - LATAM compliance API providing sanctions screening, KYB for five countries, and an EU AI Act compliant audit hash on every response.
 
 ## Cybersecurity Agents
 
