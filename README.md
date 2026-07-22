@@ -55,6 +55,8 @@
 - [Changelog](#changelog)
 - [Star History](#star-history)
 
+![agent](img/agent.png) ![loop](img/loop.png)
+
 ## Orchestration Frameworks
 
 - [Agency Swarm](https://github.com/VRSEN/agency-swarm) `🚀` `[Python]` `[Multi-Agent]` - Orchestrates multi-agent systems built on the OpenAI Assistants API with role-based collaboration.
