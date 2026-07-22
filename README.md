@@ -220,6 +220,8 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 
 - [Agent Bounties](https://github.com/NSPG13/agent-bounties) `🔬` `[Rust]` `[MCP]` - Coordinates verifiable digital bounty workflows designed for agents to post, fund, claim, solve, verify, and earn.
 - [AgentDock](https://github.com/agentdock/agentdock) `🚀` `[Python]` `[Docker]` - Framework for building and deploying production-ready AI agents with composable node architecture.
+- [AgentServices](https://agentservices.to) `🚀` `[Python]` `[x402]` - Paid data APIs for AI agents with 54 services, 37 MCP tools, and x402 nanopayments on Base. Market data, onchain analytics, AI inference, and research.
+- [AgentWork](https://agentwork-api.yfoob.chatgpt.site/) `🔬` `[Cloud]` `[x402]` - Aggregates verified paid work opportunities for autonomous agents, with a 0.005 Polygon USDC/hour x402 API for full decision context.
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) `🚀` `[Python]` `[OpenAI]` - Bash CLI for switching OpenAI Codex CLI and Desktop profiles with isolated CODEX_HOME directories.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) `🌱` `[Python]` `[Multi-Agent]` - Extracts structured data from web pages using LLM-friendly output formats optimized for agent ingestion.
 - [Docling](https://github.com/docling-project/docling) `🌱` `[Python]` `[IDE]` - Parses PDFs, DOCX, and slides into structured text with deep layout understanding for document agents.
@@ -407,6 +409,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) `🌱` `[Python]` `[Paper]` - The foundational paper behind the ReAct prompting pattern used in most agent frameworks.
 - [Reflexion](https://github.com/noahshinn/reflexion) `🌱` `[Python]` `[Paper]` - Research framework letting agents learn from past mistakes via iterative verbal self-reflection loops.
 - [Tree of Thoughts](https://github.com/princeton-nlp/tree-of-thought-llm) `🌱` `[Python]` `[Paper]` - Explores multiple parallel reasoning paths before committing to a final answer for complex problems.
+- [What's Missing in Autonomous Research?](https://haizhaoyang.github.io/research/autoresearch-survey.html) `🔬` `[Python]` `[Research]` - Systematizes 56 autonomous research systems across seven axes, showing most can generate but few can defend research artifacts.
 
 ## Agent Communication
 
