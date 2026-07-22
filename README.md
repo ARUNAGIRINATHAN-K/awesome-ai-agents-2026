@@ -219,7 +219,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [AgentDock](https://github.com/agentdock/agentdock) `🚀` `[Python]` `[Docker]` - Framework for building and deploying production-ready AI agents with composable node architecture.
 - [Agent Starter](https://github.com/raintree-technology/agent-starter) `🌱` `[TypeScript]` `[MCP]` - Project-local config manager that syncs one `agent.json` manifest into Claude Code, Codex, Cursor, and MCP setup while preserving manual edits and detecting drift.
 - [AgentServices](https://agentservices.to) `🚀` `[Python]` `[x402]` - Paid data APIs for AI agents with 54 services, 37 MCP tools, and x402 nanopayments on Base. Market data, onchain analytics, AI inference, and research.
-- [AgentWork](https://agentwork-api.yfoob.chatgpt.site/) `🔬` `[Cloud]` `[x402]` - Aggregates verified paid work opportunities for autonomous agents, with a paid x402 API for full decision context.
+- [AgentWork](https://agentwork-api.yfoob.chatgpt.site/) `🔬` `[Cloud]` `[x402]` - Aggregates verified paid work opportunities for autonomous agents, with a 0.005 Polygon USDC/hour x402 API for full decision context.
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) `🚀` `[Python]` `[OpenAI]` - Bash CLI for switching OpenAI Codex CLI and Desktop profiles with isolated CODEX_HOME directories.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) `🌱` `[Python]` `[Multi-Agent]` - Extracts structured data from web pages using LLM-friendly output formats optimized for agent ingestion.
 - [Docling](https://github.com/docling-project/docling) `🌱` `[Python]` `[IDE]` - Parses PDFs, DOCX, and slides into structured text with deep layout understanding for document agents.
