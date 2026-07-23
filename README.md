@@ -300,6 +300,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Rebuff](https://github.com/protectai/rebuff) `🌱` `[Python]` `[Security]` - Self-hardening prompt injection detection system for securing agent inputs against adversarial attacks.
 - [Agent Learning Kit](https://github.com/future-agi/agent-learning-kit) `🌱` `[Python]` `[Evaluation]` - LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, injection).
 - [Shipmoor](https://shipmoor.dev) `🔬` `[Python]` `[Testing]` - Local, deterministic verification layer for AI agent code: scans, test evidence, and a binding merge verdict without uploading source.
+- [SourceryKit](https://github.com/ProvablyAI/sourcerykit) `🔬` `[Python]` `[Security]` - Verifies an agent's outbound requests and MCP handoffs against a source of truth using zero-knowledge proofs, logging each call and blocking anything off the trusted-endpoint allow-list.
 - [ai-evaluation](https://github.com/future-agi/ai-evaluation) `🌱` `[Python]` `[Evaluation]` - LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, injection).
 - [Future AGI](https://github.com/future-agi/future-agi) `🌱` `[Python]` `[Self-Hosted]` - Self-hostable end-to-end agent engineering platform with tracing, evals, guardrails, and gateway.
 
