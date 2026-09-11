@@ -39,6 +39,7 @@ jobs:
             --exclude "theagentsindex.com"
             --exclude "notfair.co"
             --exclude "lexisnexis.com"
+            --exclude "vercel.app"
             --timeout 30
             README.md
           fail: true
