@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T10:21:32.669Z",
+  "generatedAt": "2026-09-11T09:34:44.928Z",
   "source": "README.md",
-  "totalCategories": 31,
+  "totalCategories": 32,
   "categories": [
     {
       "name": "Orchestration Frameworks",
@@ -11,7 +11,7 @@
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 35
+      "count": 36
     },
     {
       "name": "Memory and Context",
@@ -51,7 +51,7 @@
     {
       "name": "Safety Guardrails and Observability",
       "slug": "safety-guardrails-and-observability",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Agent Interfaces and UIs",
@@ -71,7 +71,7 @@
     {
       "name": "Industry-Specific Agents",
       "slug": "industry-specific-agents",
-      "count": 14
+      "count": 16
     },
     {
       "name": "Learning Resources",
@@ -116,7 +116,7 @@
     {
       "name": "Prompt-to-App Builders",
       "slug": "prompt-to-app-builders",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Multi-Agent Consumer Platforms",
@@ -154,9 +154,14 @@
       "count": 10
     },
     {
+      "name": "Translation and Localization Agents",
+      "slug": "translation-and-localization-agents",
+      "count": 1
+    },
+    {
       "name": "Newsletters and Communities",
       "slug": "newsletters-and-communities",
-      "count": 9
+      "count": 10
     }
   ]
 }
