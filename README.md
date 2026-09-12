@@ -225,6 +225,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) `🔬` `[Cloud]` `[MCP]` - Hosted X Twitter data MCP for search, follower export, monitors, and confirmation-gated writes.
 - [Zapier MCP Server](https://zapier.com/mcp) `🌱` `[Cloud]` `[MCP]` - Connect agents to 7,000+ app integrations via MCP, powered by Zapier's automation platform.
 - [zero-api-key-web-search](https://github.com/wd041216-bit/zero-api-key-web-search) `🌱` `[Python]` `[MCP]` - Free web search toolkit for AI agents with no API keys, MCP server support.
+- [Zambo](https://github.com/zambodotdev/zambo-mcp) `🌱` `[TypeScript]` `[MCP]` - Open-source MCP server: 120 native execution tools across 17 products, MIT licensed. Free 20 calls/tool/day, no account.
 
 ## Browser and Computer Use Agents
 
