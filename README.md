@@ -150,6 +150,7 @@ npm install && npm run build:data && npm run dev
 - [Windsurf](https://devin.ai/desktop) `🌱` `[TypeScript]` `[IDE]` - AI-native IDE with Cascade agent for multi-step autonomous tasks and team workflows.
 - [YYLO](https://github.com/yylo-dev/yylo) `🔬` `[Python]` `[Multi-Agent]` - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree.
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 ## Memory and Context
 
 - [Acontext](https://github.com/memodb-io/Acontext) `🌱` `[Python]` `[Local]` - Manages agent skills and long-term memory as a layered data structure for persistent context.
