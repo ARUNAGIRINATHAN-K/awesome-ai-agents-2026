@@ -150,6 +150,7 @@ npm install && npm run build:data && npm run dev
 - [Windsurf](https://devin.ai/desktop) `🌱` `[TypeScript]` `[IDE]` - AI-native IDE with Cascade agent for multi-step autonomous tasks and team workflows.
 - [YYLO](https://github.com/yylo-dev/yylo) `🔬` `[Python]` `[Multi-Agent]` - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree.
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 ## Memory and Context
 
 - [Acontext](https://github.com/memodb-io/Acontext) `🌱` `[Python]` `[Local]` - Manages agent skills and long-term memory as a layered data structure for persistent context.
@@ -312,6 +313,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Agent OS](https://github.com/buildermethods/agent-os) `🌱` `[Python]` `[Multi-Agent]` - Kernel architecture for governing autonomous AI agents with policy enforcement.
 - [AgentDoG](https://github.com/AI45Lab/AgentDoG) `🌱` `[Python]` `[Multi-Agent]` - Diagnostic guardrails that analyze full agent execution trajectories to detect instruction hijacking and tool misuse.
 - [AgentGuard](https://github.com/cyberark/agent-guard) `🌱` `[Python]` `[Observability]` - Runtime observability and guardrails for AI agents with loop detection and anomaly alerts.
+- [Bifrost](https://github.com/maximhq/bifrost) `🌱` `[Go]` `[MCP]` - AI gateway that unifies model providers with automatic failover, load balancing, observability, and MCP support.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) `🌱` `[Go]` `[CLI]` - Local-first TUI for AI coding agent session observability with tokens, cost, latency, tool failures, anomalies, reports, diffs, and CI health gates.
 - [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) `🌱` `[Python]` `[Multi-Agent]` - Pre-action authorization plugin for agent frameworks with policy-based access control.
 - [Patronus AI LYNX](https://patronus.ai/) `🌱` `[Cloud]` `[Testing]` - Hallucination detection system beating GPT-4 baselines, with specialized testing for agent outputs and LLM-generated content quality.
@@ -333,7 +335,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) `🌱` `[Python]` `[Multi-Agent]` - NVIDIA programmable guardrails toolkit for controlling and securing LLM-powered agent conversations.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) `🔬` `[TypeScript]` `[Observability]` - Records a coding-agent run below the harness, then replays it offline or forks it onto another model; its MCP server lets an agent read and re-run its own past runs.
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) `🌱` `[Python]` `[Security]` - Modules for agent runtime security, self-audit trails, and collective cognition patterns.
-- [OWASP Top 10 for Agentic Apps](https://owasp.org/www-project-top-10-for-large-language-model-applications/) `🌱` `[Python]` `[Security]` - Security framework covering goal hijacking, tool misuse, and cascading failure mitigations for agents.
+- [OWASP Top 10 for Agentic Apps](https://owasp.github.io/www-project-top-10-for-large-language-model-applications/) `🌱` `[Python]` `[Security]` - Security framework covering goal hijacking, tool misuse, and cascading failure mitigations for agents.
 - [Pluribus](https://github.com/caioribeiroclw-pixel/pluribus) `🔬` `[TypeScript]` `[Observability]` - Generates cross-tool agent context and privacy-safe evidence receipts for loaded authority, handoffs, and skill use.
 - [Rebuff](https://github.com/protectai/rebuff) `🌱` `[Python]` `[Security]` - Self-hardening prompt injection detection system for securing agent inputs against adversarial attacks.
 - [Agent Learning Kit](https://github.com/future-agi/agent-learning-kit) `🌱` `[Python]` `[Evaluation]` - LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, injection).
@@ -419,7 +421,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 
 ### Legal
 
-- [LexisNexis AI](https://www.lexisnexis.com/en-us/gateway.page) `🚀` `[Cloud]` `[Research]` - Document review and legal research agents.
+- [LexisNexis AI](https://www.lexisnexis.com/en-us/products/lexis-plus-protege.page) `🚀` `[Cloud]` `[Research]` - Document review and legal research agents.
 - [Westlaw AI-Assisted Research](https://legal.thomsonreuters.com/en/westlaw) `🚀` `[Cloud]` `[Multi-Agent]` - Case law analysis and brief drafting agents.
 - [ROSS Intelligence](https://blog.rossintelligence.com/) `🌱` `[Cloud]` `[Research]` - Contract analysis and legal research agents.
 
@@ -566,7 +568,7 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 - [Pika 2.5](https://pika.art/login) `🌱` `[Cloud]` `[IDE]` - Beginner-friendly video generation tool with fast turnaround and intuitive editing controls.
 - [Runway Gen-4.5](https://runway.com) `🌱` `[Cloud]` `[IDE]` - Professional video generation with Motion Brush and the highest benchmark scores for visual quality.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance) `🌱` `[Cloud]` `[IDE]` - Quad-modal input video generator with built-in lip-sync and 2K resolution output.
-- [Sora 2](https://sora.com) `🚀` `[Cloud]` `[OpenAI]` - Generates 25-second cinematic video clips with strong narrative coherence from text prompts by OpenAI.
+- [Sora 2](https://sora.chatgpt.com/) `🚀` `[Cloud]` `[OpenAI]` - Generates 25-second cinematic video clips with strong narrative coherence from text prompts by OpenAI.
 - [Wan 2.1](https://github.com/Wan-Video/Wan2.1) `🌱` `[Python]` `[IDE]` - Open-source self-hosted video generation model with unlimited length and no per-video costs.
 
 ### Music and Audio Generation
