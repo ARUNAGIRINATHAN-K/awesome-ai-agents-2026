@@ -166,6 +166,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [Chroma](https://github.com/chroma-core/chroma) `🌱` `[Python]` `[Vector DB]` - Lightweight, embeddable vector store for building memory-augmented AI agents with fast semantic retrieval.
 - [cognee](https://github.com/topoteretes/cognee) `🌱` `[Python]` `[Graph-Based]` - Knowledge engine for AI agent memory, set up in 6 lines of code with graph-based knowledge extraction.
 - [Cortex Memory](https://github.com/prem-research/cortex) `🌱` `[Python]` `[Vector DB]` - Full-stack solution for agent memory covering extraction, vector search, and optimization.
+- [deja](https://github.com/vshulcz/deja-vu) `🌱` `[Go]` `[MCP]` - Indexes the session transcripts 25 coding agents already write on the machine and serves them to any of the others, including sessions from before install; lexical retrieval, no LLM, no embeddings.
 - [Engrava](https://github.com/sovantica/engrava) `🔬` `[Python]` `[Graph-Based]` - Stores agent memory as a typed knowledge graph with hybrid search and a tamper-evident journal, embedded in SQLite.
 - [graphiti](https://github.com/getzep/graphiti) `🌱` `[Python]` `[Multi-Agent]` - Build real-time knowledge graphs for AI agents with automatic entity extraction and linking.
 - [Kage](https://github.com/kage-core/Kage) `🌱` `[TypeScript]` `[MCP]` - Git-native memory for coding agents that stores decisions and fixes as repo files and verifies them against the codebase, withholding stale knowledge.
