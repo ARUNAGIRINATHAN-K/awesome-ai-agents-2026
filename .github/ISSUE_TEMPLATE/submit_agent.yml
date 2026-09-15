@@ -1,0 +1,137 @@
+name: Submit an AI Agent / Tool
+description: Submit a new AI agent, framework, tool, skill, or infrastructure project to the registry.
+title: "Submit: [Resource Name]"
+labels: ["agent-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting to **Awesome AI Agents 2026**!
+        Please fill out this form accurately. Our automated pipeline will validate your submission and generate a Pull Request for maintainer review.
+
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource Name
+      description: The official name of the tool, framework, or project (e.g. LangGraph, Agency Swarm).
+      placeholder: e.g. LangGraph
+    validations:
+      required: true
+
+  - type: input
+    id: project_url
+    attributes:
+      label: Project URL
+      description: The main GitHub repository or official project website URL (must start with https://).
+      placeholder: https://github.com/org/repo
+    validations:
+      required: true
+
+  - type: dropdown
+    id: resource_type
+    attributes:
+      label: Resource Type
+      description: Select the architectural type or framework classification.
+      options:
+        - Agent
+        - Framework
+        - Tool
+        - SDK
+        - Skill
+        - MCP Server
+        - Protocol
+        - Model
+        - Platform
+        - Infrastructure
+        - Evaluation
+        - Benchmark
+        - Workflow
+        - Pattern
+        - Library
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Select the registry section where this resource belongs.
+      options:
+        - Orchestration Frameworks
+        - Coding Agents
+        - Memory and Context
+        - Multi-Agent Systems
+        - Agent Communication Protocols
+        - Browser and Computer Use Agents
+        - Agent Tooling and Infrastructure
+        - Low and No-Code Builders
+        - Voice and Multimodal Agents
+        - Safety Guardrails and Observability
+        - Agent Interfaces and UIs
+        - Agent Deployment and Hosting
+        - Agent Evaluation and Benchmarks
+        - Industry-Specific Agents
+        - Learning Resources
+        - Agent Communication
+        - Data Pipeline and Workflow
+        - Secure Execution Environments
+        - Creative AI Agents
+        - Customer Support and CRM Agents
+        - Voice Agent Platforms
+        - Deep Research Agents
+        - Prompt-to-App Builders
+        - Multi-Agent Consumer Platforms
+        - Open-Source Models for Agents
+        - Market Stats and Benchmarks 2026
+        - Local and Self-Hosted AI
+        - AI Governance and Compliance
+        - Cybersecurity Agents
+        - Healthcare and Therapy Agents
+        - Newsletters and Communities
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Tier
+      description: "Select maturity tier: 🚀 Production-Ready (10K+ stars / major enterprise), 🌱 Growing (500–5K stars / active), 🔬 Emerging (<500 stars / experimental)."
+      options:
+        - "🚀 Production-Ready"
+        - "🌱 Growing"
+        - "🔬 Emerging"
+    validations:
+      required: true
+
+  - type: input
+    id: language
+    attributes:
+      label: Primary Language / Technology
+      description: Primary runtime language or framework (e.g. Python, TypeScript, Go, Rust, Cloud, Browser, No-Code).
+      placeholder: e.g. Python
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Additional Tags
+      description: Optional comma-separated secondary tags (e.g. Multi-Agent, MCP, RAG, CLI).
+      placeholder: e.g. Multi-Agent, MCP, CLI
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "One concise sentence describing what the tool does (10–30 words). Ending with a period. No markdown links or promotional buzzwords."
+      placeholder: e.g. Production-grade multi-agent framework built for resilient task orchestration across distributed LLM workers.
+    validations:
+      required: true
+
+  - type: textarea
+    id: contributor_notes
+    attributes:
+      label: Contributor Notes
+      description: Optional context or notes for maintainers (will not be published in the registry entry).
+      placeholder: Additional context, release version, or relationship to project.

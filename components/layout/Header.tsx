@@ -6,6 +6,7 @@ import { usePathname } from 'next/navigation';
 import { ThemeToggle } from '../theme-toggle';
 import { MobileNav } from './MobileNav';
 import { cn } from '@/lib/utils';
+import { Search, Plus } from 'lucide-react';
 
 interface HeaderProps {
   onOpenSearch?: () => void;
@@ -21,17 +22,17 @@ export function Header({ onOpenSearch }: HeaderProps) {
   ];
 
   return (
-    <header className="sticky top-0 z-40 w-full border-b border-border bg-background/95 backdrop-blur-sm">
-      <div className="max-w-7xl mx-auto flex h-14 items-center justify-between px-4 sm:px-6">
+    <header className="sticky top-0 z-40 w-full border-b border-neutral-200/80 dark:border-neutral-800/80 bg-neutral-50/80 dark:bg-zinc-950/80 backdrop-blur-md">
+      <div className="max-w-7xl mx-auto flex h-16 items-center justify-between px-4 sm:px-6">
         {/* Brand Logo & Desktop Nav */}
         <div className="flex items-center gap-8">
-          <Link href="/" className="flex items-center gap-2 font-mono font-bold text-sm text-foreground hover:opacity-80">
-            <span className="text-primary font-extrabold">◈</span>
-            <span>AI Agent Registry</span>
+          <Link href="/" className="flex items-center gap-2 font-sans font-medium text-sm text-neutral-900 dark:text-neutral-100 hover:opacity-80 transition-opacity">
+            <span className="text-[#000000] dark:text-[#ffffff] text-base leading-none select-none">▲</span>
+            <span className="font-semibold tracking-tight">AI Agent Registry</span>
           </Link>
 
           {/* Desktop Navigation Links */}
-          <nav className="hidden md:flex items-center gap-5 text-xs font-mono">
+          <nav className="hidden md:flex items-center gap-6 text-xs font-sans">
             {navLinks.map((link) => {
               const isActive = pathname === link.href;
               return (
@@ -41,8 +42,8 @@ export function Header({ onOpenSearch }: HeaderProps) {
                   className={cn(
                     'transition-colors py-1',
                     isActive
-                      ? 'text-foreground font-bold border-b-2 border-foreground'
-                      : 'text-muted-foreground hover:text-foreground'
+                      ? 'text-neutral-900 dark:text-neutral-100 font-semibold border-b-2 border-neutral-900 dark:border-neutral-100'
+                      : 'text-neutral-500 hover:text-neutral-900 dark:text-neutral-400 dark:hover:text-neutral-100'
                   )}
                 >
                   {link.label}
@@ -52,24 +53,33 @@ export function Header({ onOpenSearch }: HeaderProps) {
           </nav>
         </div>
 
-        {/* Search, Theme & Mobile Nav */}
+        {/* Search, Actions & Mobile Nav */}
         <div className="flex items-center gap-3">
           {onOpenSearch && (
             <button
               onClick={onOpenSearch}
-              className="flex items-center gap-2 px-3 py-1.5 rounded border border-border bg-card text-xs text-muted-foreground hover:text-foreground transition-colors font-mono"
+              className="flex items-center gap-2 px-3 py-1.5 rounded-[6px] border border-neutral-200 dark:border-neutral-800 bg-white dark:bg-zinc-900 text-xs text-neutral-500 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-neutral-100 transition-colors font-mono"
               aria-label="Search resources"
             >
+              <Search className="w-3.5 h-3.5 text-neutral-400" />
               <span>Search...</span>
-              <kbd className="text-[10px] px-1 rounded border border-border bg-muted">⌘K</kbd>
+              <kbd className="text-[10px] px-1 rounded border border-neutral-200 dark:border-neutral-700 bg-neutral-100 dark:bg-zinc-800">⌘K</kbd>
             </button>
           )}
+
+          <Link
+            href="/submit"
+            className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#171717] dark:bg-[#ededed] text-white dark:text-[#0a0a0a] text-xs font-mono font-medium hover:bg-black dark:hover:bg-white transition-all shadow-xs"
+          >
+            <Plus className="w-3.5 h-3.5" />
+            <span>Submit Agent</span>
+          </Link>
 
           <a
             href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026"
             target="_blank"
             rel="noopener noreferrer"
-            className="p-2 text-muted-foreground hover:text-foreground transition-colors rounded hover:bg-accent"
+            className="p-2 text-neutral-500 hover:text-neutral-900 dark:text-neutral-400 dark:hover:text-neutral-100 transition-colors rounded-[6px] hover:bg-neutral-100 dark:hover:bg-neutral-900"
             title="GitHub Repository"
             aria-label="GitHub Repository"
           >
@@ -85,7 +95,7 @@ export function Header({ onOpenSearch }: HeaderProps) {
           <ThemeToggle />
 
           {/* Mobile Menu Drawer Toggle */}
-          <MobileNav navLinks={navLinks} />
+          <MobileNav navLinks={[...navLinks, { href: '/submit', label: 'Submit Agent' }]} />
         </div>
       </div>
     </header>

@@ -17,6 +17,9 @@ export function Footer() {
           <Link href="/categories" className="hover:text-foreground underline">
             Categories
           </Link>
+          <Link href="/submit" className="hover:text-foreground underline font-bold text-blue-500">
+            Submit Agent
+          </Link>
           <a
             href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026"
             target="_blank"

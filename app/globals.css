@@ -4,48 +4,80 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 220 13% 18%;
-    --card: 0 0% 100%;
-    --card-foreground: 220 13% 18%;
+    /* Vercel Geist Monochrome Colors */
+    --color-paper-white: #fafafa;
+    --color-pure-white: #ffffff;
+    --color-hairline: #ebebeb;
+    --color-ash: #c9c9c9;
+    --color-smoke: #a8a8a8;
+    --color-graphite: #8f8f8f;
+    --color-slate: #7d7d7d;
+    --color-stone: #666666;
+    --color-charcoal: #4d4d4d;
+    --color-obsidian: #171717;
+    --color-carbon: #000000;
+    --color-terminal-green: #297a3a;
+    --gradient-spectrum: linear-gradient(90deg, rgb(0, 255, 149) 0%, rgb(255, 208, 0) 25%, rgb(255, 23, 68) 50%, rgb(149, 0, 255) 75%, rgb(0, 229, 255) 100%);
+    --gradient-solar: linear-gradient(90deg, rgb(255, 220, 48) 0%, rgb(56, 162, 255) 100%);
+
+    /* Shadcn Semantic Mapping (Light) */
+    --background: 0 0% 98%;      /* #fafafa */
+    --foreground: 0 0% 9%;       /* #171717 */
+    --card: 0 0% 100%;          /* #ffffff */
+    --card-foreground: 0 0% 9%; /* #171717 */
     --popover: 0 0% 100%;
-    --popover-foreground: 220 13% 18%;
-    --primary: 220 13% 18%;
+    --popover-foreground: 0 0% 9%;
+    --primary: 0 0% 9%;         /* #171717 obsidian */
     --primary-foreground: 0 0% 100%;
-    --secondary: 220 14% 96%;
-    --secondary-foreground: 220 9% 40%;
-    --muted: 220 14% 96%;
-    --muted-foreground: 220 9% 46%;
-    --accent: 220 14% 96%;
-    --accent-foreground: 220 13% 18%;
+    --secondary: 0 0% 96%;
+    --secondary-foreground: 0 0% 30%; /* #4d4d4d */
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 40%;
+    --accent: 0 0% 94%;
+    --accent-foreground: 0 0% 9%;
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
-    --border: 220 13% 91%;
-    --input: 220 13% 91%;
-    --ring: 220 13% 18%;
-    --radius: 0.375rem;
+    --border: 0 0% 92%;         /* #ebebeb */
+    --input: 0 0% 92%;
+    --ring: 0 0% 9%;
+    --radius: 0.375rem;         /* 6px --radius-md */
   }
 
   .dark {
-    --background: 220 18% 10%; /* GitHub/docs dark #0d1117 style */
-    --card: 220 17% 13%;       /* #161b22 */
-    --foreground: 210 20% 98%;
-    --card-foreground: 210 20% 98%;
-    --popover: 220 17% 13%;
-    --popover-foreground: 210 20% 98%;
-    --primary: 210 20% 98%;
-    --primary-foreground: 220 18% 10%;
-    --secondary: 215 15% 18%;
-    --secondary-foreground: 210 20% 98%;
-    --muted: 215 15% 18%;
-    --muted-foreground: 217 10% 64%;
-    --accent: 215 15% 20%;
-    --accent-foreground: 210 20% 98%;
+    /* Vercel Geist Dark Mode Palette */
+    --color-paper-white: #0a0a0a;
+    --color-pure-white: #121212;
+    --color-hairline: #262626;
+    --color-ash: #404040;
+    --color-smoke: #737373;
+    --color-graphite: #a3a3a3;
+    --color-slate: #d4d4d4;
+    --color-stone: #a3a3a3;
+    --color-charcoal: #d4d4d4;
+    --color-obsidian: #ededed;
+    --color-carbon: #ffffff;
+    --color-terminal-green: #40c463;
+
+    /* Shadcn Semantic Mapping (Dark) */
+    --background: 0 0% 4%;       /* #0a0a0a */
+    --foreground: 0 0% 93%;      /* #ededed */
+    --card: 0 0% 7%;            /* #121212 */
+    --card-foreground: 0 0% 93%;
+    --popover: 0 0% 7%;
+    --popover-foreground: 0 0% 93%;
+    --primary: 0 0% 93%;         /* #ededed */
+    --primary-foreground: 0 0% 4%;
+    --secondary: 0 0% 15%;
+    --secondary-foreground: 0 0% 83%;
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 64%;
+    --accent: 0 0% 15%;
+    --accent-foreground: 0 0% 93%;
     --destructive: 0 62% 30%;
-    --destructive-foreground: 210 20% 98%;
-    --border: 215 14% 20%;    /* #30363d */
-    --input: 215 14% 20%;
-    --ring: 212 92% 66%;
+    --destructive-foreground: 0 0% 93%;
+    --border: 0 0% 15%;          /* #262626 */
+    --input: 0 0% 15%;
+    --ring: 0 0% 93%;
   }
 }
 
@@ -54,9 +86,57 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground antialiased selection:bg-accent selection:text-foreground;
-    font-feature-settings: "rlig" 1, "calt" 1;
+    @apply bg-background text-foreground antialiased selection:bg-neutral-800 selection:text-white dark:selection:bg-neutral-200 dark:selection:text-black;
+    font-feature-settings: "calt" 0, "rlig" 1, "ss11" 1;
+    font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
   }
+}
+
+/* Geist Typographic Scale Utilities */
+.text-eyebrow {
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 11px;
+  line-height: 1.5;
+  letter-spacing: 0.071em;
+  text-transform: uppercase;
+}
+
+.text-caption {
+  font-size: 13px;
+  line-height: 1.54;
+}
+
+.text-heading {
+  font-family: var(--font-geist-sans), sans-serif;
+  font-size: 30px;
+  line-height: 1.1;
+  letter-spacing: -1.5px;
+  font-weight: 450;
+}
+
+.text-heading-lg {
+  font-family: var(--font-geist-sans), sans-serif;
+  font-size: 56px;
+  line-height: 1;
+  letter-spacing: -3.36px;
+  font-weight: 450;
+}
+
+.text-display {
+  font-family: var(--font-geist-sans), sans-serif;
+  font-size: 64px;
+  line-height: 1;
+  letter-spacing: -3.84px;
+  font-weight: 450;
+}
+
+/* Hairline Double-Ring Elevation */
+.shadow-subtle {
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08), 0 0 0 2px #fafafa;
+}
+
+.dark .shadow-subtle {
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.08), 0 0 0 2px #0a0a0a;
 }
 
 /* Minimal Custom Scrollbar */

@@ -64,6 +64,7 @@ flowchart TD
 - **Header & Navigation** ([`components/layout/Header.tsx`](components/layout/Header.tsx)): Sticky desktop header with navigation links, search trigger modal shortcut (`⌘K`), theme toggle, and repository link.
 - **Resource Grid & Card** ([`components/resource/ResourceCard.tsx`](components/resource/ResourceCard.tsx)): Information-dense cards formatted with strict minimal aesthetic (monospace tags, subtle 1px borders, tier badges, direct source repository links).
 - **Filter Panel** ([`components/filter-sidebar.tsx`](components/filter-sidebar.tsx)): Real-time filter control sidebar for tier, runtime language, and category domain narrowing.
+- **Submission Portal** ([`app/submit/page.tsx`](app/submit/page.tsx), [`components/submission/`](components/submission/)): Interactive contribution interface utilizing Shadcn UI form primitives (`Field`, `FieldLabel`, `Input`, `Select`, `Textarea`), real-time client-side validation, pre-filled GitHub Issue link generation, and a two-column lower layout for live Markdown entry preview (`SubmissionPreview.tsx`) and process instructions (`SubmissionInstructions.tsx`).
 
 ---
 

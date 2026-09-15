@@ -1,34 +1,33 @@
-'use client';
-
 import * as React from 'react';
+import type { Metadata } from 'next';
 import '@/app/globals.css';
-import { ThemeProvider } from '@/components/theme-provider';
-import { Header } from '@/components/layout/Header';
-import { Footer } from '@/components/layout/Footer';
-import { SearchModal } from '@/components/search-modal';
+import { Inter, JetBrains_Mono } from 'next/font/google';
+import { AppShell } from '@/components/layout/AppShell';
+import { cn } from '@/lib/utils';
+
+const geistSans = Inter({
+  subsets: ['latin'],
+  variable: '--font-geist-sans',
+  display: 'swap',
+});
+
+const geistMono = JetBrains_Mono({
+  subsets: ['latin'],
+  variable: '--font-geist-mono',
+  display: 'swap',
+});
+
+export const metadata: Metadata = {
+  title: 'AI Agent Registry — Discover the AI Agent Ecosystem',
+  description: 'Explore AI agents, frameworks, tools, protocols, models, and infrastructure for building intelligent systems.',
+  viewport: 'width=device-width, initial-scale=1',
+};
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  const [searchOpen, setSearchOpen] = React.useState(false);
-
   return (
-    <html lang="en" suppressHydrationWarning>
-      <head>
-        <title>AI Agent Registry — Discover the AI Agent Ecosystem</title>
-        <meta
-          name="description"
-          content="Explore AI agents, frameworks, tools, protocols, models, and infrastructure for building intelligent systems."
-        />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-      </head>
-      <body className="min-h-screen flex flex-col bg-background font-sans text-foreground">
-        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
-          <Header onOpenSearch={() => setSearchOpen(true)} />
-          <main className="flex-1">{children}</main>
-          <Footer />
-
-          {/* Global Search Command Palette */}
-          <SearchModal isOpen={searchOpen} onClose={() => setSearchOpen(false)} />
-        </ThemeProvider>
+    <html lang="en" suppressHydrationWarning className={cn(geistSans.variable, geistMono.variable)}>
+      <body className="min-h-screen flex flex-col bg-background font-sans text-foreground antialiased">
+        <AppShell>{children}</AppShell>
       </body>
     </html>
   );

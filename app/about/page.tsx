@@ -7,7 +7,7 @@ export default function AboutPage() {
 
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-8 md:py-12 space-y-6 font-mono text-xs">
-      <div className="space-y-2 pb-4 border-b border-border">
+      <div className="flex flex-col items-center text-center space-y-2 pb-4 border-b border-border">
         <h1 className="text-2xl font-bold tracking-tight text-foreground">
           About AI Agent Registry
         </h1>
@@ -38,7 +38,7 @@ export default function AboutPage() {
         </p>
       </div>
 
-      <div className="pt-4 border-t border-border flex items-center gap-4 font-mono">
+      <div className="pt-4 border-t border-border flex items-center justify-center gap-4 font-mono">
         <Link href="/explore" className="px-3 py-1.5 rounded border border-border bg-foreground text-background font-bold hover:opacity-90">
           Explore Registry →
         </Link>
