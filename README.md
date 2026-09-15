@@ -75,6 +75,13 @@ npm install && npm run build:data && npm run dev
 **Docker**: `docker compose up --build`  
 **One-Click Deploy**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FARUNAGIRINATHAN-K%2Fawesome-ai-agents-2026#deploy)
 
+### Submit an Agent
+
+Have an AI agent, framework, tool, skill, or infrastructure project worth sharing?
+
+- **Web Submission Portal**: [Submit a Resource](https://ai-agent-registry-kappa.vercel.app/submit)
+- **GitHub Issue Form**: [Open No-Code Submission Issue](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues/new?template=submit_agent.yml)
+
 ---
 
 ## Orchestration Frameworks

@@ -8,12 +8,24 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['var(--font-geist-sans)', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        mono: ['var(--font-geist-mono)', 'ui-monospace', 'SFMono-Regular', 'Consolas', 'monospace'],
+        'geist-sans': ['var(--font-geist-sans)', 'sans-serif'],
+        'geist-mono': ['var(--font-geist-mono)', 'monospace'],
+      },
       colors: {
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
         ring: 'hsl(var(--ring))',
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
+        paper: 'var(--color-paper-white)',
+        hairline: 'var(--color-hairline)',
+        obsidian: 'var(--color-obsidian)',
+        charcoal: 'var(--color-charcoal)',
+        stone: 'var(--color-stone)',
+        'terminal-green': 'var(--color-terminal-green)',
         primary: {
           DEFAULT: 'hsl(var(--primary))',
           foreground: 'hsl(var(--primary-foreground))',
@@ -40,9 +52,16 @@ module.exports = {
         },
       },
       borderRadius: {
-        lg: 'var(--radius)',
-        md: 'calc(var(--radius) - 2px)',
-        sm: 'calc(var(--radius) - 4px)',
+        lg: '6px',
+        md: '6px',
+        sm: '2px',
+        card: '6px',
+        button: '6px',
+        nav: '2px',
+        pill: '9999px',
+      },
+      fontWeight: {
+        w450: '450',
       },
       keyframes: {
         'fade-in': {

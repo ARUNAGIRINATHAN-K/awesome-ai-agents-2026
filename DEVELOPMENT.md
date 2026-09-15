@@ -59,6 +59,16 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ### Adding or Updating a Resource Entry
 
+You can submit or update resource entries via two methods:
+
+#### Method A — Web Submission Portal (`/submit`)
+1. Start local dev server (`npm run dev`) and visit `http://localhost:3000/submit`.
+2. Fill out the structured Shadcn UI submission form (`SubmissionForm.tsx`).
+3. Real-time client-side validation enforces URL format (`https://`), non-empty required fields, and description word bounds (10–30 words).
+4. Verify the formatted single-line Markdown output in the **README.md Entry Output** box (`SubmissionPreview.tsx`).
+5. Click **Submit via GitHub Issue** or copy formatted entry to test issue generation (`SubmissionActions.tsx`).
+
+#### Method B — Direct `README.md` Edit
 1. Open [`README.md`](README.md).
 2. Locate the appropriate category section header (e.g., `## Coding Agents`).
 3. Insert or modify the single-line Markdown entry in alphabetical order:
