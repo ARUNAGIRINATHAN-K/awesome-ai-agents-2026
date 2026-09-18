@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T15:07:36.894Z",
+  "generatedAt": "2026-09-18T13:00:16.712Z",
   "source": "README.md",
-  "totalCategories": 31,
+  "totalCategories": 32,
   "categories": [
     {
       "name": "Orchestration Frameworks",
@@ -11,17 +11,17 @@
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 35
+      "count": 38
     },
     {
       "name": "Memory and Context",
       "slug": "memory-and-context",
-      "count": 30
+      "count": 32
     },
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Agent Communication Protocols",
@@ -31,12 +31,12 @@
     {
       "name": "Browser and Computer Use Agents",
       "slug": "browser-and-computer-use-agents",
-      "count": 16
+      "count": 18
     },
     {
       "name": "Agent Tooling and Infrastructure",
       "slug": "agent-tooling-and-infrastructure",
-      "count": 22
+      "count": 24
     },
     {
       "name": "Low and No-Code Builders",
@@ -51,7 +51,7 @@
     {
       "name": "Safety Guardrails and Observability",
       "slug": "safety-guardrails-and-observability",
-      "count": 31
+      "count": 33
     },
     {
       "name": "Agent Interfaces and UIs",
@@ -81,7 +81,7 @@
     {
       "name": "Agent Communication",
       "slug": "agent-communication",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Data Pipeline and Workflow",
@@ -154,9 +154,14 @@
       "count": 10
     },
     {
+      "name": "Translation and Localization Agents",
+      "slug": "translation-and-localization-agents",
+      "count": 1
+    },
+    {
       "name": "Newsletters and Communities",
       "slug": "newsletters-and-communities",
-      "count": 9
+      "count": 10
     }
   ]
 }
