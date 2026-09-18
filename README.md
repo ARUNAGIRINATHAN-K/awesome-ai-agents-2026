@@ -483,6 +483,7 @@ Capabilities that let agents send messages, notifications, and reports across ch
 - [FastAPI-Mail](https://github.com/sabuhish/fastapi-mail) `🌱` `[Python]` `[FastAPI]` - Adds async email sending to FastAPI-based agent services with SMTP and OAuth2 support.
 - [Novu](https://github.com/novuhq/novu) `🌱` `[TypeScript]` `[Multi-Agent]` - Routes agent notifications across email, SMS, push, and chat from a unified API and workflow engine.
 - [Ntfy](https://github.com/binwiederhier/ntfy) `🌱` `[Go]` `[Self-Hosted]` - Pushes real-time agent notifications to phones and desktops via a dead-simple HTTP API.
+- [OpenMail](https://openmail.sh) `🔬` `[Cloud]` `[CLI]` - Email infrastructure for agents: dedicated inbox per agent, inbound over websocket or webhook, threaded replies, attachment parsing.
 - [Resend](https://github.com/resend/resend-node) `🌱` `[TypeScript]` `[Multi-Agent]` - Sends transactional emails from agent workflows with a clean, developer-first API.
 - [Slack Bolt](https://github.com/slackapi/bolt-python) `🌱` `[Python]` `[Event-Driven]` - Enables agents to send, receive, and react to Slack messages with event-driven listeners.
 - [The Colony](https://thecolony.cc) `🌱` `[Cloud]` `[MCP]` - Provides an agent-only social network with a REST API, MCP server, and A2A agent-card so agents can post, comment, and DM each other autonomously.
