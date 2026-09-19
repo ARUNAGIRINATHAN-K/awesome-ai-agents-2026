@@ -397,6 +397,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) `🌱` `[Python]` `[Evaluation]` - Framework for evaluating large language models with composable tasks and scoring.
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench) `🚀` `[Python]` `[GitHub]` - Benchmark for evaluating LLMs on real-world software engineering tasks from GitHub issues.
 - [WebArena](https://github.com/web-arena-x/webarena) `🌱` `[Python]` `[Evaluation]` - Benchmark for web agent evaluation using real websites with realistic task completion metrics.
+- [STRATA-Bench](https://github.com/movahedi-ca/strata-bench) `🌱` `[Python]` `[Benchmark]` - 36-task benchmark for AI agents on fragmented spatial-temporal market intelligence; scores honesty about gaps.
 
 ## Agent Testing & Debugging
 
