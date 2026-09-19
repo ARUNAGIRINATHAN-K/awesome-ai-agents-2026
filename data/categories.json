@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T13:00:16.712Z",
+  "generatedAt": "2026-09-19T16:08:14.660Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -111,7 +111,7 @@
     {
       "name": "Deep Research Agents",
       "slug": "deep-research-agents",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Prompt-to-App Builders",
