@@ -729,6 +729,7 @@ All-in-one AI platforms providing access to agents, tools, and models through co
 - [Meta AI](https://meta.ai) `🚀` `[Cloud]` `[Multi-Agent]` - Llama-powered AI integrated across WhatsApp, Messenger, and Instagram for conversational assistance.
 - [Microsoft Copilot](https://copilot.microsoft.com) `🚀` `[Cloud]` `[Microsoft]` - AI assistant integrated into Office 365, Teams, and Power Platform for enterprise productivity workflows.
 - [Sistava](https://sistava.com/) `🌱` `[Cloud]` `[Voice]` - AI agent orchestration platform for deploying multi-channel agents across messaging, voice, and APIs with full Computer Use capabilities on your own OS.
+- [Viktor](https://viktor.com) `🌱` `[Cloud]` `[No-Code]` - Completes team tasks from Slack and Microsoft Teams across 3,200+ connected tools using its own cloud computer.
 
 ## Open-Source Models for Agents
 
