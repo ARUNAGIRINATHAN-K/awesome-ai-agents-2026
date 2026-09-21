@@ -1,0 +1,53 @@
+name: Check Links
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    name: Verify all links are alive
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check links with Lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,204,301,302,307,308,403,429
+            --exclude-path node_modules
+            --exclude "star-history.com"
+            --exclude "shields.io"
+            --exclude "stableaudio.com"
+            --exclude "mckinsey.com"
+            --exclude "servicenow.com"
+            --exclude "agentage.io"
+            --exclude "agentwork-api.yfoob.chatgpt.site"
+            --exclude "theagentsindex.com"
+            --exclude "notfair.co"
+            --exclude "lexisnexis.com"
+            --exclude "vercel.app"
+            --timeout 30
+            README.md
+          fail: true
+
+      - name: Create issue on failure
+        if: failure() && github.event_name != 'pull_request'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔗 Broken links detected"
+          content-filepath: ./lychee/out.md
+          labels: bug, maintenance
