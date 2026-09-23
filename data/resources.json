@@ -484,26 +484,6 @@
       "sourceLine": 85
     },
     {
-      "id": "openprogram",
-      "slug": "openprogram",
-      "name": "OpenProgram",
-      "url": "https://github.com/Fzkuji/OpenProgram",
-      "category": "Orchestration Frameworks",
-      "categorySlug": "orchestration-frameworks",
-      "tier": "emerging",
-      "tierBadge": "🔬",
-      "language": "Python",
-      "tags": [
-        "Python",
-        "Multi-Agent"
-      ],
-      "description": "Self-programming framework whose agents create, run, and refine workflows across models, tools, memory, and context.",
-      "isGitHub": true,
-      "githubRepo": "Fzkuji/OpenProgram",
-      "source": "README.md",
-      "sourceLine": 86
-    },
-    {
       "id": "praisonai",
       "slug": "praisonai",
       "name": "PraisonAI",
@@ -5407,7 +5387,7 @@
       "id": "lats-language-agent-tree-search",
       "slug": "lats-language-agent-tree-search",
       "name": "LATS: Language Agent Tree Search",
-      "url": "https://github.com/lapisrocks/LanguageAgentTreeSearch",
+      "url": "https://github.com/andyz245/LanguageAgentTreeSearch",
       "category": "Learning Resources",
       "categorySlug": "learning-resources",
       "tier": "growing",
@@ -5419,7 +5399,7 @@
       ],
       "description": "Combines Monte Carlo tree search with LLM reasoning for complex multi-step planning tasks.",
       "isGitHub": true,
-      "githubRepo": "lapisrocks/LanguageAgentTreeSearch",
+      "githubRepo": "andyz245/LanguageAgentTreeSearch",
       "source": "README.md",
       "sourceLine": 429
     },
@@ -6567,7 +6547,7 @@
       "id": "pika-25",
       "slug": "pika-25",
       "name": "Pika 2.5",
-      "url": "https://pika.art/login",
+      "url": "https://create.pika.art/login",
       "category": "Creative AI Agents",
       "categorySlug": "creative-ai-agents",
       "tier": "growing",
