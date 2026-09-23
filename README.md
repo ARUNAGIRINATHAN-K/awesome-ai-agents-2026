@@ -186,7 +186,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [Pinecone](https://www.pinecone.io) `🚀` `[Cloud]` `[Vector DB]` - Managed vector database with agent namespaces for multi-tenant isolation, hybrid search (vector + keyword), serverless auto-scaling, and $11B valuation.
 - [Qdrant](https://github.com/qdrant/qdrant) `🌱` `[Rust]` `[Vector DB]` - High-performance vector similarity search engine with rich payload filtering for agent memory.
 - [RAGFlow](https://github.com/infiniflow/ragflow) `🌱` `[Python]` `[RAG]` - Open-source RAG engine with agent capabilities and deep document understanding for knowledge bases.
-- [Screenpipe](https://screenpipe.com) `🚀` `[Desktop]` `[MCP]` - Source-available memory exposing locally captured screen text and audio history through MCP; configured cloud services can transmit context.
+- [Screenpipe](https://screenpipe.com) `🚀` `[Desktop]` `[MCP]` - Local screen-text/audio memory via MCP, source-available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md); configured cloud AI, transcription, sync, integrations and connected AI/MCP clients can transmit context off-device.
 - [SimpleMem](https://github.com/aiming-lab/SimpleMem) `🌱` `[Python]` `[Multimodal]` - Efficient lifelong memory for LLM agents supporting both text and multimodal inputs.
 - [Superdense](https://github.com/Nimrobo/superdense) `🔬` `[TypeScript]` `[Memory]` - Gives coding agents persistent memory of what worked across sessions, tracked against real-world outcomes.
 - [Supermemory](https://github.com/supermemoryai/supermemory) `🌱` `[TypeScript]` `[Vector DB]` - Extremely fast and scalable memory engine and API designed for the AI era.

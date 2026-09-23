@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:37:50.631Z",
+  "generatedAt": "2026-09-23T09:14:20.367Z",
   "source": "README.md",
   "totalResources": 479,
   "resources": [
@@ -1894,7 +1894,7 @@
         "Desktop",
         "MCP"
       ],
-      "description": "Source-available memory exposing locally captured screen text and audio history through MCP; configured cloud services can transmit context.",
+      "description": "Local screen-text/audio memory via MCP, source-available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md); configured cloud AI, transcription, sync, integrations and connected AI/MCP clients can transmit context off-device.",
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
