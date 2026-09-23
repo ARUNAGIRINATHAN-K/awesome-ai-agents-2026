@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T13:00:16.712Z",
+  "generatedAt": "2026-09-22T18:54:39.037Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -81,7 +81,7 @@
     {
       "name": "Agent Communication",
       "slug": "agent-communication",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Data Pipeline and Workflow",
