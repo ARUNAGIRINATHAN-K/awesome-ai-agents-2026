@@ -154,6 +154,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) `🚀` `[Python]` `[GitHub]` - Takes a GitHub issue and tries to automatically fix it.
 - [Tabnine](https://www.tabnine.com) `🚀` `[TypeScript]` `[IDE]` - Privacy-first AI code completion with on-premise deployment and codebase fine-tuning options.
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) `🚀` `[Python]` `[Microsoft]` - A code-first agent framework from Microsoft for planning and executing data analytics tasks.
+- [Team1 Software Factory](https://github.com/Team1-dev/Team1-Factory) `🔬` `[JavaScript]` `[GitHub]` - Self-hosted Open-source AI software factory: GitHub issues in, merged PRs out.
 - [Windsurf](https://devin.ai/desktop) `🌱` `[TypeScript]` `[IDE]` - AI-native IDE with Cascade agent for multi-step autonomous tasks and team workflows.
 - [YYLO](https://github.com/yylo-dev/yylo) `🔬` `[Python]` `[Multi-Agent]` - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree.
 
