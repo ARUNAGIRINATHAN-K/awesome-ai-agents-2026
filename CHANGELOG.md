@@ -10,6 +10,7 @@ All notable changes to this list will be documented here.
 
 | Date | Change |
 |---|---|
+| September 23 2026 | **Link audit** — Removed dead OpenProgram 404 entry and canonicalized redirected URLs for LATS and Pika 2.5 across README.md and data/resources.json. |
 | September 11 2026 | **Link audit** — Canonicalized redirected URLs for OWASP Top 10 for Agentic Apps and Sora 2 across README.md and data/resources.json. |
 | September 06 2026 | **AI Agent Registry Web App (Phase 2)** — Launched developer-focused Next.js 14 App Router interactive registry frontend. Added full-text client search, multi-faceted filtering (category, tier, runtime language, platform), static JSON dataset compilation (`scripts/build-data.js`), Docker multi-stage containerization, and responsive Minimal Style layout with dark/light theme support. |
 | September 04 2026 | **Link audit** — Updated redirected URL for EvoAgentX and removed dead Better Agent entry. |
