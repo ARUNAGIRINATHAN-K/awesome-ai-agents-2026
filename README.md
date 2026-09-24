@@ -223,6 +223,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [AgentsCoin MCP](https://github.com/axiosdevs/agentscoin-mcp) `🌱` `[TypeScript]` `[MCP]` - Gives an AI agent its own wallet and money on a live EVM chain to send, create, and trade tokens.
 - [Arcade AI](https://github.com/ArcadeAI/arcade-mcp) `🌱` `[Python]` `[Multi-Agent]` - Tool-use platform with authentication, authorization, and logging for agent-tool interactions.
 - [Composio](https://github.com/ComposioHQ/composio) `🌱` `[TypeScript]` `[Multi-Agent]` - Integration platform with 250+ pre-built tool connectors for AI agents and LLMs.
+- [Derrick](https://github.com/DerrickAppOrg/derrick-mcp) `🔬` `[TypeScript]` `[MCP]` - Enriches names, domains, and LinkedIn URLs with verified work emails, phone numbers, and company data.
 - [Docker MCP](https://github.com/docker/mcp-gateway) `🌱` `[Go]` `[MCP]` - Docker's MCP gateway CLI plugin for running MCP servers in isolated containers.
 - [HCS Agent Protocol](https://github.com/hashgraph/hedera-agent-kit-js) `🌱` `[TypeScript]` `[IDE]` - Hedera open standards for agent identity with trustless P2P communication and 187K+ verified agents.
 - [HIG Doctor](https://github.com/raintree-technology/hig-doctor) `🌱` `[TypeScript]` `[MCP]` - Apple HIG audit CLI and MCP server exposing design-guideline lookup and project audits for coding agents across SwiftUI, UIKit, React, Next.js, Flutter, Compose, HTML, and CSS.
