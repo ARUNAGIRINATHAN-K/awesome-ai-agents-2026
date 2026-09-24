@@ -257,6 +257,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) `🌱` `[TypeScript]` `[MCP]` - MCP server wrapping Playwright for seamless browser automation integration with LLM agents.
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) `🚀` `[Python]` `[GitHub]` - Production browser automation with 21.5K GitHub stars, 10M+ executed workflows, vision-first automation, and sub-300ms response times.
 - [Stagehand](https://github.com/browserbase/stagehand) `🌱` `[TypeScript]` `[Multi-Agent]` - AI web browsing framework built on Playwright with natural-language selectors and actions.
+- [TODO for AI](https://github.com/todoforai/edge) `🔬` `[TypeScript]` `[Local]` - Task-list agent that runs on your own machine and completes tasks through your shell, files and logged-in browser, with any model.
 
 
 ## Agent Tooling and Infrastructure
