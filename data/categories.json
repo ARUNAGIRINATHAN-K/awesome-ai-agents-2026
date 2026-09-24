@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-22T18:54:39.037Z",
+  "generatedAt": "2026-09-24T01:21:10.368Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
     {
       "name": "Orchestration Frameworks",
       "slug": "orchestration-frameworks",
-      "count": 31
+      "count": 30
     },
     {
       "name": "Coding Agents",
@@ -21,7 +21,7 @@
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Agent Communication Protocols",
@@ -121,7 +121,7 @@
     {
       "name": "Multi-Agent Consumer Platforms",
       "slug": "multi-agent-consumer-platforms",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Open-Source Models for Agents",
