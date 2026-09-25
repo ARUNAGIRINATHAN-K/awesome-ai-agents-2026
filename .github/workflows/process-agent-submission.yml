@@ -1,0 +1,97 @@
+name: Process Contributor Agent Submission
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  process-submission:
+    if: contains(github.event.issue.labels.*.name, 'agent-submission')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci || npm install
+
+      - name: Validate Submission & Update Registry
+        id: process
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: node scripts/process-submission.js
+
+      - name: Handle Duplicate or Invalid Submission
+        if: steps.process.outputs.STATUS == 'DUPLICATE' || steps.process.outputs.STATUS == 'INVALID'
+        uses: actions/github-script@v7
+        env:
+          SUBMISSION_STATUS: ${{ steps.process.outputs.STATUS }}
+          SUBMISSION_REASON: ${{ steps.process.outputs.REASON }}
+        with:
+          script: |
+            const status = process.env.SUBMISSION_STATUS;
+            const reason = process.env.SUBMISSION_REASON;
+            const issueNumber = context.issue.number;
+
+            let body = `### ⚠️ Agent Submission Feedback\n\n`;
+            if (status === 'DUPLICATE') {
+              body += `Thank you for contributing! However, this resource appears to already exist in the registry:\n\n> ${reason}\n\nThis issue has been marked as a duplicate.`;
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                labels: ['duplicate']
+              });
+            } else {
+              body += `Thank you for contributing! Your submission could not be automatically processed due to validation rules:\n\n> ${reason}\n\nPlease check the required format and update your issue details.`;
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                labels: ['invalid']
+              });
+            }
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              body: body
+            });
+
+      - name: Create Pull Request for Valid Submission
+        if: steps.process.outputs.STATUS == 'SUCCESS'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: ${{ steps.process.outputs.BRANCH_NAME }}
+          committer: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          title: "feat: add ${{ steps.process.outputs.RESOURCE_NAME }} to ${{ steps.process.outputs.CATEGORY }}"
+          commit-message: "feat: add ${{ steps.process.outputs.RESOURCE_NAME }} to ${{ steps.process.outputs.CATEGORY }}"
+          body: |
+            ### 🤖 Automated Contributor Submission PR
+
+            This PR was automatically generated from submission issue #${{ github.event.issue.number }}.
+
+            **Submitted Resource**: `${{ steps.process.outputs.RESOURCE_NAME }}`
+            **Target Category**: `${{ steps.process.outputs.CATEGORY }}`
+
+            #### Added Registry Entry:
+            ```markdown
+            ${{ steps.process.outputs.ENTRY_LINE }}
+            ```
+
+            Closes #${{ github.event.issue.number }}
+          labels: "agent-submission, automated-pr"
