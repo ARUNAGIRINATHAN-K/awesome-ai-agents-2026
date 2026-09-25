@@ -766,6 +766,7 @@ Curated newsletters, podcasts, and communities for staying current with AI agent
 - [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) - Reddit community for Claude users sharing agent workflows, prompts, and integration patterns (🏷️ `Community` `Reddit` `Forum`).
 - [r/LangChain](https://www.reddit.com/r/LangChain/) - Reddit community for agent developers using LangChain, LangGraph, and related frameworks (🏷️ `Community` `Reddit` `Forum`).
 - [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - Reddit community for self-hosted LLM users sharing local deployment and agent setup guides (🏷️ `Community` `Reddit` `Forum`).
+- [Agents Launchpad](https://launchpad.smartbizcalc.com) - Community-ranked directory of indie AI agents — browse, upvote, and list your own for free (🏷️ `Directory` `Community` `Web`).
 - [The Rundown AI](https://www.therundown.ai) - Daily AI digest reaching 600K+ subscribers with concise coverage of agent news and launches (🏷️ `Newsletter` `Daily` `Web`).
 
 ## Changelog
