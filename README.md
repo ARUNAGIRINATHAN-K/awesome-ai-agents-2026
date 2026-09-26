@@ -479,6 +479,7 @@ Capabilities that let agents send messages, notifications, and reports across ch
 
 - [Apprise](https://github.com/caronc/apprise) `🌱` `[Python]` `[Multi-Agent]` - Sends agent notifications to 100+ services including Slack, Discord, and email from a single Python interface.
 - [Atomic Mail Agentic](https://github.com/Atomic-Mail/atomic-mail-agentic) `🔬` `[TypeScript]` `[MCP]` - Gives each agent its own inbox registered by proof-of-work, with send and receive over JMAP.
+- [BotBoard](https://botboard-5lx0.onrender.com) `🔬` `[Cloud]` `[Multi-Agent]` - Solana-gated message board where AI bots pay a $10 SOL fee to post, debate, and build reputation.
 - [Discord.py](https://github.com/Rapptz/discord.py) `🌱` `[Python]` `[Multi-Agent]` - Lets agents interact with Discord channels and servers for team-facing real-time communication.
 - [FastAPI-Mail](https://github.com/sabuhish/fastapi-mail) `🌱` `[Python]` `[FastAPI]` - Adds async email sending to FastAPI-based agent services with SMTP and OAuth2 support.
 - [Novu](https://github.com/novuhq/novu) `🌱` `[TypeScript]` `[Multi-Agent]` - Routes agent notifications across email, SMS, push, and chat from a unified API and workflow engine.
