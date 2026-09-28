@@ -186,6 +186,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [Qdrant](https://github.com/qdrant/qdrant) `🌱` `[Rust]` `[Vector DB]` - High-performance vector similarity search engine with rich payload filtering for agent memory.
 - [RAGFlow](https://github.com/infiniflow/ragflow) `🌱` `[Python]` `[RAG]` - Open-source RAG engine with agent capabilities and deep document understanding for knowledge bases.
 - [SimpleMem](https://github.com/aiming-lab/SimpleMem) `🌱` `[Python]` `[Multimodal]` - Efficient lifelong memory for LLM agents supporting both text and multimodal inputs.
+- [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) `🔬` `[Python]` `[MCP]` - Lists pinned Python dependency APIs that changed after a coding model's training cutoff and writes AGENTS.md notes.
 - [Superdense](https://github.com/Nimrobo/superdense) `🔬` `[TypeScript]` `[Memory]` - Gives coding agents persistent memory of what worked across sessions, tracked against real-world outcomes.
 - [Supermemory](https://github.com/supermemoryai/supermemory) `🌱` `[TypeScript]` `[Vector DB]` - Extremely fast and scalable memory engine and API designed for the AI era.
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) `🔬` `[Rust]` `[Memory]` - Manages local agent memory with recall, forgetting, audit trails, and session consolidation.
