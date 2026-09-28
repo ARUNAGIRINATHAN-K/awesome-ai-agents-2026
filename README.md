@@ -241,7 +241,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 
 - [Agent S2](https://github.com/simular-ai/Agent-S) `🌱` `[Python]` `[Vision]` - Open-source GUI automation framework for building desktop and browser agents with vision.
 - [AgentQL](https://github.com/tinyfish-io/agentql) `🌱` `[Python]` `[Multi-Agent]` - AI-powered web scraping and automation with a semantic query language for page elements.
-- [AIHawk](https://github.com/feder-cr/AIHawk) `🚀` `[Python]` `[MCP]` - Drives a real Firefox from plain-English instructions, with sixteen MCP tools and a standalone web UI.
+- [AIHawk](https://github.com/feder-cr/invisible_playwright_mcp) `🚀` `[Python]` `[MCP]` - Drives a real Firefox from plain-English instructions, with sixteen MCP tools and a standalone web UI.
 - [Airtop](https://www.airtop.ai) `🚀` `[Cloud]` `[Multi-Agent]` - Enterprise-grade cloud browser infrastructure for AI agent automation at scale.
 - [Browser Use](https://github.com/browser-use/browser-use) `🌱` `[Python]` `[Multi-Agent]` - Open-source framework to let LLMs navigate and interact with any website programmatically.
 - [Browserbase](https://www.browserbase.com) `🚀` `[Cloud]` `[Multi-Agent]` - Scalable headless browser infrastructure purpose-built for running AI agents in production.
@@ -365,7 +365,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [AionUi](https://github.com/iOfficeAI/AionUi) `🚀` `[Desktop]` `[Multi-Agent]` - Connects 20+ AI CLIs and any API key in a local, open-source multi-agent desktop workspace.
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) `🌱` `[TypeScript]` `[RAG]` - All-in-one AI application with RAG, agents, and multi-model support for desktop and Docker.
 - [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) `🌱` `[Python]` `[Database]` - Data interaction platform with local LLM support for 100% private database and analytics agents.
-- [LibreChat](https://github.com/danny-avila/LibreChat) `🌱` `[TypeScript]` `[IDE]` - Self-hosted multi-model chat interface supporting all major AI providers with access control.
+- [LibreChat](https://github.com/LibreChat-AI/LibreChat) `🌱` `[TypeScript]` `[IDE]` - Self-hosted multi-model chat interface supporting all major AI providers with access control.
 - [LobeHub](https://lobehub.com/) `🌱` `[TypeScript]` `[Multi-Agent]` - Modern platform for hybrid work and AI-driven collaboration with extensible agent teams and rapid integration.
 - [LobeChat](https://github.com/lobehub/lobehub) `🌱` `[TypeScript]` `[Multi-Agent]` - Modern, open-source AI chat framework with a massive plugin ecosystem for autonomous agent capabilities.
 - [OpenHuman](https://github.com/tinyhumansai/openhuman) `🚀` `[Rust]` `[Memory]` - Self-hosted local-first personal AI assistant with a Rust core, desktop apps, knowledge-graph memory, skills, voice, and multi-channel messaging.
@@ -556,12 +556,12 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 - [Adobe Firefly 3](https://firefly.adobe.com) `🌱` `[Cloud]` `[Multi-Agent]` - Generates commercially safe images from text prompts using a model trained exclusively on licensed data.
 - [DALL-E 3.5](https://openai.com/dall-e-3) `🚀` `[Cloud]` `[OpenAI]` - Generates detailed images from text prompts with 95% text accuracy integrated directly into ChatGPT.
 - [FLUX 2](https://bfl.ai) `🌱` `[Python]` `[Multi-Agent]` - Open-weight photorealism model producing 4K output at 6x faster generation speed than its predecessor.
-- [Google Imagen 4](https://deepmind.google/models/imagen/) `🚀` `[Cloud]` `[Multi-Agent]` - Produces photorealistic images from text via Google DeepMind accessible through AI Studio.
+- [Google Imagen 4](https://deepmind.google/models/gemini-image/) `🚀` `[Cloud]` `[Multi-Agent]` - Produces photorealistic images from text via Google DeepMind accessible through AI Studio.
 - [Ideogram v3](https://ideogram.ai) `🌱` `[Cloud]` `[IDE]` - Renders readable text inside generated images with near-zero spelling errors for logos and marketing.
 - [Leonardo AI](https://leonardo.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Multi-model image platform with Realtime Canvas and 3D gaming asset generation now owned by Canva.
 - [Midjourney v7](https://midjourney.com) `🌱` `[Cloud]` `[Multi-Agent]` - Produces the highest artistic quality images with unmatched aesthetics via Discord and web interface.
 - [Recraft](https://www.recraft.ai) `🌱` `[Cloud]` `[Vector DB]` - Design-first image generator with native vector art output and brand consistency tools for designers.
-- [Seedream AI Studio](https://seedream4.video/) `🚀` `[Cloud]` `[CLI]` - Multi-model AI image generation platform by ByteDance using Seedream 5.0/4.5/4.0 models with one-click image-to-video animation via Kling 2.1.
+- [Seedream AI Studio](https://seed.bytedance.com) `🚀` `[Cloud]` `[CLI]` - Multi-model AI image generation platform by ByteDance using Seedream 5.0/4.5/4.0 models with one-click image-to-video animation via Kling 2.1.
 - [Stable Diffusion 3.5](https://stability.ai) `🌱` `[Python]` `[Pipeline]` - Open-source foundation model with full ControlNet, LoRA, and ComfyUI ecosystem for custom pipelines.
 
 ### Video Generation
