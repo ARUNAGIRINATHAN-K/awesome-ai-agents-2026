@@ -359,6 +359,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [SourceryKit](https://github.com/ProvablyAI/sourcerykit) `🔬` `[Python]` `[Security]` - Verifies an agent's outbound requests and MCP handoffs against a source of truth using zero-knowledge proofs, logging each call and blocking anything off the trusted-endpoint allow-list.
 - [Future AGI](https://github.com/future-agi/future-agi) `🌱` `[Python]` `[Self-Hosted]` - Self-hostable end-to-end agent engineering platform with tracing, evals, guardrails, and gateway.
 - [sofagent](https://github.com/KongFangXun/sofagent) `🔬` `[TypeScript]` `[Security]` - Commit-time audit harness that blocks credential leaks and out-of-scope file changes before they land, with 24 rules and HMAC-chained audit logs.
+- [SUNGLASSES](https://github.com/sunglasses-dev/sunglasses) `🔬` `[Python]` `[MCP]` - Scans text and files locally for prompt injection, credential leaks and data exfiltration with 1,554 patterns.
 
 ## Agent Interfaces and UIs
 
