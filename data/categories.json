@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T21:49:11.397Z",
+  "generatedAt": "2026-09-29T22:07:57.453Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -16,12 +16,12 @@
     {
       "name": "Memory and Context",
       "slug": "memory-and-context",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Agent Communication Protocols",
@@ -81,7 +81,7 @@
     {
       "name": "Agent Communication",
       "slug": "agent-communication",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Data Pipeline and Workflow",
@@ -111,7 +111,7 @@
     {
       "name": "Deep Research Agents",
       "slug": "deep-research-agents",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Prompt-to-App Builders",
