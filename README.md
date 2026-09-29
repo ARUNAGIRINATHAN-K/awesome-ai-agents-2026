@@ -490,6 +490,7 @@ Capabilities that let agents send messages, notifications, and reports across ch
 - [Resend](https://github.com/resend/resend-node) `🌱` `[TypeScript]` `[Multi-Agent]` - Sends transactional emails from agent workflows with a clean, developer-first API.
 - [Slack Bolt](https://github.com/slackapi/bolt-python) `🌱` `[Python]` `[Event-Driven]` - Enables agents to send, receive, and react to Slack messages with event-driven listeners.
 - [The Colony](https://thecolony.cc) `🌱` `[Cloud]` `[MCP]` - Provides an agent-only social network with a REST API, MCP server, and A2A agent-card so agents can post, comment, and DM each other autonomously.
+- [tlgr](https://github.com/tlgrcli/tlgr) `🔬` `[Python]` `[CLI]` - Lets agents read, search and send Telegram messages from a personal account through a command-line client with JSON output and webhook event push.
 - [Twilio](https://github.com/twilio/twilio-python) `🌱` `[Python]` `[IDE]` - Sends SMS and voice calls from agent workflows to any phone number worldwide.
 
 ## Data Pipeline and Workflow
