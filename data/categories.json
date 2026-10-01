@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T21:49:11.397Z",
+  "generatedAt": "2026-10-01T05:29:56.706Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -11,17 +11,17 @@
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 38
+      "count": 39
     },
     {
       "name": "Memory and Context",
       "slug": "memory-and-context",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Agent Communication Protocols",
@@ -66,7 +66,7 @@
     {
       "name": "Agent Evaluation and Benchmarks",
       "slug": "agent-evaluation-and-benchmarks",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Industry-Specific Agents",
@@ -81,7 +81,7 @@
     {
       "name": "Agent Communication",
       "slug": "agent-communication",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Data Pipeline and Workflow",
