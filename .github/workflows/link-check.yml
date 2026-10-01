@@ -40,6 +40,8 @@ jobs:
             --exclude "notfair.co"
             --exclude "lexisnexis.com"
             --exclude "vercel.app"
+            --exclude "tabnine.com"
+            --exclude "seedream4.video"
             --timeout 30
             README.md
           fail: true
