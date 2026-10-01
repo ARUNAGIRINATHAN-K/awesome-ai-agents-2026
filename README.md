@@ -186,6 +186,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [Pinecone](https://www.pinecone.io) `🚀` `[Cloud]` `[Vector DB]` - Managed vector database with agent namespaces for multi-tenant isolation, hybrid search (vector + keyword), serverless auto-scaling, and $11B valuation.
 - [Qdrant](https://github.com/qdrant/qdrant) `🌱` `[Rust]` `[Vector DB]` - High-performance vector similarity search engine with rich payload filtering for agent memory.
 - [RAGFlow](https://github.com/infiniflow/ragflow) `🌱` `[Python]` `[RAG]` - Open-source RAG engine with agent capabilities and deep document understanding for knowledge bases.
+- [Screenpipe](https://screenpipe.com) `🚀` `[Desktop]` `[MCP]` - Local screen-text/audio memory via MCP, source-available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md); configured cloud AI, transcription, sync, integrations and connected AI/MCP clients can transmit context off-device.
 - [SimpleMem](https://github.com/aiming-lab/SimpleMem) `🌱` `[Python]` `[Multimodal]` - Efficient lifelong memory for LLM agents supporting both text and multimodal inputs.
 - [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) `🔬` `[Python]` `[MCP]` - Lists pinned Python dependency APIs that changed after a coding model's training cutoff and writes AGENTS.md notes.
 - [Superdense](https://github.com/Nimrobo/superdense) `🔬` `[TypeScript]` `[Memory]` - Gives coding agents persistent memory of what worked across sessions, tracked against real-world outcomes.
