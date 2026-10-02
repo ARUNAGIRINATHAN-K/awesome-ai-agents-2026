@@ -690,6 +690,7 @@ AI platforms that conduct autonomous multi-step research, synthesize findings fr
 - [CAJAL](https://github.com/Agnuxo1/CAJAL) `🌱` `[Python]` `[Local]` - Local AI agent that generates publication-ready IMRaD scientific papers with verified arXiv citations and AI tribunal scoring.
 - [ChatGPT Deep Research](https://openai.com/index/introducing-deep-research) `🚀` `[Cloud]` `[OpenAI]` - Conducts extended reasoning with web browsing to produce structured research reports with Canvas output.
 - [Claude Deep Research](https://www.anthropic.com/research) `🚀` `[Cloud]` `[Anthropic]` - Performs multi-step investigation with verified source citations and 200K token context window.
+- [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) `🔬` `[Cloud]` `[Research]` - Serves Base x402 research reports ($2 USDC) and chat ($0.001) with free discovery for external payers.
 - [DeerFlow](https://github.com/bytedance/deer-flow) `🚀` `[Python]` `[Multi-Agent]` - Multi-agent research system from ByteDance with planning and execution loops for autonomous investigation.
 - [Gemini Deep Research](https://blog.google/products-and-platforms/products/gemini/google-gemini-deep-research/) `🚀` `[Cloud]` `[RAG]` - Leverages Google Search and Knowledge Graph integration with 1M token context for breadth-first research.
 - [Perplexity Pro](https://www.perplexity.ai) `🌱` `[Cloud]` `[IDE]` - Provides real-time search answers with inline citations and follow-up threads for iterative research.
