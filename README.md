@@ -309,6 +309,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [n8n](https://github.com/n8n-io/n8n) `🌱` `[TypeScript]` `[Docker]` - Open-source workflow automation with AI agent nodes combining visual and code-based orchestration.
 - [Relevance AI](https://relevanceai.com) `🌱` `[Cloud]` `[No-Code]` - No-code AI agent builder for sales, support, and research use cases with team collaboration.
 - [Rivet](https://github.com/Ironclad/rivet) `🌱` `[TypeScript]` `[RAG]` - Visual AI workflow builder with drag-and-drop interface for designing agent pipelines.
+- [Syl](https://www.usesyl.com) `🔬` `[Cloud]` `[MCP]` - Hosted app for building teams of AI teammates that share conversations, keep memory, and run scheduled routines.
 - [Temporal](https://github.com/temporalio/temporal) `🚀` `[Go]` `[Multi-Agent]` - Durable execution platform for long-running agent workflows with automatic retry and state persistence.
 - [Wordware](https://www.wordware.ai) `🌱` `[TypeScript]` `[IDE]` - Web-hosted IDE where domain experts collaborate with AI engineers to build agent workflows.
 - [Zapier AI](https://zapier.com) `🌱` `[Cloud]` `[No-Code]` - Connects 7000+ apps with natural language workflow creation for no-code agent automation.
