@@ -666,7 +666,7 @@ Platforms for building, deploying, and scaling voice-based AI agents across call
 | Vapi       | Low     | No    | Developer-first          |
 | Bland AI   | Medium  | Yes   | Outbound call automation |
 | PolyAI     | Low     | Yes   | Enterprise scale         |
-- [AI Group Call](https://aigroupcall.app) - You set a goal and six to eight AI voices run a round-table call with you: drop-ins, barge-in, and a written recap.
+- [AI Group Call](https://aigroupcall.app) - You set a goal and two to eight AI voices run a round-table call with you: drop-ins, barge-in, and a written recap.
 
 - [AgentLine](https://agentline.cloud/) `🌱` `[Cloud]` `[Pipeline]` - Telephony infrastructure for AI agents to provision phone numbers, make or receive calls, and manage voice pipelines via API.
 - [AssemblyAI](https://www.assemblyai.com) `🌱` `[Cloud]` `[Pipeline]` - Speech-to-text API with speaker diarization, sentiment analysis, and summarization for voice agent pipelines.
