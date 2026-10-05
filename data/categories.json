@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T23:03:57.240Z",
+  "generatedAt": "2026-10-05T04:42:50.377Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -11,7 +11,7 @@
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 39
+      "count": 40
     },
     {
       "name": "Memory and Context",
@@ -26,22 +26,22 @@
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Browser and Computer Use Agents",
       "slug": "browser-and-computer-use-agents",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Agent Tooling and Infrastructure",
       "slug": "agent-tooling-and-infrastructure",
-      "count": 24
+      "count": 26
     },
     {
       "name": "Low and No-Code Builders",
       "slug": "low-and-no-code-builders",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Voice and Multimodal Agents",
@@ -76,7 +76,7 @@
     {
       "name": "Learning Resources",
       "slug": "learning-resources",
-      "count": 17
+      "count": 19
     },
     {
       "name": "Agent Communication",
@@ -106,7 +106,7 @@
     {
       "name": "Voice Agent Platforms",
       "slug": "voice-agent-platforms",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Deep Research Agents",

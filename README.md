@@ -281,6 +281,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [E2B](https://github.com/e2b-dev/e2b) `🌱` `[TypeScript]` `[Multi-Agent]` - Cloud sandboxes for AI agents to run code securely in isolated environments.
 - [Engram](https://github.com/kwstx/translator) `🌱` `[Python]` `[Multi-Agent]` - Universal bridge for multi-protocol AI agent systems with automated semantic mapping.
 - [Firecrawl](https://github.com/firecrawl/firecrawl) `🌱` `[TypeScript]` `[Multi-Agent]` - Web scraping API built for LLMs that converts websites to clean, structured markdown.
+- [HumanEndpoint](https://humanendpoint.au/) `🔬` `[TypeScript]` `[MCP]` - Human execution infrastructure for agents to request reviewed work, settle fees via x402 USDC, track jobs, and retrieve verifiable evidence.
 - [Jina Reader](https://github.com/jina-ai/reader) `🌱` `[TypeScript]` `[Multi-Agent]` - Converts any URL to LLM-ready clean text via a simple API prefix for agent ingestion.
 - [Tracefold](https://github.com/TraceFold/tracefold) `🚀` `[Rust]` `[MCP]` - Reverse-execution gateway that escrows checked pre-commit inverses, enforces Cedar policy gates, and produces signed offline-verifiable DSSE receipts for tool mutations.
 - [LlamaParse](https://github.com/run-llama/llama_cloud_services) `🌱` `[Python]` `[RAG]` - GenAI-native document parser designed to extract complex tables and layouts for RAG pipelines.
