@@ -259,6 +259,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Manus](https://manus.im) `🚀` `[Cloud]` `[Multi-Agent]` - Autonomous digital employee with Browser Operator extension acquired by Meta for web-based task execution.
 - [MultiOn](https://www.theagi.company/) `🚀` `[Cloud]` `[Multi-Agent]` - Reliable web automation API with CAPTCHA handling for building production browser agents.
 - [OpenAI Operator](https://openai.com/index/computer-using-agent/) `🚀` `[Cloud]` `[OpenAI]` - ChatGPT autonomous web agent with human checkpoints using Computer Use Agent technology.
+- [OpenAmer](https://github.com/openamer/openamer) `🌱` `[Python]` `[Local]` - Open-source Windows desktop agent with native computer-use over the Chrome DevTools Protocol, in-process cognition tools, and peer-to-peer coordination between instances.
 - [OpenClaw](https://github.com/openclaw/openclaw) `🌱` `[Python]` `[Framework]` - Autonomous open-source computer use and browser automation agent framework.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) `🌱` `[TypeScript]` `[MCP]` - MCP server wrapping Playwright for seamless browser automation integration with LLM agents.
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) `🚀` `[Python]` `[GitHub]` - Production browser automation with 21.5K GitHub stars, 10M+ executed workflows, vision-first automation, and sub-300ms response times.
