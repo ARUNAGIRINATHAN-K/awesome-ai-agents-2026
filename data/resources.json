@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T06:03:13.465Z",
+  "generatedAt": "2026-10-05T06:03:10.076Z",
   "source": "README.md",
   "totalResources": 495,
   "resources": [
@@ -3297,6 +3297,26 @@
       "description": "Web scraping API built for LLMs that converts websites to clean, structured markdown.",
       "isGitHub": true,
       "githubRepo": "firecrawl/firecrawl",
+      "source": "README.md",
+      "sourceLine": 284
+    },
+    {
+      "id": "humanendpoint",
+      "slug": "humanendpoint",
+      "name": "HumanEndpoint",
+      "url": "https://humanendpoint.au/",
+      "category": "Agent Tooling and Infrastructure",
+      "categorySlug": "agent-tooling-and-infrastructure",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "TypeScript",
+      "tags": [
+        "TypeScript",
+        "MCP"
+      ],
+      "description": "Human execution infrastructure for agents to request reviewed work, settle fees via x402 USDC, track jobs, and retrieve verifiable evidence.",
+      "isGitHub": false,
+      "githubRepo": null,
       "source": "README.md",
       "sourceLine": 284
     },
