@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T04:42:50.377Z",
+  "generatedAt": "2026-10-05T06:03:10.076Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -56,7 +56,7 @@
     {
       "name": "Agent Interfaces and UIs",
       "slug": "agent-interfaces-and-uis",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Agent Deployment and Hosting",
