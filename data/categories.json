@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T06:03:10.076Z",
+  "generatedAt": "2026-10-05T18:17:36.603Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -61,7 +61,7 @@
     {
       "name": "Agent Deployment and Hosting",
       "slug": "agent-deployment-and-hosting",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Agent Evaluation and Benchmarks",
@@ -111,7 +111,7 @@
     {
       "name": "Deep Research Agents",
       "slug": "deep-research-agents",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Prompt-to-App Builders",
