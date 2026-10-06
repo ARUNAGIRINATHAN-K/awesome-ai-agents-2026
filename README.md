@@ -316,6 +316,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Syl](https://www.usesyl.com) `🔬` `[Cloud]` `[MCP]` - Hosted app for building teams of AI teammates that share conversations, keep memory, and run scheduled routines.
 - [Temporal](https://github.com/temporalio/temporal) `🚀` `[Go]` `[Multi-Agent]` - Durable execution platform for long-running agent workflows with automatic retry and state persistence.
 - [Wordware](https://www.wordware.ai) `🌱` `[TypeScript]` `[IDE]` - Web-hosted IDE where domain experts collaborate with AI engineers to build agent workflows.
+- [Workato Agent Studio](https://www.workato.com/agentstudio) `🚀` `[Cloud]` `[No-Code]` - No-code platform for building, deploying, and governing enterprise AI agents that reason, orchestrate multi-step workflows, and take actions across business applications.
 - [Zapier AI](https://zapier.com) `🌱` `[Cloud]` `[No-Code]` - Connects 7000+ apps with natural language workflow creation for no-code agent automation.
 
 ## Voice and Multimodal Agents
