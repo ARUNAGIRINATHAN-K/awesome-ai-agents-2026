@@ -289,6 +289,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [LlamaParse](https://github.com/run-llama/llama_cloud_services) `🌱` `[Python]` `[RAG]` - GenAI-native document parser designed to extract complex tables and layouts for RAG pipelines.
 - [Marker](https://github.com/datalab-to/marker) `🌱` `[Python]` `[CLI]` - Converts PDF documents to markdown with high accuracy for tables, equations, and figures.
 - [Notte](https://github.com/nottelabs/notte) `🚀` `[Python]` `[Pipeline]` - Browser automation engine optimized for production AI pipelines.
+- [openai-agents-nano-x402](https://github.com/dhyabi2/openai-agents-nano-x402) `🔬` `[Python]` `[OpenAI]` - Exposes a Nano (XNO) x402 payer as an OpenAI Agents SDK tool, with an operator-signed spend mandate.
 - [Pilot Protocol](https://github.com/pilot-protocol/pilotprotocol) `🌱` `[Go]` `[Multi-Agent]` - Networking stack for distributed agent systems with encrypted tunnels.
 - [Playwright](https://github.com/microsoft/playwright) `🌱` `[TypeScript]` `[Testing]` - Automates Chromium, Firefox, and WebKit browsers with a single cross-language API for agent-driven testing.
 - [SandBase CLI](https://github.com/sandbaseai/cli) `🔬` `[TypeScript]` `[MCP]` - Connects coding agents to 2,000+ AI models through one onboarding command.
