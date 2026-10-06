@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T18:17:36.603Z",
+  "generatedAt": "2026-10-06T06:14:55.398Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -41,7 +41,7 @@
     {
       "name": "Low and No-Code Builders",
       "slug": "low-and-no-code-builders",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Voice and Multimodal Agents",
