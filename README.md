@@ -575,6 +575,7 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 - [FLUX 2](https://bfl.ai) `🌱` `[Python]` `[Multi-Agent]` - Open-weight photorealism model producing 4K output at 6x faster generation speed than its predecessor.
 - [Google Imagen 4](https://deepmind.google/models/gemini-image/) `🚀` `[Cloud]` `[Multi-Agent]` - Produces photorealistic images from text via Google DeepMind accessible through AI Studio.
 - [Ideogram v3](https://ideogram.ai) `🌱` `[Cloud]` `[IDE]` - Renders readable text inside generated images with near-zero spelling errors for logos and marketing.
+- [kdpbook.io](https://kdpbook.io) `🔬` `[Cloud]` `[Multimodal]` - Writes, illustrates with consistent characters and typesets books from a chat, exporting Amazon KDP print PDFs and EPUB.
 - [Leonardo AI](https://leonardo.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Multi-model image platform with Realtime Canvas and 3D gaming asset generation now owned by Canva.
 - [Midjourney v7](https://midjourney.com) `🌱` `[Cloud]` `[Multi-Agent]` - Produces the highest artistic quality images with unmatched aesthetics via Discord and web interface.
 - [Recraft](https://www.recraft.ai) `🌱` `[Cloud]` `[Vector DB]` - Design-first image generator with native vector art output and brand consistency tools for designers.
