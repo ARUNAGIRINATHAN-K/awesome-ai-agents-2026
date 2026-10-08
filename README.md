@@ -15,7 +15,7 @@
 
 *The most comprehensive, structured guide to AI agent frameworks, tools, and resources.*  
 *Updated weekly. Compared side-by-side. Built for developers who ship.*
-
+- [Falkster AI Agent Army](https://falkster.com/handbook/ai-agent-army) `🔬` ` [Browser] ` ` [Evaluation] ` - 44 free AI agent blueprints for PMs, each with prompt, eval rubric, and ship-readiness gate.
 **[Explore the Stack](#contents) • [Live App](https://ai-agent-registry-kappa.vercel.app/#live) • [Architecture](ARCHITECTURE.md) • [Data Schema](DATA_SCHEMA.md) • [Development](DEVELOPMENT.md) • [Contributing](#contributing) • [Agent Guide](AGENT.md)**
 
 </div>
@@ -481,7 +481,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [AI Engineering by Chip Huyen](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) `🌱` `[Python]` `[IDE]` - Comprehensive guide on AI systems design and deployment covering agent architecture patterns.
 - [Anthropic Cookbook](https://github.com/anthropics/claude-cookbooks) `🚀` `[Python]` `[Anthropic]` - Collection of Claude agent recipes and integration patterns from Anthropic.
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) `🚀` `[Python]` `[Anthropic]` - Anthropic's guide on agent design patterns, evaluation strategies, and production best practices.
-- [Falkster AI Agent Army](https://falkster.com/handbook/ai-agent-army)`🔬``[Browser]``[Guide]`- 44 free AI agent blueprints for PMs, each with prompt, eval rubric, and ship-readiness gate.
+- [Falkster AI Agent Army](https://falkster.com/handbook/ai-agent-army) `🔬` ` [Browser] ` ` [Evaluation] ` - 44 free AI agent blueprints for PMs, each with prompt, eval rubric, and ship-readiness gate.
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course) `🚀` `[Python]` `[Multi-Agent]` - Open-source course on building AI agents using Hugging Face tools and models.
 - [Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457) `🌱` `[Python]` `[Benchmark]` - EMNLP 2025 paper introducing PersonaEvolve, an LLM-based optimizer that refines agent personas so crowds of LLM agents behave realistically against expert benchmarks.
 - [Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](https://arxiv.org/abs/2501.18280) `🔬` `[Python]` `[Paper]` - Universal suffix that manipulates text-embedding similarity to bypass safety guardrails across ChatGPT, DeepSeek, and Qwen.
