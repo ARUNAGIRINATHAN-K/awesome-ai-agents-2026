@@ -1064,6 +1064,26 @@
       "sourceLine": 144
     },
     {
+      "id": "mu",
+      "slug": "mu",
+      "name": "mu",
+      "url": "https://github.com/qybaihe/mu",
+      "category": "Coding Agents",
+      "categorySlug": "coding-agents",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "TypeScript",
+      "tags": [
+        "TypeScript",
+        "CLI"
+      ],
+      "description": "Coding agent that sends routine decisions, such as which tool output enters context, to a small judge model.",
+      "isGitHub": true,
+      "githubRepo": "qybaihe/mu",
+      "source": "README.md",
+      "sourceLine": 144
+    },
+    {
       "id": "open-interpreter",
       "slug": "open-interpreter",
       "name": "Open Interpreter",
@@ -5944,7 +5964,7 @@
       "id": "hugging-face-agents-course",
       "slug": "hugging-face-agents-course",
       "name": "Hugging Face Agents Course",
-      "url": "https://huggingface.co/learn/agents-course/unit0/introduction",
+      "url": "https://huggingface.co/learn/agents-course",
       "category": "Learning Resources",
       "categorySlug": "learning-resources",
       "tier": "production",
@@ -6354,7 +6374,7 @@
         "Cloud",
         "CLI"
       ],
-      "description": "Email infrastructure for agents: dedicated inbox per agent, inbound over websocket or webhook, threaded replies, attachment parsing.",
+      "description": "Email infrastructure for agents: dedicated inbox per agent, inbound over WebSocket or webhook, threaded replies, attachment parsing.",
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",

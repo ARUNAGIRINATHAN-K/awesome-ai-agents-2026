@@ -10,6 +10,7 @@ All notable changes to this list will be documented here.
 
 | Date | Change |
 |---|---|
+| October 08 2026 | **Linting fix** — Canonicalized Hugging Face Agents Course URL to resolve awesome-list-item remark-lint error and capitalized WebSocket in OpenMail description. |
 | September 28 2026 | **Link audit** — Updated Seedream AI Studio to ByteDance official URL, canonicalized redirected URLs for Google Imagen 4, LibreChat, and AIHawk across README.md and data/resources.json, and added exclusions for Tabnine and Seedream4 in link-check workflow. |
 | September 23 2026 | **Link audit** — Removed dead OpenProgram 404 entry and canonicalized redirected URLs for LATS and Pika 2.5 across README.md and data/resources.json. |
 | September 11 2026 | **Link audit** — Canonicalized redirected URLs for OWASP Top 10 for Agentic Apps and Sora 2 across README.md and data/resources.json. |
