@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-06T06:14:55.398Z",
+  "generatedAt": "2026-10-07T23:02:36.297Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
     {
       "name": "Orchestration Frameworks",
       "slug": "orchestration-frameworks",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 41
+      "count": 42
     },
     {
       "name": "Memory and Context",
@@ -31,7 +31,7 @@
     {
       "name": "Browser and Computer Use Agents",
       "slug": "browser-and-computer-use-agents",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Agent Tooling and Infrastructure",
