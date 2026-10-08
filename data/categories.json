@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:14:55.398Z",
+  "generatedAt": "2026-10-07T16:16:03.148Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -11,7 +11,7 @@
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 41
+      "count": 42
     },
     {
       "name": "Memory and Context",
@@ -31,7 +31,7 @@
     {
       "name": "Browser and Computer Use Agents",
       "slug": "browser-and-computer-use-agents",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Agent Tooling and Infrastructure",
