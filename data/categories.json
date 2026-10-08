@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-07T16:16:03.148Z",
+  "generatedAt": "2026-10-07T23:02:36.297Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
     {
       "name": "Orchestration Frameworks",
       "slug": "orchestration-frameworks",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Coding Agents",

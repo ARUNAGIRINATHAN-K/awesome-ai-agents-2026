@@ -96,6 +96,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [CAMEL](https://github.com/camel-ai/camel) `🌱` `[Python]` `[Multi-Agent]` - Role-based multi-agent simulation framework for collaborative reasoning and task completion.
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) `🌱` `[TypeScript]` `[Multi-Agent]` - Open-source platform for embedding custom AI copilots into React applications.
 - [CrewAI](https://github.com/crewAIInc/crewAI) `🚀` `[Python]` `[Multi-Agent]` - Production multi-agent framework with 5K+ GitHub stars, role-based collaboration, async execution, and 1500+ company adoptions.
+- [Doforu](https://doforu.ai) `🔬` `[Desktop]` `[Multi-Agent]` - Orchestrates parallel sub-agents on your desktop and verifies their results before merging.
 - [DSPy](https://github.com/stanfordnlp/dspy) `🌱` `[Python]` `[Research]` - Stanford framework that programmatically optimizes LLM prompts using machine learning.
 - [Ontheia](https://github.com/Ontheia/ontheia) `🌱` `[TypeScript]` `[MCP]` - Self-hosted MCP-native agent platform with visual workflow automation and multi-provider support.
 - [Google ADK](https://github.com/google/adk-python) `🌱` `[Python]` `[Multi-Agent]` - Modular agent dev kit with native Gemini and Vertex AI integration.
