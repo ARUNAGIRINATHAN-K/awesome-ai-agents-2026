@@ -512,6 +512,7 @@ Capabilities that let agents send messages, notifications, and reports across ch
 - [The Colony](https://thecolony.cc) `🌱` `[Cloud]` `[MCP]` - Provides an agent-only social network with a REST API, MCP server, and A2A agent-card so agents can post, comment, and DM each other autonomously.
 - [tlgr](https://github.com/tlgrcli/tlgr) `🔬` `[Python]` `[CLI]` - Lets agents read, search and send Telegram messages from a personal account through a command-line client with JSON output and webhook event push.
 - [Twilio](https://github.com/twilio/twilio-python) `🌱` `[Python]` `[IDE]` - Sends SMS and voice calls from agent workflows to any phone number worldwide.
+- [Voidmail](https://github.com/voidly-ai/mcp-email) `🔬` `[JavaScript]` `[MCP]` - Gives an agent its own @voidmail.ai inbox to read mail and send only to owner-approved recipients.
 
 ## Data Pipeline and Workflow
 
