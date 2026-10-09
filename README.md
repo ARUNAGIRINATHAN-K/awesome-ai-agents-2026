@@ -235,6 +235,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Datacircle](https://docs.datacircle.dev/mcp-server) `🔬` `[Cloud]` `[MCP]` - Query your favorite B2B data APIs through us. Same request, same price, no markup.
 - [Docker MCP](https://github.com/docker/mcp-gateway) `🌱` `[Go]` `[MCP]` - Docker's MCP gateway CLI plugin for running MCP servers in isolated containers.
 - [Equibles](https://equibles.com/mcp) `🔬` `[Cloud]` `[MCP]` - Serves US stock data to agents over MCP: SEC filings, financials, earnings transcripts, insider trades and 13F holdings.
+- [ERIUS PHONE MCP](https://github.com/Protremix/erius-phone-mcp) `🔬` `[Python]` `[MCP]` - Lets an agent drive a hosted ERIUS PHONE Android device to read the screen, tap, type, swipe, install APKs, and pull crash logs.
 - [HCS Agent Protocol](https://github.com/hashgraph/hedera-agent-kit-js) `🌱` `[TypeScript]` `[IDE]` - Hedera open standards for agent identity with trustless P2P communication and 187K+ verified agents.
 - [HIG Doctor](https://github.com/raintree-technology/hig-doctor) `🌱` `[TypeScript]` `[MCP]` - Apple HIG audit CLI and MCP server exposing design-guideline lookup and project audits for coding agents across SwiftUI, UIKit, React, Next.js, Flutter, Compose, HTML, and CSS.
 - [Hyper](https://github.com/hyperfx-ai/marketing-skills) `🌱` `[Cloud]` `[MCP]` - Open-source Agent Skills and a hosted MCP connecting agents to 200+ marketing integrations across paid ads, SEO, analytics, social, and image and video generation, with a human-approval gate on every action.
