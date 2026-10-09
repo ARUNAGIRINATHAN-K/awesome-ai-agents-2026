@@ -303,6 +303,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Tavily](https://github.com/tavily-ai/tavily-python) `🌱` `[Python]` `[Multi-Agent]` - Search API purpose-built for LLM agents providing real-time, accurate web data with source citations.
 - [traceAI](https://github.com/future-agi/traceAI) `🌱` `[Python]` `[Observability]` - OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations.
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) `🌱` `[Python]` `[Pipeline]` - Ingests and preprocesses documents across 25+ file types for downstream LLM and agent pipelines.
+- [Tanod](https://github.com/tanod-labs/tanod-mcp) `🔬` `[Cloud]` `[MCP]` - Remote MCP server with 140+ pay-per-call tools for PDF, OCR, images, web pages and chain reads, free daily allowance then x402 USDC.
 
 ## Low and No-Code Builders
 
