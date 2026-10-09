@@ -300,10 +300,10 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) `🌱` `[Python]` `[LangChain]` - Python web-scraping library that uses LLMs to build intelligent scraping pipelines from natural-language instructions.
 - [Superagent](https://github.com/pungme/superagent-desktop) `🔬` `[Desktop]` `[Local]` - Gives Claude Code and Codex a real browser and iOS Simulator to drive locally on macOS.
 - [Surya](https://github.com/datalab-to/surya) `🌱` `[Python]` `[CLI]` - Runs OCR and layout detection on documents in 90+ languages for multilingual document agents.
+- [Tanod](https://github.com/tanod-labs/tanod-mcp) `🔬` `[Cloud]` `[MCP]` - Remote MCP server with 140+ pay-per-call tools for PDF, OCR, images, web pages and chain reads, free daily allowance then x402 USDC.
 - [Tavily](https://github.com/tavily-ai/tavily-python) `🌱` `[Python]` `[Multi-Agent]` - Search API purpose-built for LLM agents providing real-time, accurate web data with source citations.
 - [traceAI](https://github.com/future-agi/traceAI) `🌱` `[Python]` `[Observability]` - OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations.
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) `🌱` `[Python]` `[Pipeline]` - Ingests and preprocesses documents across 25+ file types for downstream LLM and agent pipelines.
-- [Tanod](https://github.com/tanod-labs/tanod-mcp) `🔬` `[Cloud]` `[MCP]` - Remote MCP server with 140+ pay-per-call tools for PDF, OCR, images, web pages and chain reads, free daily allowance then x402 USDC.
 
 ## Low and No-Code Builders
 
