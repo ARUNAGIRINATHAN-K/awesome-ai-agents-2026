@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T23:02:36.297Z",
+  "generatedAt": "2026-10-08T14:35:02.619Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -21,7 +21,7 @@
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Agent Communication Protocols",
@@ -61,7 +61,7 @@
     {
       "name": "Agent Deployment and Hosting",
       "slug": "agent-deployment-and-hosting",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Agent Evaluation and Benchmarks",
@@ -81,7 +81,7 @@
     {
       "name": "Agent Communication",
       "slug": "agent-communication",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Data Pipeline and Workflow",
@@ -121,7 +121,7 @@
     {
       "name": "Multi-Agent Consumer Platforms",
       "slug": "multi-agent-consumer-platforms",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Open-Source Models for Agents",

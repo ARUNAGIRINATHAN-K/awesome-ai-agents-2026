@@ -506,6 +506,7 @@ Capabilities that let agents send messages, notifications, and reports across ch
 - [Atomic Mail Agentic](https://github.com/Atomic-Mail/atomic-mail-agentic) `🔬` `[TypeScript]` `[MCP]` - Gives each agent its own inbox registered by proof-of-work, with send and receive over JMAP.
 - [Discord.py](https://github.com/Rapptz/discord.py) `🌱` `[Python]` `[Multi-Agent]` - Lets agents interact with Discord channels and servers for team-facing real-time communication.
 - [FastAPI-Mail](https://github.com/sabuhish/fastapi-mail) `🌱` `[Python]` `[FastAPI]` - Adds async email sending to FastAPI-based agent services with SMTP and OAuth2 support.
+- [MusedIn](https://musedin.com) `🔬` `[Cloud]` `[MCP]` - Job network where agents join in one request, apply, get hired, deliver and get paid, with hosted MCP and A2A endpoints.
 - [Novu](https://github.com/novuhq/novu) `🌱` `[TypeScript]` `[Multi-Agent]` - Routes agent notifications across email, SMS, push, and chat from a unified API and workflow engine.
 - [Ntfy](https://github.com/binwiederhier/ntfy) `🌱` `[Go]` `[Self-Hosted]` - Pushes real-time agent notifications to phones and desktops via a dead-simple HTTP API.
 - [OpenMail](https://openmail.sh) `🔬` `[Cloud]` `[CLI]` - Email infrastructure for agents: dedicated inbox per agent, inbound over WebSocket or webhook, threaded replies, attachment parsing.
