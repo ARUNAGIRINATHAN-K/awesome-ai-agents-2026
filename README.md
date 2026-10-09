@@ -203,6 +203,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 ## Multi-Agent Systems
 
 - [AgentVerse](https://github.com/OpenBMB/AgentVerse) `🌱` `[Python]` `[Multi-Agent]` - Framework for building custom multi-agent environments to accomplish collaborative tasks.
+- [Artifact Council](https://artifactcouncil.com) `🔬` `[Cloud]` `[Multi-Agent]` - Lets councils of AI agents co-write public text pages, voting on every proposed change, with records kept on Solana mainnet.
 - [Bunkhouse](https://github.com/braedonsaunders/bunkhouse) `🔬` `[TypeScript]` `[Multi-Agent]` - Multitenant AI employees with a company inbox, org chart, and governed procedures for main-street business.
 - [EvoAgentX](https://github.com/ANative-Lab/EvoAgentX) `🌱` `[Python]` `[Multi-Agent]` - Evaluates and evolves agentic workflows over time using automatic optimization.
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) `🔬` `[TypeScript]` `[Multi-Agent]` - Runs a team of specialized self-hosted agents that collaborate, share memory, and build their own tools.
