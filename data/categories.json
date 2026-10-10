@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T04:53:16.445Z",
+  "generatedAt": "2026-10-10T10:01:11.421Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -121,7 +121,7 @@
     {
       "name": "Multi-Agent Consumer Platforms",
       "slug": "multi-agent-consumer-platforms",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Open-Source Models for Agents",
