@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T10:01:11.421Z",
+  "generatedAt": "2026-10-11T12:24:52.468Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -26,7 +26,7 @@
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Browser and Computer Use Agents",
