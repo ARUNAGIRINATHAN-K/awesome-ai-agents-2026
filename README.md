@@ -240,6 +240,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Hyper](https://github.com/hyperfx-ai/marketing-skills) `🌱` `[Cloud]` `[MCP]` - Open-source Agent Skills and a hosted MCP connecting agents to 200+ marketing integrations across paid ads, SEO, analytics, social, and image and video generation, with a human-approval gate on every action.
 - [Live Tennis API MCP](https://github.com/livetennisapi/livetennisapi-mcp) `🔬` `[TypeScript]` `[MCP]` - Exposes live tennis scores, fixtures, rankings, and head-to-head to agents, with market prices and win-probability on paid tiers.
 - [LogNorm](https://lognorm.com) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server that hands a site's SEO and AI-visibility backlog to Claude Code, Codex and Cursor.
+- [looot](https://github.com/loootai/looot-mcp) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server and API with one key for 2,500+ data endpoints: emails, phones, companies and SERP.
 - [MCP Registry](https://github.com/modelcontextprotocol) `🌱` `[Python]` `[Multi-Agent]` - Official Model Context Protocol specification and server implementations for standardized tool access.
 - [mcp-nest](https://github.com/CharanBharathula/mcp-nest) `🌱` `[Python]` `[MCP]` - Unified Model Context Protocol (MCP) server for executing code and managing files.
 - [NotFair](https://notfair.co) `🚀` `[Cloud]` `[MCP]` - Hosted Google Ads MCP server for diagnosing, optimizing, and executing campaign changes via the Google Ads API with a human-approval gate.
