@@ -358,6 +358,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Galley](https://github.com/shinpr/galley) `🔬` `[Go]` `[Multi-Agent]` - Pairs independently configured executors and supervisors with repository-defined quality gates and inspectable evidence for each coding attempt.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) `🌱` `[Python]` `[Multi-Agent]` - Adds structural, type, and quality guarantees to LLM outputs for reliable agent responses.
 - [Helicone](https://github.com/Helicone/helicone) `🌱` `[TypeScript]` `[Observability]` - Open-source LLM observability with one-line integration for cost tracking and prompt analytics.
+- [Ironheights](https://github.com/Frank-Masciopinto/ironheights) `🔬` `[TypeScript]` `[Security]` - Scans OpenClaw agent skills before install for prompt injection, credential reads, remote installs, and persistence.
 - [Lakera Guard](https://www.lakera.ai) `🌱` `[Cloud]` `[Security]` - Real-time protection against prompt injection, data leakage, and toxicity in agent interactions.
 - [Laminar](https://github.com/lmnr-ai/lmnr) `🌱` `[Rust]` `[Observability]` - Open-source observability and analytics platform purpose-built for the full lifecycle of AI agents.
 - [Langfuse](https://github.com/langfuse/langfuse) `🌱` `[TypeScript]` `[Observability]` - Open-source LLM observability platform for tracing, prompt versioning, and LLM-as-a-judge evaluations.
