@@ -671,6 +671,7 @@ AI agents that automate customer support, CRM workflows, sales outreach, and tic
 - [Lavender](https://lavender.ai/) `🌱` `[Cloud]` `[Multi-Agent]` - Coaches email writing in real-time with AI response scoring and recipient intelligence.
 - [OutreachAgent](https://outreachagent.dev/for-agents) `🔬` `[Cloud]` `[Event-Driven]` - Runs reply-aware outbound email workflows with webhooks, sender pacing, approvals, and deliverability guardrails.
 - [Overloop CLI](https://overloop.com) `🌱` `[Cloud]` `[CLI]` - AI outbound CLI agent that sources 450M+ contacts and runs email plus LinkedIn campaigns with JSON output.
+- [TeleTraff](https://teletraff.com/en) `🔬` `[Cloud]` `[Multi-Agent]` - Runs Telegram promotion from the browser with AI comments on channel posts, inviting, DM campaigns and an AI agent that handles lead dialogs in DMs.
 
 ## Voice Agent Platforms
 
