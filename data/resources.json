@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:27:54.555Z",
+  "generatedAt": "2026-10-14T22:40:58.564Z",
   "source": "README.md",
   "totalResources": 510,
   "resources": [
@@ -997,7 +997,7 @@
         "Swift",
         "Multi-Agent"
       ],
-      "description": "Creates per-feature Git worktrees across several repositories, all on one branch, for parallel Claude Code sessions on macOS.",
+      "description": "Creates per-feature Git worktrees across several repositories, all on one branch, for parallel Claude Code sessions on macOS 26 or later (Apple silicon).",
       "isGitHub": true,
       "githubRepo": "efim0v/grove",
       "source": "README.md",

@@ -138,7 +138,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [gemini-cli](https://github.com/google-gemini/gemini-cli) `🌱` `[Go]` `[CLI]` - Open-source CLI agent bringing Gemini AI directly into your terminal.
 - [GitHub Copilot](https://github.com/features/copilot) `🌱` `[TypeScript]` `[VS Code]` - Agent Mode in VS Code with Copilot Workspace for issue-to-PR workflows across Claude, GPT, and Gemini.
 - [Goose](https://github.com/aaif-goose/goose) `🌱` `[Rust]` `[CLI]` - Extensible open-source CLI agent that installs, executes, edits, and tests with any LLM.
-- [Grove](https://github.com/efim0v/grove) `🔬` `[Swift]` `[Multi-Agent]` - Creates per-feature Git worktrees across several repositories, all on one branch, for parallel Claude Code sessions on macOS.
+- [Grove](https://github.com/efim0v/grove) `🔬` `[Swift]` `[Multi-Agent]` - Creates per-feature Git worktrees across several repositories, all on one branch, for parallel Claude Code sessions on macOS 26 or later (Apple silicon).
 - [JetBrains AI](https://www.jetbrains.com/ai/) `🌱` `[Kotlin]` `[JetBrains]` - Deep AI integration across all JetBrains IDEs with context-aware completions and refactoring.
 - [Juggler](https://github.com/juggler-ai/juggler) `🌱` `[Desktop]` `[Local]` - Multi-client desktop/remote GUI agent with inspectable tool calls, branching-thread editable context, and plugin extensibility.
 - [Kiro](https://kiro.dev) `🚀` `[Cloud]` `[IDE]` - Spec-driven development agent that writes specs, auto-generates tasks, implements code, and automates DevOps workflows.
