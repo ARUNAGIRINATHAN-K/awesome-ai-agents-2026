@@ -456,6 +456,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [Epic AI Assistant](https://www.epic.com) `🚀` `[Cloud]` `[Healthcare]` - Clinical documentation and workflow agents integrated with Epic EHR.
 - [Nuance Healthcare AI](https://www.microsoft.com/en-us/health-solutions) `🚀` `[Cloud]` `[CLI]` - Speech and clinical AI solutions for documentation and radiology.
 - [Tempus AI](https://www.tempus.com) `🌱` `[Cloud]` `[CLI]` - Oncology research and clinical decision support agents.
+- [CareJobs.Now](https://carejobs.now) `🌱` `[Cloud]` `[Healthcare]` - Free AI job search for US healthcare workers, with a free remote MCP server (https://carejobs.now/api/mcp) that lets agents search 170,000+ hospital jobs and the pay employers post.
 
 ### Legal
 
