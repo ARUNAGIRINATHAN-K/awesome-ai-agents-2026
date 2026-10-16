@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-10T10:01:11.421Z",
   "source": "README.md",
-  "totalResources": 509,
+  "totalResources": 510,
   "resources": [
     {
       "id": "agency-swarm",
@@ -3460,27 +3460,7 @@
       "isGitHub": true,
       "githubRepo": "jina-ai/reader",
       "source": "README.md",
-      "sourceLine": 293
-    },
-    {
-      "id": "tracefold",
-      "slug": "tracefold",
-      "name": "Tracefold",
-      "url": "https://github.com/TraceFold/tracefold",
-      "category": "Agent Tooling and Infrastructure",
-      "categorySlug": "agent-tooling-and-infrastructure",
-      "tier": "production",
-      "tierBadge": "🚀",
-      "language": "Rust",
-      "tags": [
-        "Rust",
-        "MCP"
-      ],
-      "description": "Reverse-execution gateway that escrows checked pre-commit inverses, enforces Cedar policy gates, and produces signed offline-verifiable DSSE receipts for tool mutations.",
-      "isGitHub": true,
-      "githubRepo": "TraceFold/tracefold",
-      "source": "README.md",
-      "sourceLine": 294
+      "sourceLine": 292
     },
     {
       "id": "llamaparse",
@@ -3620,7 +3600,27 @@
       "isGitHub": true,
       "githubRepo": "ScrapeGraphAI/Scrapegraph-ai",
       "source": "README.md",
-      "sourceLine": 301
+      "sourceLine": 298
+    },
+    {
+      "id": "speck",
+      "slug": "speck",
+      "name": "Speck",
+      "url": "https://github.com/doctarock/Speck",
+      "category": "Agent Tooling and Infrastructure",
+      "categorySlug": "agent-tooling-and-infrastructure",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "TypeScript",
+      "tags": [
+        "TypeScript",
+        "Stateful"
+      ],
+      "description": "Moves persistent memory, evidence tracking, validation, and cognitive state into software for small local LLM agents.",
+      "isGitHub": true,
+      "githubRepo": "doctarock/Speck",
+      "source": "README.md",
+      "sourceLine": 299
     },
     {
       "id": "superagent",
@@ -3700,7 +3700,27 @@
       "isGitHub": true,
       "githubRepo": "future-agi/traceAI",
       "source": "README.md",
-      "sourceLine": 305
+      "sourceLine": 303
+    },
+    {
+      "id": "tracefold",
+      "slug": "tracefold",
+      "name": "Tracefold",
+      "url": "https://github.com/TraceFold/tracefold",
+      "category": "Agent Tooling and Infrastructure",
+      "categorySlug": "agent-tooling-and-infrastructure",
+      "tier": "production",
+      "tierBadge": "🚀",
+      "language": "Rust",
+      "tags": [
+        "Rust",
+        "MCP"
+      ],
+      "description": "Reverse-execution gateway that escrows checked pre-commit inverses, enforces Cedar policy gates, and produces signed offline-verifiable DSSE receipts for tool mutations.",
+      "isGitHub": true,
+      "githubRepo": "TraceFold/tracefold",
+      "source": "README.md",
+      "sourceLine": 304
     },
     {
       "id": "unstructured",
