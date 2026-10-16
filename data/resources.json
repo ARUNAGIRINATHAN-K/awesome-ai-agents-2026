@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-10T10:01:11.421Z",
   "source": "README.md",
-  "totalResources": 510,
+  "totalResources": 511,
   "resources": [
     {
       "id": "agency-swarm",
@@ -3259,6 +3259,26 @@
       "description": "Runs natural-language web and mobile tests with persistent memory and UI-change adaptation.",
       "isGitHub": true,
       "githubRepo": "vostride/agent-qa",
+      "source": "README.md",
+      "sourceLine": 282
+    },
+    {
+      "id": "arcmira",
+      "slug": "arcmira",
+      "name": "Arcmira",
+      "url": "https://arcmira.com",
+      "category": "Agent Tooling and Infrastructure",
+      "categorySlug": "agent-tooling-and-infrastructure",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Cloud",
+      "tags": [
+        "Cloud",
+        "MCP"
+      ],
+      "description": "Search indexed YouTube transcripts for timestamped passages, speaker appearances, entity mentions, sponsors and recommendations.",
+      "isGitHub": false,
+      "githubRepo": null,
       "source": "README.md",
       "sourceLine": 283
     },
