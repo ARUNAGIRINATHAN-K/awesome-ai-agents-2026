@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-10T10:01:11.421Z",
   "source": "README.md",
-  "totalResources": 511,
+  "totalResources": 512,
   "resources": [
     {
       "id": "agency-swarm",
@@ -5620,7 +5620,27 @@
       "isGitHub": true,
       "githubRepo": "UKGovernmentBEIS/inspect_ai",
       "source": "README.md",
-      "sourceLine": 420
+      "sourceLine": 421
+    },
+    {
+      "id": "personal-agent-bench",
+      "slug": "personal-agent-bench",
+      "name": "Personal Agent Bench",
+      "url": "https://personalagentbench.com/",
+      "category": "Agent Evaluation and Benchmarks",
+      "categorySlug": "agent-evaluation-and-benchmarks",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Browser",
+      "tags": [
+        "Browser",
+        "Evaluation"
+      ],
+      "description": "Takes consumer personal AI agents apart hands-on and scores them on real errands, reporting each result with a confidence interval and no composite score.",
+      "isGitHub": false,
+      "githubRepo": null,
+      "source": "README.md",
+      "sourceLine": 422
     },
     {
       "id": "swe-bench",
