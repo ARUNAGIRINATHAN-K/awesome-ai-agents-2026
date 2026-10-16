@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-10T10:01:11.421Z",
   "source": "README.md",
-  "totalResources": 514,
+  "totalResources": 515,
   "resources": [
     {
       "id": "agency-swarm",
@@ -4840,7 +4840,27 @@
       "isGitHub": true,
       "githubRepo": "NVIDIA-NeMo/Guardrails",
       "source": "README.md",
-      "sourceLine": 368
+      "sourceLine": 370
+    },
+    {
+      "id": "noveum",
+      "slug": "noveum",
+      "name": "Noveum",
+      "url": "https://noveum.ai",
+      "category": "Safety Guardrails and Observability",
+      "categorySlug": "safety-guardrails-and-observability",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Cloud",
+      "tags": [
+        "Cloud",
+        "Observability"
+      ],
+      "description": "Traces AI agent runs, turns real interactions into evaluation datasets, and compares model quality, latency, and cost.",
+      "isGitHub": false,
+      "githubRepo": null,
+      "source": "README.md",
+      "sourceLine": 371
     },
     {
       "id": "orcareplay",
