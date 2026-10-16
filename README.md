@@ -1,6 +1,6 @@
 <div align="center">
 
-![](img/ARUNAGIRINATHAN-K.png)
+![](img/top.png)
 
 # Awesome AI Agents 2026
 
