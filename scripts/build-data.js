@@ -128,7 +128,7 @@ function buildData() {
 
     const KNOWN_LANGUAGES = new Set([
       'Python', 'TypeScript', 'JavaScript', 'Go', 'Rust', 'Java', 'C#', 'C++',
-      'Kotlin', 'Swift', 'Ruby', 'WebAssembly', 'Cloud', 'Browser', 'Desktop', 'Mobile', 'No-Code'
+      'Kotlin', 'Swift', 'Ruby', 'WebAssembly', 'Cloud', 'Browser', 'Desktop', 'Mobile', 'No-Code', 'Shell'
     ]);
 
     let language = tags.find((t) => KNOWN_LANGUAGES.has(t)) || (tags.length > 0 ? tags[0] : 'Multi-Language');

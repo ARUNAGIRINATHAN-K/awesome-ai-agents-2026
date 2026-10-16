@@ -24,7 +24,7 @@ Every tool listed under a category header in [`README.md`](README.md) MUST confo
    - `🔬` **Emerging**: <500 stars, research paper implementation, or experimental tool.
 
 3. **Language Tag** (Required, exactly one, inside brackets):
-   - Approved values: `[Python]`, `[TypeScript]`, `[Go]`, `[Rust]`, `[Java]`, `[C#]`, `[C++]`, `[Kotlin]`, `[Swift]`, `[Ruby]`, `[WebAssembly]`, `[Cloud]`, `[Browser]`, `[Desktop]`, `[Mobile]`, `[No-Code]`.
+   - Approved values: `[Python]`, `[TypeScript]`, `[Go]`, `[Rust]`, `[Java]`, `[C#]`, `[C++]`, `[Kotlin]`, `[Swift]`, `[Ruby]`, `[WebAssembly]`, `[Cloud]`, `[Browser]`, `[Desktop]`, `[Mobile]`, `[No-Code]`, `[Shell]`.
 
 4. **Type / Framework Tag** (Required, exactly one, inside brackets):
    - Priority order: `MCP` > `RAG` > framework > architecture > environment.

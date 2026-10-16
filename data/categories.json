@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:47:12.496Z",
+  "generatedAt": "2026-10-16T09:23:29.068Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -21,12 +21,12 @@
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 21
+      "count": 19
     },
     {
       "name": "Browser and Computer Use Agents",
@@ -36,7 +36,7 @@
     {
       "name": "Agent Tooling and Infrastructure",
       "slug": "agent-tooling-and-infrastructure",
-      "count": 26
+      "count": 28
     },
     {
       "name": "Low and No-Code Builders",
@@ -66,7 +66,7 @@
     {
       "name": "Agent Evaluation and Benchmarks",
       "slug": "agent-evaluation-and-benchmarks",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Industry-Specific Agents",
@@ -101,7 +101,7 @@
     {
       "name": "Customer Support and CRM Agents",
       "slug": "customer-support-and-crm-agents",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Voice Agent Platforms",
