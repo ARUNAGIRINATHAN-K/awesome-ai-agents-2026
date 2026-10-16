@@ -898,6 +898,7 @@ AI agents for mental health support, cognitive training, and therapy-adjacent ap
 - [Elomia](https://elomia.com) `🌱` `[Cloud]` `[CLI]` - Clinician-designed AI therapy chatbot with natural conversation flow and anonymous interaction by design.
 - [Ginger](https://organizations.headspace.com) `🌱` `[Cloud]` `[Multi-Agent]` - On-demand mental healthcare platform combining AI coaching with live therapists using CBT and DBT approaches.
 - [Headspace Health](https://www.headspace.com) `🌱` `[Cloud]` `[CLI]` - Meditation and mental health platform with CBT-based courses, sleep programs, and clinical partnerships.
+- [Healify](https://www.healify.ai) `🌱` `[Cloud]` `[Healthcare]` - Personal AI health coach that turns health data into tailored daily guidance and wellbeing support.
 - [Replika](https://replika.com) `🌱` `[Cloud]` `[Multi-Agent]` - AI companion with Rogerian-style support, persistent memory, and mood tracking for social wellbeing.
 - [Talkspace AI](https://www.talkspace.com) `🌱` `[Cloud]` `[Multi-Agent]` - AI-assisted therapy matching platform with human therapist backup for personalized mental health care.
 - [Tess by X2AI](https://www.cass.ai) `🌱` `[Cloud]` `[CLI]` - SMS-based therapy coach using CBT with clinical validation showing 28% depression reduction.
