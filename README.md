@@ -462,6 +462,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [Epic AI Assistant](https://www.epic.com) `🚀` `[Cloud]` `[Healthcare]` - Clinical documentation and workflow agents integrated with Epic EHR.
 - [Nuance Healthcare AI](https://www.microsoft.com/en-us/health-solutions) `🚀` `[Cloud]` `[CLI]` - Speech and clinical AI solutions for documentation and radiology.
 - [Tempus AI](https://www.tempus.com) `🌱` `[Cloud]` `[CLI]` - Oncology research and clinical decision support agents.
+- [Healify](https://www.healify.ai) `🔬` `[Cloud]` `[Healthcare]` - Personal AI health coach that reads health data and answers health questions in chat.
 
 ### Legal
 
