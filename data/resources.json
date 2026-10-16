@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-10T10:01:11.421Z",
   "source": "README.md",
-  "totalResources": 508,
+  "totalResources": 509,
   "resources": [
     {
       "id": "agency-swarm",
@@ -8057,6 +8057,26 @@
         "Multi-Agent"
       ],
       "description": "Coaches email writing in real-time with AI response scoring and recipient intelligence.",
+      "isGitHub": false,
+      "githubRepo": null,
+      "source": "README.md",
+      "sourceLine": 670
+    },
+    {
+      "id": "linkmcp",
+      "slug": "linkmcp",
+      "name": "LinkMCP",
+      "url": "https://app.linkmcp.io",
+      "category": "Customer Support and CRM Agents",
+      "categorySlug": "customer-support-and-crm-agents",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Cloud",
+      "tags": [
+        "Cloud",
+        "MCP"
+      ],
+      "description": "Paid hosted MCP server connecting agents to your own LinkedIn account for search, profiles, inbox, posts and invites.",
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
