@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-10T10:01:11.421Z",
   "source": "README.md",
-  "totalResources": 512,
+  "totalResources": 513,
   "resources": [
     {
       "id": "agency-swarm",
@@ -1699,6 +1699,26 @@
       "githubRepo": "Lians-ai/Lians",
       "source": "README.md",
       "sourceLine": 179
+    },
+    {
+      "id": "lwc",
+      "slug": "lwc",
+      "name": "LWC",
+      "url": "https://github.com/JanYork/llm-wiki-cli",
+      "category": "Memory and Context",
+      "categorySlug": "memory-and-context",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Rust",
+      "tags": [
+        "Rust",
+        "MCP"
+      ],
+      "description": "Stores durable, source-grounded project memory and exposes bounded read-only retrieval to coding agents through MCP.",
+      "isGitHub": true,
+      "githubRepo": "JanYork/llm-wiki-cli",
+      "source": "README.md",
+      "sourceLine": 180
     },
     {
       "id": "mem0",
