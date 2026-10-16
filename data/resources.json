@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-10T10:01:11.421Z",
   "source": "README.md",
-  "totalResources": 507,
+  "totalResources": 508,
   "resources": [
     {
       "id": "agency-swarm",
@@ -2141,6 +2141,28 @@
       "sourceLine": 201
     },
     {
+      "id": "5dive",
+      "slug": "5dive",
+      "name": "5dive",
+      "url": "https://github.com/5dive-ai/5dive",
+      "category": "Multi-Agent Systems",
+      "categorySlug": "multi-agent-systems",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Shell",
+      "tags": [
+        "Shell",
+        "Multi-Agent",
+        "CLI",
+        "Self-Hosted"
+      ],
+      "description": "An open-source team of AI coding agents you text like coworkers, each with its own job.",
+      "isGitHub": true,
+      "githubRepo": "5dive-ai/5dive",
+      "source": "README.md",
+      "sourceLine": 205
+    },
+    {
       "id": "agentverse",
       "slug": "agentverse",
       "name": "AgentVerse",
@@ -2238,7 +2260,27 @@
       "isGitHub": true,
       "githubRepo": "hivemoot/hivemoot",
       "source": "README.md",
-      "sourceLine": 209
+      "sourceLine": 210
+    },
+    {
+      "id": "markus",
+      "slug": "markus",
+      "name": "Markus",
+      "url": "https://github.com/markus-global/markus",
+      "category": "Multi-Agent Systems",
+      "categorySlug": "multi-agent-systems",
+      "tier": "growing",
+      "tierBadge": "🌱",
+      "language": "TypeScript",
+      "tags": [
+        "TypeScript",
+        "Multi-Agent"
+      ],
+      "description": "Open-source AI workforce platform for building and running teams of AI agents with roles, task delegation, persistent memory, and inter-agent communication.",
+      "isGitHub": true,
+      "githubRepo": "markus-global/markus",
+      "source": "README.md",
+      "sourceLine": 211
     },
     {
       "id": "metagpt",
@@ -2377,26 +2419,6 @@
       "description": "Complete local AI execution platform with 30+ Experts, autonomous Robot orchestration via 5-stage Pipeline, API-based Robot-to-Robot calling, MCP support, and multi-channel messaging.",
       "isGitHub": false,
       "githubRepo": null,
-      "source": "README.md",
-      "sourceLine": 216
-    },
-    {
-      "id": "markus",
-      "slug": "markus",
-      "name": "Markus",
-      "url": "https://github.com/markus-global/markus",
-      "category": "Multi-Agent Systems",
-      "categorySlug": "multi-agent-systems",
-      "tier": "growing",
-      "tierBadge": "🌱",
-      "language": "TypeScript",
-      "tags": [
-        "TypeScript",
-        "Multi-Agent"
-      ],
-      "description": "Open-source AI workforce platform for building and running teams of AI agents with roles, task delegation, persistent memory, and inter-agent communication.",
-      "isGitHub": true,
-      "githubRepo": "markus-global/markus",
       "source": "README.md",
       "sourceLine": 217
     },

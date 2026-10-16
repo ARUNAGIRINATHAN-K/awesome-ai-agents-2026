@@ -10,7 +10,7 @@ All notable changes to this list will be documented here.
 
 | Date | Change |
 |---|---|
-| October 16 2026 | **Link audit** — Removed dead 404 entries for AgentsCoin MCP and Live Tennis API MCP, canonicalized redirected URLs for JetBrains AI, Datacircle, MultiOn, Personal Jarvis (Dodaios), Patronus AI LYNX, Hugging Face Agents Course, The Agent Loop SSRN paper, Midjourney, Seedream AI Studio, PolyAI, and Mistral Large 2 across README.md and data/resources.json, and added exclusions for Youper TLS drop, Zendesk/Zoho geo-redirects, and GitHub issue template in link-check workflow. |
+| October 16 2026 | Added **5dive** to Multi-Agent Systems. Performed **Link audit** — Removed dead 404 entries for AgentsCoin MCP and Live Tennis API MCP, canonicalized redirected URLs for JetBrains AI, Datacircle, MultiOn, Personal Jarvis (Dodaios), Patronus AI LYNX, Hugging Face Agents Course, The Agent Loop SSRN paper, Midjourney, Seedream AI Studio, PolyAI, and Mistral Large 2 across README.md and data/resources.json, and added exclusions for Youper TLS drop, Zendesk/Zoho geo-redirects, and GitHub issue template in link-check workflow. |
 | October 08 2026 | **Linting fix** — Canonicalized Hugging Face Agents Course URL to resolve awesome-list-item remark-lint error and capitalized WebSocket in OpenMail description. |
 | September 28 2026 | **Link audit** — Updated Seedream AI Studio to ByteDance official URL, canonicalized redirected URLs for Google Imagen 4, LibreChat, and AIHawk across README.md and data/resources.json, and added exclusions for Tabnine and Seedream4 in link-check workflow. |
 | September 23 2026 | **Link audit** — Removed dead OpenProgram 404 entry and canonicalized redirected URLs for LATS and Pika 2.5 across README.md and data/resources.json. |

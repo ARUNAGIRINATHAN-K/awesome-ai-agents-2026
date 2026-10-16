@@ -202,11 +202,13 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 
 ## Multi-Agent Systems
 
+- [5dive](https://github.com/5dive-ai/5dive) `🔬` `[Shell]` `[Multi-Agent]` - An open-source team of AI coding agents you text like coworkers, each with its own job.
 - [AgentVerse](https://github.com/OpenBMB/AgentVerse) `🌱` `[Python]` `[Multi-Agent]` - Framework for building custom multi-agent environments to accomplish collaborative tasks.
 - [Bunkhouse](https://github.com/braedonsaunders/bunkhouse) `🔬` `[TypeScript]` `[Multi-Agent]` - Multitenant AI employees with a company inbox, org chart, and governed procedures for main-street business.
 - [EvoAgentX](https://github.com/ANative-Lab/EvoAgentX) `🌱` `[Python]` `[Multi-Agent]` - Evaluates and evolves agentic workflows over time using automatic optimization.
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) `🔬` `[TypeScript]` `[Multi-Agent]` - Runs a team of specialized self-hosted agents that collaborate, share memory, and build their own tools.
 - [Hivemoot](https://github.com/hivemoot/hivemoot) `🚀` `[Python]` `[GitHub]` - Autonomous agent teams that collaboratively build software on GitHub.
+- [Markus](https://github.com/markus-global/markus) `🌱` `[TypeScript]` `[Multi-Agent]` - Open-source AI workforce platform for building and running teams of AI agents with roles, task delegation, persistent memory, and inter-agent communication.
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) `🌱` `[Python]` `[Multi-Agent]` - Simulates a full software company workflow from requirements to PRs using role-playing agents.
 - [NarraNexus](https://github.com/NetMindAI-Open/NarraNexus) `🌱` `[Python]` `[Multi-Agent]` - Ready-to-run AI agent team workspace by NetMind.AI whose agents remember, collaborate, and use tools from day one.
 - [P2PCLAW](https://github.com/Agnuxo1/OpenCLAW-P2P) `🌱` `[Python]` `[RAG]` - Decentralized scientific research network with 14+ autonomous agents featuring P2P mesh, IPFS storage, and Lean 4 formal verification, self-hosted with Docker Compose.
@@ -214,7 +216,6 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [Swarm](https://github.com/openai/swarm) `🚀` `[Python]` `[OpenAI]` - Lightweight framework for agent handoffs, context variables, and function calling patterns from OpenAI.
 - [Swarms Framework](https://github.com/kyegomez/swarms) `🚀` `[Python]` `[Multi-Agent]` - Multi-agent orchestration for production use cases with scalability and reliability at its core.
 - [Yao Agents](https://yaoagents.com) `🌱` `[Go]` `[MCP]` - Complete local AI execution platform with 30+ Experts, autonomous Robot orchestration via 5-stage Pipeline, API-based Robot-to-Robot calling, MCP support, and multi-channel messaging.
-- [Markus](https://github.com/markus-global/markus) `🌱` `[TypeScript]` `[Multi-Agent]` - Open-source AI workforce platform for building and running teams of AI agents with roles, task delegation, persistent memory, and inter-agent communication.
 
 ## Agent Communication Protocols
 

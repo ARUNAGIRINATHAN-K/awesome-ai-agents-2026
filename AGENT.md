@@ -56,7 +56,7 @@ Every entry listed under a category in `README.md` MUST conform to this exact si
    - `🔬` **Emerging**: <500 stars, research paper implementation, or novel experimental tool.
 
 3. **Language Tag** (Exactly ONE required, inside brackets):
-   - Approved set: `[Python]`, `[TypeScript]`, `[Go]`, `[Rust]`, `[Java]`, `[C#]`, `[C++]`, `[Kotlin]`, `[Swift]`, `[Ruby]`, `[WebAssembly]`, `[Cloud]`, `[Browser]`, `[Desktop]`, `[Mobile]`, `[No-Code]`.
+   - Approved set: `[Python]`, `[TypeScript]`, `[Go]`, `[Rust]`, `[Java]`, `[C#]`, `[C++]`, `[Kotlin]`, `[Swift]`, `[Ruby]`, `[WebAssembly]`, `[Cloud]`, `[Browser]`, `[Desktop]`, `[Mobile]`, `[No-Code]`, `[Shell]`.
 
 4. **Type/Framework Tag** (Exactly ONE required, inside brackets):
    - Approved set (priority order: `MCP` > `RAG` > framework > architecture > environment):
