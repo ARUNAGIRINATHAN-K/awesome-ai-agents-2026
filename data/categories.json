@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:23:29.068Z",
+  "generatedAt": "2026-10-16T16:16:50.042Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -11,7 +11,7 @@
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 43
+      "count": 44
     },
     {
       "name": "Memory and Context",
@@ -26,7 +26,7 @@
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Browser and Computer Use Agents",
