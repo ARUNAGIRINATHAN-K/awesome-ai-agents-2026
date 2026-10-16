@@ -233,6 +233,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 
 - [A2A Protocol](https://github.com/a2aproject/A2A) `🚀` `[Python]` `[Multi-Agent]` - Google's open protocol enabling AI agents to communicate, collaborate, and delegate tasks across frameworks.
 - [Arcade AI](https://github.com/ArcadeAI/arcade-mcp) `🌱` `[Python]` `[Multi-Agent]` - Tool-use platform with authentication, authorization, and logging for agent-tool interactions.
+- [Chord](https://getchord.xyz/docs/agents/mcp/) `🔬` `[Cloud]` `[MCP]` - Gives agents DEX swap quotes, unsigned swap transactions, candles and wallet PnL on seven EVM chains.
 - [Composio](https://github.com/ComposioHQ/composio) `🌱` `[TypeScript]` `[Multi-Agent]` - Integration platform with 250+ pre-built tool connectors for AI agents and LLMs.
 - [Datacircle](https://datacircle.dev/) `🔬` `[Cloud]` `[MCP]` - Query your favorite B2B data APIs through us. Same request, same price, no markup.
 - [Docker MCP](https://github.com/docker/mcp-gateway) `🌱` `[Go]` `[MCP]` - Docker's MCP gateway CLI plugin for running MCP servers in isolated containers.
