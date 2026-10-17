@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T10:01:11.421Z",
+  "generatedAt": "2026-10-17T01:32:07.641Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -11,22 +11,22 @@
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 42
+      "count": 43
     },
     {
       "name": "Memory and Context",
       "slug": "memory-and-context",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 21
+      "count": 20
     },
     {
       "name": "Browser and Computer Use Agents",
@@ -36,7 +36,7 @@
     {
       "name": "Agent Tooling and Infrastructure",
       "slug": "agent-tooling-and-infrastructure",
-      "count": 26
+      "count": 28
     },
     {
       "name": "Low and No-Code Builders",
@@ -51,7 +51,7 @@
     {
       "name": "Safety Guardrails and Observability",
       "slug": "safety-guardrails-and-observability",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Agent Interfaces and UIs",
@@ -66,12 +66,12 @@
     {
       "name": "Agent Evaluation and Benchmarks",
       "slug": "agent-evaluation-and-benchmarks",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Industry-Specific Agents",
       "slug": "industry-specific-agents",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Learning Resources",
@@ -101,7 +101,7 @@
     {
       "name": "Customer Support and CRM Agents",
       "slug": "customer-support-and-crm-agents",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Voice Agent Platforms",
@@ -111,7 +111,7 @@
     {
       "name": "Deep Research Agents",
       "slug": "deep-research-agents",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Prompt-to-App Builders",
