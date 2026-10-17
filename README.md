@@ -450,6 +450,7 @@ Notes: Several of these projects already appear elsewhere in this document (agen
 ## Industry-Specific Agents
 
 Curated list of vertical agent solutions for finance, healthcare, legal, manufacturing, retail, and government.
+- [Bluwhale](https://www.bluwhale.com/) `🌱` `[Cloud]` `[Platform]` - Combines bank and wallet data into financial profiles, with WhaleScore and specialized AI agents for financial workflows.
 
 ### Finance
 
