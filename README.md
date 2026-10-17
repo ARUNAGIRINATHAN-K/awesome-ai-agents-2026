@@ -229,6 +229,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 | MCP      | Agent-to-tool       | Anthropic | Standard |
 | A2A      | Agent-to-agent      | Google    | Growing  |
 | ACP      | Agent communication | IBM/BeeAI | Early    |
+- [Jev Agent](https://jev-agent.com/api-access) `🔬` `[Cloud]` `[MCP Server]` - Hosts a Jev model API and Streamable HTTP MCP so agents get typed decisions with probabilities.
 
 ### MCP (Model Context Protocol)
 
