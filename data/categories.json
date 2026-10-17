@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T01:32:07.641Z",
+  "generatedAt": "2026-10-17T23:16:08.492Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -21,12 +21,12 @@
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 14
+      "count": 15
     },
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 20
+      "count": 21
     },
     {
       "name": "Browser and Computer Use Agents",
@@ -66,7 +66,7 @@
     {
       "name": "Agent Evaluation and Benchmarks",
       "slug": "agent-evaluation-and-benchmarks",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Industry-Specific Agents",
@@ -141,7 +141,7 @@
     {
       "name": "AI Governance and Compliance",
       "slug": "ai-governance-and-compliance",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Cybersecurity Agents",

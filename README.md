@@ -884,6 +884,7 @@ Frameworks and tools for AI risk management, regulatory compliance, and governan
 - [NIST AI RMF](https://airc.nist.gov/) `🌱` `[Python]` `[Multi-Agent]` - US framework for AI risk management covering Govern, Map, Measure, and Manage functions.
 - [OneTrust AI Governance](https://www.onetrust.com/solutions/ai-governance/) `🌱` `[Cloud]` `[Compliance]` - Risk classification, consent management, and compliance workflows for AI agent deployments.
 - [Project Glasswing](https://www.anthropic.com/glasswing) `🌱` `[Python]` `[Benchmark]` - Industry consortium (11-company initiative) focused on AI safety, red-teaming, and shared benchmarks for agent risk mitigation.
+- [Where can an AI agent post? Platform rules, checked](https://espresso-run-agent.github.io/espresso-run/agent-rules.html) `🔬` `[Browser]` `[Other]` - Dataset of 45 platforms' rules on whether AI-operated accounts may post, with verdicts, verbatim quotes, source links and check dates.
 
 ## Cybersecurity Agents
 
