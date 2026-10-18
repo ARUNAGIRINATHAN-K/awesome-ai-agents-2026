@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:11:42.748Z",
+  "generatedAt": "2026-10-18T22:46:46.064Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -11,7 +11,7 @@
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 43
+      "count": 44
     },
     {
       "name": "Memory and Context",
