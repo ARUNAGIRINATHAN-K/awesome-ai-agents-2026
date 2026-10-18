@@ -481,7 +481,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 ### Retail
 
 - [Duvo](https://www.duvo.ai) `🔬` `[Cloud]` `[Pipeline]` - Execution platform for grocery and retail operations across stores, replenishment, and existing systems.
-- [Kuudo Skills](https://github.com/KuudoAI/skills) `🔬` `[Python]` `[MCP]` - Agent Skills for Amazon Ads audits, search-term mining, budget pacing, listings, and repricing via Kuudo's hosted MCP servers.
+- [Kuudo Skills](https://www.kuudo.com/) `🔬` `[Python]` `[MCP]` - Agent Skills for Amazon Ads audits, search-term mining, budget pacing, listings, and repricing via Kuudo's hosted MCP servers.
 
 ### Government & Compliance
 
