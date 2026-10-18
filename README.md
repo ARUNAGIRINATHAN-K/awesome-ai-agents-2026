@@ -229,6 +229,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 | MCP      | Agent-to-tool       | Anthropic | Standard |
 | A2A      | Agent-to-agent      | Google    | Growing  |
 | ACP      | Agent communication | IBM/BeeAI | Early    |
+- [Jev Agent](https://jev-agent.com/api-access) `🔬` `[Cloud]` `[MCP Server]` - Hosts a Jev model API and Streamable HTTP MCP so agents get typed decisions with probabilities.
 
 ### MCP (Model Context Protocol)
 
@@ -248,6 +249,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [mcp-nest](https://github.com/CharanBharathula/mcp-nest) `🌱` `[Python]` `[MCP]` - Unified Model Context Protocol (MCP) server for executing code and managing files.
 - [NotFair](https://notfair.co) `🚀` `[Cloud]` `[MCP]` - Hosted Google Ads MCP server for diagnosing, optimizing, and executing campaign changes via the Google Ads API with a human-approval gate.
 - [NotFair Skills](https://github.com/nowork-studio/notfair-plugin) `🚀` `[TypeScript]` `[MCP]` - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+- [Scalekit](https://www.scalekit.com/agentkit) `🔬` `[Cloud]` `[MCP]` - Hosted MCP gateway and SDKs giving agents per-user OAuth, scoped tool permissions and audit logs across 500+ connectors.
 - [Tapetide MCP](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) `🔬` `[TypeScript]` `[MCP]` - Gives agents quotes, financials, shareholding, screener and FII/DII flow data for about 8,200 NSE and BSE stocks.
 - [Toolhouse](https://toolhouse.ai/en/) `🌱` `[Python]` `[Multi-Agent]` - Cloud-hosted tool infrastructure for agents with optimized execution and low-latency access.
 - [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) `🔬` `[Cloud]` `[MCP]` - Hosted X Twitter data MCP for search, follower export, monitors, and confirmation-gated writes.
@@ -676,6 +678,7 @@ AI agents that automate customer support, CRM workflows, sales outreach, and tic
 ### Sales and Outreach Agents
 
 - [Apollo.io](https://www.apollo.io) `🌱` `[Cloud]` `[Multi-Agent]` - AI prospecting platform with 275M+ contacts, lead scoring, and automated email sequencing.
+- [BacklinkGenie](https://backlinkgenie.com) `🌱` `[Cloud]` `[MCP]` - Link-building outreach agent that finds posts where a product fits, drafts one pitch per editor for approval, and tracks earned backlinks.
 - [BuyWhere](https://buywhere.ai) `🌱` `[Cloud]` `[MCP]` - AI shopping agent for real-time product search and price comparison across SG/SEA/US markets using an MCP-native server with 8 tools.
 - [Clay](https://www.clay.com) `🌱` `[Cloud]` `[IDE]` - Enriches leads from 70+ data providers and generates hyper-personalized outreach at scale.
 - [Instantly](https://instantly.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Generates AI cold emails with smart sender rotation and built-in domain warmup for deliverability.
