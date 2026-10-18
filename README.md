@@ -491,7 +491,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 ## Learning Resources
 
 - [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2309.07864) `🌱` `[Python]` `[Benchmark]` - The benchmark paper for evaluating LLMs as agents across diverse environments.
-- [AI Agent 实战手册 (ai-agent-handbook)](https://github.com/Xwh630/ai-agent-handbook) `🌱` `[Python]` `[Handbook]` `[Chinese]` - 29-chapter Chinese handbook covering 12 runnable examples plus an installable CLI (`handbook doctor`) that audits an agent project against the 5 Harness pillars; ships llms.txt and a SKILL.md for AI assistants.
+- [AI Agent 实战手册 (ai-agent-handbook)](https://github.com/Xwh630/ai-agent-handbook) `🌱` `[Python]` `[Handbook]` `[Chinese]` - 29-chapter Chinese handbook covering 11 runnable examples plus an installable CLI (`handbook doctor`) that audits an agent project against the 5 Harness pillars; ships llms.txt and a SKILL.md for AI assistants.
 - [AI Agents in LangGraph](https://www.deeplearning.ai/courses/ai-agents-in-langgraph) `🚀` `[Python]` `[Multi-Agent]` - Short course on building production agents with LangGraph by Andrew Ng's platform.
 - [AI Engineering by Chip Huyen](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) `🌱` `[Python]` `[IDE]` - Comprehensive guide on AI systems design and deployment covering agent architecture patterns.
 - [Anthropic Cookbook](https://github.com/anthropics/claude-cookbooks) `🚀` `[Python]` `[Anthropic]` - Collection of Claude agent recipes and integration patterns from Anthropic.
