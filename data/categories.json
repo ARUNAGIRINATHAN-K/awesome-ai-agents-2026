@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T14:10:14.631Z",
+  "generatedAt": "2026-10-18T14:07:38.119Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
     {
       "name": "Orchestration Frameworks",
       "slug": "orchestration-frameworks",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Coding Agents",
@@ -26,7 +26,7 @@
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Browser and Computer Use Agents",
@@ -101,7 +101,7 @@
     {
       "name": "Customer Support and CRM Agents",
       "slug": "customer-support-and-crm-agents",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Voice Agent Platforms",
