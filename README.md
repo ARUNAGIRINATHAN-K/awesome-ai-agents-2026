@@ -239,6 +239,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Chord](https://getchord.xyz/docs/agents/mcp/) `🔬` `[Cloud]` `[MCP]` - Gives agents DEX swap quotes, unsigned swap transactions, candles and wallet PnL on seven EVM chains.
 - [Composio](https://github.com/ComposioHQ/composio) `🌱` `[TypeScript]` `[Multi-Agent]` - Integration platform with 250+ pre-built tool connectors for AI agents and LLMs.
 - [Datacircle](https://datacircle.dev/) `🔬` `[Cloud]` `[MCP]` - Query your favorite B2B data APIs through us. Same request, same price, no markup.
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) `🔬` `[Cloud]` `[MCP]` - Scores where data centers can get grid power across 300+ markets daily, served to agents over hosted MCP.
 - [Docker MCP](https://github.com/docker/mcp-gateway) `🌱` `[Go]` `[MCP]` - Docker's MCP gateway CLI plugin for running MCP servers in isolated containers.
 - [Equibles](https://equibles.com/mcp) `🔬` `[Cloud]` `[MCP]` - Serves US stock data to agents over MCP: SEC filings, financials, earnings transcripts, insider trades and 13F holdings.
 - [HCS Agent Protocol](https://github.com/hashgraph/hedera-agent-kit-js) `🌱` `[TypeScript]` `[IDE]` - Hedera open standards for agent identity with trustless P2P communication and 187K+ verified agents.
