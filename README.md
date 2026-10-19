@@ -213,6 +213,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [Markus](https://github.com/markus-global/markus) `🌱` `[TypeScript]` `[Multi-Agent]` - Open-source AI workforce platform for building and running teams of AI agents with roles, task delegation, persistent memory, and inter-agent communication.
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) `🌱` `[Python]` `[Multi-Agent]` - Simulates a full software company workflow from requirements to PRs using role-playing agents.
 - [NarraNexus](https://github.com/NetMindAI-Open/NarraNexus) `🌱` `[Python]` `[Multi-Agent]` - Ready-to-run AI agent team workspace by NetMind.AI whose agents remember, collaborate, and use tools from day one.
+- [OpenFoundry](https://github.com/MrMha/openfoundry) `🔬` `[Python]` `[Framework]` - Coordinates five software departments with DAG planning, human approvals, shared memory, MCP tools, and bounded self-healing QA.
 - [P2PCLAW](https://github.com/Agnuxo1/OpenCLAW-P2P) `🌱` `[Python]` `[RAG]` - Decentralized scientific research network with 14+ autonomous agents featuring P2P mesh, IPFS storage, and Lean 4 formal verification, self-hosted with Docker Compose.
 - [Raven](https://github.com/EverMind-AI/Raven) `🌱` `[Python]` `[Multi-Agent]` - Plans complex tasks as DAGs and orchestrates built-in and third-party agents over ACP, CLI, or OpenAI-compatible APIs.
 - [Sqwakie](https://sqwakie.si/) `🔬` `[TypeScript]` `[Multi-Agent]` - Lets a team's Claude Code and Codex agents message each other peer-to-peer and work shared kanban boards.
