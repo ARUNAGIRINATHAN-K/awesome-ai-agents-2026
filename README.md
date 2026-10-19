@@ -312,6 +312,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [traceAI](https://github.com/future-agi/traceAI) `🌱` `[Python]` `[Observability]` - OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations.
 - [Tracefold](https://github.com/TraceFold/tracefold) `🚀` `[Rust]` `[MCP]` - Reverse-execution gateway that escrows checked pre-commit inverses, enforces Cedar policy gates, and produces signed offline-verifiable DSSE receipts for tool mutations.
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) `🌱` `[Python]` `[Pipeline]` - Ingests and preprocesses documents across 25+ file types for downstream LLM and agent pipelines.
+- [Vectoree](https://vectoree.ai) `🔬` `[Cloud]` `[Infrastructure]` - A backend for coding agents with a model gateway, auth, Postgres and storage behind one key.
 
 ## Low and No-Code Builders
 
