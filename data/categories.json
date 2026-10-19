@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:11:42.748Z",
+  "generatedAt": "2026-10-19T03:12:48.337Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -76,7 +76,7 @@
     {
       "name": "Learning Resources",
       "slug": "learning-resources",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Agent Communication",

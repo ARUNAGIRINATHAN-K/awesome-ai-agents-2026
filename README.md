@@ -492,6 +492,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 
 ## Learning Resources
 
+- [Agent Cookbook](https://agentcookbook.dev) `🔬` `[Browser]` `[Guide]` - Collects 75 real AI agent setups, 20 that people made money with, each with source, prompt, and steps.
 - [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2309.07864) `🌱` `[Python]` `[Benchmark]` - The benchmark paper for evaluating LLMs as agents across diverse environments.
 - [AI Agents in LangGraph](https://www.deeplearning.ai/courses/ai-agents-in-langgraph) `🚀` `[Python]` `[Multi-Agent]` - Short course on building production agents with LangGraph by Andrew Ng's platform.
 - [AI Engineering by Chip Huyen](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) `🌱` `[Python]` `[IDE]` - Comprehensive guide on AI systems design and deployment covering agent architecture patterns.
