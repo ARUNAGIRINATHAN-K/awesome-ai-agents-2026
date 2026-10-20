@@ -707,6 +707,7 @@ Platforms for building, deploying, and scaling voice-based AI agents across call
 - [ElevenLabs](https://elevenlabs.io) `🌱` `[Cloud]` `[RAG]` - Industry- voice AI with 75ms latency, Conversational AI 2.0, RAG, and HIPAA compliance.
 - [HeyGen](https://www.heygen.com) `🌱` `[Cloud]` `[IDE]` - Creates AI talking avatars with voice cloning and lip-sync for video-based agent interactions.
 - [Hermes](https://www.buildwithhermes.com) `🌱` `[Cloud]` `[Voice]` - White-label voice agent platform for agencies, bundling telephony, CRM, campaign orchestration, and usage billing so one team can run agents for many client brands.
+- [PlaceCall](https://voygr.tech/placecall/) `🔬` `[Cloud]` `[MCP]` - Places outbound phone calls to US businesses for AI agents over MCP or REST, returning outcome and transcript.
 - [PolyAI](https://poly.ai/) `🚀` `[Cloud]` `[Voice]` - Enterprise voice AI platform for natural multi-turn conversations with high-volume call handling.
 - [Retell AI](https://www.retellai.com) `🌱` `[Cloud]` `[Voice]` - Builds human-like voice agents with multi-language telephony support and low-latency responses.
 - [Synthesia](https://www.synthesia.io) `🌱` `[Cloud]` `[IDE]` - Generates AI video avatars that speak in 120+ languages for training and communication agents.
