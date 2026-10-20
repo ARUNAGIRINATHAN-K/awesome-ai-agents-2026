@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:45:38.205Z",
+  "generatedAt": "2026-10-20T14:16:13.084Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -16,7 +16,7 @@
     {
       "name": "Memory and Context",
       "slug": "memory-and-context",
-      "count": 35
+      "count": 36
     },
     {
       "name": "Multi-Agent Systems",
@@ -26,7 +26,7 @@
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Browser and Computer Use Agents",
@@ -76,7 +76,7 @@
     {
       "name": "Learning Resources",
       "slug": "learning-resources",
-      "count": 20
+      "count": 21
     },
     {
       "name": "Agent Communication",
@@ -106,7 +106,7 @@
     {
       "name": "Voice Agent Platforms",
       "slug": "voice-agent-platforms",
-      "count": 14
+      "count": 15
     },
     {
       "name": "Deep Research Agents",
