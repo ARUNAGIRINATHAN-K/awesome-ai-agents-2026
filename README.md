@@ -280,6 +280,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) `🚀` `[Python]` `[GitHub]` - Production browser automation with 21.5K GitHub stars, 10M+ executed workflows, vision-first automation, and sub-300ms response times.
 - [Stagehand](https://github.com/browserbase/stagehand) `🌱` `[TypeScript]` `[Multi-Agent]` - AI web browsing framework built on Playwright with natural-language selectors and actions.
 - [TODO for AI](https://github.com/todoforai/edge) `🔬` `[TypeScript]` `[Local]` - Task-list agent that runs on your own machine and completes tasks through your shell, files and logged-in browser, with any model.
+- [Zeptap](https://zeptap.com) `🔬` `[Desktop]` `[MCP]` - Mac app with a local MCP server that lets AI agents see, tap, swipe and type on a real iPhone over USB and Bluetooth. Closed source, paid, first hour free.
 
 
 ## Agent Tooling and Infrastructure
