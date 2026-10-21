@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:16:13.084Z",
+  "generatedAt": "2026-10-21T22:02:27.443Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -16,7 +16,7 @@
     {
       "name": "Memory and Context",
       "slug": "memory-and-context",
-      "count": 36
+      "count": 37
     },
     {
       "name": "Multi-Agent Systems",
