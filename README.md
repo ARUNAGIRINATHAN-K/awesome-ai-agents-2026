@@ -340,7 +340,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 ## Voice and Multimodal Agents
 
 - [Agentset](https://github.com/agentset-ai/agentset) `🚀` `[Python]` `[RAG]` - Production RAG platform with reasoning, hybrid search, and full multimodal support.
-- [echo agent](https://echoagent.dev) `🔬` `[Desktop]` `[Voice]` - Mac voice agent that answers about the current window, drafts messages, and delegates coding to Claude Code or Codex.
+- [echo agent](https://echoagent.dev) `🔬` `[Desktop]` `[Voice]` - Cross-platform voice agent (Mac, Windows, phone) that reads your screen, drafts messages and delegates coding to Claude Code.
 - [LiveKit Agents](https://github.com/livekit/agents) `🌱` `[Python]` `[IDE]` - Framework for building real-time, multimodal AI agents with voice, video, and data channels.
 - [Nuance AI](https://dragon.nuance.com/en-us/home) `🚀` `[Cloud]` `[CLI]` - Enterprise speech and conversational AI platform for clinical and contact-center workflows with HIPAA-capable deployments.
 - [Google Cloud Speech-to-Text v2](https://cloud.google.com/speech-to-text) `🚀` `[Cloud]` `[Pipeline]` - Google Cloud streaming and batch speech recognition API v2 with improved accuracy, streaming, and noise suppression for real-time agent pipelines.
