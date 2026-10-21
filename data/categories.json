@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:16:13.084Z",
+  "generatedAt": "2026-10-21T01:15:11.144Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -31,7 +31,7 @@
     {
       "name": "Browser and Computer Use Agents",
       "slug": "browser-and-computer-use-agents",
-      "count": 20
+      "count": 21
     },
     {
       "name": "Agent Tooling and Infrastructure",

@@ -264,7 +264,8 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [AgentQL](https://github.com/tinyfish-io/agentql) `🌱` `[Python]` `[Multi-Agent]` - AI-powered web scraping and automation with a semantic query language for page elements.
 - [AIHawk](https://github.com/feder-cr/invisible_playwright_mcp) `🚀` `[Python]` `[MCP]` - Drives a real Firefox from plain-English instructions, with sixteen MCP tools and a standalone web UI.
 - [Airtop](https://www.airtop.ai) `🚀` `[Cloud]` `[Multi-Agent]` - Enterprise-grade cloud browser infrastructure for AI agent automation at scale.
-- [Browser Use](https://github.com/browser-use/browser-use) `🌱` `[Python]` `[Multi-Agent]` - Open-source framework to let LLMs navigate and interact with any website programmatically.
+- [Browser Use](https://github.com/browser-use/browser-use) `🚀` `[Python]` `[Multi-Agent]` - Open-source framework to let LLMs navigate and interact with any website programmatically.
+- [Browser Use Cloud](https://browser-use.com) `🚀` `[Cloud]` `[MCP]` - Hosted browsers for agents over CDP with proxies, CAPTCHA solving, an agent API, and a remote MCP server.
 - [Browserbase](https://www.browserbase.com) `🚀` `[Cloud]` `[Multi-Agent]` - Scalable headless browser infrastructure purpose-built for running AI agents in production.
 - [Dia Browser](https://www.diabrowser.com) `🌱` `[Cloud]` `[Multi-Agent]` - AI-native browser from Atlassian and the Browser Company with built-in agent workflows.
 - [Fellou](https://fellou.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Transparent agentic browser with visual workflow editing and persistent agentic memory.
