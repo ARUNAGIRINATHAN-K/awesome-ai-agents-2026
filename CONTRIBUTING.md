@@ -50,7 +50,7 @@ When in doubt, use `🌱`. Maintainers will adjust tiers during review.
 
 Use the **primary implementation language or runtime**:
 
-`Python` · `TypeScript` · `Go` · `Rust` · `Java` · `C#` · `C++` · `Kotlin` · `Swift` · `Ruby` · `WebAssembly` · `Cloud` · `Browser` · `Desktop` · `Mobile` · `No-Code`
+`Python` · `TypeScript` · `Go` · `Rust` · `Java` · `C#` · `C++` · `Kotlin` · `Swift` · `Ruby` · `WebAssembly` · `Cloud` · `Browser` · `Desktop` · `Mobile` · `No-Code` · `Shell`
 
 - Use `Cloud` for fully managed SaaS products with no local runtime
 - Use `Browser` for browser extensions and purely web-based tools

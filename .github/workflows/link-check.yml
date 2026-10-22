@@ -42,6 +42,10 @@ jobs:
             --exclude "vercel.app"
             --exclude "tabnine.com"
             --exclude "seedream4.video"
+            --exclude "youper.ai"
+            --exclude "zendesk.com"
+            --exclude "zoho.com"
+            --exclude "issues/new"
             --timeout 30
             README.md
           fail: true

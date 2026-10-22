@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T10:01:11.421Z",
+  "generatedAt": "2026-10-20T14:16:13.084Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -11,22 +11,22 @@
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 42
+      "count": 43
     },
     {
       "name": "Memory and Context",
       "slug": "memory-and-context",
-      "count": 34
+      "count": 36
     },
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 13
+      "count": 15
     },
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 21
+      "count": 24
     },
     {
       "name": "Browser and Computer Use Agents",
@@ -36,7 +36,7 @@
     {
       "name": "Agent Tooling and Infrastructure",
       "slug": "agent-tooling-and-infrastructure",
-      "count": 26
+      "count": 29
     },
     {
       "name": "Low and No-Code Builders",
@@ -51,7 +51,7 @@
     {
       "name": "Safety Guardrails and Observability",
       "slug": "safety-guardrails-and-observability",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Agent Interfaces and UIs",
@@ -66,17 +66,17 @@
     {
       "name": "Agent Evaluation and Benchmarks",
       "slug": "agent-evaluation-and-benchmarks",
-      "count": 7
+      "count": 9
     },
     {
       "name": "Industry-Specific Agents",
       "slug": "industry-specific-agents",
-      "count": 16
+      "count": 18
     },
     {
       "name": "Learning Resources",
       "slug": "learning-resources",
-      "count": 19
+      "count": 21
     },
     {
       "name": "Agent Communication",
@@ -101,17 +101,17 @@
     {
       "name": "Customer Support and CRM Agents",
       "slug": "customer-support-and-crm-agents",
-      "count": 24
+      "count": 26
     },
     {
       "name": "Voice Agent Platforms",
       "slug": "voice-agent-platforms",
-      "count": 14
+      "count": 15
     },
     {
       "name": "Deep Research Agents",
       "slug": "deep-research-agents",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Prompt-to-App Builders",
