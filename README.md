@@ -412,6 +412,8 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 
 - [Kortix](https://github.com/kortix-ai/suna) `🚀` `[Self-hosted]` `[Agent Platform]` - Open-source AI Operating System: agents, skills, company memory and 3,000+ connectors in one git repo you own; every session runs on an isolated machine and lands its work as a change request.
 
+- [Agent Barn](https://github.com/aai-labs/agent-barn) `🚀` `[Self-hosted]` `[Agent Platform]` - Open-source Apache-2.0 control plane for AI agents: chat in Slack, Teams, Telegram, Discord or email, with every conversation, tool call, log and cost recorded; runs Hermes and OpenClaw runtimes on your own Kubernetes cluster via Helm.
+
 - [AWS Bedrock AgentCore](https://github.com/awslabs/agentcore-samples) `🚀` `[TypeScript]` `[Compliance]` - Managed AWS infrastructure for Bedrock-based agents with compliance, scaling, and monitoring built in.
 - [Cerebras Inference](https://www.cerebras.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Fastest LLM inference delivering 1000+ tokens per second on Llama 3.3 70B with a free tier.
 - [Fireworks AI](https://fireworks.ai) `🌱` `[Cloud]` `[RAG]` - Serverless LLM inference with fine-tuning, RAG support, and free credits for rapid prototyping.
