@@ -471,6 +471,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [Healify](https://www.healify.ai) `🔬` `[Cloud]` `[Research]` - Reads health data and answers personal health questions in chat.
 - [Nuance Healthcare AI](https://www.microsoft.com/en-us/health-solutions) `🚀` `[Cloud]` `[CLI]` - Speech and clinical AI solutions for documentation and radiology.
 - [Tempus AI](https://www.tempus.com) `🌱` `[Cloud]` `[CLI]` - Oncology research and clinical decision support agents.
+- [CareJobs.Now](https://carejobs.now) `🌱` `[Cloud]` `[Healthcare]` - Free AI job search for US healthcare workers, with a free remote MCP server (https://carejobs.now/api/mcp) that lets agents search 170,000+ hospital jobs and the pay employers post.
 
 ### Legal
 
