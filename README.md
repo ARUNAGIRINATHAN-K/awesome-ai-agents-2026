@@ -269,6 +269,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Dia Browser](https://www.diabrowser.com) `🌱` `[Cloud]` `[Multi-Agent]` - AI-native browser from Atlassian and the Browser Company with built-in agent workflows.
 - [Fellou](https://fellou.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Transparent agentic browser with visual workflow editing and persistent agentic memory.
 - [Genspark](https://www.genspark.ai) `🌱` `[Cloud]` `[Local]` - On-device AI browser with 169+ local models that runs without internet connection.
+- [Godmode Bot](https://github.com/codextde/godmode-bot) `🔬` `[Desktop]` `[MCP]` - Runs persistent Claude Code agents that do computer work in their own browser with your saved logins.
 - [Grok Computer](https://x.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Upcoming xAI desktop agent with mouse control and application automation capabilities.
 - [LaVague](https://github.com/lavague-ai/LaVague) `🌱` `[Python]` `[Multi-Agent]` - Large Action Model framework to turn natural language instructions into browser automation.
 - [Manus](https://manus.im) `🚀` `[Cloud]` `[Multi-Agent]` - Autonomous digital employee with Browser Operator extension acquired by Meta for web-based task execution.
