@@ -22,12 +22,16 @@
 
 ## Contents
 
+
 - [AI Registry Explorer](#ai-registry-explorer)
+- [Quick Start](#quick-start)
+- [Submit an Agent](#submit-an-agent)
 - [Orchestration Frameworks](#orchestration-frameworks)
 - [Coding Agents](#coding-agents)
 - [Memory and Context](#memory-and-context)
 - [Multi-Agent Systems](#multi-agent-systems)
 - [Agent Communication Protocols](#agent-communication-protocols)
+- [MCP (Model Context Protocol)](#mcp-model-context-protocol)
 - [Browser and Computer Use Agents](#browser-and-computer-use-agents)
 - [Agent Tooling and Infrastructure](#agent-tooling-and-infrastructure)
 - [Low and No-Code Builders](#low-and-no-code-builders)
@@ -36,20 +40,38 @@
 - [Agent Interfaces and UIs](#agent-interfaces-and-uis)
 - [Agent Deployment and Hosting](#agent-deployment-and-hosting)
 - [Agent Evaluation and Benchmarks](#agent-evaluation-and-benchmarks)
-- [Agent Testing & Debugging](#agent-testing--debugging)
+- [Agent Testing \& Debugging](#agent-testing--debugging)
 - [Industry-Specific Agents](#industry-specific-agents)
+- [Finance](#finance)
+- [Healthcare](#healthcare)
+- [Legal](#legal)
+- [Manufacturing \& Industrial](#manufacturing--industrial)
+- [Retail](#retail)
+- [Government \& Compliance](#government--compliance)
 - [Learning Resources](#learning-resources)
 - [Agent Communication](#agent-communication)
 - [Data Pipeline and Workflow](#data-pipeline-and-workflow)
 - [Secure Execution Environments](#secure-execution-environments)
 - [Creative AI Agents](#creative-ai-agents)
+- [Image Generation](#image-generation)
+- [Video Generation](#video-generation)
+- [Music and Audio Generation](#music-and-audio-generation)
+- [3D and Design Generation](#3d-and-design-generation)
 - [Customer Support and CRM Agents](#customer-support-and-crm-agents)
+- [Support Automation](#support-automation)
+- [AI-Powered CRM Platforms](#ai-powered-crm-platforms)
+- [Sales and Outreach Agents](#sales-and-outreach-agents)
 - [Voice Agent Platforms](#voice-agent-platforms)
 - [Deep Research Agents](#deep-research-agents)
 - [Prompt-to-App Builders](#prompt-to-app-builders)
 - [Multi-Agent Consumer Platforms](#multi-agent-consumer-platforms)
 - [Open-Source Models for Agents](#open-source-models-for-agents)
 - [Market Stats and Benchmarks 2026](#market-stats-and-benchmarks-2026)
+- [Market Size](#market-size)
+- [Adoption Rates](#adoption-rates)
+- [Top Use Cases](#top-use-cases)
+- [Fastest Growing Open-Source Projects](#fastest-growing-open-source-projects)
+- [Notable Valuations](#notable-valuations)
 - [Local and Self-Hosted AI](#local-and-self-hosted-ai)
 - [AI Governance and Compliance](#ai-governance-and-compliance)
 - [Cybersecurity Agents](#cybersecurity-agents)
@@ -57,6 +79,7 @@
 - [Translation and Localization Agents](#translation-and-localization-agents)
 - [Newsletters and Communities](#newsletters-and-communities)
 - [Changelog](#changelog)
+- [Contributing](#contributing)
 - [Star History](#star-history)
 
 ---
@@ -267,6 +290,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 
 - [Agent S2](https://github.com/simular-ai/Agent-S) `🌱` `[Python]` `[Vision]` - Open-source GUI automation framework for building desktop and browser agents with vision.
 - [AgentQL](https://github.com/tinyfish-io/agentql) `🌱` `[Python]` `[Multi-Agent]` - AI-powered web scraping and automation with a semantic query language for page elements.
+- [aiFetchly](https://www.aifetchly.com) `🔬` `[TypeScript]` `[RAG]` - Open-source desktop agent automating lead generation, knowledge library RAG, outreach, and scheduled workflows.
 - [AIHawk](https://github.com/feder-cr/invisible_playwright_mcp) `🚀` `[Python]` `[MCP]` - Drives a real Firefox from plain-English instructions, with sixteen MCP tools and a standalone web UI.
 - [Airtop](https://www.airtop.ai) `🚀` `[Cloud]` `[Multi-Agent]` - Enterprise-grade cloud browser infrastructure for AI agent automation at scale.
 - [Browser Use](https://github.com/browser-use/browser-use) `🌱` `[Python]` `[Multi-Agent]` - Open-source framework to let LLMs navigate and interact with any website programmatically.
@@ -316,6 +340,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Playwright](https://github.com/microsoft/playwright) `🌱` `[TypeScript]` `[Testing]` - Automates Chromium, Firefox, and WebKit browsers with a single cross-language API for agent-driven testing.
 - [SandBase CLI](https://github.com/sandbaseai/cli) `🔬` `[TypeScript]` `[MCP]` - Connects coding agents to 2,000+ AI models through one onboarding command.
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) `🌱` `[Python]` `[LangChain]` - Python web-scraping library that uses LLMs to build intelligent scraping pipelines from natural-language instructions.
+- [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) `🔬` `[Python]` `[Skill]` - Free MIT-licensed skill library with a deterministic intake router and 61 copy-paste SKILL.md specialists.
 - [Speck](https://github.com/doctarock/Speck) `🔬` `[TypeScript]` `[Stateful]` - Moves persistent memory, evidence tracking, validation, and cognitive state into software for small local LLM agents.
 - [Superagent](https://github.com/pungme/superagent-desktop) `🔬` `[Desktop]` `[Local]` - Gives Claude Code and Codex a real browser and iOS Simulator to drive locally on macOS.
 - [Surya](https://github.com/datalab-to/surya) `🌱` `[Python]` `[CLI]` - Runs OCR and layout detection on documents in 90+ languages for multilingual document agents.
@@ -501,6 +526,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 ### Retail
 
 - [Duvo](https://www.duvo.ai) `🔬` `[Cloud]` `[Pipeline]` - Execution platform for grocery and retail operations across stores, replenishment, and existing systems.
+- [Hellomatik](https://hellomatik.com) `🔬` `[Cloud]` `[Pipeline]` - Blueprints company data and procedures so agents prepare decisions for an approver to accept, amend, or reject.
 - [Kuudo Skills](https://www.kuudo.com/) `🔬` `[Python]` `[MCP]` - Agent Skills for Amazon Ads audits, search-term mining, budget pacing, listings, and repricing via Kuudo's hosted MCP servers.
 
 ### Government & Compliance
@@ -542,6 +568,7 @@ Capabilities that let agents send messages, notifications, and reports across ch
 - [FastAPI-Mail](https://github.com/sabuhish/fastapi-mail) `🌱` `[Python]` `[FastAPI]` - Adds async email sending to FastAPI-based agent services with SMTP and OAuth2 support.
 - [Novu](https://github.com/novuhq/novu) `🌱` `[TypeScript]` `[Multi-Agent]` - Routes agent notifications across email, SMS, push, and chat from a unified API and workflow engine.
 - [Ntfy](https://github.com/binwiederhier/ntfy) `🌱` `[Go]` `[Self-Hosted]` - Pushes real-time agent notifications to phones and desktops via a dead-simple HTTP API.
+- [ONE](https://one.workrr.ai/) `🔬` `[Cloud]` `[Multi-Agent]` - Provides public discussion rooms, specialist discovery, and artifact exchange for externally run AI agents with human-readable logs.
 - [OpenMail](https://openmail.sh) `🔬` `[Cloud]` `[CLI]` - Email infrastructure for agents: dedicated inbox per agent, inbound over WebSocket or webhook, threaded replies, attachment parsing.
 - [Resend](https://github.com/resend/resend-node) `🌱` `[TypeScript]` `[Multi-Agent]` - Sends transactional emails from agent workflows with a clean, developer-first API.
 - [Slack Bolt](https://github.com/slackapi/bolt-python) `🌱` `[Python]` `[Event-Driven]` - Enables agents to send, receive, and react to Slack messages with event-driven listeners.
@@ -795,6 +822,7 @@ All-in-one AI platforms providing access to agents, tools, and models through co
 - [Kamply](https://kamplyapp.com) `🔬` `[Desktop]` `[Multi-Agent]` - Builds social posts, video reels, ads and decks in a brand's own look on the user's Claude Code or Codex plan.
 - [Meta AI](https://meta.ai) `🚀` `[Cloud]` `[Multi-Agent]` - Llama-powered AI integrated across WhatsApp, Messenger, and Instagram for conversational assistance.
 - [Microsoft Copilot](https://copilot.microsoft.com) `🚀` `[Cloud]` `[Microsoft]` - AI assistant integrated into Office 365, Teams, and Power Platform for enterprise productivity workflows.
+- [Oids](https://tryoids.com) `🔬` `[Cloud]` `[MCP]` - Microblogging social network where AI agents post, trade prompt packs, and DM each other through a REST API.
 - [Sistava](https://sistava.com/) `🌱` `[Cloud]` `[Voice]` - AI agent orchestration platform for deploying multi-channel agents across messaging, voice, and APIs with full Computer Use capabilities on your own OS.
 - [Teamday](https://www.teamday.ai/ai-employees) `🔬` `[Cloud]` `[Multi-Agent]` - AI marketing team where an AI CMO sets one measurable goal and directs writer, SEO, and analytics agents.
 - [Viktor](https://viktor.com) `🌱` `[Cloud]` `[No-Code]` - Completes team tasks from Slack and Microsoft Teams across 3,200+ connected tools using its own cloud computer.
