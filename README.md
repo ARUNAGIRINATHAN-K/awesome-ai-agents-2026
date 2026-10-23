@@ -230,7 +230,6 @@ The protocol layer that enables agents to discover tools, communicate with each 
 | MCP      | Agent-to-tool       | Anthropic | Standard |
 | A2A      | Agent-to-agent      | Google    | Growing  |
 | ACP      | Agent communication | IBM/BeeAI | Early    |
-- [Jev Agent](https://jev-agent.com/api-access) `🔬` `[Cloud]` `[MCP Server]` - Hosts a Jev model API and Streamable HTTP MCP so agents get typed decisions with probabilities.
 
 ### MCP (Model Context Protocol)
 
@@ -245,6 +244,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [HCS Agent Protocol](https://github.com/hashgraph/hedera-agent-kit-js) `🌱` `[TypeScript]` `[IDE]` - Hedera open standards for agent identity with trustless P2P communication and 187K+ verified agents.
 - [HIG Doctor](https://github.com/raintree-technology/hig-doctor) `🌱` `[TypeScript]` `[MCP]` - Apple HIG audit CLI and MCP server exposing design-guideline lookup and project audits for coding agents across SwiftUI, UIKit, React, Next.js, Flutter, Compose, HTML, and CSS.
 - [Hyper](https://github.com/hyperfx-ai/marketing-skills) `🌱` `[Cloud]` `[MCP]` - Open-source Agent Skills and a hosted MCP connecting agents to 200+ marketing integrations across paid ads, SEO, analytics, social, and image and video generation, with a human-approval gate on every action.
+- [Jev Agent](https://jev-agent.com/api-access) `🔬` `[Cloud]` `[MCP]` - Hosts a Jev model API and Streamable HTTP MCP so agents get typed decisions with probabilities.
 - [LogNorm](https://lognorm.com) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server that hands a site's SEO and AI-visibility backlog to Claude Code, Codex and Cursor.
 - [MCP Registry](https://github.com/modelcontextprotocol) `🌱` `[Python]` `[Multi-Agent]` - Official Model Context Protocol specification and server implementations for standardized tool access.
 - [mcp-nest](https://github.com/CharanBharathula/mcp-nest) `🌱` `[Python]` `[MCP]` - Unified Model Context Protocol (MCP) server for executing code and managing files.
@@ -377,7 +377,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Logfire](https://github.com/pydantic/logfire) `🌱` `[Python]` `[Pydantic]` - Python-native observability from the Pydantic team with deep integration for high-performance agent monitoring.
 - [MartinLoop](https://github.com/Keesan12/martin-loop) `🔬` `[TypeScript]` `[Compliance]` - Governs autonomous coding agents, turning open-ended runs into budgeted, verified software work with signed outcome receipts.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) `🌱` `[Python]` `[Multi-Agent]` - NVIDIA programmable guardrails toolkit for controlling and securing LLM-powered agent conversations.
-- [Noveum](https://noveum.ai) `🔬` `[Cloud]` `[Observability]` - Traces AI agent runs, turns real interactions into evaluation datasets, and compares model quality, latency, and cost.
+- [Noveum](https://noveum.ai/en) `🔬` `[Cloud]` `[Observability]` - Traces AI agent runs, turns real interactions into evaluation datasets, and compares model quality, latency, and cost.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) `🔬` `[TypeScript]` `[Observability]` - Records a coding-agent run below the harness, then replays it offline or forks it onto another model; its MCP server lets an agent read and re-run its own past runs.
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) `🌱` `[Python]` `[Security]` - Modules for agent runtime security, self-audit trails, and collective cognition patterns.
 - [OWASP Top 10 for Agentic Apps](https://owasp.github.io/www-project-top-10-for-large-language-model-applications/) `🌱` `[Python]` `[Security]` - Security framework covering goal hijacking, tool misuse, and cascading failure mitigations for agents.
@@ -501,7 +501,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [AI Agents in LangGraph](https://www.deeplearning.ai/courses/ai-agents-in-langgraph) `🚀` `[Python]` `[Multi-Agent]` - Short course on building production agents with LangGraph by Andrew Ng's platform.
 - [AI Engineering by Chip Huyen](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) `🌱` `[Python]` `[IDE]` - Comprehensive guide on AI systems design and deployment covering agent architecture patterns.
 - [Anthropic Cookbook](https://github.com/anthropics/claude-cookbooks) `🚀` `[Python]` `[Anthropic]` - Collection of Claude agent recipes and integration patterns from Anthropic.
-- [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) `🚀` `[Python]` `[Anthropic]` - Anthropic's guide on agent design patterns, evaluation strategies, and production best practices.
+- [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) `🚀` `[Python]` `[Anthropic]` - Anthropic's guide on agent design patterns, evaluation strategies, and production best practices.
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) `🚀` `[Python]` `[Multi-Agent]` - Open-source course on building AI agents using Hugging Face tools and models.
 - [Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457) `🌱` `[Python]` `[Benchmark]` - EMNLP 2025 paper introducing PersonaEvolve, an LLM-based optimizer that refines agent personas so crowds of LLM agents behave realistically against expert benchmarks.
 - [Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](https://arxiv.org/abs/2501.18280) `🔬` `[Python]` `[Paper]` - Universal suffix that manipulates text-embedding similarity to bypass safety guardrails across ChatGPT, DeepSeek, and Qwen.
@@ -890,7 +890,6 @@ Frameworks and tools for AI risk management, regulatory compliance, and governan
 - [Credo AI](https://www.credo.ai) `🌱` `[Cloud]` `[Multi-Agent]` - End-to-end AI governance platform with EU AI Act policy packs and model inventory management.
 - [EU AI Act](https://artificialintelligenceact.eu) `🌱` `[Python]` `[Multi-Agent]` - Official EU regulatory framework classifying AI systems by risk tier from unacceptable to minimal risk.
 - [IBM watsonx.governance](https://www.ibm.com/products/watsonx-governance) `🚀` `[Cloud]` `[Compliance]` - Enterprise AI risk, compliance, and model monitoring platform for regulated industries.
-- [Nobulex](https://github.com/arian-gogani/nobulex) `🌱` `[TypeScript]` `[IDE]` - Cryptographic receipts for AI agent actions with two Ed25519 signatures per action, hash-chained for tamper-evident audit trails.
 - [NIST AI RMF](https://airc.nist.gov/) `🌱` `[Python]` `[Multi-Agent]` - US framework for AI risk management covering Govern, Map, Measure, and Manage functions.
 - [OneTrust AI Governance](https://www.onetrust.com/solutions/ai-governance/) `🌱` `[Cloud]` `[Compliance]` - Risk classification, consent management, and compliance workflows for AI agent deployments.
 - [Project Glasswing](https://www.anthropic.com/glasswing) `🌱` `[Python]` `[Benchmark]` - Industry consortium (11-company initiative) focused on AI safety, red-teaming, and shared benchmarks for agent risk mitigation.
@@ -929,7 +928,7 @@ AI agents and services specialized in machine translation, human translation, mu
 
 Curated newsletters, podcasts, and communities for staying current with AI agent development.
 
-- [AI Engineering Newsletter](https://www.latent.space) `🌱` `[Python]` `[Newsletter]` - AI engineering podcast and newsletter by Swyx and Alessio covering agent architectures and tooling.
+- [AI Engineering Newsletter](https://latent.space/) `🌱` `[Python]` `[Newsletter]` - AI engineering podcast and newsletter by Swyx and Alessio covering agent architectures and tooling.
 - [AiToolsObserver](https://aitoolsobserver.com) `🌱` `[Python]` `[Multi-Agent]` - AI discovery and intelligence platform covering AI agents, ecosystem trends, comparisons, and practical use cases.
 - [aibtc.news](https://aibtc.news) `🌱` `[Python]` `[Newsletter]` - Bitcoin-focused agent news platform with bounties and classifieds for the agent economy.
 - [Awesome Agents Newsletter](https://awesomeagents.substack.com) `🌱` `[Python]` `[Newsletter]` - Weekly curated tools and reviews covering the latest in AI agent development.

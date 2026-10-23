@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-20T14:16:13.084Z",
   "source": "README.md",
-  "totalResources": 531,
+  "totalResources": 530,
   "resources": [
     {
       "id": "agency-swarm",
@@ -2512,7 +2512,7 @@
       "language": "Cloud",
       "tags": [
         "Cloud",
-        "MCP Server"
+        "MCP"
       ],
       "description": "Hosts a Jev model API and Streamable HTTP MCP so agents get typed decisions with probabilities.",
       "isGitHub": false,
@@ -5024,7 +5024,7 @@
       "id": "noveum",
       "slug": "noveum",
       "name": "Noveum",
-      "url": "https://noveum.ai",
+      "url": "https://noveum.ai/en",
       "category": "Safety Guardrails and Observability",
       "categorySlug": "safety-guardrails-and-observability",
       "tier": "emerging",
@@ -6404,7 +6404,7 @@
       "id": "building-effective-agents",
       "slug": "building-effective-agents",
       "name": "Building Effective Agents",
-      "url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "url": "https://www.anthropic.com/research/building-effective-agents",
       "category": "Learning Resources",
       "categorySlug": "learning-resources",
       "tier": "production",
@@ -10038,26 +10038,6 @@
       "sourceLine": 892
     },
     {
-      "id": "nobulex",
-      "slug": "nobulex",
-      "name": "Nobulex",
-      "url": "https://github.com/arian-gogani/nobulex",
-      "category": "AI Governance and Compliance",
-      "categorySlug": "ai-governance-and-compliance",
-      "tier": "growing",
-      "tierBadge": "🌱",
-      "language": "TypeScript",
-      "tags": [
-        "TypeScript",
-        "IDE"
-      ],
-      "description": "Cryptographic receipts for AI agent actions with two Ed25519 signatures per action, hash-chained for tamper-evident audit trails.",
-      "isGitHub": true,
-      "githubRepo": "arian-gogani/nobulex",
-      "source": "README.md",
-      "sourceLine": 893
-    },
-    {
       "id": "nist-ai-rmf",
       "slug": "nist-ai-rmf",
       "name": "NIST AI RMF",
@@ -10421,7 +10401,7 @@
       "id": "ai-engineering-newsletter",
       "slug": "ai-engineering-newsletter",
       "name": "AI Engineering Newsletter",
-      "url": "https://www.latent.space",
+      "url": "https://latent.space/",
       "category": "Newsletters and Communities",
       "categorySlug": "newsletters-and-communities",
       "tier": "growing",

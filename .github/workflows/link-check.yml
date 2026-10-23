@@ -45,6 +45,8 @@ jobs:
             --exclude "youper.ai"
             --exclude "zendesk.com"
             --exclude "zoho.com"
+            --exclude "lognorm.com"
+            --exclude "ge.com"
             --exclude "issues/new"
             --timeout 30
             README.md
