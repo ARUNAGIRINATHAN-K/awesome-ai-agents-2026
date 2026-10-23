@@ -684,7 +684,7 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 
 ### 3D and Design Generation
 
-- [3D-Agent](https://3d-agent.com/blender-ai) `🔬` `[Desktop]` `[MCP]` - Blender AI agent: text-to-3D modeling, AI retopology, rigging and rendering in an open Blender scene; ships a Blender MCP server.
+- [3D-Agent](https://3d-agent.com/blender-ai) `🔬` `[Desktop]` `[MCP]` - Blender AI agent: text-to-3D modeling, AI retopology, rigging and rendering in an open Blender scene; ships a Blender MCP server (Ultra plan).
 - [Meshy](https://www.meshy.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Generates 3D models from text or images for game assets and product visualization with multi-format export.
 - [Tripo AI](https://www.tripo3d.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Produces fast 3D model generation from text or images with multi-format export for rapid prototyping.
 - [Vizcom](https://vizcom.com) `🌱` `[Cloud]` `[Multi-Agent]` - Renders industrial design sketches into photorealistic 3D visuals in real-time for product designers.
