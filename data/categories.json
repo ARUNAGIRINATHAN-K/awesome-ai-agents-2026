@@ -6,27 +6,27 @@
     {
       "name": "Orchestration Frameworks",
       "slug": "orchestration-frameworks",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Coding Agents",
       "slug": "coding-agents",
-      "count": 43
+      "count": 44
     },
     {
       "name": "Memory and Context",
       "slug": "memory-and-context",
-      "count": 36
+      "count": 37
     },
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Browser and Computer Use Agents",
@@ -36,7 +36,7 @@
     {
       "name": "Agent Tooling and Infrastructure",
       "slug": "agent-tooling-and-infrastructure",
-      "count": 29
+      "count": 33
     },
     {
       "name": "Low and No-Code Builders",
@@ -56,7 +56,7 @@
     {
       "name": "Agent Interfaces and UIs",
       "slug": "agent-interfaces-and-uis",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Agent Deployment and Hosting",
@@ -71,7 +71,7 @@
     {
       "name": "Industry-Specific Agents",
       "slug": "industry-specific-agents",
-      "count": 18
+      "count": 20
     },
     {
       "name": "Learning Resources",
