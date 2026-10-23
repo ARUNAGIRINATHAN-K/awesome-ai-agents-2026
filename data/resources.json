@@ -2694,7 +2694,7 @@
         "Cloud",
         "MCP"
       ],
-      "description": "Datacircle lists all the GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.",
+      "description": "Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. Datacircle lists all the GTM APIs.",
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
