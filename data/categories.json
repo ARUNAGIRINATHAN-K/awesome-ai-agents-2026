@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:10:28.459Z",
+  "generatedAt": "2026-10-23T18:08:16.324Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -61,7 +61,7 @@
     {
       "name": "Agent Deployment and Hosting",
       "slug": "agent-deployment-and-hosting",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Agent Evaluation and Benchmarks",
