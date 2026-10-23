@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:10:28.459Z",
+  "generatedAt": "2026-10-23T15:35:04.448Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -66,7 +66,7 @@
     {
       "name": "Agent Evaluation and Benchmarks",
       "slug": "agent-evaluation-and-benchmarks",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Industry-Specific Agents",
