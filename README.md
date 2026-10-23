@@ -449,6 +449,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 
 - [AWS Bedrock AgentCore](https://github.com/awslabs/agentcore-samples) `🚀` `[TypeScript]` `[Compliance]` - Managed AWS infrastructure for Bedrock-based agents with compliance, scaling, and monitoring built in.
 - [Cerebras Inference](https://www.cerebras.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Fastest LLM inference delivering 1000+ tokens per second on Llama 3.3 70B with a free tier.
+- [deed.page](https://deed.page) `🔬` `[Cloud]` `[MCP]` - Publishes HTML or a static folder from an agent to a permanent HTTPS URL with one HTTP PUT or a remote MCP server, with a free plan that needs no signup or API key.
 - [Fireworks AI](https://fireworks.ai) `🌱` `[Cloud]` `[RAG]` - Serverless LLM inference with fine-tuning, RAG support, and free credits for rapid prototyping.
 - [Groq Cloud](https://groq.com) `🌱` `[Cloud]` `[Multi-Agent]` - Ultra-fast LPU-based LLM inference for Mixtral, Llama, and Gemma with a free API tier.
 - [Hivemeld](https://www.hivemeld.ai/buy?plan=annual&utm_source=arunagiri_agents_2026&utm_medium=directory&utm_campaign=GRO-105) `🚀` `[Cloud]` `[Multi-Agent]` - Hosted platform that deploys and runs teams of autonomous AI agents on a company's real backlog across engineering, growth, and support in a shared workspace.
