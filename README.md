@@ -160,6 +160,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [Tabnine](https://www.tabnine.com) `🚀` `[TypeScript]` `[IDE]` - Privacy-first AI code completion with on-premise deployment and codebase fine-tuning options.
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) `🚀` `[Python]` `[Microsoft]` - A code-first agent framework from Microsoft for planning and executing data analytics tasks.
 - [Windsurf](https://devin.ai/desktop) `🌱` `[TypeScript]` `[IDE]` - AI-native IDE with Cascade agent for multi-step autonomous tasks and team workflows.
+- [wippaAGENT](https://github.com/wippa-studios/wippaAGENT) `🔬` `[TypeScript]` `[Multi-Agent]` - Installs an OpenCode agent team where a primary orchestrator delegates to twelve specialists and audits every change.
 - [workkit](https://github.com/ITW-Creative-Works/workkit) `🔬` `[JavaScript]` `[GitHub]` - Claude Code plugin that runs GitHub Issues as an agent pipeline, with a manager agent handing each issue to spec, build and verifier subagents.
 - [YYLO](https://github.com/yylo-dev/yylo) `🔬` `[Python]` `[Multi-Agent]` - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree.
 
