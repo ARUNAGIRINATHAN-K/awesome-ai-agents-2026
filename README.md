@@ -311,6 +311,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Speck](https://github.com/doctarock/Speck) `🔬` `[TypeScript]` `[Stateful]` - Moves persistent memory, evidence tracking, validation, and cognitive state into software for small local LLM agents.
 - [Superagent](https://github.com/pungme/superagent-desktop) `🔬` `[Desktop]` `[Local]` - Gives Claude Code and Codex a real browser and iOS Simulator to drive locally on macOS.
 - [Surya](https://github.com/datalab-to/surya) `🌱` `[Python]` `[CLI]` - Runs OCR and layout detection on documents in 90+ languages for multilingual document agents.
+- [System One API](https://github.com/ziyu/system-one-sdk) `🔬` `[TypeScript]` `[Tool]` - Hosted decision layer for AI agents (Choice, Score, Noul) plus early-stage TypeScript SDK @system-one-ai/core (~2 GitHub stars as of 2026-10-23).
 - [Tavily](https://github.com/tavily-ai/tavily-python) `🌱` `[Python]` `[Multi-Agent]` - Search API purpose-built for LLM agents providing real-time, accurate web data with source citations.
 - [traceAI](https://github.com/future-agi/traceAI) `🌱` `[Python]` `[Observability]` - OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations.
 - [Tracefold](https://github.com/TraceFold/tracefold) `🚀` `[Rust]` `[MCP]` - Reverse-execution gateway that escrows checked pre-commit inverses, enforces Cedar policy gates, and produces signed offline-verifiable DSSE receipts for tool mutations.
