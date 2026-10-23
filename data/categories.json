@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:16:13.084Z",
+  "generatedAt": "2026-10-23T15:10:28.459Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -31,12 +31,12 @@
     {
       "name": "Browser and Computer Use Agents",
       "slug": "browser-and-computer-use-agents",
-      "count": 20
+      "count": 21
     },
     {
       "name": "Agent Tooling and Infrastructure",
       "slug": "agent-tooling-and-infrastructure",
-      "count": 29
+      "count": 30
     },
     {
       "name": "Low and No-Code Builders",
@@ -71,7 +71,7 @@
     {
       "name": "Industry-Specific Agents",
       "slug": "industry-specific-agents",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Learning Resources",
@@ -81,7 +81,7 @@
     {
       "name": "Agent Communication",
       "slug": "agent-communication",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Data Pipeline and Workflow",
@@ -121,7 +121,7 @@
     {
       "name": "Multi-Agent Consumer Platforms",
       "slug": "multi-agent-consumer-platforms",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Open-Source Models for Agents",
