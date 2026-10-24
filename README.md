@@ -534,6 +534,10 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [Anthropic Government Agents](https://www.anthropic.com/#government) `🚀` `[Cloud]` `[Government]` - Policy analysis and public sector agents for regulated workflows.
 - [Leyna](https://www.atom.com/name/Leyna.ai) `🌱` `[Cloud]` `[Government]` - Public records request agent for government agencies to parse, redact, and track requests.
 
+### Geospatial & GIS
+
+- [AI Agent by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Agent) `🔬` `[Python]` `[Pipeline]` - Finds open data, runs Processing algorithms and builds styled maps in QGIS from plain-English tasks, with one-click undo.
+
 ## Learning Resources
 
 - [Agent Cookbook](https://agentcookbook.dev) `🔬` `[Browser]` `[Guide]` - Collects 75 real AI agent setups, 20 that people made money with, each with source, prompt, and steps.
