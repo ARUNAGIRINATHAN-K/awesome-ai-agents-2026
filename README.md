@@ -423,6 +423,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Future AGI](https://github.com/future-agi/future-agi) `🌱` `[Python]` `[Self-Hosted]` - Self-hostable end-to-end agent engineering platform with tracing, evals, guardrails, and gateway.
 - [sofagent](https://github.com/KongFangXun/sofagent) `🔬` `[TypeScript]` `[Security]` - Commit-time audit harness that blocks credential leaks and out-of-scope file changes before they land, with 28 rules and HMAC-chained audit logs.
 - [SUNGLASSES](https://github.com/sunglasses-dev/sunglasses) `🔬` `[Python]` `[MCP]` - Scans text and files locally for prompt injection, credential leaks and data exfiltration with 1,554 patterns.
+- [BountyGuard](https://github.com/doomsday-network/bounty-guard) `🔬` `[Python]` `[MCP]` - Zero-dependency CLI, GitHub Action, and MCP server (`https://doomsday.network/mcp`) that scans untrusted GitHub issues, PRs, and repositories for hidden prompt injection, CI/CD secret exfiltration, and unverified escrow.
 
 ## Agent Interfaces and UIs
 
