@@ -205,6 +205,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [LanceDB](https://github.com/lancedb/lancedb) `🌱` `[Rust]` `[Vector DB]` - Serverless vector search database embedded directly in the agent process with no infrastructure needed.
 - [Langmem](https://github.com/langchain-ai/langmem) `🌱` `[Python]` `[LangChain]` - Helps agents learn and adapt from their interactions over time with persistent memory.
 - [Lians](https://github.com/Lians-ai/Lians) `🔬` `[Python]` `[MCP]` - Gives any AI agent local-first memory with corrections, point-in-time recall, and inspectable history.
+- [LLMSlim](https://github.com/Thanatos9404/llmslim) `🔬` `[Python]` `[MCP]` - Stores messages word for word in local SQLite and recalls what answers a question within a token budget.
 - [LWC](https://github.com/JanYork/llm-wiki-cli) `🔬` `[Rust]` `[MCP]` - Stores durable, source-grounded project memory and exposes bounded read-only retrieval to coding agents through MCP.
 - [Mem0](https://github.com/mem0ai/mem0) `🌱` `[Python]` `[Vector DB]` - Memory layer for AI applications with long-term, short-term, and semantic memory extraction.
 - [Remio](https://www.remio.ai/) `🔬` `[Desktop]` `[Memory]` - Local-first AI memory desktop app that parses files into searchable vector indexes.
