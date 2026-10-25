@@ -469,6 +469,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench) `🚀` `[Python]` `[GitHub]` - Benchmark for evaluating LLMs on real-world software engineering tasks from GitHub issues.
 - [WebArena](https://github.com/web-arena-x/webarena) `🌱` `[Python]` `[Evaluation]` - Benchmark for web agent evaluation using real websites with realistic task completion metrics.
 - [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) `🔬` `[TypeScript]` `[Benchmark]` - Benchmark suite that executes task prompts and Workflow Runner YAML in private fresh-repository workspaces with blinded per-step judging.
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## Agent Testing & Debugging
 
