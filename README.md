@@ -758,6 +758,7 @@ Platforms for building, deploying, and scaling voice-based AI agents across call
 - [Retell AI](https://www.retellai.com) `🌱` `[Cloud]` `[Voice]` - Builds human-like voice agents with multi-language telephony support and low-latency responses.
 - [Synthesia](https://www.synthesia.io) `🌱` `[Cloud]` `[IDE]` - Generates AI video avatars that speak in 120+ languages for training and communication agents.
 - [Synthflow](https://synthflow.ai) `🌱` `[Cloud]` `[No-Code]` - No-code voice agent builder with pre-built templates for SMBs to deploy phone agents quickly.
+- [Voice Infra by miraiminds](https://voice.miraiminds.co) `🔬` `[Cloud]` `[Voice]` - Voice AI phone agents in Hindi, Gujarati, Tamil, Telugu, English and Hinglish, from ₹1/min at volume (₹1,00,000/month commitment); ₹5/min pay as you go.
 - [Voiceflow](https://www.voiceflow.com) `🌱` `[Cloud]` `[No-Code]` - No-code builder for voice and chat agents with visual conversation design and team collaboration.
 - [Workforce Wave](https://www.workforcewave.com/) `🔬` `[Cloud]` `[Voice]` - AI voice receptionist for SMBs handling 24/7 call answering, appointment booking, and lead capture.
 
