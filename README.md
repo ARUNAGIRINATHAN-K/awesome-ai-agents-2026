@@ -109,6 +109,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 
 ## Orchestration Frameworks
 
+- [AGBoss](https://github.com/agbossjs/agboss) `🔬` `[TypeScript]` `[MCP]` - Spring-style TypeScript framework on LangGraph with dependency injection, static workflow verification, action compensation sagas, and MCP integration.
 - [Agency Swarm](https://github.com/VRSEN/agency-swarm) `🚀` `[Python]` `[Multi-Agent]` - Orchestrates multi-agent systems built on the OpenAI Assistants API with role-based collaboration.
 - [AgentDescent](https://github.com/Birfy/agentdescent) `🔬` `[Python]` `[Research]` - Evolves agent skills, prompts, and harness modules by merging diffs from parallel workers against held-out reward.
 - [AgentScope](https://github.com/agentscope-ai/agentscope) `🚀` `[Python]` `[Multi-Agent]` - Alibaba multi-agent framework with distributed deployment and fault tolerance for production use.
