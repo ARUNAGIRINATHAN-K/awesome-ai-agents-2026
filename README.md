@@ -797,6 +797,7 @@ Platforms that generate full-stack applications, components, or web apps from na
 - [Bolt.new](https://bolt.new) `🌱` `[Cloud]` `[Multi-Agent]` - Generates full-stack web applications in the browser from natural language prompts with instant deploy.
 - [Dyad](https://github.com/dyad-sh/dyad) `🌱` `[TypeScript]` `[Local]` - Privacy-first open-source prompt-to-app builder that generates full-stack applications locally.
 - [Google Project IDX](https://firebase.studio) `🚀` `[Cloud]` `[IDE]` - AI-powered cloud IDE with free Claude Opus access for building full projects across all frameworks.
+- [Kleap](https://kleap.co) `🔬` `[Cloud]` `[MCP]` - Builds and publishes websites and apps from chat, with a hosted MCP server agents can use to edit sites.
 - [Lovable](https://lovable.dev) `🌱` `[Cloud]` `[Multi-Agent]` - Iterates from chat to deployed web application with auto-deploy and real-time preview.
 - [PlayCode Agent](https://playcode.io) `🌱` `[Cloud]` `[Multi-Agent]` - Browser-only lightweight web app creation tool with AI-assisted code generation.
 - [Replit Agent](https://replit.com/agent4) `🌱` `[Cloud]` `[Multi-Agent]` - Builds and deploys full-stack projects from prompts with integrated hosting and collaboration.
