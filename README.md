@@ -324,6 +324,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Arcmira](https://arcmira.com) `🔬` `[Cloud]` `[MCP]` - Search indexed YouTube transcripts for timestamped passages, speaker appearances, entity mentions, sponsors and recommendations.
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) `🚀` `[Python]` `[OpenAI]` - Bash CLI for switching OpenAI Codex CLI and Desktop profiles with isolated CODEX_HOME directories.
 - [Cohesivity](https://cohesivity.ai?ref=gh-awesome-ai-agents-2026) `🔬` `[Cloud]` `[MCP]` - Headless backend for AI agents with databases, hosting, storage, and 15+ services via API and MCP, no API keys or signups required to get started.
+- [CreateOS Sandbox](https://createos.sh/products/sandbox) `🚀` `[TypeScript]` `[Cloud]` - Managed Firecracker microVMs for AI agents with own-kernel isolation, private networking, pause-to-zero with state, and no egress fees.
 - [CompozyOS](https://github.com/compozy/compozy) `🚀` `[Go]` `[Multi-Agent]` - Runs agent CLIs as a team on loops and schedules, with shared memory, permissions and approvals in one self-hosted daemon.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) `🌱` `[Python]` `[Multi-Agent]` - Extracts structured data from web pages using LLM-friendly output formats optimized for agent ingestion.
 - [Docling](https://github.com/docling-project/docling) `🌱` `[Python]` `[IDE]` - Parses PDFs, DOCX, and slides into structured text with deep layout understanding for document agents.
@@ -606,6 +607,7 @@ Infrastructure for running agent-generated code safely in isolated, sandboxed, o
 | Tool                | Isolation          | Cold Start | Languages              |
 | ------------------- | ------------------ | ---------- | ---------------------- |
 | E2B                 | VM (Firecracker)   | ~300ms     | Python, TS, Go         |
+| CreateOS Sandbox    | Firecracker microVM | See docs   | TypeScript, Python, Go, Rust, Java |
 | Daytona             | Container/VM       | ~2s        | Python, TS, Go         |
 | Firecracker         | microVM            | ~125ms     | REST API               |
 | Docker              | Namespace+cgroup   | ~500ms     | All                    |
