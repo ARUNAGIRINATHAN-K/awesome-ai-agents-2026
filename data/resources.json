@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T15:10:28.459Z",
+  "generatedAt": "2026-10-28T03:45:56.108Z",
   "source": "README.md",
-  "totalResources": 547,
+  "totalResources": 548,
   "resources": [
     {
       "id": "agency-swarm",
@@ -21,7 +21,7 @@
       "isGitHub": true,
       "githubRepo": "VRSEN/agency-swarm",
       "source": "README.md",
-      "sourceLine": 114
+      "sourceLine": 112
     },
     {
       "id": "agentdescent",
@@ -41,7 +41,7 @@
       "isGitHub": true,
       "githubRepo": "Birfy/agentdescent",
       "source": "README.md",
-      "sourceLine": 115
+      "sourceLine": 113
     },
     {
       "id": "agentscope",
@@ -61,7 +61,7 @@
       "isGitHub": true,
       "githubRepo": "agentscope-ai/agentscope",
       "source": "README.md",
-      "sourceLine": 116
+      "sourceLine": 114
     },
     {
       "id": "agno",
@@ -81,7 +81,7 @@
       "isGitHub": true,
       "githubRepo": "agno-agi/agno",
       "source": "README.md",
-      "sourceLine": 117
+      "sourceLine": 115
     },
     {
       "id": "anthropic-sdk",
@@ -101,7 +101,7 @@
       "isGitHub": true,
       "githubRepo": "anthropics/anthropic-sdk-python",
       "source": "README.md",
-      "sourceLine": 118
+      "sourceLine": 116
     },
     {
       "id": "autogen",
@@ -121,7 +121,7 @@
       "isGitHub": true,
       "githubRepo": "microsoft/autogen",
       "source": "README.md",
-      "sourceLine": 119
+      "sourceLine": 117
     },
     {
       "id": "aws-bedrock-agents",
@@ -141,7 +141,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 120
+      "sourceLine": 118
     },
     {
       "id": "camel",
@@ -161,7 +161,7 @@
       "isGitHub": true,
       "githubRepo": "camel-ai/camel",
       "source": "README.md",
-      "sourceLine": 121
+      "sourceLine": 119
     },
     {
       "id": "copilotkit",
@@ -181,7 +181,7 @@
       "isGitHub": true,
       "githubRepo": "CopilotKit/CopilotKit",
       "source": "README.md",
-      "sourceLine": 122
+      "sourceLine": 120
     },
     {
       "id": "crewai",
@@ -201,7 +201,7 @@
       "isGitHub": true,
       "githubRepo": "crewAIInc/crewAI",
       "source": "README.md",
-      "sourceLine": 123
+      "sourceLine": 121
     },
     {
       "id": "cuga",
@@ -221,7 +221,7 @@
       "isGitHub": true,
       "githubRepo": "cuga-project/cuga-agent",
       "source": "README.md",
-      "sourceLine": 99
+      "sourceLine": 122
     },
     {
       "id": "doforu",
@@ -241,7 +241,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 124
+      "sourceLine": 123
     },
     {
       "id": "dspy",
@@ -261,7 +261,7 @@
       "isGitHub": true,
       "githubRepo": "stanfordnlp/dspy",
       "source": "README.md",
-      "sourceLine": 125
+      "sourceLine": 124
     },
     {
       "id": "ontheia",
@@ -281,7 +281,7 @@
       "isGitHub": true,
       "githubRepo": "Ontheia/ontheia",
       "source": "README.md",
-      "sourceLine": 126
+      "sourceLine": 125
     },
     {
       "id": "google-adk",
@@ -301,7 +301,7 @@
       "isGitHub": true,
       "githubRepo": "google/adk-python",
       "source": "README.md",
-      "sourceLine": 127
+      "sourceLine": 126
     },
     {
       "id": "haystack",
@@ -321,7 +321,7 @@
       "isGitHub": true,
       "githubRepo": "deepset-ai/haystack",
       "source": "README.md",
-      "sourceLine": 128
+      "sourceLine": 127
     },
     {
       "id": "langgraph",
@@ -341,7 +341,7 @@
       "isGitHub": true,
       "githubRepo": "langchain-ai/langgraph",
       "source": "README.md",
-      "sourceLine": 129
+      "sourceLine": 128
     },
     {
       "id": "letta",
@@ -361,7 +361,7 @@
       "isGitHub": true,
       "githubRepo": "letta-ai/letta",
       "source": "README.md",
-      "sourceLine": 130
+      "sourceLine": 129
     },
     {
       "id": "lightagent",
@@ -381,7 +381,7 @@
       "isGitHub": true,
       "githubRepo": "wanxingai/LightAgent",
       "source": "README.md",
-      "sourceLine": 131
+      "sourceLine": 130
     },
     {
       "id": "llamaindex",
@@ -401,7 +401,7 @@
       "isGitHub": true,
       "githubRepo": "run-llama/llama_index",
       "source": "README.md",
-      "sourceLine": 132
+      "sourceLine": 131
     },
     {
       "id": "langsmith-fleet",
@@ -421,7 +421,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 133
+      "sourceLine": 132
     },
     {
       "id": "mastra",
@@ -441,7 +441,7 @@
       "isGitHub": true,
       "githubRepo": "mastra-ai/mastra",
       "source": "README.md",
-      "sourceLine": 134
+      "sourceLine": 133
     },
     {
       "id": "microagent",
@@ -461,7 +461,7 @@
       "isGitHub": true,
       "githubRepo": "BuilderIO/micro-agent",
       "source": "README.md",
-      "sourceLine": 135
+      "sourceLine": 134
     },
     {
       "id": "modus",
@@ -481,7 +481,7 @@
       "isGitHub": true,
       "githubRepo": "hypermodeinc/modus",
       "source": "README.md",
-      "sourceLine": 136
+      "sourceLine": 135
     },
     {
       "id": "open-autoglm",
@@ -501,7 +501,7 @@
       "isGitHub": true,
       "githubRepo": "zai-org/Open-AutoGLM",
       "source": "README.md",
-      "sourceLine": 137
+      "sourceLine": 136
     },
     {
       "id": "openai-agents-sdk",
@@ -521,7 +521,7 @@
       "isGitHub": true,
       "githubRepo": "openai/openai-agents-python",
       "source": "README.md",
-      "sourceLine": 138
+      "sourceLine": 137
     },
     {
       "id": "praisonai",
@@ -541,7 +541,7 @@
       "isGitHub": true,
       "githubRepo": "MervinPraison/PraisonAI",
       "source": "README.md",
-      "sourceLine": 139
+      "sourceLine": 138
     },
     {
       "id": "pydanticai",
@@ -561,7 +561,7 @@
       "isGitHub": true,
       "githubRepo": "pydantic/pydantic-ai",
       "source": "README.md",
-      "sourceLine": 140
+      "sourceLine": 139
     },
     {
       "id": "semantic-kernel",
@@ -581,7 +581,7 @@
       "isGitHub": true,
       "githubRepo": "microsoft/semantic-kernel",
       "source": "README.md",
-      "sourceLine": 141
+      "sourceLine": 140
     },
     {
       "id": "smolagents",
@@ -601,7 +601,7 @@
       "isGitHub": true,
       "githubRepo": "huggingface/smolagents",
       "source": "README.md",
-      "sourceLine": 142
+      "sourceLine": 141
     },
     {
       "id": "strands-agents-sdk",
@@ -621,7 +621,7 @@
       "isGitHub": true,
       "githubRepo": "strands-agents/harness-sdk",
       "source": "README.md",
-      "sourceLine": 143
+      "sourceLine": 142
     },
     {
       "id": "upsonic",
@@ -641,7 +641,7 @@
       "isGitHub": true,
       "githubRepo": "Upsonic/Upsonic",
       "source": "README.md",
-      "sourceLine": 144
+      "sourceLine": 143
     },
     {
       "id": "agent-manager",
@@ -661,7 +661,7 @@
       "isGitHub": true,
       "githubRepo": "YoanWai/agent-manager",
       "source": "README.md",
-      "sourceLine": 148
+      "sourceLine": 147
     },
     {
       "id": "aider",
@@ -681,7 +681,7 @@
       "isGitHub": true,
       "githubRepo": "Aider-AI/aider",
       "source": "README.md",
-      "sourceLine": 149
+      "sourceLine": 148
     },
     {
       "id": "amazon-q-developer",
@@ -701,7 +701,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 150
+      "sourceLine": 149
     },
     {
       "id": "atomic-agent",
@@ -721,7 +721,7 @@
       "isGitHub": true,
       "githubRepo": "AtomicBot-ai/atomic-agent",
       "source": "README.md",
-      "sourceLine": 151
+      "sourceLine": 150
     },
     {
       "id": "autogpt",
@@ -741,7 +741,7 @@
       "isGitHub": true,
       "githubRepo": "Significant-Gravitas/AutoGPT",
       "source": "README.md",
-      "sourceLine": 152
+      "sourceLine": 151
     },
     {
       "id": "claude-code",
@@ -761,7 +761,7 @@
       "isGitHub": true,
       "githubRepo": "anthropics/claude-code",
       "source": "README.md",
-      "sourceLine": 153
+      "sourceLine": 152
     },
     {
       "id": "cline",
@@ -781,7 +781,7 @@
       "isGitHub": true,
       "githubRepo": "cline/cline",
       "source": "README.md",
-      "sourceLine": 154
+      "sourceLine": 153
     },
     {
       "id": "coderabbit",
@@ -801,7 +801,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 155
+      "sourceLine": 154
     },
     {
       "id": "codex-cli",
@@ -821,7 +821,7 @@
       "isGitHub": true,
       "githubRepo": "openai/codex",
       "source": "README.md",
-      "sourceLine": 156
+      "sourceLine": 155
     },
     {
       "id": "codex-cli-microsoft",
@@ -841,7 +841,7 @@
       "isGitHub": true,
       "githubRepo": "microsoft/Codex-CLI",
       "source": "README.md",
-      "sourceLine": 157
+      "sourceLine": 156
     },
     {
       "id": "continue",
@@ -861,7 +861,7 @@
       "isGitHub": true,
       "githubRepo": "continuedev/continue",
       "source": "README.md",
-      "sourceLine": 158
+      "sourceLine": 157
     },
     {
       "id": "cursor",
@@ -881,7 +881,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 159
+      "sourceLine": 158
     },
     {
       "id": "devika",
@@ -901,7 +901,7 @@
       "isGitHub": true,
       "githubRepo": "stitionai/devika",
       "source": "README.md",
-      "sourceLine": 160
+      "sourceLine": 159
     },
     {
       "id": "devin",
@@ -921,7 +921,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 161
+      "sourceLine": 160
     },
     {
       "id": "fractal",
@@ -1678,7 +1678,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 176
+      "sourceLine": 201
     },
     {
       "id": "folio",
@@ -1698,7 +1698,7 @@
       "isGitHub": true,
       "githubRepo": "evergreen-it-dev/folio",
       "source": "README.md",
-      "sourceLine": 201
+      "sourceLine": 202
     },
     {
       "id": "graphiti",
@@ -1718,7 +1718,7 @@
       "isGitHub": true,
       "githubRepo": "getzep/graphiti",
       "source": "README.md",
-      "sourceLine": 202
+      "sourceLine": 203
     },
     {
       "id": "kage",
@@ -1738,7 +1738,7 @@
       "isGitHub": true,
       "githubRepo": "kage-core/Kage",
       "source": "README.md",
-      "sourceLine": 203
+      "sourceLine": 204
     },
     {
       "id": "lancedb",
@@ -1758,7 +1758,7 @@
       "isGitHub": true,
       "githubRepo": "lancedb/lancedb",
       "source": "README.md",
-      "sourceLine": 204
+      "sourceLine": 205
     },
     {
       "id": "langmem",
@@ -1778,7 +1778,7 @@
       "isGitHub": true,
       "githubRepo": "langchain-ai/langmem",
       "source": "README.md",
-      "sourceLine": 205
+      "sourceLine": 206
     },
     {
       "id": "lians",
@@ -1798,7 +1798,7 @@
       "isGitHub": true,
       "githubRepo": "Lians-ai/Lians",
       "source": "README.md",
-      "sourceLine": 206
+      "sourceLine": 207
     },
     {
       "id": "lwc",
@@ -1818,7 +1818,7 @@
       "isGitHub": true,
       "githubRepo": "JanYork/llm-wiki-cli",
       "source": "README.md",
-      "sourceLine": 207
+      "sourceLine": 208
     },
     {
       "id": "mem0",
@@ -1838,7 +1838,7 @@
       "isGitHub": true,
       "githubRepo": "mem0ai/mem0",
       "source": "README.md",
-      "sourceLine": 208
+      "sourceLine": 209
     },
     {
       "id": "remio",
@@ -1858,7 +1858,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 209
+      "sourceLine": 210
     },
     {
       "id": "memoir",
@@ -1878,7 +1878,7 @@
       "isGitHub": true,
       "githubRepo": "zhangfengcdt/memoir",
       "source": "README.md",
-      "sourceLine": 210
+      "sourceLine": 211
     },
     {
       "id": "memvid",
@@ -1898,7 +1898,7 @@
       "isGitHub": true,
       "githubRepo": "memvid/memvid",
       "source": "README.md",
-      "sourceLine": 211
+      "sourceLine": 212
     },
     {
       "id": "milvus",
@@ -1918,7 +1918,7 @@
       "isGitHub": true,
       "githubRepo": "milvus-io/milvus",
       "source": "README.md",
-      "sourceLine": 212
+      "sourceLine": 213
     },
     {
       "id": "mnemoverse",
@@ -1938,7 +1938,7 @@
       "isGitHub": true,
       "githubRepo": "mnemoverse/mcp-memory-server",
       "source": "README.md",
-      "sourceLine": 213
+      "sourceLine": 214
     },
     {
       "id": "mori",
@@ -1958,7 +1958,7 @@
       "isGitHub": true,
       "githubRepo": "fjwood69/mori",
       "source": "README.md",
-      "sourceLine": 214
+      "sourceLine": 215
     },
     {
       "id": "motorhead",
@@ -1978,7 +1978,7 @@
       "isGitHub": true,
       "githubRepo": "getmetal/motorhead",
       "source": "README.md",
-      "sourceLine": 215
+      "sourceLine": 216
     },
     {
       "id": "open-index",
@@ -1998,7 +1998,7 @@
       "isGitHub": true,
       "githubRepo": "DrDroidLab/open-index",
       "source": "README.md",
-      "sourceLine": 216
+      "sourceLine": 217
     },
     {
       "id": "pathway",
@@ -2018,7 +2018,7 @@
       "isGitHub": true,
       "githubRepo": "pathwaycom/pathway",
       "source": "README.md",
-      "sourceLine": 217
+      "sourceLine": 218
     },
     {
       "id": "pinecone",
@@ -2038,7 +2038,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 218
+      "sourceLine": 219
     },
     {
       "id": "qdrant",
@@ -2058,7 +2058,7 @@
       "isGitHub": true,
       "githubRepo": "qdrant/qdrant",
       "source": "README.md",
-      "sourceLine": 219
+      "sourceLine": 220
     },
     {
       "id": "ragflow",
@@ -2078,7 +2078,7 @@
       "isGitHub": true,
       "githubRepo": "infiniflow/ragflow",
       "source": "README.md",
-      "sourceLine": 220
+      "sourceLine": 221
     },
     {
       "id": "screenpipe",
@@ -2098,7 +2098,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 221
+      "sourceLine": 222
     },
     {
       "id": "simplemem",
@@ -2118,7 +2118,7 @@
       "isGitHub": true,
       "githubRepo": "aiming-lab/SimpleMem",
       "source": "README.md",
-      "sourceLine": 222
+      "sourceLine": 223
     },
     {
       "id": "since-cutoff",
@@ -2138,7 +2138,7 @@
       "isGitHub": true,
       "githubRepo": "MohammadHijjawi97/since-cutoff",
       "source": "README.md",
-      "sourceLine": 223
+      "sourceLine": 224
     },
     {
       "id": "superdense",
@@ -2158,7 +2158,7 @@
       "isGitHub": true,
       "githubRepo": "Nimrobo/superdense",
       "source": "README.md",
-      "sourceLine": 224
+      "sourceLine": 225
     },
     {
       "id": "supermemory",
@@ -2178,7 +2178,7 @@
       "isGitHub": true,
       "githubRepo": "supermemoryai/supermemory",
       "source": "README.md",
-      "sourceLine": 225
+      "sourceLine": 226
     },
     {
       "id": "tree-ring-memory",
@@ -2198,7 +2198,7 @@
       "isGitHub": true,
       "githubRepo": "TerminallyLazy/Tree-Ring-Memory",
       "source": "README.md",
-      "sourceLine": 226
+      "sourceLine": 227
     },
     {
       "id": "vestige",
@@ -2218,7 +2218,7 @@
       "isGitHub": true,
       "githubRepo": "samvallad33/vestige",
       "source": "README.md",
-      "sourceLine": 227
+      "sourceLine": 228
     },
     {
       "id": "weaviate",
@@ -2238,7 +2238,7 @@
       "isGitHub": true,
       "githubRepo": "weaviate/weaviate",
       "source": "README.md",
-      "sourceLine": 228
+      "sourceLine": 229
     },
     {
       "id": "zep",
@@ -2258,7 +2258,7 @@
       "isGitHub": true,
       "githubRepo": "getzep/zep",
       "source": "README.md",
-      "sourceLine": 229
+      "sourceLine": 230
     },
     {
       "id": "5dive",
@@ -2278,7 +2278,7 @@
       "isGitHub": true,
       "githubRepo": "5dive-ai/5dive",
       "source": "README.md",
-      "sourceLine": 233
+      "sourceLine": 234
     },
     {
       "id": "agentverse",
@@ -2298,7 +2298,7 @@
       "isGitHub": true,
       "githubRepo": "OpenBMB/AgentVerse",
       "source": "README.md",
-      "sourceLine": 234
+      "sourceLine": 235
     },
     {
       "id": "bunkhouse",
@@ -2318,7 +2318,7 @@
       "isGitHub": true,
       "githubRepo": "braedonsaunders/bunkhouse",
       "source": "README.md",
-      "sourceLine": 235
+      "sourceLine": 236
     },
     {
       "id": "concord-mcp",
@@ -2338,7 +2338,7 @@
       "isGitHub": true,
       "githubRepo": "Get-Concord-AI/concord-mcp",
       "source": "README.md",
-      "sourceLine": 212
+      "sourceLine": 237
     },
     {
       "id": "evoagentx",
@@ -2358,7 +2358,7 @@
       "isGitHub": true,
       "githubRepo": "ANative-Lab/EvoAgentX",
       "source": "README.md",
-      "sourceLine": 236
+      "sourceLine": 238
     },
     {
       "id": "hivekeep",
@@ -2378,7 +2378,7 @@
       "isGitHub": true,
       "githubRepo": "MarlBurroW/hivekeep",
       "source": "README.md",
-      "sourceLine": 237
+      "sourceLine": 239
     },
     {
       "id": "hivemoot",
@@ -2398,7 +2398,7 @@
       "isGitHub": true,
       "githubRepo": "hivemoot/hivemoot",
       "source": "README.md",
-      "sourceLine": 238
+      "sourceLine": 240
     },
     {
       "id": "markus",
@@ -2418,7 +2418,7 @@
       "isGitHub": true,
       "githubRepo": "markus-global/markus",
       "source": "README.md",
-      "sourceLine": 239
+      "sourceLine": 241
     },
     {
       "id": "metagpt",
@@ -2438,7 +2438,7 @@
       "isGitHub": true,
       "githubRepo": "FoundationAgents/MetaGPT",
       "source": "README.md",
-      "sourceLine": 240
+      "sourceLine": 242
     },
     {
       "id": "narranexus",
@@ -2458,7 +2458,7 @@
       "isGitHub": true,
       "githubRepo": "NetMindAI-Open/NarraNexus",
       "source": "README.md",
-      "sourceLine": 241
+      "sourceLine": 243
     },
     {
       "id": "p2pclaw",
@@ -2478,7 +2478,7 @@
       "isGitHub": true,
       "githubRepo": "Agnuxo1/OpenCLAW-P2P",
       "source": "README.md",
-      "sourceLine": 242
+      "sourceLine": 244
     },
     {
       "id": "raven",
@@ -2498,7 +2498,7 @@
       "isGitHub": true,
       "githubRepo": "EverMind-AI/Raven",
       "source": "README.md",
-      "sourceLine": 243
+      "sourceLine": 245
     },
     {
       "id": "sqwakie",
@@ -2518,7 +2518,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 244
+      "sourceLine": 246
     },
     {
       "id": "swarm",
@@ -2538,7 +2538,7 @@
       "isGitHub": true,
       "githubRepo": "openai/swarm",
       "source": "README.md",
-      "sourceLine": 245
+      "sourceLine": 247
     },
     {
       "id": "swarms-framework",
@@ -2558,7 +2558,7 @@
       "isGitHub": true,
       "githubRepo": "kyegomez/swarms",
       "source": "README.md",
-      "sourceLine": 246
+      "sourceLine": 248
     },
     {
       "id": "yao-agents",
@@ -2578,7 +2578,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 247
+      "sourceLine": 249
     },
     {
       "id": "a2a-protocol",
@@ -2598,7 +2598,7 @@
       "isGitHub": true,
       "githubRepo": "a2aproject/A2A",
       "source": "README.md",
-      "sourceLine": 261
+      "sourceLine": 263
     },
     {
       "id": "aident-loadout",
@@ -2618,7 +2618,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 262
+      "sourceLine": 264
     },
     {
       "id": "arcade-ai",
@@ -2638,7 +2638,7 @@
       "isGitHub": true,
       "githubRepo": "ArcadeAI/arcade-mcp",
       "source": "README.md",
-      "sourceLine": 263
+      "sourceLine": 265
     },
     {
       "id": "chord",
@@ -2658,7 +2658,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 264
+      "sourceLine": 266
     },
     {
       "id": "composio",
@@ -2678,7 +2678,7 @@
       "isGitHub": true,
       "githubRepo": "ComposioHQ/composio",
       "source": "README.md",
-      "sourceLine": 265
+      "sourceLine": 267
     },
     {
       "id": "datacircle",
@@ -2698,7 +2698,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 266
+      "sourceLine": 268
     },
     {
       "id": "docker-mcp",
@@ -2718,7 +2718,7 @@
       "isGitHub": true,
       "githubRepo": "docker/mcp-gateway",
       "source": "README.md",
-      "sourceLine": 267
+      "sourceLine": 269
     },
     {
       "id": "equibles",
@@ -2738,7 +2738,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 268
+      "sourceLine": 270
     },
     {
       "id": "hcs-agent-protocol",
@@ -2758,7 +2758,7 @@
       "isGitHub": true,
       "githubRepo": "hashgraph/hedera-agent-kit-js",
       "source": "README.md",
-      "sourceLine": 269
+      "sourceLine": 271
     },
     {
       "id": "hig-doctor",
@@ -2778,7 +2778,7 @@
       "isGitHub": true,
       "githubRepo": "raintree-technology/hig-doctor",
       "source": "README.md",
-      "sourceLine": 270
+      "sourceLine": 272
     },
     {
       "id": "hyper",
@@ -2798,7 +2798,7 @@
       "isGitHub": true,
       "githubRepo": "hyperfx-ai/marketing-skills",
       "source": "README.md",
-      "sourceLine": 271
+      "sourceLine": 273
     },
     {
       "id": "jev-agent",
@@ -2818,7 +2818,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 272
+      "sourceLine": 274
     },
     {
       "id": "lognorm",
@@ -2838,7 +2838,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 273
+      "sourceLine": 275
     },
     {
       "id": "mcp-registry",
@@ -2858,7 +2858,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 274
+      "sourceLine": 276
     },
     {
       "id": "mcp-nest",
@@ -2878,7 +2878,7 @@
       "isGitHub": true,
       "githubRepo": "CharanBharathula/mcp-nest",
       "source": "README.md",
-      "sourceLine": 275
+      "sourceLine": 277
     },
     {
       "id": "notfair",
@@ -2898,7 +2898,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 276
+      "sourceLine": 278
     },
     {
       "id": "notfair-skills",
@@ -2918,7 +2918,7 @@
       "isGitHub": true,
       "githubRepo": "nowork-studio/notfair-plugin",
       "source": "README.md",
-      "sourceLine": 277
+      "sourceLine": 279
     },
     {
       "id": "scalekit",
@@ -2938,7 +2938,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 278
+      "sourceLine": 280
     },
     {
       "id": "seonix-seo-mcp",
@@ -2998,7 +2998,7 @@
       "isGitHub": true,
       "githubRepo": "Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
       "source": "README.md",
-      "sourceLine": 280
+      "sourceLine": 283
     },
     {
       "id": "toolhouse",
@@ -3018,7 +3018,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 281
+      "sourceLine": 284
     },
     {
       "id": "xquik",
@@ -3038,7 +3038,7 @@
       "isGitHub": true,
       "githubRepo": "Xquik-dev/x-twitter-scraper",
       "source": "README.md",
-      "sourceLine": 282
+      "sourceLine": 285
     },
     {
       "id": "zapier-mcp-server",
@@ -3058,7 +3058,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 283
+      "sourceLine": 286
     },
     {
       "id": "zero-api-key-web-search",
@@ -3078,7 +3078,7 @@
       "isGitHub": true,
       "githubRepo": "wd041216-bit/zero-api-key-web-search",
       "source": "README.md",
-      "sourceLine": 284
+      "sourceLine": 287
     },
     {
       "id": "agent-s2",
@@ -3098,7 +3098,7 @@
       "isGitHub": true,
       "githubRepo": "simular-ai/Agent-S",
       "source": "README.md",
-      "sourceLine": 288
+      "sourceLine": 291
     },
     {
       "id": "agentql",
@@ -3118,7 +3118,7 @@
       "isGitHub": true,
       "githubRepo": "tinyfish-io/agentql",
       "source": "README.md",
-      "sourceLine": 289
+      "sourceLine": 292
     },
     {
       "id": "aifetchly",
@@ -3138,7 +3138,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 290
+      "sourceLine": 293
     },
     {
       "id": "aihawk",
@@ -3158,7 +3158,7 @@
       "isGitHub": true,
       "githubRepo": "feder-cr/invisible_playwright_mcp",
       "source": "README.md",
-      "sourceLine": 291
+      "sourceLine": 294
     },
     {
       "id": "airtop",
@@ -3178,7 +3178,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 292
+      "sourceLine": 295
     },
     {
       "id": "browser-use",
@@ -3198,7 +3198,7 @@
       "isGitHub": true,
       "githubRepo": "browser-use/browser-use",
       "source": "README.md",
-      "sourceLine": 293
+      "sourceLine": 296
     },
     {
       "id": "browserbase",
@@ -3218,7 +3218,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 294
+      "sourceLine": 297
     },
     {
       "id": "dia-browser",
@@ -3238,7 +3238,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 295
+      "sourceLine": 298
     },
     {
       "id": "fellou",
@@ -3258,7 +3258,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 296
+      "sourceLine": 299
     },
     {
       "id": "genspark",
@@ -3278,7 +3278,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 297
+      "sourceLine": 300
     },
     {
       "id": "grok-computer",
@@ -3298,7 +3298,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 298
+      "sourceLine": 301
     },
     {
       "id": "lavague",
@@ -3318,7 +3318,7 @@
       "isGitHub": true,
       "githubRepo": "lavague-ai/LaVague",
       "source": "README.md",
-      "sourceLine": 299
+      "sourceLine": 302
     },
     {
       "id": "manus",
@@ -3338,7 +3338,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 300
+      "sourceLine": 303
     },
     {
       "id": "multion",
@@ -3358,7 +3358,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 301
+      "sourceLine": 304
     },
     {
       "id": "openai-operator",
@@ -3378,7 +3378,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 302
+      "sourceLine": 305
     },
     {
       "id": "openamer",
@@ -3398,7 +3398,7 @@
       "isGitHub": true,
       "githubRepo": "openamer/openamer",
       "source": "README.md",
-      "sourceLine": 303
+      "sourceLine": 306
     },
     {
       "id": "openclaw",
@@ -3418,7 +3418,7 @@
       "isGitHub": true,
       "githubRepo": "openclaw/openclaw",
       "source": "README.md",
-      "sourceLine": 304
+      "sourceLine": 307
     },
     {
       "id": "playwright-mcp",
@@ -3438,7 +3438,7 @@
       "isGitHub": true,
       "githubRepo": "microsoft/playwright-mcp",
       "source": "README.md",
-      "sourceLine": 305
+      "sourceLine": 308
     },
     {
       "id": "skyvern",
@@ -3458,7 +3458,7 @@
       "isGitHub": true,
       "githubRepo": "Skyvern-AI/skyvern",
       "source": "README.md",
-      "sourceLine": 306
+      "sourceLine": 309
     },
     {
       "id": "stagehand",
@@ -3478,7 +3478,7 @@
       "isGitHub": true,
       "githubRepo": "browserbase/stagehand",
       "source": "README.md",
-      "sourceLine": 307
+      "sourceLine": 310
     },
     {
       "id": "todo-for-ai",
@@ -3498,7 +3498,7 @@
       "isGitHub": true,
       "githubRepo": "todoforai/edge",
       "source": "README.md",
-      "sourceLine": 308
+      "sourceLine": 311
     },
     {
       "id": "agent-bounties",
@@ -3518,7 +3518,7 @@
       "isGitHub": true,
       "githubRepo": "NSPG13/agent-bounties",
       "source": "README.md",
-      "sourceLine": 315
+      "sourceLine": 318
     },
     {
       "id": "agent-payment-node",
@@ -3538,7 +3538,7 @@
       "isGitHub": true,
       "githubRepo": "nuanu-ai/agent-payment-node",
       "source": "README.md",
-      "sourceLine": 316
+      "sourceLine": 319
     },
     {
       "id": "agentdock",
@@ -3558,7 +3558,7 @@
       "isGitHub": true,
       "githubRepo": "agentdock/agentdock",
       "source": "README.md",
-      "sourceLine": 317
+      "sourceLine": 320
     },
     {
       "id": "agent-qa",
@@ -3578,7 +3578,7 @@
       "isGitHub": true,
       "githubRepo": "vostride/agent-qa",
       "source": "README.md",
-      "sourceLine": 318
+      "sourceLine": 321
     },
     {
       "id": "agentsandboxes",
@@ -3598,7 +3598,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 293
+      "sourceLine": 322
     },
     {
       "id": "anansi-haven",
@@ -3618,7 +3618,7 @@
       "isGitHub": true,
       "githubRepo": "kburrus64-max/anansi-haven",
       "source": "README.md",
-      "sourceLine": 293
+      "sourceLine": 323
     },
     {
       "id": "arcmira",
@@ -3638,7 +3638,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 319
+      "sourceLine": 324
     },
     {
       "id": "codex-profiles",
@@ -3658,7 +3658,7 @@
       "isGitHub": true,
       "githubRepo": "Ducksss/codex-profiles",
       "source": "README.md",
-      "sourceLine": 320
+      "sourceLine": 325
     },
     {
       "id": "cohesivity",
@@ -3678,7 +3678,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 321
+      "sourceLine": 326
     },
     {
       "id": "compozyos",
@@ -3698,7 +3698,7 @@
       "isGitHub": true,
       "githubRepo": "compozy/compozy",
       "source": "README.md",
-      "sourceLine": 322
+      "sourceLine": 327
     },
     {
       "id": "crawl4ai",
@@ -3718,7 +3718,7 @@
       "isGitHub": true,
       "githubRepo": "unclecode/crawl4ai",
       "source": "README.md",
-      "sourceLine": 323
+      "sourceLine": 328
     },
     {
       "id": "docling",
@@ -3738,7 +3738,7 @@
       "isGitHub": true,
       "githubRepo": "docling-project/docling",
       "source": "README.md",
-      "sourceLine": 324
+      "sourceLine": 329
     },
     {
       "id": "e2b",
@@ -3758,7 +3758,7 @@
       "isGitHub": true,
       "githubRepo": "e2b-dev/e2b",
       "source": "README.md",
-      "sourceLine": 325
+      "sourceLine": 330
     },
     {
       "id": "engram",
@@ -3778,7 +3778,7 @@
       "isGitHub": true,
       "githubRepo": "kwstx/translator",
       "source": "README.md",
-      "sourceLine": 326
+      "sourceLine": 331
     },
     {
       "id": "firecrawl",
@@ -3798,7 +3798,7 @@
       "isGitHub": true,
       "githubRepo": "firecrawl/firecrawl",
       "source": "README.md",
-      "sourceLine": 327
+      "sourceLine": 332
     },
     {
       "id": "humanendpoint",
@@ -3818,7 +3818,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 328
+      "sourceLine": 333
     },
     {
       "id": "jina-reader",
@@ -3838,7 +3838,7 @@
       "isGitHub": true,
       "githubRepo": "jina-ai/reader",
       "source": "README.md",
-      "sourceLine": 329
+      "sourceLine": 334
     },
     {
       "id": "llamaparse",
@@ -3898,7 +3898,7 @@
       "isGitHub": true,
       "githubRepo": "datalab-to/marker",
       "source": "README.md",
-      "sourceLine": 331
+      "sourceLine": 337
     },
     {
       "id": "notte",
@@ -3918,7 +3918,7 @@
       "isGitHub": true,
       "githubRepo": "nottelabs/notte",
       "source": "README.md",
-      "sourceLine": 332
+      "sourceLine": 338
     },
     {
       "id": "pilot-protocol",
@@ -3938,7 +3938,7 @@
       "isGitHub": true,
       "githubRepo": "pilot-protocol/pilotprotocol",
       "source": "README.md",
-      "sourceLine": 333
+      "sourceLine": 339
     },
     {
       "id": "playwright",
@@ -3958,7 +3958,7 @@
       "isGitHub": true,
       "githubRepo": "microsoft/playwright",
       "source": "README.md",
-      "sourceLine": 334
+      "sourceLine": 340
     },
     {
       "id": "sandbase-cli",
@@ -3978,7 +3978,7 @@
       "isGitHub": true,
       "githubRepo": "sandbaseai/cli",
       "source": "README.md",
-      "sourceLine": 335
+      "sourceLine": 341
     },
     {
       "id": "scrapegraphai",
@@ -3998,7 +3998,7 @@
       "isGitHub": true,
       "githubRepo": "ScrapeGraphAI/Scrapegraph-ai",
       "source": "README.md",
-      "sourceLine": 336
+      "sourceLine": 342
     },
     {
       "id": "solaris-dev-shop",
@@ -4018,7 +4018,7 @@
       "isGitHub": true,
       "githubRepo": "Shaisolaris/solaris-dev-shop",
       "source": "README.md",
-      "sourceLine": 337
+      "sourceLine": 343
     },
     {
       "id": "speck",
@@ -4038,7 +4038,7 @@
       "isGitHub": true,
       "githubRepo": "doctarock/Speck",
       "source": "README.md",
-      "sourceLine": 338
+      "sourceLine": 344
     },
     {
       "id": "superagent",
@@ -4058,7 +4058,7 @@
       "isGitHub": true,
       "githubRepo": "pungme/superagent-desktop",
       "source": "README.md",
-      "sourceLine": 339
+      "sourceLine": 345
     },
     {
       "id": "surya",
@@ -4078,7 +4078,7 @@
       "isGitHub": true,
       "githubRepo": "datalab-to/surya",
       "source": "README.md",
-      "sourceLine": 340
+      "sourceLine": 346
     },
     {
       "id": "tavily",
@@ -4098,7 +4098,7 @@
       "isGitHub": true,
       "githubRepo": "tavily-ai/tavily-python",
       "source": "README.md",
-      "sourceLine": 341
+      "sourceLine": 347
     },
     {
       "id": "traceai",
@@ -4118,7 +4118,7 @@
       "isGitHub": true,
       "githubRepo": "future-agi/traceAI",
       "source": "README.md",
-      "sourceLine": 342
+      "sourceLine": 348
     },
     {
       "id": "tracefold",
@@ -4138,7 +4138,7 @@
       "isGitHub": true,
       "githubRepo": "TraceFold/tracefold",
       "source": "README.md",
-      "sourceLine": 343
+      "sourceLine": 349
     },
     {
       "id": "unstructured",
@@ -4198,7 +4198,7 @@
       "isGitHub": true,
       "githubRepo": "activepieces/activepieces",
       "source": "README.md",
-      "sourceLine": 348
+      "sourceLine": 355
     },
     {
       "id": "agentgpt",
@@ -4218,7 +4218,7 @@
       "isGitHub": true,
       "githubRepo": "reworkd/AgentGPT",
       "source": "README.md",
-      "sourceLine": 349
+      "sourceLine": 356
     },
     {
       "id": "dify",
@@ -4238,7 +4238,7 @@
       "isGitHub": true,
       "githubRepo": "langgenius/dify",
       "source": "README.md",
-      "sourceLine": 350
+      "sourceLine": 357
     },
     {
       "id": "fastagency",
@@ -4258,7 +4258,7 @@
       "isGitHub": true,
       "githubRepo": "ag2ai/fastagency",
       "source": "README.md",
-      "sourceLine": 351
+      "sourceLine": 358
     },
     {
       "id": "flowise",
@@ -4278,7 +4278,7 @@
       "isGitHub": true,
       "githubRepo": "FlowiseAI/Flowise",
       "source": "README.md",
-      "sourceLine": 352
+      "sourceLine": 359
     },
     {
       "id": "langflow",
@@ -4298,7 +4298,7 @@
       "isGitHub": true,
       "githubRepo": "langflow-ai/langflow",
       "source": "README.md",
-      "sourceLine": 353
+      "sourceLine": 360
     },
     {
       "id": "lindy",
@@ -4318,7 +4318,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 354
+      "sourceLine": 361
     },
     {
       "id": "llamaindex-workflows",
@@ -4338,7 +4338,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 355
+      "sourceLine": 362
     },
     {
       "id": "llmgraph",
@@ -4358,7 +4358,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 356
+      "sourceLine": 363
     },
     {
       "id": "make",
@@ -4378,7 +4378,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 357
+      "sourceLine": 364
     },
     {
       "id": "n8n",
@@ -4398,7 +4398,7 @@
       "isGitHub": true,
       "githubRepo": "n8n-io/n8n",
       "source": "README.md",
-      "sourceLine": 358
+      "sourceLine": 365
     },
     {
       "id": "relevance-ai",
@@ -4418,7 +4418,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 359
+      "sourceLine": 366
     },
     {
       "id": "rivet",
@@ -4438,7 +4438,7 @@
       "isGitHub": true,
       "githubRepo": "Ironclad/rivet",
       "source": "README.md",
-      "sourceLine": 360
+      "sourceLine": 367
     },
     {
       "id": "syl",
@@ -4458,7 +4458,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 361
+      "sourceLine": 368
     },
     {
       "id": "temporal",
@@ -4478,7 +4478,7 @@
       "isGitHub": true,
       "githubRepo": "temporalio/temporal",
       "source": "README.md",
-      "sourceLine": 362
+      "sourceLine": 369
     },
     {
       "id": "wordware",
@@ -4498,7 +4498,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 363
+      "sourceLine": 370
     },
     {
       "id": "workato-agent-studio",
@@ -4518,7 +4518,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 364
+      "sourceLine": 371
     },
     {
       "id": "zapier-ai",
@@ -4538,7 +4538,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 365
+      "sourceLine": 372
     },
     {
       "id": "agentset",
@@ -4558,7 +4558,7 @@
       "isGitHub": true,
       "githubRepo": "agentset-ai/agentset",
       "source": "README.md",
-      "sourceLine": 369
+      "sourceLine": 376
     },
     {
       "id": "livekit-agents",
@@ -4578,7 +4578,7 @@
       "isGitHub": true,
       "githubRepo": "livekit/agents",
       "source": "README.md",
-      "sourceLine": 370
+      "sourceLine": 377
     },
     {
       "id": "nuance-ai",
@@ -4598,7 +4598,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 371
+      "sourceLine": 378
     },
     {
       "id": "google-cloud-speech-to-text-v2",
@@ -4618,7 +4618,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 372
+      "sourceLine": 379
     },
     {
       "id": "personal-jarvis",
@@ -4638,7 +4638,7 @@
       "isGitHub": true,
       "githubRepo": "Dodaios/Dodaios",
       "source": "README.md",
-      "sourceLine": 373
+      "sourceLine": 380
     },
     {
       "id": "pipecat",
@@ -4658,7 +4658,7 @@
       "isGitHub": true,
       "githubRepo": "pipecat-ai/pipecat",
       "source": "README.md",
-      "sourceLine": 374
+      "sourceLine": 381
     },
     {
       "id": "qwen-audio-agent",
@@ -4678,7 +4678,7 @@
       "isGitHub": true,
       "githubRepo": "QwenAudio/qwen-audio-agent",
       "source": "README.md",
-      "sourceLine": 375
+      "sourceLine": 382
     },
     {
       "id": "rasa",
@@ -4698,7 +4698,7 @@
       "isGitHub": true,
       "githubRepo": "RasaHQ/rasa",
       "source": "README.md",
-      "sourceLine": 376
+      "sourceLine": 383
     },
     {
       "id": "simulate-sdk",
@@ -4718,7 +4718,7 @@
       "isGitHub": true,
       "githubRepo": "future-agi/simulate-sdk",
       "source": "README.md",
-      "sourceLine": 377
+      "sourceLine": 384
     },
     {
       "id": "vapi",
@@ -4738,7 +4738,7 @@
       "isGitHub": true,
       "githubRepo": "VapiAI/server-sdk-python",
       "source": "README.md",
-      "sourceLine": 378
+      "sourceLine": 385
     },
     {
       "id": "vocode",
@@ -4758,7 +4758,7 @@
       "isGitHub": true,
       "githubRepo": "vocodedev/vocode-core",
       "source": "README.md",
-      "sourceLine": 379
+      "sourceLine": 386
     },
     {
       "id": "wispr-flow",
@@ -4778,7 +4778,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 380
+      "sourceLine": 387
     },
     {
       "id": "agent-os",
@@ -4798,7 +4798,7 @@
       "isGitHub": true,
       "githubRepo": "buildermethods/agent-os",
       "source": "README.md",
-      "sourceLine": 384
+      "sourceLine": 391
     },
     {
       "id": "agentdog",
@@ -4818,7 +4818,7 @@
       "isGitHub": true,
       "githubRepo": "AI45Lab/AgentDoG",
       "source": "README.md",
-      "sourceLine": 385
+      "sourceLine": 392
     },
     {
       "id": "agentguard",
@@ -4838,7 +4838,7 @@
       "isGitHub": true,
       "githubRepo": "cyberark/agent-guard",
       "source": "README.md",
-      "sourceLine": 386
+      "sourceLine": 393
     },
     {
       "id": "bifrost",
@@ -4858,7 +4858,7 @@
       "isGitHub": true,
       "githubRepo": "maximhq/bifrost",
       "source": "README.md",
-      "sourceLine": 387
+      "sourceLine": 394
     },
     {
       "id": "agenttrace",
@@ -4878,7 +4878,7 @@
       "isGitHub": true,
       "githubRepo": "luoyuctl/agenttrace",
       "source": "README.md",
-      "sourceLine": 388
+      "sourceLine": 395
     },
     {
       "id": "aport-agent-guardrails",
@@ -4898,7 +4898,7 @@
       "isGitHub": true,
       "githubRepo": "aporthq/aport-agent-guardrails",
       "source": "README.md",
-      "sourceLine": 389
+      "sourceLine": 396
     },
     {
       "id": "patronus-ai-lynx",
@@ -4918,7 +4918,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 390
+      "sourceLine": 397
     },
     {
       "id": "arize-phoenix",
@@ -4938,7 +4938,7 @@
       "isGitHub": true,
       "githubRepo": "Arize-ai/phoenix",
       "source": "README.md",
-      "sourceLine": 391
+      "sourceLine": 398
     },
     {
       "id": "braintrust",
@@ -4958,7 +4958,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 392
+      "sourceLine": 399
     },
     {
       "id": "clawmetry",
@@ -4978,7 +4978,7 @@
       "isGitHub": true,
       "githubRepo": "vivekchand/clawmetry",
       "source": "README.md",
-      "sourceLine": 393
+      "sourceLine": 400
     },
     {
       "id": "elevenagents",
@@ -4998,7 +4998,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 394
+      "sourceLine": 401
     },
     {
       "id": "driftguard",
@@ -5018,7 +5018,27 @@
       "isGitHub": true,
       "githubRepo": "sujal-maheshwari2004/DriftGuard",
       "source": "README.md",
-      "sourceLine": 395
+      "sourceLine": 402
+    },
+    {
+      "id": "flowskill",
+      "slug": "flowskill",
+      "name": "FlowSkill",
+      "url": "https://github.com/manhquydev/flow-skill",
+      "category": "Safety Guardrails and Observability",
+      "categorySlug": "safety-guardrails-and-observability",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Shell",
+      "tags": [
+        "Shell",
+        "Testing"
+      ],
+      "description": "Gated build harness that blocks coding-agent stages until mechanical and semantic gates agree on done evidence.",
+      "isGitHub": true,
+      "githubRepo": "manhquydev/flow-skill",
+      "source": "README.md",
+      "sourceLine": 403
     },
     {
       "id": "galley",
@@ -5038,7 +5058,7 @@
       "isGitHub": true,
       "githubRepo": "shinpr/galley",
       "source": "README.md",
-      "sourceLine": 396
+      "sourceLine": 404
     },
     {
       "id": "guardrails-ai",
@@ -5058,7 +5078,7 @@
       "isGitHub": true,
       "githubRepo": "guardrails-ai/guardrails",
       "source": "README.md",
-      "sourceLine": 397
+      "sourceLine": 405
     },
     {
       "id": "helicone",
@@ -5078,7 +5098,7 @@
       "isGitHub": true,
       "githubRepo": "Helicone/helicone",
       "source": "README.md",
-      "sourceLine": 398
+      "sourceLine": 406
     },
     {
       "id": "lakera-guard",
@@ -5098,7 +5118,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 399
+      "sourceLine": 407
     },
     {
       "id": "laminar",
@@ -5118,7 +5138,7 @@
       "isGitHub": true,
       "githubRepo": "lmnr-ai/lmnr",
       "source": "README.md",
-      "sourceLine": 400
+      "sourceLine": 408
     },
     {
       "id": "langfuse",
@@ -5138,7 +5158,7 @@
       "isGitHub": true,
       "githubRepo": "langfuse/langfuse",
       "source": "README.md",
-      "sourceLine": 401
+      "sourceLine": 409
     },
     {
       "id": "langsmith",
@@ -5158,7 +5178,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 402
+      "sourceLine": 410
     },
     {
       "id": "llm-guard",
@@ -5178,7 +5198,7 @@
       "isGitHub": true,
       "githubRepo": "protectai/llm-guard",
       "source": "README.md",
-      "sourceLine": 403
+      "sourceLine": 411
     },
     {
       "id": "logfire",
@@ -5198,7 +5218,7 @@
       "isGitHub": true,
       "githubRepo": "pydantic/logfire",
       "source": "README.md",
-      "sourceLine": 404
+      "sourceLine": 412
     },
     {
       "id": "martinloop",
@@ -5218,7 +5238,7 @@
       "isGitHub": true,
       "githubRepo": "Keesan12/martin-loop",
       "source": "README.md",
-      "sourceLine": 405
+      "sourceLine": 413
     },
     {
       "id": "nemo-guardrails",
@@ -5238,7 +5258,7 @@
       "isGitHub": true,
       "githubRepo": "NVIDIA-NeMo/Guardrails",
       "source": "README.md",
-      "sourceLine": 406
+      "sourceLine": 414
     },
     {
       "id": "noveum",
@@ -5258,7 +5278,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 407
+      "sourceLine": 415
     },
     {
       "id": "orcareplay",
@@ -5278,7 +5298,7 @@
       "isGitHub": true,
       "githubRepo": "Continuum-AI-Corp/OrcaReplay",
       "source": "README.md",
-      "sourceLine": 408
+      "sourceLine": 416
     },
     {
       "id": "orchard-kit",
@@ -5298,7 +5318,7 @@
       "isGitHub": true,
       "githubRepo": "OrchardHarmonics/orchard-kit",
       "source": "README.md",
-      "sourceLine": 409
+      "sourceLine": 417
     },
     {
       "id": "owasp-top-10-for-agentic-apps",
@@ -5318,7 +5338,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 410
+      "sourceLine": 418
     },
     {
       "id": "pluribus",
@@ -5338,7 +5358,7 @@
       "isGitHub": true,
       "githubRepo": "caioribeiroclw-pixel/pluribus",
       "source": "README.md",
-      "sourceLine": 411
+      "sourceLine": 419
     },
     {
       "id": "rebuff",
@@ -5358,7 +5378,7 @@
       "isGitHub": true,
       "githubRepo": "protectai/rebuff",
       "source": "README.md",
-      "sourceLine": 412
+      "sourceLine": 420
     },
     {
       "id": "agent-learning-kit",
@@ -5378,7 +5398,7 @@
       "isGitHub": true,
       "githubRepo": "future-agi/agent-learning-kit",
       "source": "README.md",
-      "sourceLine": 413
+      "sourceLine": 421
     },
     {
       "id": "shipmoor",
@@ -5398,7 +5418,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 414
+      "sourceLine": 422
     },
     {
       "id": "sourcerykit",
@@ -5418,7 +5438,7 @@
       "isGitHub": true,
       "githubRepo": "ProvablyAI/sourcerykit",
       "source": "README.md",
-      "sourceLine": 415
+      "sourceLine": 423
     },
     {
       "id": "future-agi",
@@ -5438,7 +5458,7 @@
       "isGitHub": true,
       "githubRepo": "future-agi/future-agi",
       "source": "README.md",
-      "sourceLine": 416
+      "sourceLine": 424
     },
     {
       "id": "sofagent",
@@ -5458,7 +5478,7 @@
       "isGitHub": true,
       "githubRepo": "KongFangXun/sofagent",
       "source": "README.md",
-      "sourceLine": 417
+      "sourceLine": 425
     },
     {
       "id": "sunglasses",
@@ -5478,7 +5498,7 @@
       "isGitHub": true,
       "githubRepo": "sunglasses-dev/sunglasses",
       "source": "README.md",
-      "sourceLine": 418
+      "sourceLine": 426
     },
     {
       "id": "aionui",
@@ -5498,7 +5518,7 @@
       "isGitHub": true,
       "githubRepo": "iOfficeAI/AionUi",
       "source": "README.md",
-      "sourceLine": 424
+      "sourceLine": 432
     },
     {
       "id": "anythingllm",
@@ -5518,7 +5538,7 @@
       "isGitHub": true,
       "githubRepo": "Mintplex-Labs/anything-llm",
       "source": "README.md",
-      "sourceLine": 425
+      "sourceLine": 433
     },
     {
       "id": "db-gpt",
@@ -5538,7 +5558,7 @@
       "isGitHub": true,
       "githubRepo": "eosphoros-ai/DB-GPT",
       "source": "README.md",
-      "sourceLine": 426
+      "sourceLine": 434
     },
     {
       "id": "librechat",
@@ -5558,7 +5578,7 @@
       "isGitHub": true,
       "githubRepo": "LibreChat-AI/LibreChat",
       "source": "README.md",
-      "sourceLine": 427
+      "sourceLine": 435
     },
     {
       "id": "lobehub",
@@ -5578,7 +5598,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 428
+      "sourceLine": 436
     },
     {
       "id": "lobechat",
@@ -5598,7 +5618,7 @@
       "isGitHub": true,
       "githubRepo": "lobehub/lobehub",
       "source": "README.md",
-      "sourceLine": 429
+      "sourceLine": 437
     },
     {
       "id": "openhuman",
@@ -5618,7 +5638,7 @@
       "isGitHub": true,
       "githubRepo": "tinyhumansai/openhuman",
       "source": "README.md",
-      "sourceLine": 430
+      "sourceLine": 438
     },
     {
       "id": "orkas",
@@ -5638,7 +5658,7 @@
       "isGitHub": true,
       "githubRepo": "Orkas-AI/Orkas",
       "source": "README.md",
-      "sourceLine": 431
+      "sourceLine": 439
     },
     {
       "id": "openwebui",
@@ -5658,7 +5678,7 @@
       "isGitHub": true,
       "githubRepo": "open-webui/open-webui",
       "source": "README.md",
-      "sourceLine": 432
+      "sourceLine": 440
     },
     {
       "id": "futureos",
@@ -5678,7 +5698,7 @@
       "isGitHub": true,
       "githubRepo": "futuregene/future-os",
       "source": "README.md",
-      "sourceLine": 433
+      "sourceLine": 441
     },
     {
       "id": "lucinate",
@@ -5698,7 +5718,7 @@
       "isGitHub": true,
       "githubRepo": "lucinate-ai/lucinate",
       "source": "README.md",
-      "sourceLine": 434
+      "sourceLine": 442
     },
     {
       "id": "tale",
@@ -5718,7 +5738,7 @@
       "isGitHub": true,
       "githubRepo": "tale-project/tale",
       "source": "README.md",
-      "sourceLine": 442
+      "sourceLine": 443
     },
     {
       "id": "tecadrise-bot",
@@ -5738,7 +5758,7 @@
       "isGitHub": true,
       "githubRepo": "tecadrise-ai/TecAdRiseBot",
       "source": "README.md",
-      "sourceLine": 443
+      "sourceLine": 444
     },
     {
       "id": "vicoa",
@@ -5758,7 +5778,7 @@
       "isGitHub": true,
       "githubRepo": "vicoa-ai/vicoa",
       "source": "README.md",
-      "sourceLine": 436
+      "sourceLine": 445
     },
     {
       "id": "kortix",
@@ -5778,7 +5798,7 @@
       "isGitHub": true,
       "githubRepo": "kortix-ai/suna",
       "source": "README.md",
-      "sourceLine": 440
+      "sourceLine": 449
     },
     {
       "id": "aws-bedrock-agentcore",
@@ -5798,7 +5818,7 @@
       "isGitHub": true,
       "githubRepo": "awslabs/agentcore-samples",
       "source": "README.md",
-      "sourceLine": 442
+      "sourceLine": 451
     },
     {
       "id": "cerebras-inference",
@@ -5818,7 +5838,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 443
+      "sourceLine": 452
     },
     {
       "id": "fireworks-ai",
@@ -5838,7 +5858,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 444
+      "sourceLine": 453
     },
     {
       "id": "groq-cloud",
@@ -5858,7 +5878,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 445
+      "sourceLine": 454
     },
     {
       "id": "hivemeld",
@@ -5878,7 +5898,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 446
+      "sourceLine": 455
     },
     {
       "id": "modal",
@@ -5898,7 +5918,7 @@
       "isGitHub": true,
       "githubRepo": "modal-labs/modal-client",
       "source": "README.md",
-      "sourceLine": 447
+      "sourceLine": 456
     },
     {
       "id": "northflank",
@@ -5918,7 +5938,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 448
+      "sourceLine": 457
     },
     {
       "id": "railway",
@@ -5938,7 +5958,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 449
+      "sourceLine": 458
     },
     {
       "id": "together-ai",
@@ -5958,7 +5978,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 450
+      "sourceLine": 459
     },
     {
       "id": "triggerdev",
@@ -5978,7 +5998,7 @@
       "isGitHub": true,
       "githubRepo": "triggerdotdev/trigger.dev",
       "source": "README.md",
-      "sourceLine": 451
+      "sourceLine": 460
     },
     {
       "id": "agentbench",
@@ -5998,7 +6018,7 @@
       "isGitHub": true,
       "githubRepo": "THUDM/AgentBench",
       "source": "README.md",
-      "sourceLine": 455
+      "sourceLine": 464
     },
     {
       "id": "arc-agi-2",
@@ -6018,7 +6038,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 456
+      "sourceLine": 465
     },
     {
       "id": "clawbench",
@@ -6038,7 +6058,7 @@
       "isGitHub": true,
       "githubRepo": "TIGER-AI-Lab/ClawBench",
       "source": "README.md",
-      "sourceLine": 457
+      "sourceLine": 466
     },
     {
       "id": "gaia-benchmark",
@@ -6058,7 +6078,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 458
+      "sourceLine": 467
     },
     {
       "id": "inspect-ai",
@@ -6078,7 +6098,7 @@
       "isGitHub": true,
       "githubRepo": "UKGovernmentBEIS/inspect_ai",
       "source": "README.md",
-      "sourceLine": 459
+      "sourceLine": 468
     },
     {
       "id": "personal-agent-bench",
@@ -6098,7 +6118,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 460
+      "sourceLine": 469
     },
     {
       "id": "swe-bench",
@@ -6118,7 +6138,7 @@
       "isGitHub": true,
       "githubRepo": "SWE-bench/SWE-bench",
       "source": "README.md",
-      "sourceLine": 461
+      "sourceLine": 470
     },
     {
       "id": "webarena",
@@ -6138,7 +6158,7 @@
       "isGitHub": true,
       "githubRepo": "web-arena-x/webarena",
       "source": "README.md",
-      "sourceLine": 462
+      "sourceLine": 471
     },
     {
       "id": "yylo-benchmark",
@@ -6158,7 +6178,7 @@
       "isGitHub": true,
       "githubRepo": "yylo-dev/yylo-benchmark",
       "source": "README.md",
-      "sourceLine": 463
+      "sourceLine": 472
     },
     {
       "id": "anthropic-finance-agents",
@@ -6178,7 +6198,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 496
+      "sourceLine": 497
     },
     {
       "id": "bluwhale",
@@ -6198,7 +6218,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 497
+      "sourceLine": 498
     },
     {
       "id": "jpmorgan-alphablue",
@@ -6218,7 +6238,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 489
+      "sourceLine": 499
     },
     {
       "id": "goldman-sachs-marquee-ai",
@@ -6238,7 +6258,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 490
+      "sourceLine": 500
     },
     {
       "id": "morgan-stanley-advisorbot",
@@ -6258,7 +6278,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 491
+      "sourceLine": 501
     },
     {
       "id": "agentpump",
@@ -6278,7 +6298,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 492
+      "sourceLine": 502
     },
     {
       "id": "epic-ai-assistant",
@@ -6298,7 +6318,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 497
+      "sourceLine": 507
     },
     {
       "id": "healify",
@@ -6318,7 +6338,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 498
+      "sourceLine": 508
     },
     {
       "id": "nuance-healthcare-ai",
@@ -6338,7 +6358,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 499
+      "sourceLine": 509
     },
     {
       "id": "tempus-ai",
@@ -6358,7 +6378,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 500
+      "sourceLine": 510
     },
     {
       "id": "lexisnexis-ai",
@@ -6378,7 +6398,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 504
+      "sourceLine": 514
     },
     {
       "id": "westlaw-ai-assisted-research",
@@ -6398,7 +6418,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 505
+      "sourceLine": 515
     },
     {
       "id": "ross-intelligence",
@@ -6418,7 +6438,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 506
+      "sourceLine": 516
     },
     {
       "id": "siemens-ai-ops",
@@ -6438,7 +6458,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 510
+      "sourceLine": 520
     },
     {
       "id": "ge-predix-agents",
@@ -6458,7 +6478,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 520
+      "sourceLine": 521
     },
     {
       "id": "altorank",
@@ -6478,7 +6498,7 @@
       "isGitHub": true,
       "githubRepo": "AltoRank/altorank",
       "source": "README.md",
-      "sourceLine": 524
+      "sourceLine": 525
     },
     {
       "id": "duvo",
@@ -6498,7 +6518,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 515
+      "sourceLine": 529
     },
     {
       "id": "hellomatik",
@@ -6518,7 +6538,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 516
+      "sourceLine": 530
     },
     {
       "id": "kuudo-skills",
@@ -6538,7 +6558,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 517
+      "sourceLine": 531
     },
     {
       "id": "anthropic-government-agents",
@@ -6558,7 +6578,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 521
+      "sourceLine": 535
     },
     {
       "id": "leyna",
@@ -6578,7 +6598,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 522
+      "sourceLine": 536
     },
     {
       "id": "agent-cookbook",
@@ -6598,7 +6618,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 526
+      "sourceLine": 540
     },
     {
       "id": "agentbench-evaluating-llms-as-agents",
@@ -6618,7 +6638,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 527
+      "sourceLine": 541
     },
     {
       "id": "agents-handbook",
@@ -6638,7 +6658,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 528
+      "sourceLine": 542
     },
     {
       "id": "ai-agents-in-langgraph",
@@ -6658,7 +6678,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 529
+      "sourceLine": 543
     },
     {
       "id": "ai-engineering-by-chip-huyen",
@@ -6678,7 +6698,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 530
+      "sourceLine": 544
     },
     {
       "id": "anthropic-cookbook",
@@ -6698,7 +6718,7 @@
       "isGitHub": true,
       "githubRepo": "anthropics/claude-cookbooks",
       "source": "README.md",
-      "sourceLine": 531
+      "sourceLine": 545
     },
     {
       "id": "building-effective-agents",
@@ -6718,7 +6738,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 532
+      "sourceLine": 546
     },
     {
       "id": "hugging-face-agents-course",
@@ -6738,7 +6758,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 533
+      "sourceLine": 547
     },
     {
       "id": "implicit-behavioral-alignment-of-language-agents-in-high-stakes-crowd-simulations",
@@ -6758,7 +6778,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 534
+      "sourceLine": 548
     },
     {
       "id": "jailbreaking-llms-safeguard-with-universal-magic-words-for-text-embedding-models",
@@ -6778,7 +6798,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 535
+      "sourceLine": 549
     },
     {
       "id": "lats-language-agent-tree-search",
@@ -6798,7 +6818,7 @@
       "isGitHub": true,
       "githubRepo": "andyz245/LanguageAgentTreeSearch",
       "source": "README.md",
-      "sourceLine": 536
+      "sourceLine": 550
     },
     {
       "id": "llm-agents-a-survey",
@@ -6818,7 +6838,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 537
+      "sourceLine": 551
     },
     {
       "id": "llm-powered-autonomous-agents",
@@ -6838,7 +6858,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 538
+      "sourceLine": 552
     },
     {
       "id": "microsoft-genai-for-beginners",
@@ -6858,7 +6878,7 @@
       "isGitHub": true,
       "githubRepo": "microsoft/generative-ai-for-beginners",
       "source": "README.md",
-      "sourceLine": 539
+      "sourceLine": 553
     },
     {
       "id": "openai-cookbook",
@@ -6878,7 +6898,7 @@
       "isGitHub": true,
       "githubRepo": "openai/openai-cookbook",
       "source": "README.md",
-      "sourceLine": 540
+      "sourceLine": 554
     },
     {
       "id": "prompt-engineering-guide",
@@ -6898,7 +6918,7 @@
       "isGitHub": true,
       "githubRepo": "dair-ai/Prompt-Engineering-Guide",
       "source": "README.md",
-      "sourceLine": 541
+      "sourceLine": 555
     },
     {
       "id": "react-synergizing-reasoning-and-acting-in-language-models",
@@ -6918,7 +6938,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 542
+      "sourceLine": 556
     },
     {
       "id": "reflexion",
@@ -6938,7 +6958,7 @@
       "isGitHub": true,
       "githubRepo": "noahshinn/reflexion",
       "source": "README.md",
-      "sourceLine": 543
+      "sourceLine": 557
     },
     {
       "id": "the-agent-loop-a-survey-of-control-strategies-skills-and-harnesses-for-llm-agents",
@@ -6958,7 +6978,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 544
+      "sourceLine": 558
     },
     {
       "id": "tree-of-thoughts",
@@ -6978,7 +6998,7 @@
       "isGitHub": true,
       "githubRepo": "princeton-nlp/tree-of-thought-llm",
       "source": "README.md",
-      "sourceLine": 545
+      "sourceLine": 559
     },
     {
       "id": "whats-missing-in-autonomous-research",
@@ -6998,7 +7018,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 546
+      "sourceLine": 560
     },
     {
       "id": "apprise",
@@ -7018,7 +7038,7 @@
       "isGitHub": true,
       "githubRepo": "caronc/apprise",
       "source": "README.md",
-      "sourceLine": 552
+      "sourceLine": 566
     },
     {
       "id": "atomic-mail-agentic",
@@ -7038,7 +7058,7 @@
       "isGitHub": true,
       "githubRepo": "Atomic-Mail/atomic-mail-agentic",
       "source": "README.md",
-      "sourceLine": 553
+      "sourceLine": 567
     },
     {
       "id": "discordpy",
@@ -7058,7 +7078,7 @@
       "isGitHub": true,
       "githubRepo": "Rapptz/discord.py",
       "source": "README.md",
-      "sourceLine": 554
+      "sourceLine": 568
     },
     {
       "id": "fastapi-mail",
@@ -7078,7 +7098,7 @@
       "isGitHub": true,
       "githubRepo": "sabuhish/fastapi-mail",
       "source": "README.md",
-      "sourceLine": 555
+      "sourceLine": 569
     },
     {
       "id": "novu",
@@ -7098,7 +7118,7 @@
       "isGitHub": true,
       "githubRepo": "novuhq/novu",
       "source": "README.md",
-      "sourceLine": 556
+      "sourceLine": 570
     },
     {
       "id": "ntfy",
@@ -7118,7 +7138,7 @@
       "isGitHub": true,
       "githubRepo": "binwiederhier/ntfy",
       "source": "README.md",
-      "sourceLine": 557
+      "sourceLine": 571
     },
     {
       "id": "one",
@@ -7138,7 +7158,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 558
+      "sourceLine": 572
     },
     {
       "id": "openmail",
@@ -7158,7 +7178,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 559
+      "sourceLine": 573
     },
     {
       "id": "resend",
@@ -7178,7 +7198,7 @@
       "isGitHub": true,
       "githubRepo": "resend/resend-node",
       "source": "README.md",
-      "sourceLine": 560
+      "sourceLine": 574
     },
     {
       "id": "slack-bolt",
@@ -7198,7 +7218,7 @@
       "isGitHub": true,
       "githubRepo": "slackapi/bolt-python",
       "source": "README.md",
-      "sourceLine": 561
+      "sourceLine": 575
     },
     {
       "id": "the-colony",
@@ -7218,7 +7238,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 562
+      "sourceLine": 576
     },
     {
       "id": "tlgr",
@@ -7238,7 +7258,7 @@
       "isGitHub": true,
       "githubRepo": "tlgrcli/tlgr",
       "source": "README.md",
-      "sourceLine": 563
+      "sourceLine": 577
     },
     {
       "id": "twilio",
@@ -7258,7 +7278,7 @@
       "isGitHub": true,
       "githubRepo": "twilio/twilio-python",
       "source": "README.md",
-      "sourceLine": 564
+      "sourceLine": 578
     },
     {
       "id": "ai-for-database",
@@ -7278,7 +7298,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 570
+      "sourceLine": 584
     },
     {
       "id": "burr",
@@ -7298,7 +7318,7 @@
       "isGitHub": true,
       "githubRepo": "apache/burr",
       "source": "README.md",
-      "sourceLine": 571
+      "sourceLine": 585
     },
     {
       "id": "dagster",
@@ -7318,7 +7338,7 @@
       "isGitHub": true,
       "githubRepo": "dagster-io/dagster",
       "source": "README.md",
-      "sourceLine": 572
+      "sourceLine": 586
     },
     {
       "id": "gpt-researcher",
@@ -7338,7 +7358,7 @@
       "isGitHub": true,
       "githubRepo": "assafelovic/gpt-researcher",
       "source": "README.md",
-      "sourceLine": 573
+      "sourceLine": 587
     },
     {
       "id": "hamilton",
@@ -7358,7 +7378,7 @@
       "isGitHub": true,
       "githubRepo": "apache/hamilton",
       "source": "README.md",
-      "sourceLine": 574
+      "sourceLine": 588
     },
     {
       "id": "hex-ai",
@@ -7378,7 +7398,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 575
+      "sourceLine": 589
     },
     {
       "id": "julius-ai",
@@ -7398,7 +7418,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 576
+      "sourceLine": 590
     },
     {
       "id": "nika",
@@ -7418,7 +7438,7 @@
       "isGitHub": true,
       "githubRepo": "supernovae-st/nika",
       "source": "README.md",
-      "sourceLine": 577
+      "sourceLine": 591
     },
     {
       "id": "pandasai",
@@ -7438,7 +7458,7 @@
       "isGitHub": true,
       "githubRepo": "sinaptik-ai/pandas-ai",
       "source": "README.md",
-      "sourceLine": 578
+      "sourceLine": 592
     },
     {
       "id": "prefect",
@@ -7458,7 +7478,7 @@
       "isGitHub": true,
       "githubRepo": "PrefectHQ/prefect",
       "source": "README.md",
-      "sourceLine": 579
+      "sourceLine": 593
     },
     {
       "id": "signals-cli",
@@ -7478,7 +7498,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 580
+      "sourceLine": 594
     },
     {
       "id": "storm",
@@ -7498,7 +7518,7 @@
       "isGitHub": true,
       "githubRepo": "stanford-oval/storm",
       "source": "README.md",
-      "sourceLine": 581
+      "sourceLine": 595
     },
     {
       "id": "agentnotary",
@@ -7518,7 +7538,7 @@
       "isGitHub": true,
       "githubRepo": "CharanBharathula/agentnotary",
       "source": "README.md",
-      "sourceLine": 602
+      "sourceLine": 616
     },
     {
       "id": "aws-lambda",
@@ -7538,7 +7558,7 @@
       "isGitHub": true,
       "githubRepo": "aws/aws-lambda-python-runtime-interface-client",
       "source": "README.md",
-      "sourceLine": 603
+      "sourceLine": 617
     },
     {
       "id": "cloudflare-workers",
@@ -7558,7 +7578,7 @@
       "isGitHub": true,
       "githubRepo": "cloudflare/workers-sdk",
       "source": "README.md",
-      "sourceLine": 604
+      "sourceLine": 618
     },
     {
       "id": "codesandbox-sdk",
@@ -7578,7 +7598,7 @@
       "isGitHub": true,
       "githubRepo": "codesandbox/codesandbox-sdk",
       "source": "README.md",
-      "sourceLine": 605
+      "sourceLine": 619
     },
     {
       "id": "daytona",
@@ -7598,7 +7618,7 @@
       "isGitHub": true,
       "githubRepo": "daytonaio/daytona",
       "source": "README.md",
-      "sourceLine": 606
+      "sourceLine": 620
     },
     {
       "id": "docker",
@@ -7618,7 +7638,7 @@
       "isGitHub": true,
       "githubRepo": "moby/moby",
       "source": "README.md",
-      "sourceLine": 607
+      "sourceLine": 621
     },
     {
       "id": "firecracker",
@@ -7638,7 +7658,7 @@
       "isGitHub": true,
       "githubRepo": "firecracker-microvm/firecracker",
       "source": "README.md",
-      "sourceLine": 608
+      "sourceLine": 622
     },
     {
       "id": "google-cloud-run",
@@ -7658,7 +7678,7 @@
       "isGitHub": true,
       "githubRepo": "GoogleCloudPlatform/cloud-run-samples",
       "source": "README.md",
-      "sourceLine": 609
+      "sourceLine": 623
     },
     {
       "id": "gvisor",
@@ -7678,7 +7698,7 @@
       "isGitHub": true,
       "githubRepo": "google/gvisor",
       "source": "README.md",
-      "sourceLine": 610
+      "sourceLine": 624
     },
     {
       "id": "kata-containers",
@@ -7698,7 +7718,7 @@
       "isGitHub": true,
       "githubRepo": "kata-containers/kata-containers",
       "source": "README.md",
-      "sourceLine": 611
+      "sourceLine": 625
     },
     {
       "id": "podman",
@@ -7718,7 +7738,7 @@
       "isGitHub": true,
       "githubRepo": "podman-container-tools/podman",
       "source": "README.md",
-      "sourceLine": 612
+      "sourceLine": 626
     },
     {
       "id": "sysbox",
@@ -7738,7 +7758,7 @@
       "isGitHub": true,
       "githubRepo": "nestybox/sysbox",
       "source": "README.md",
-      "sourceLine": 613
+      "sourceLine": 627
     },
     {
       "id": "adobe-firefly-3",
@@ -7758,7 +7778,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 630
+      "sourceLine": 644
     },
     {
       "id": "dall-e-35",
@@ -7778,7 +7798,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 631
+      "sourceLine": 645
     },
     {
       "id": "flux-2",
@@ -7798,7 +7818,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 632
+      "sourceLine": 646
     },
     {
       "id": "google-imagen-4",
@@ -7818,7 +7838,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 633
+      "sourceLine": 647
     },
     {
       "id": "ideogram-v3",
@@ -7838,7 +7858,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 634
+      "sourceLine": 648
     },
     {
       "id": "leonardo-ai",
@@ -7858,7 +7878,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 635
+      "sourceLine": 649
     },
     {
       "id": "midjourney-v7",
@@ -7878,7 +7898,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 636
+      "sourceLine": 650
     },
     {
       "id": "recraft",
@@ -7898,7 +7918,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 637
+      "sourceLine": 651
     },
     {
       "id": "seedream-ai-studio",
@@ -7918,7 +7938,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 638
+      "sourceLine": 652
     },
     {
       "id": "stable-diffusion-35",
@@ -7938,7 +7958,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 639
+      "sourceLine": 653
     },
     {
       "id": "google-veo-31",
@@ -7958,7 +7978,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 652
+      "sourceLine": 666
     },
     {
       "id": "hailuo-ai",
@@ -7978,7 +7998,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 653
+      "sourceLine": 667
     },
     {
       "id": "hunyuanvideo",
@@ -7998,7 +8018,7 @@
       "isGitHub": true,
       "githubRepo": "Tencent-Hunyuan/HunyuanVideo",
       "source": "README.md",
-      "sourceLine": 654
+      "sourceLine": 668
     },
     {
       "id": "kling-30",
@@ -8018,7 +8038,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 655
+      "sourceLine": 669
     },
     {
       "id": "ltx-video",
@@ -8038,7 +8058,7 @@
       "isGitHub": true,
       "githubRepo": "Lightricks/LTX-Video",
       "source": "README.md",
-      "sourceLine": 656
+      "sourceLine": 670
     },
     {
       "id": "luma-dream-machine",
@@ -8058,7 +8078,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 657
+      "sourceLine": 671
     },
     {
       "id": "pika-25",
@@ -8078,7 +8098,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 658
+      "sourceLine": 672
     },
     {
       "id": "runway-gen-45",
@@ -8098,7 +8118,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 659
+      "sourceLine": 673
     },
     {
       "id": "seedance-20",
@@ -8118,7 +8138,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 660
+      "sourceLine": 674
     },
     {
       "id": "sora-2",
@@ -8138,7 +8158,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 661
+      "sourceLine": 675
     },
     {
       "id": "wan-21",
@@ -8158,7 +8178,7 @@
       "isGitHub": true,
       "githubRepo": "Wan-Video/Wan2.1",
       "source": "README.md",
-      "sourceLine": 662
+      "sourceLine": 676
     },
     {
       "id": "elevenlabs-music",
@@ -8178,7 +8198,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 666
+      "sourceLine": 680
     },
     {
       "id": "meta-audiocraft",
@@ -8198,7 +8218,7 @@
       "isGitHub": true,
       "githubRepo": "facebookresearch/audiocraft",
       "source": "README.md",
-      "sourceLine": 667
+      "sourceLine": 681
     },
     {
       "id": "stable-audio",
@@ -8218,7 +8238,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 668
+      "sourceLine": 682
     },
     {
       "id": "suno",
@@ -8238,7 +8258,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 669
+      "sourceLine": 683
     },
     {
       "id": "udio",
@@ -8258,7 +8278,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 670
+      "sourceLine": 684
     },
     {
       "id": "meshy",
@@ -8278,7 +8298,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 674
+      "sourceLine": 688
     },
     {
       "id": "tripo-ai",
@@ -8298,7 +8318,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 675
+      "sourceLine": 689
     },
     {
       "id": "vizcom",
@@ -8318,7 +8338,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 676
+      "sourceLine": 690
     },
     {
       "id": "ada",
@@ -8338,7 +8358,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 691
+      "sourceLine": 705
     },
     {
       "id": "assembled",
@@ -8358,7 +8378,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 692
+      "sourceLine": 706
     },
     {
       "id": "chatbotkit",
@@ -8378,7 +8398,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 693
+      "sourceLine": 707
     },
     {
       "id": "dixa",
@@ -8398,7 +8418,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 694
+      "sourceLine": 708
     },
     {
       "id": "freshdesk-freddy-ai",
@@ -8418,7 +8438,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 695
+      "sourceLine": 709
     },
     {
       "id": "intercom-fin",
@@ -8438,7 +8458,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 696
+      "sourceLine": 710
     },
     {
       "id": "zendesk-ai",
@@ -8458,7 +8478,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 697
+      "sourceLine": 711
     },
     {
       "id": "creatio",
@@ -8478,7 +8498,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 701
+      "sourceLine": 715
     },
     {
       "id": "dynamics-365-copilot",
@@ -8498,7 +8518,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 702
+      "sourceLine": 716
     },
     {
       "id": "monday-crm-lexi",
@@ -8518,7 +8538,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 703
+      "sourceLine": 717
     },
     {
       "id": "pipedrive-ai",
@@ -8538,7 +8558,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 704
+      "sourceLine": 718
     },
     {
       "id": "salesforce-einstein",
@@ -8558,7 +8578,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 705
+      "sourceLine": 719
     },
     {
       "id": "salesmate",
@@ -8578,7 +8598,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 706
+      "sourceLine": 720
     },
     {
       "id": "servicenow-ai-agents",
@@ -8598,7 +8618,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 707
+      "sourceLine": 721
     },
     {
       "id": "staffable-ai",
@@ -8618,7 +8638,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 708
+      "sourceLine": 722
     },
     {
       "id": "xmacna-funcionarios-digitais",
@@ -8638,7 +8658,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 709
+      "sourceLine": 723
     },
     {
       "id": "zoho-crm-zia",
@@ -8658,7 +8678,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 710
+      "sourceLine": 724
     },
     {
       "id": "apolloio",
@@ -8678,7 +8698,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 714
+      "sourceLine": 728
     },
     {
       "id": "backlinkgenie",
@@ -8698,7 +8718,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 715
+      "sourceLine": 729
     },
     {
       "id": "buywhere",
@@ -8718,7 +8738,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 716
+      "sourceLine": 730
     },
     {
       "id": "clay",
@@ -8738,7 +8758,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 717
+      "sourceLine": 731
     },
     {
       "id": "instantly",
@@ -8758,7 +8778,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 718
+      "sourceLine": 732
     },
     {
       "id": "lavender",
@@ -8778,7 +8798,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 719
+      "sourceLine": 733
     },
     {
       "id": "linkmcp",
@@ -8798,7 +8818,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 720
+      "sourceLine": 734
     },
     {
       "id": "outreachagent",
@@ -8818,7 +8838,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 721
+      "sourceLine": 735
     },
     {
       "id": "overloop-cli",
@@ -8838,7 +8858,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 722
+      "sourceLine": 736
     },
     {
       "id": "ai-group-call",
@@ -8855,7 +8875,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 734
+      "sourceLine": 748
     },
     {
       "id": "agentline",
@@ -8875,7 +8895,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 736
+      "sourceLine": 750
     },
     {
       "id": "assemblyai",
@@ -8895,7 +8915,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 737
+      "sourceLine": 751
     },
     {
       "id": "bland-ai",
@@ -8915,7 +8935,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 738
+      "sourceLine": 752
     },
     {
       "id": "deepgram",
@@ -8935,7 +8955,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 739
+      "sourceLine": 753
     },
     {
       "id": "elevenlabs",
@@ -8955,7 +8975,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 740
+      "sourceLine": 754
     },
     {
       "id": "heygen",
@@ -8975,7 +8995,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 741
+      "sourceLine": 755
     },
     {
       "id": "hermes",
@@ -8995,7 +9015,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 742
+      "sourceLine": 756
     },
     {
       "id": "placecall",
@@ -9015,7 +9035,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 743
+      "sourceLine": 757
     },
     {
       "id": "polyai",
@@ -9035,7 +9055,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 744
+      "sourceLine": 758
     },
     {
       "id": "retell-ai",
@@ -9055,7 +9075,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 745
+      "sourceLine": 759
     },
     {
       "id": "synthesia",
@@ -9075,7 +9095,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 746
+      "sourceLine": 760
     },
     {
       "id": "synthflow",
@@ -9095,7 +9115,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 747
+      "sourceLine": 761
     },
     {
       "id": "voiceflow",
@@ -9115,7 +9135,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 748
+      "sourceLine": 762
     },
     {
       "id": "workforce-wave",
@@ -9135,7 +9155,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 749
+      "sourceLine": 763
     },
     {
       "id": "agon",
@@ -9155,7 +9175,7 @@
       "isGitHub": true,
       "githubRepo": "AutoResearch-Factory/Agon",
       "source": "README.md",
-      "sourceLine": 762
+      "sourceLine": 776
     },
     {
       "id": "cajal",
@@ -9175,7 +9195,7 @@
       "isGitHub": true,
       "githubRepo": "Agnuxo1/CAJAL",
       "source": "README.md",
-      "sourceLine": 763
+      "sourceLine": 777
     },
     {
       "id": "chatgpt-deep-research",
@@ -9195,7 +9215,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 764
+      "sourceLine": 778
     },
     {
       "id": "claude-deep-research",
@@ -9215,7 +9235,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 765
+      "sourceLine": 779
     },
     {
       "id": "deerflow",
@@ -9235,7 +9255,7 @@
       "isGitHub": true,
       "githubRepo": "bytedance/deer-flow",
       "source": "README.md",
-      "sourceLine": 766
+      "sourceLine": 780
     },
     {
       "id": "gemini-deep-research",
@@ -9255,7 +9275,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 767
+      "sourceLine": 781
     },
     {
       "id": "ideahunter",
@@ -9275,7 +9295,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 768
+      "sourceLine": 782
     },
     {
       "id": "jev-social",
@@ -9295,7 +9315,7 @@
       "isGitHub": true,
       "githubRepo": "socai-io/jev-social",
       "source": "README.md",
-      "sourceLine": 769
+      "sourceLine": 783
     },
     {
       "id": "perplexity-pro",
@@ -9315,7 +9335,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 770
+      "sourceLine": 784
     },
     {
       "id": "superhighway",
@@ -9335,7 +9355,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 771
+      "sourceLine": 785
     },
     {
       "id": "boltnew",
@@ -9355,7 +9375,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 784
+      "sourceLine": 798
     },
     {
       "id": "dyad",
@@ -9375,7 +9395,7 @@
       "isGitHub": true,
       "githubRepo": "dyad-sh/dyad",
       "source": "README.md",
-      "sourceLine": 785
+      "sourceLine": 799
     },
     {
       "id": "google-project-idx",
@@ -9395,7 +9415,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 786
+      "sourceLine": 800
     },
     {
       "id": "lovable",
@@ -9415,7 +9435,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 787
+      "sourceLine": 801
     },
     {
       "id": "playcode-agent",
@@ -9435,7 +9455,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 788
+      "sourceLine": 802
     },
     {
       "id": "replit-agent",
@@ -9455,7 +9475,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 789
+      "sourceLine": 803
     },
     {
       "id": "v0-by-vercel",
@@ -9475,7 +9495,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 790
+      "sourceLine": 804
     },
     {
       "id": "vibekitbot",
@@ -9495,7 +9515,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 791
+      "sourceLine": 805
     },
     {
       "id": "chatgpt",
@@ -9515,7 +9535,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 804
+      "sourceLine": 818
     },
     {
       "id": "claude",
@@ -9535,7 +9555,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 805
+      "sourceLine": 819
     },
     {
       "id": "coze",
@@ -9555,7 +9575,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 806
+      "sourceLine": 820
     },
     {
       "id": "gemini",
@@ -9575,7 +9595,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 807
+      "sourceLine": 821
     },
     {
       "id": "grok",
@@ -9595,7 +9615,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 808
+      "sourceLine": 822
     },
     {
       "id": "kamply",
@@ -9615,7 +9635,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 809
+      "sourceLine": 823
     },
     {
       "id": "meta-ai",
@@ -9635,7 +9655,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 810
+      "sourceLine": 824
     },
     {
       "id": "microsoft-copilot",
@@ -9655,7 +9675,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 811
+      "sourceLine": 825
     },
     {
       "id": "oids",
@@ -9675,7 +9695,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 812
+      "sourceLine": 826
     },
     {
       "id": "sistava",
@@ -9695,7 +9715,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 813
+      "sourceLine": 827
     },
     {
       "id": "teamday",
@@ -9715,7 +9735,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 814
+      "sourceLine": 828
     },
     {
       "id": "viktor",
@@ -9735,7 +9755,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 815
+      "sourceLine": 829
     },
     {
       "id": "baichuan-3",
@@ -9755,7 +9775,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 828
+      "sourceLine": 842
     },
     {
       "id": "command-r",
@@ -9775,7 +9795,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 829
+      "sourceLine": 843
     },
     {
       "id": "deepseek-v3",
@@ -9795,7 +9815,7 @@
       "isGitHub": true,
       "githubRepo": "deepseek-ai/DeepSeek-V3",
       "source": "README.md",
-      "sourceLine": 830
+      "sourceLine": 844
     },
     {
       "id": "falcon-3",
@@ -9815,7 +9835,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 831
+      "sourceLine": 845
     },
     {
       "id": "gemma-3",
@@ -9835,7 +9855,7 @@
       "isGitHub": true,
       "githubRepo": "google-deepmind/gemma",
       "source": "README.md",
-      "sourceLine": 832
+      "sourceLine": 846
     },
     {
       "id": "gemma-4",
@@ -9855,7 +9875,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 833
+      "sourceLine": 847
     },
     {
       "id": "glm-4",
@@ -9875,7 +9895,7 @@
       "isGitHub": true,
       "githubRepo": "zai-org/GLM-4",
       "source": "README.md",
-      "sourceLine": 834
+      "sourceLine": 848
     },
     {
       "id": "glm-52",
@@ -9895,7 +9915,7 @@
       "isGitHub": true,
       "githubRepo": "zai-org/GLM-5",
       "source": "README.md",
-      "sourceLine": 835
+      "sourceLine": 849
     },
     {
       "id": "internlm-3",
@@ -9915,7 +9935,7 @@
       "isGitHub": true,
       "githubRepo": "InternLM/InternLM",
       "source": "README.md",
-      "sourceLine": 836
+      "sourceLine": 850
     },
     {
       "id": "llama-4",
@@ -9935,7 +9955,7 @@
       "isGitHub": true,
       "githubRepo": "meta-llama/llama-models",
       "source": "README.md",
-      "sourceLine": 837
+      "sourceLine": 851
     },
     {
       "id": "mistral-large-2",
@@ -9955,7 +9975,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 838
+      "sourceLine": 852
     },
     {
       "id": "phi-4",
@@ -9975,7 +9995,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 839
+      "sourceLine": 853
     },
     {
       "id": "qwen-3",
@@ -9995,7 +10015,7 @@
       "isGitHub": true,
       "githubRepo": "QwenLM/Qwen3",
       "source": "README.md",
-      "sourceLine": 840
+      "sourceLine": 854
     },
     {
       "id": "qwen-36-plus",
@@ -10015,7 +10035,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 841
+      "sourceLine": 855
     },
     {
       "id": "starcoder-2",
@@ -10035,7 +10055,7 @@
       "isGitHub": true,
       "githubRepo": "bigcode-project/starcoder2",
       "source": "README.md",
-      "sourceLine": 842
+      "sourceLine": 856
     },
     {
       "id": "yi-lightning",
@@ -10055,7 +10075,7 @@
       "isGitHub": true,
       "githubRepo": "01-ai/Yi",
       "source": "README.md",
-      "sourceLine": 843
+      "sourceLine": 857
     },
     {
       "id": "ai-agent-market-report-2026",
@@ -10075,7 +10095,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 897
+      "sourceLine": 911
     },
     {
       "id": "state-of-ai-agents-survey",
@@ -10095,7 +10115,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 898
+      "sourceLine": 912
     },
     {
       "id": "avelina",
@@ -10115,7 +10135,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 904
+      "sourceLine": 918
     },
     {
       "id": "gpt4all",
@@ -10135,7 +10155,7 @@
       "isGitHub": true,
       "githubRepo": "nomic-ai/gpt4all",
       "source": "README.md",
-      "sourceLine": 905
+      "sourceLine": 919
     },
     {
       "id": "jan",
@@ -10155,7 +10175,7 @@
       "isGitHub": true,
       "githubRepo": "janhq/jan",
       "source": "README.md",
-      "sourceLine": 906
+      "sourceLine": 920
     },
     {
       "id": "llamafile",
@@ -10175,7 +10195,7 @@
       "isGitHub": true,
       "githubRepo": "mozilla-ai/llamafile",
       "source": "README.md",
-      "sourceLine": 907
+      "sourceLine": 921
     },
     {
       "id": "llamacpp",
@@ -10195,7 +10215,7 @@
       "isGitHub": true,
       "githubRepo": "ggml-org/llama.cpp",
       "source": "README.md",
-      "sourceLine": 908
+      "sourceLine": 922
     },
     {
       "id": "lm-studio",
@@ -10215,7 +10235,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 909
+      "sourceLine": 923
     },
     {
       "id": "localai",
@@ -10235,7 +10255,7 @@
       "isGitHub": true,
       "githubRepo": "mudler/LocalAI",
       "source": "README.md",
-      "sourceLine": 910
+      "sourceLine": 924
     },
     {
       "id": "ollama",
@@ -10255,7 +10275,7 @@
       "isGitHub": true,
       "githubRepo": "ollama/ollama",
       "source": "README.md",
-      "sourceLine": 911
+      "sourceLine": 925
     },
     {
       "id": "rustfox",
@@ -10275,7 +10295,7 @@
       "isGitHub": true,
       "githubRepo": "chinkan/RustFox",
       "source": "README.md",
-      "sourceLine": 912
+      "sourceLine": 926
     },
     {
       "id": "vllm",
@@ -10295,7 +10315,7 @@
       "isGitHub": true,
       "githubRepo": "vllm-project/vllm",
       "source": "README.md",
-      "sourceLine": 913
+      "sourceLine": 927
     },
     {
       "id": "yao-agents-yaoapp",
@@ -10315,7 +10335,7 @@
       "isGitHub": true,
       "githubRepo": "YaoApp/yao",
       "source": "README.md",
-      "sourceLine": 914
+      "sourceLine": 928
     },
     {
       "id": "credo-ai",
@@ -10335,7 +10355,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 920
+      "sourceLine": 934
     },
     {
       "id": "eu-ai-act",
@@ -10355,7 +10375,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 921
+      "sourceLine": 935
     },
     {
       "id": "ibm-watsonxgovernance",
@@ -10375,7 +10395,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 922
+      "sourceLine": 936
     },
     {
       "id": "nist-ai-rmf",
@@ -10395,7 +10415,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 923
+      "sourceLine": 937
     },
     {
       "id": "onetrust-ai-governance",
@@ -10415,7 +10435,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 924
+      "sourceLine": 938
     },
     {
       "id": "project-glasswing",
@@ -10435,7 +10455,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 925
+      "sourceLine": 939
     },
     {
       "id": "dark-moon",
@@ -10455,7 +10475,7 @@
       "isGitHub": true,
       "githubRepo": "ASCIT31/Dark-Moon",
       "source": "README.md",
-      "sourceLine": 931
+      "sourceLine": 945
     },
     {
       "id": "microsoft-security-copilot",
@@ -10475,7 +10495,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 932
+      "sourceLine": 946
     },
     {
       "id": "pentestgpt",
@@ -10495,7 +10515,7 @@
       "isGitHub": true,
       "githubRepo": "GreyDGL/PentestGPT",
       "source": "README.md",
-      "sourceLine": 933
+      "sourceLine": 947
     },
     {
       "id": "yawning-titan",
@@ -10515,7 +10535,7 @@
       "isGitHub": true,
       "githubRepo": "dstl/YAWNING-TITAN",
       "source": "README.md",
-      "sourceLine": 934
+      "sourceLine": 948
     },
     {
       "id": "akili-interactive",
@@ -10535,7 +10555,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 940
+      "sourceLine": 954
     },
     {
       "id": "elomia",
@@ -10555,7 +10575,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 941
+      "sourceLine": 955
     },
     {
       "id": "ginger",
@@ -10575,7 +10595,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 942
+      "sourceLine": 956
     },
     {
       "id": "headspace-health",
@@ -10595,7 +10615,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 943
+      "sourceLine": 957
     },
     {
       "id": "replika",
@@ -10615,7 +10635,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 944
+      "sourceLine": 958
     },
     {
       "id": "talkspace-ai",
@@ -10635,7 +10655,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 945
+      "sourceLine": 959
     },
     {
       "id": "tess-by-x2ai",
@@ -10655,7 +10675,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 946
+      "sourceLine": 960
     },
     {
       "id": "woebot",
@@ -10675,7 +10695,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 947
+      "sourceLine": 961
     },
     {
       "id": "wysa",
@@ -10695,7 +10715,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 948
+      "sourceLine": 962
     },
     {
       "id": "youper",
@@ -10715,7 +10735,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 949
+      "sourceLine": 963
     },
     {
       "id": "nitrotranslate",
@@ -10735,7 +10755,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 955
+      "sourceLine": 969
     },
     {
       "id": "ai-engineering-newsletter",
@@ -10755,7 +10775,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 961
+      "sourceLine": 975
     },
     {
       "id": "aitoolsobserver",
@@ -10775,7 +10795,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 962
+      "sourceLine": 976
     },
     {
       "id": "aibtcnews",
@@ -10795,7 +10815,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 963
+      "sourceLine": 977
     },
     {
       "id": "awesome-agents-newsletter",
@@ -10815,7 +10835,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 964
+      "sourceLine": 978
     },
     {
       "id": "hearth",
@@ -10832,7 +10852,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 965
+      "sourceLine": 979
     },
     {
       "id": "rclaudeai",
@@ -10852,7 +10872,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 966
+      "sourceLine": 980
     },
     {
       "id": "rlangchain",
@@ -10872,7 +10892,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 967
+      "sourceLine": 981
     },
     {
       "id": "rlocalllama",
@@ -10892,7 +10912,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 968
+      "sourceLine": 982
     },
     {
       "id": "the-agents-index",
@@ -10912,7 +10932,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 969
+      "sourceLine": 983
     },
     {
       "id": "the-rundown-ai",
@@ -10932,7 +10952,7 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 970
+      "sourceLine": 984
     }
   ]
 }

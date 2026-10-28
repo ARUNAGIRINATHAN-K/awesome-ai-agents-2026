@@ -400,6 +400,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [ClawMetry](https://github.com/vivekchand/clawmetry) `🔬` `[Python]` `[Observability]` - Self-hosted observability and opt-in kill switch for coding agents, reading the session logs runtimes already write to disk ([website](https://clawmetry.com)).
 - [ElevenAgents](https://elevenlabs.io/agents) `🚀` `[Cloud]` `[Voice]` - Voice agent platform from ElevenLabs for customer support automation with HIPAA compliance and multi-language support.
 - [DriftGuard](https://github.com/sujal-maheshwari2004/DriftGuard) `🌱` `[Python]` `[Multi-Agent]` - Semantic memory guardrails using causal graphs to prevent agents from repeating past failures.
+- [FlowSkill](https://github.com/manhquydev/flow-skill) `🔬` `[Shell]` `[Testing]` - Gated build harness that blocks coding-agent stages until mechanical and semantic gates agree on done evidence.
 - [Galley](https://github.com/shinpr/galley) `🔬` `[Go]` `[Multi-Agent]` - Pairs independently configured executors and supervisors with repository-defined quality gates and inspectable evidence for each coding attempt.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) `🌱` `[Python]` `[Multi-Agent]` - Adds structural, type, and quality guarantees to LLM outputs for reliable agent responses.
 - [Helicone](https://github.com/Helicone/helicone) `🌱` `[TypeScript]` `[Observability]` - Open-source LLM observability with one-line integration for cost tracking and prompt analytics.

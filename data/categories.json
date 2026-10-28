@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:10:28.459Z",
+  "generatedAt": "2026-10-28T03:45:56.108Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -51,7 +51,7 @@
     {
       "name": "Safety Guardrails and Observability",
       "slug": "safety-guardrails-and-observability",
-      "count": 35
+      "count": 36
     },
     {
       "name": "Agent Interfaces and UIs",
