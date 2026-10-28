@@ -170,6 +170,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [mu](https://github.com/qybaihe/mu) `🔬` `[TypeScript]` `[CLI]` - Coding agent that sends routine decisions, such as which tool output enters context, to a small judge model.
 - [Open Interpreter](https://github.com/openinterpreter/openinterpreter) `🌱` `[Python]` `[CLI]` - Execute code locally via natural-language model instructions with a ChatGPT-like interface.
 - [opencode](https://github.com/anomalyco/opencode) `🌱` `[TypeScript]` `[Desktop]` - Open-source coding agent available as a desktop app with a visual interface.
+- [OpenFlow](https://github.com/surlymochan/openflow) `🔬` `[JavaScript]` `[CLI]` - Executable delivery workflows for AI coding agents, with YAML phases and code-checked red/green TDD proof gates via the xflow CLI.
 - [OpenHands](https://github.com/OpenHands/OpenHands) `🌱` `[Python]` `[Docker]` - AI-driven development platform that writes, tests, and deploys code autonomously.
 - [Orbi](https://github.com/orbi-build/orbi) `🌱` `[Python]` `[Self-Hosted]` - Turns labeled GitHub Issues into independently reviewed pull requests, then merges reviewed heads and tags releases.
 - [Ordewell](https://github.com/ordewell/ordewell) `🔬` `[TypeScript]` `[Multi-Agent]` - Turns one goal into an ordered, editable plan of coding-agent tasks, each with its own runner, model, and mode, verified by a completion marker in the runner's output.
