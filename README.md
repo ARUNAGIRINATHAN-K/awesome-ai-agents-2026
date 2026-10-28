@@ -277,6 +277,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [mcp-nest](https://github.com/CharanBharathula/mcp-nest) `🌱` `[Python]` `[MCP]` - Unified Model Context Protocol (MCP) server for executing code and managing files.
 - [NotFair](https://notfair.co) `🚀` `[Cloud]` `[MCP]` - Hosted Google Ads MCP server for diagnosing, optimizing, and executing campaign changes via the Google Ads API with a human-approval gate.
 - [NotFair Skills](https://github.com/nowork-studio/notfair-plugin) `🚀` `[TypeScript]` `[MCP]` - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+- [Robot Speed](https://www.robot-speed.com/mcp) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server that runs SEO audits, schema checks and AI crawler checks on any public URL for agents.
 - [Scalekit](https://www.scalekit.com/agentkit) `🔬` `[Cloud]` `[MCP]` - Hosted MCP gateway and SDKs giving agents per-user OAuth, scoped tool permissions and audit logs across 500+ connectors.
 - [Seonix SEO MCP](https://github.com/seonix-ai/seonix-mcp) `🔬` `[TypeScript]` `[MCP]` - Audits any website for technical SEO, GEO/AEO readiness and page speed, then proposes and dry-runs minimal fixes.
 - [TableJourney](https://tablejourney.com/agents/) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server giving agents verified restaurants, food festival dates and bookable tours in 224 cities, and paying agents half of the booking commission.
