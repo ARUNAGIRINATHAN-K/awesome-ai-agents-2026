@@ -429,6 +429,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 Frontend workspaces and chat interfaces with built-in agent plugins and tool-use capabilities.
 
 - [AionUi](https://github.com/iOfficeAI/AionUi) `🚀` `[Desktop]` `[Multi-Agent]` - Connects 20+ AI CLIs and any API key in a local, open-source multi-agent desktop workspace.
+- [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) `🔬` `[Desktop]` `[Multi-Agent]` - Runs Claude Code and Codex agents in a desktop app; the free edition uses only local Ollama or LM Studio models.
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) `🌱` `[TypeScript]` `[RAG]` - All-in-one AI application with RAG, agents, and multi-model support for desktop and Docker.
 - [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) `🌱` `[Python]` `[Database]` - Data interaction platform with local LLM support for 100% private database and analytics agents.
 - [LibreChat](https://github.com/LibreChat-AI/LibreChat) `🌱` `[TypeScript]` `[IDE]` - Self-hosted multi-model chat interface supporting all major AI providers with access control.
