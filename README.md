@@ -158,6 +158,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [Cursor](https://cursor.com) `🚀` `[TypeScript]` `[IDE]` - AI-native IDE with parallel Cloud Agents and 100K+ enterprise users.
 - [Devika](https://github.com/stitionai/devika) `🌱` `[Python]` `[Docker]` - Open-source AI software engineer that understands high-level instructions and writes full-featured code autonomously.
 - [Devin](https://devin.ai) `🚀` `[Cloud]` `[GitHub]` - Fully autonomous AI software engineer showing 8-12x efficiency gains in production (Nubank case study), cloud sandbox with persistent state, GitHub integration, and enterprise adoption growing 40% MoM.
+- [DevIntern](https://github.com/getdevintern/devintern) `🔬` `[TypeScript]` `[Self-Hosted]` - Self-hosted worker that turns ready tracker tickets into pull requests using Claude Code, Codex, Cursor or OpenCode.
 - [fractal](https://github.com/plasma-ai/fractal) `🌱` `[Python]` `[Multi-Agent]` - Orchestrates Claude Code, Codex, and other agents in per-node Git worktrees with recursive delegation and a live TUI.
 - [Frink](https://github.com/benord-labs/frink) `🔬` `[Desktop]` `[Local]` - Desktop app for running parallel coding agents and multi-step workflows triggered by schedules, webhooks, or events from tools like Linear and Sentry.
 - [gemini-cli](https://github.com/google-gemini/gemini-cli) `🌱` `[Go]` `[CLI]` - Open-source CLI agent bringing Gemini AI directly into your terminal.
