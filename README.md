@@ -350,6 +350,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) `🌱` `[Python]` `[Pipeline]` - Ingests and preprocesses documents across 25+ file types for downstream LLM and agent pipelines.
 - [Vectoree](https://vectoree.ai) `🔬` `[Cloud]` `[CLI]` - A backend for coding agents with a model gateway, auth, Postgres and storage behind one key.
 
+- [Zambo](https://github.com/zambodotdev/zambo-mcp) `🌱` `[TypeScript]` `[MCP]` - Give any AI agent hands: 120 native MCP tools over one zero-auth endpoint; free 20 calls/tool/day, no account, with x402 USDC micropayments on Base.
 ## Low and No-Code Builders
 
 - [Activepieces](https://github.com/activepieces/activepieces) `🌱` `[TypeScript]` `[Docker]` - Open-source Zapier alternative with AI-powered automation nodes and visual workflow builder.
