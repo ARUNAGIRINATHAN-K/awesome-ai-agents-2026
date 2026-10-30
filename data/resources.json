@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-23T15:10:28.459Z",
   "source": "README.md",
-  "totalResources": 547,
+  "totalResources": 548,
   "resources": [
     {
       "id": "agency-swarm",
@@ -2679,6 +2679,26 @@
       "githubRepo": "ComposioHQ/composio",
       "source": "README.md",
       "sourceLine": 265
+    },
+    {
+      "id": "curlshot",
+      "slug": "curlshot",
+      "name": "CurlShot",
+      "url": "https://curlshot.com/docs/guides/ai-agents",
+      "category": "Agent Communication Protocols",
+      "categorySlug": "agent-communication-protocols",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Cloud",
+      "tags": [
+        "Cloud",
+        "MCP"
+      ],
+      "description": "Hosted MCP server that lets agents screenshot any web page as PNG, JPEG, WebP or PDF, including full-page and phone views.",
+      "isGitHub": false,
+      "githubRepo": null,
+      "source": "README.md",
+      "sourceLine": 268
     },
     {
       "id": "datacircle",
