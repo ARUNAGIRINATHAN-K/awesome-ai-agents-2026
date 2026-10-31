@@ -388,6 +388,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 
 ## Safety Guardrails and Observability
 
+- [TapVow](https://github.com/theluckystrike/tapvow) `🌱` `[TypeScript]` `[Guardrails]` - Local gateway that puts a signed spending limit in front of every AI agent, refuses paid calls that would break the budget before they reach the provider, and keeps a receipt for each LLM or x402 call.
 - [Agent OS](https://github.com/buildermethods/agent-os) `🌱` `[Python]` `[Multi-Agent]` - Kernel architecture for governing autonomous AI agents with policy enforcement.
 - [AgentDoG](https://github.com/AI45Lab/AgentDoG) `🌱` `[Python]` `[Multi-Agent]` - Diagnostic guardrails that analyze full agent execution trajectories to detect instruction hijacking and tool misuse.
 - [AgentGuard](https://github.com/cyberark/agent-guard) `🌱` `[Python]` `[Observability]` - Runtime observability and guardrails for AI agents with loop detection and anomaly alerts.
