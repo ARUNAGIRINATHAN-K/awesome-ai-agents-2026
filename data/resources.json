@@ -2694,7 +2694,7 @@
         "Cloud",
         "MCP"
       ],
-      "description": "Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. Find the best agent tools.",
+      "description": "Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. Find the best GTM APIs.",
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
