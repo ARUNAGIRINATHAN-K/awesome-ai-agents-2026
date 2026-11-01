@@ -819,6 +819,7 @@ All-in-one AI platforms providing access to agents, tools, and models through co
 - [Coze](https://www.coze.com) `🚀` `[Cloud]` `[No-Code]` - No-code agent builder with a marketplace of 100+ custom agents and plugin integrations.
 - [Gemini](https://deepmind.google/models/gemini/) `🚀` `[Cloud]` `[Multimodal]` - Google's multimodal AI with 1M token context, Deep Think, Gems, and NotebookLM for workspace integration.
 - [Grok](https://x.ai/grok) `🌱` `[Cloud]` `[Multi-Agent]` - Real-time AI with live X data access, Grok Build for 8-agent parallel code generation, and image generation.
+- [Hyv](https://hyv.me) `🔬` `[Cloud]` `[Voice]` - Drafts email, sets reminders, calls businesses and builds shopping carts from a private WhatsApp or Telegram chat.
 - [Kamply](https://kamplyapp.com) `🔬` `[Desktop]` `[Multi-Agent]` - Builds social posts, video reels, ads and decks in a brand's own look on the user's Claude Code or Codex plan.
 - [Meta AI](https://meta.ai) `🚀` `[Cloud]` `[Multi-Agent]` - Llama-powered AI integrated across WhatsApp, Messenger, and Instagram for conversational assistance.
 - [Microsoft Copilot](https://copilot.microsoft.com) `🚀` `[Cloud]` `[Microsoft]` - AI assistant integrated into Office 365, Teams, and Power Platform for enterprise productivity workflows.
