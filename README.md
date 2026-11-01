@@ -441,6 +441,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [lucinate](https://github.com/lucinate-ai/lucinate) `🌱` `[Go]` `[TUI]` - Multi-backend terminal AI chat client for OpenClaw, Hermes, Ollama, and OpenAI-compatible APIs with routines, multi-agent switching, and local agent skills.
 - [Tale](https://github.com/tale-project/tale) `🔬` `[TypeScript]` `[Multi-Agent]` - Self-hostable platform for coordinating people and AI agents through delegated project tasks, persistent sandbox workspaces, and human-reviewed results.
 - [TecAdRise Bot](https://github.com/tecadrise-ai/TecAdRiseBot) `🔬` `[TypeScript]` `[Desktop]` - Open-source Windows Electron multi-agent desktop chat shell powered by the Cursor SDK.
+- [VibeDesk](https://github.com/fxd-gif/vibedesk) `🔬` `[Desktop]` `[MCP]` - Runs several Claude Code sessions side by side on Windows with live status, phone approvals, and Markdown project memory over MCP.
 - [Vicoa](https://github.com/vicoa-ai/vicoa) `🔬` `[Desktop]` `[Multi-Agent]` - Agentic IDE orchestrating a team of coding agents from desktop, web, or mobile with real-time sync.
 
 ## Agent Deployment and Hosting
