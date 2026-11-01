@@ -917,6 +917,7 @@ Tools for running LLMs locally and self-hosting AI agent platforms with full pri
 - [Avelina](https://avelina.ai) `🌱` `[TypeScript]` `[Telegram]` - Self-hosted personal AI assistant on your own VPS that lives in Telegram, with persistent long-term memory, voice, and Claude-powered reasoning.
 - [GPT4All](https://github.com/nomic-ai/gpt4all) `🌱` `[C++]` `[Local]` - Open-source local chat application that runs LLMs on consumer hardware without cloud dependencies.
 - [Jan](https://github.com/janhq/jan) `🌱` `[TypeScript]` `[Local]` - Open-source ChatGPT alternative that runs 100% offline with local model management and privacy guarantees.
+- [Kwant](https://github.com/alexsergivan/kwant) `🔬` `[Rust]` `[Self-Hosted]` - Self-hosted team of AI agents in one binary with @mention handoffs, routines, and approval prompts.
 - [Llamafile](https://github.com/mozilla-ai/llamafile) `🌱` `[C++]` `[Local]` - Distributes LLMs as single executable files with zero setup required from Mozilla.
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) `🌱` `[C++]` `[Local]` - C/C++ LLM inference engine supporting CPU, GPU, and Apple Silicon as the foundation of local AI.
 - [LM Studio](https://lmstudio.ai) `🌱` `[TypeScript]` `[Local]` - Desktop application for running local LLMs with a polished UI across all major platforms.
