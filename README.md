@@ -495,6 +495,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 
 - [Anthropic Finance Agents](https://www.anthropic.com/#finance) `🚀` `[Cloud]` `[Multi-Agent]` - Domain-specialized agents for earnings analysis and portfolio insight.
 - [Bluwhale](https://www.bluwhale.com/) `🌱` `[Cloud]` `[No-Code]` - Combines bank and wallet data into financial profiles, with WhaleScore and specialized AI agents for financial workflows.
+- [DisconfirmAI](https://disconfirmai.com/en) `🔬` `[Cloud]` `[Research]` - Reads filings and public sources to surface counter-evidence against an investment thesis, with condition-based watch alerts.
 - [JPMorgan AlphaBlue](https://www.jpmorgan.com/global) `🚀` `[Cloud]` `[Multi-Agent]` - Trading and market analysis agent integrations for institutional workflows.
 - [Goldman Sachs Marquee AI](https://www.goldmansachs.com) `🚀` `[Cloud]` `[Multi-Agent]` - Market data and analytics agents built on Marquee platform.
 - [Morgan Stanley AdvisorBot](https://www.morganstanley.com) `🚀` `[Cloud]` `[CLI]` - Financial advisory assistant for advisors and retail clients.
