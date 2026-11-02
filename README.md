@@ -174,7 +174,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [Orbi](https://github.com/orbi-build/orbi) `🌱` `[Python]` `[Self-Hosted]` - Turns labeled GitHub Issues into independently reviewed pull requests, then merges reviewed heads and tags releases.
 - [Ordewell](https://github.com/ordewell/ordewell) `🔬` `[TypeScript]` `[Multi-Agent]` - Turns one goal into an ordered, editable plan of coding-agent tasks, each with its own runner, model, and mode, verified by a completion marker in the runner's output.
 - [Ouroboros](https://github.com/Q00/ouroboros) `🌱` `[Python]` `[MCP]` - Pins an acceptance spec before the run and verifies the result, hiding grading commands from the executing agent.
-- [Ponder](https://github.com/Quinnod345/ponder) `🔬` `[JavaScript]` `[CLI]` - Convergent multi-pass code deliberation and coverage gate that refuses early stopping until every unit is audited.
+- [Ponder](https://github.com/Quinnod345/ponder) `🔬` `[TypeScript]` `[CLI]` - Convergent multi-pass code deliberation and coverage gate that refuses early stopping until every unit is audited.
 - [PR-Agent](https://github.com/The-PR-Agent/pr-agent) `🚀` `[Python]` `[GitHub]` - Open-source AI PR reviewer that auto-describes, reviews, and improves pull requests.
 - [Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) `🚀` `[TypeScript]` `[CLI]` - Open-source RLM coding and research agent designed for long-running autonomous tasks.
 - [Qodo](https://www.qodo.ai) `🚀` `[Cloud]` `[Security]` - AI code review platform with context-aware PR validation and security analysis.

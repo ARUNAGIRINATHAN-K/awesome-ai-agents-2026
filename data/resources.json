@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T17:31:05.291Z",
+  "generatedAt": "2026-11-02T17:53:14.985Z",
   "source": "README.md",
   "totalResources": 548,
   "resources": [
@@ -1252,9 +1252,9 @@
       "categorySlug": "coding-agents",
       "tier": "emerging",
       "tierBadge": "🔬",
-      "language": "JavaScript",
+      "language": "TypeScript",
       "tags": [
-        "JavaScript",
+        "TypeScript",
         "CLI"
       ],
       "description": "Convergent multi-pass code deliberation and coverage gate that refuses early stopping until every unit is audited.",
