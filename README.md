@@ -145,6 +145,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 ## Coding Agents
 
 - [agent-manager](https://github.com/YoanWai/agent-manager) `🌱` `[Go]` `[Multi-Agent]` - Runs coding-agent CLIs side by side in persistent tmux sessions with live status, worktrees, and diff review.
+- [AgentVera](https://agentvera.dev/en/) `🔬` `[Desktop]` `[Multi-Agent]` - Runs Claude Code, Codex, Gemini CLI, Copilot, Cursor and other coding agents side by side per project in real terminals.
 - [Aider](https://github.com/Aider-AI/aider) `🌱` `[Python]` `[CLI]` - Terminal-first pair programmer that edits code in local repos, preserves Git history, and supports multi-file changes.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) `🚀` `[Python]` `[IDE]` - AWS-native AI coding assistant with Lambda, CloudWatch, infrastructure support, and security scanning.
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) `🌱` `[TypeScript]` `[Local]` - Local-first CLI and TUI coding agent running open-weight models on your machine with no API key.
