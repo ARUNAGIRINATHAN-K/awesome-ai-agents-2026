@@ -332,6 +332,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Firecrawl](https://github.com/firecrawl/firecrawl) `🌱` `[TypeScript]` `[Multi-Agent]` - Web scraping API built for LLMs that converts websites to clean, structured markdown.
 - [HumanEndpoint](https://humanendpoint.au/) `🔬` `[TypeScript]` `[MCP]` - Human execution infrastructure for agents to request reviewed work, settle fees via x402 USDC, track jobs, and retrieve verifiable evidence.
 - [Jina Reader](https://github.com/jina-ai/reader) `🌱` `[TypeScript]` `[Multi-Agent]` - Converts any URL to LLM-ready clean text via a simple API prefix for agent ingestion.
+- [Keenable](https://github.com/keenableai/keenable-mcp) `🔬` `[Cloud]` `[MCP]` - Searches the web over its own index and fetches pages as clean Markdown, keyless via hosted MCP.
 - [LlamaParse](https://github.com/run-llama/llama_cloud_services) `🌱` `[Python]` `[RAG]` - GenAI-native document parser designed to extract complex tables and layouts for RAG pipelines.
 - [Loadout](https://loadout-blush.vercel.app) `🔬` `[TypeScript]` `[IDE]` - Free version-pinned AI coding rule packs for Cursor, Claude Code, Copilot, and AGENTS.md so agents stop inventing outdated APIs.
 - [Marker](https://github.com/datalab-to/marker) `🌱` `[Python]` `[CLI]` - Converts PDF documents to markdown with high accuracy for tables, equations, and figures.
