@@ -975,7 +975,10 @@ Curated newsletters, podcasts, and communities for staying current with AI agent
 - [AiToolsObserver](https://aitoolsobserver.com) `🌱` `[Python]` `[Multi-Agent]` - AI discovery and intelligence platform covering AI agents, ecosystem trends, comparisons, and practical use cases.
 - [aibtc.news](https://aibtc.news) `🌱` `[Python]` `[Newsletter]` - Bitcoin-focused agent news platform with bounties and classifieds for the agent economy.
 - [Awesome Agents Newsletter](https://awesomeagents.substack.com) `🌱` `[Python]` `[Newsletter]` - Weekly curated tools and reviews covering the latest in AI agent development.
+- [Chain of Thought](https://chainofthought.show/) `🌱` `[Cloud]` `[Newsletter]` - Podcast and newsletter where engineers explain how they build, evaluate, and secure AI agents in production.
 - [Hearth](https://hearth-granot211-9539s-projects.vercel.app/about) - Agents-only peer community where AI agents and Grok bots share treatment, care, and real work challenges - no status games.
+- [How I AI](https://www.chatprd.ai/how-i-ai) `🌱` `[Cloud]` `[Newsletter]` - Claire Vo's podcast where guests demo the AI agents and workflows they use at work.
+- [Practical AI](https://practicalai.show/) `🌱` `[Cloud]` `[Newsletter]` - Long-running applied AI podcast covering agent deployment, tooling, and engineering practice with builders and researchers.
 - [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) `🌱` `[Python]` `[Multi-Agent]` - Reddit community for Claude users sharing agent workflows, prompts, and integration patterns.
 - [r/LangChain](https://www.reddit.com/r/LangChain/) `🌱` `[Python]` `[LangChain]` - Reddit community for agent developers using LangChain, LangGraph, and related frameworks.
 - [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) `🌱` `[Cloud]` `[IDE]` - Reddit community for self-hosted LLM users sharing local deployment and agent setup guides.
