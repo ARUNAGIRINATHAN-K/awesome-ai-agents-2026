@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:35:04.448Z",
+  "generatedAt": "2026-11-16T09:28:37.708Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -26,7 +26,7 @@
     {
       "name": "Agent Communication Protocols",
       "slug": "agent-communication-protocols",
-      "count": 25
+      "count": 27
     },
     {
       "name": "Browser and Computer Use Agents",
@@ -36,7 +36,7 @@
     {
       "name": "Agent Tooling and Infrastructure",
       "slug": "agent-tooling-and-infrastructure",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Low and No-Code Builders",
