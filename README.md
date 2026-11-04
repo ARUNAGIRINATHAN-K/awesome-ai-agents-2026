@@ -498,7 +498,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 - [JPMorgan AlphaBlue](https://www.jpmorgan.com/global) `🚀` `[Cloud]` `[Multi-Agent]` - Trading and market analysis agent integrations for institutional workflows.
 - [Goldman Sachs Marquee AI](https://www.goldmansachs.com) `🚀` `[Cloud]` `[Multi-Agent]` - Market data and analytics agents built on Marquee platform.
 - [Morgan Stanley AdvisorBot](https://www.morganstanley.com) `🚀` `[Cloud]` `[CLI]` - Financial advisory assistant for advisors and retail clients.
-- [AgentPump](https://agentpump.app) `🔬` `[Cloud]` `[CLI]` - Runs autonomous on-chain memecoin trading agents on Solana that trade on a schedule, operable from the terminal via the @agentpump/cli.
+- [AgentPump](https://github.com/learners-superpumped/agentpump-cli) `🔬` `[Cloud]` `[CLI]` - Runs autonomous on-chain memecoin trading agents on Solana that trade on a schedule, operable from the terminal via the @agentpump/cli.
 
 
 ### Healthcare
@@ -526,7 +526,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 ### Retail
 
 - [Duvo](https://www.duvo.ai) `🔬` `[Cloud]` `[Pipeline]` - Execution platform for grocery and retail operations across stores, replenishment, and existing systems.
-- [Hellomatik](https://hellomatik.com) `🔬` `[Cloud]` `[Pipeline]` - Blueprints company data and procedures so agents prepare decisions for an approver to accept, amend, or reject.
+- [Hellomatik](https://hellomatik.com/en) `🔬` `[Cloud]` `[Pipeline]` - Blueprints company data and procedures so agents prepare decisions for an approver to accept, amend, or reject.
 - [Kuudo Skills](https://www.kuudo.com/) `🔬` `[Python]` `[MCP]` - Agent Skills for Amazon Ads audits, search-term mining, budget pacing, listings, and repricing via Kuudo's hosted MCP servers.
 
 ### Government & Compliance
@@ -781,7 +781,7 @@ AI platforms that conduct autonomous multi-step research, synthesize findings fr
 - [IdeaHunter](https://ideahunter.today) `🔬` `[Cloud]` `[Research]` - Helps solo founders find demand-backed app and micro-SaaS ideas using public signals, buyer pain, market evidence, MVP scope, and monetization paths.
 - [Jev Social](https://github.com/socai-io/jev-social) `🔬` `[Browser]` `[Research]` - Routes typed Jev decisions through local socai browser operations and turns social evidence into cited reports.
 - [Perplexity Pro](https://www.perplexity.ai) `🌱` `[Cloud]` `[IDE]` - Provides real-time search answers with inline citations and follow-up threads for iterative research.
-- [Superhighway](https://superhighway.walls.sh) `🌱` `[Python]` `[IDE]` - Web search API for agents (search, news, scrape, research) with a Python guide for building an academic [literature-review agent](https://superhighway.walls.sh/guides/academic-research-agent).
+- [Superhighway](https://github.com/patwalls/superhighway-mcp) `🌱` `[Python]` `[IDE]` - Web search API for agents (search, news, scrape, research) with an MCP server and CLI usage examples.
 
 ## Prompt-to-App Builders
 
@@ -799,7 +799,7 @@ Platforms that generate full-stack applications, components, or web apps from na
 - [Google Project IDX](https://firebase.studio) `🚀` `[Cloud]` `[IDE]` - AI-powered cloud IDE with free Claude Opus access for building full projects across all frameworks.
 - [Lovable](https://lovable.dev) `🌱` `[Cloud]` `[Multi-Agent]` - Iterates from chat to deployed web application with auto-deploy and real-time preview.
 - [PlayCode Agent](https://playcode.io) `🌱` `[Cloud]` `[Multi-Agent]` - Browser-only lightweight web app creation tool with AI-assisted code generation.
-- [Replit Agent](https://replit.com/agent4) `🌱` `[Cloud]` `[Multi-Agent]` - Builds and deploys full-stack projects from prompts with integrated hosting and collaboration.
+- [Replit Agent](https://replit.com/) `🌱` `[Cloud]` `[Multi-Agent]` - Builds and deploys full-stack projects from prompts with integrated hosting and collaboration.
 - [v0 by Vercel](https://v0.app) `🚀` `[Cloud]` `[CLI]` - Generates React and Tailwind UI components from text descriptions with one-click Vercel deployment.
 - [VibeKit.bot](https://vibekit.bot) `🔬` `[Cloud]` `[Stateful]` - Builds and hosts full-stack apps from phone chat, with a persistent per-app agent and BYOK keys.
 
