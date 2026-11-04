@@ -299,7 +299,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Fellou](https://fellou.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Transparent agentic browser with visual workflow editing and persistent agentic memory.
 - [Genspark](https://www.genspark.ai) `🌱` `[Cloud]` `[Local]` - On-device AI browser with 169+ local models that runs without internet connection.
 - [Grok Computer](https://x.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Upcoming xAI desktop agent with mouse control and application automation capabilities.
-- [Handy AI](https://github.com/fainir/handy-ai) `🔬` `[Kotlin]` `[Anthropic]` - Turns a spoken or typed task into taps, typing and swipes across Android apps using Claude.
+- [Handy AI](https://github.com/fainir/handy-ai) `🔬` `[Kotlin]` `[Voice]` - Turns a spoken or typed task into taps, typing and swipes across Android apps using Claude.
 - [LaVague](https://github.com/lavague-ai/LaVague) `🌱` `[Python]` `[Multi-Agent]` - Large Action Model framework to turn natural language instructions into browser automation.
 - [Manus](https://manus.im) `🚀` `[Cloud]` `[Multi-Agent]` - Autonomous digital employee with Browser Operator extension acquired by Meta for web-based task execution.
 - [MultiOn](https://theagi.company/) `🚀` `[Cloud]` `[Multi-Agent]` - Reliable web automation API with CAPTCHA handling for building production browser agents.
