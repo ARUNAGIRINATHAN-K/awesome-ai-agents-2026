@@ -971,6 +971,7 @@ AI agents and services specialized in machine translation, human translation, mu
 
 Curated newsletters, podcasts, and communities for staying current with AI agent development.
 
+- [Agentic Weekly](https://theagenticweekly.com/newsletter) `🔬` `[Cloud]` `[Newsletter]` - Free weekly email covering new AI agent and coding tool releases with sourced or tested verdicts.
 - [AI Engineering Newsletter](https://latent.space/) `🌱` `[Python]` `[Newsletter]` - AI engineering podcast and newsletter by Swyx and Alessio covering agent architectures and tooling.
 - [AiToolsObserver](https://aitoolsobserver.com) `🌱` `[Python]` `[Multi-Agent]` - AI discovery and intelligence platform covering AI agents, ecosystem trends, comparisons, and practical use cases.
 - [aibtc.news](https://aibtc.news) `🌱` `[Python]` `[Newsletter]` - Bitcoin-focused agent news platform with bounties and classifieds for the agent economy.
