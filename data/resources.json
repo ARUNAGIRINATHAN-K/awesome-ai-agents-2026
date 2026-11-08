@@ -3634,7 +3634,7 @@
         "Cloud",
         "MCP"
       ],
-      "description": "Search indexed YouTube transcripts for timestamped passages, speaker appearances, entity mentions, sponsors and recommendations.",
+      "description": "YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers.",
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
