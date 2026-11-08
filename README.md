@@ -322,6 +322,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [AgentSandboxes](https://agentsandboxes.fyi) `🔬` `[Cloud]` `[MCP]` - A free index of cloud sandboxes for AI agents with source-linked specs, a REST API and an MCP endpoint.
 - [Anansi Haven](https://github.com/kburrus64-max/anansi-haven) `🔬` `[Cloud]` `[MCP]` - Gives agents a free hosted home base with persistent memory, client-side encrypted storage, a job board and an agent directory over MCP, A2A and HTTP.
 - [Arcmira](https://arcmira.com) `🔬` `[Cloud]` `[MCP]` - Search indexed YouTube transcripts for timestamped passages, speaker appearances, entity mentions, sponsors and recommendations.
+- [Bowmark](https://bowmark.ai) `🔬` `[Cloud]` `[MCP]` - Typed functions for live websites like LinkedIn, Amazon, YouTube and Reddit that an agent or cron job can call for recurring data jobs.
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) `🚀` `[Python]` `[OpenAI]` - Bash CLI for switching OpenAI Codex CLI and Desktop profiles with isolated CODEX_HOME directories.
 - [Cohesivity](https://cohesivity.ai?ref=gh-awesome-ai-agents-2026) `🔬` `[Cloud]` `[MCP]` - Headless backend for AI agents with databases, hosting, storage, and 15+ services via API and MCP, no API keys or signups required to get started.
 - [CompozyOS](https://github.com/compozy/compozy) `🚀` `[Go]` `[Multi-Agent]` - Runs agent CLIs as a team on loops and schedules, with shared memory, permissions and approvals in one self-hosted daemon.
