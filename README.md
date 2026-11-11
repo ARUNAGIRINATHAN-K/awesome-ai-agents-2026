@@ -664,6 +664,7 @@ Tools for generating images, video, music, audio, and 3D assets using AI models.
 
 - [Google Veo 3.1](https://deepmind.google/models/veo/) `🚀` `[Cloud]` `[IDE]` - Generates the highest cinematic quality video with native audio from text prompts via Google DeepMind.
 - [HaiLuo AI](https://hailuoai.video) `🌱` `[Cloud]` `[IDE]` - Budget video generation platform offering 10 free videos per day with HD output quality.
+- [HoneyVid](https://honeyvid.ai) `🔬` `[Cloud]` `[MCP]` - Puts a person, pet or character from one photo into trending AI video templates, with agent access over MCP.
 - [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) `🌱` `[Python]` `[IDE]` - Open-source video generation model from Tencent that runs on consumer-grade GPUs.
 - [Kling 3.0](https://kling.ai) `🌱` `[Cloud]` `[IDE]` - Generates 4K video up to 2 minutes long with native audio at the most competitive pricing available.
 - [LTX Video](https://github.com/Lightricks/LTX-Video) `🌱` `[Python]` `[IDE]` - Commercially safe open-source video generation model trained on fully licensed data.
