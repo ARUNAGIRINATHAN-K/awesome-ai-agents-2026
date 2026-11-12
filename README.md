@@ -522,6 +522,7 @@ Curated list of vertical agent solutions for finance, healthcare, legal, manufac
 ### Marketing & SEO
 
 - [AltoRank](https://github.com/AltoRank/altorank) `🔬` `[TypeScript]` `[MCP]` - Open-source SEO content software with a 26-tool MCP server that audits sites, researches keywords, reads Search Console and drafts articles into a review queue.
+- [Wavegrain](https://wavegrain.com/mcp) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server that makes, schedules and posts TikTok slideshows and Instagram carousels for a brand.
 
 ### Retail
 
