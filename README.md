@@ -777,6 +777,7 @@ AI platforms that conduct autonomous multi-step research, synthesize findings fr
 - [ChatGPT Deep Research](https://openai.com/index/introducing-deep-research) `🚀` `[Cloud]` `[OpenAI]` - Conducts extended reasoning with web browsing to produce structured research reports with Canvas output.
 - [Claude Deep Research](https://www.anthropic.com/research) `🚀` `[Cloud]` `[Anthropic]` - Performs multi-step investigation with verified source citations and 200K token context window.
 - [DeerFlow](https://github.com/bytedance/deer-flow) `🚀` `[Python]` `[Multi-Agent]` - Multi-agent research system from ByteDance with planning and execution loops for autonomous investigation.
+- [Farside Research](https://farsideresearch.com) `🔬` `[Cloud]` `[Research]` - Deep research agent that grades sources and writes reports linking every claim to its exact source passage, with a REST API and MCP server.
 - [Gemini Deep Research](https://blog.google/products-and-platforms/products/gemini/google-gemini-deep-research/) `🚀` `[Cloud]` `[RAG]` - Leverages Google Search and Knowledge Graph integration with 1M token context for breadth-first research.
 - [IdeaHunter](https://ideahunter.today) `🔬` `[Cloud]` `[Research]` - Helps solo founders find demand-backed app and micro-SaaS ideas using public signals, buyer pain, market evidence, MVP scope, and monetization paths.
 - [Jev Social](https://github.com/socai-io/jev-social) `🔬` `[Browser]` `[Research]` - Routes typed Jev decisions through local socai browser operations and turns social evidence into cited reports.
