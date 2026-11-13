@@ -614,6 +614,7 @@ Infrastructure for running agent-generated code safely in isolated, sandboxed, o
 
 - [agentnotary](https://github.com/CharanBharathula/agentnotary) `🌱` `[Python]` `[CLI]` - Notarize, govern, and audit AI agents with cryptographic seals, runtime guards, and adversarial fuzzing.
 - [AWS Lambda](https://github.com/aws/aws-lambda-python-runtime-interface-client) `🚀` `[Python]` `[Serverless]` - Serverless function runtime with Firecracker isolation for executing short-lived agent tasks at scale.
+- [Buddy Sandboxes](https://buddy.works/docs/sandboxes/introduction) `🌱` `[Cloud]` `[MCP]` - Isolated Ubuntu machines with persistent 50 GB disks, sudo, Docker, and Claude Code preinstalled for agent workspaces.
 - [Cloudflare Workers](https://github.com/cloudflare/workers-sdk) `🌱` `[TypeScript]` `[Serverless]` - Ultra-low-latency V8-isolate serverless runtime at the edge for lightweight agent task execution.
 - [CodeSandbox SDK](https://github.com/codesandbox/codesandbox-sdk) `🌱` `[TypeScript]` `[IDE]` - Provides forked, snapshotted microVM environments for real-time collaborative agent code execution.
 - [Daytona](https://github.com/daytonaio/daytona) `🌱` `[Python]` `[Vision]` - Self-hostable git-based developer environment manager for sandboxed agent code execution with fast provisioning.
