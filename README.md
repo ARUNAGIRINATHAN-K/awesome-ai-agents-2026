@@ -149,6 +149,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) `🚀` `[Python]` `[IDE]` - AWS-native AI coding assistant with Lambda, CloudWatch, infrastructure support, and security scanning.
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) `🌱` `[TypeScript]` `[Local]` - Local-first CLI and TUI coding agent running open-weight models on your machine with no API key.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) `🌱` `[Python]` `[CLI]` - Mature autonomous agent platform with Forge framework and public benchmarks for evaluating agent capabilities.
+- [Borg](https://github.com/adelphidata/borg) `🔬` `[Rust]` `[CLI]` - Personal AI assistant and coding agent with a self-healing daemon, sandboxed tools, provider failover, long-term memory, scheduled tasks, and MCP.
 - [Claude Code](https://github.com/anthropics/claude-code) `🚀` `[TypeScript]` `[Anthropic]` - Terminal-first agentic coding from Anthropic with Computer Use integration, multi-file edits, persistent shell sessions, Git operations, and fine-tuning support.
 - [Cline](https://github.com/cline/cline) `🌱` `[TypeScript]` `[VS Code]` - Autonomous coding agent in your IDE that creates/edits files, runs commands, and uses the browser with permission-gated steps.
 - [CodeRabbit](https://www.coderabbit.ai) `🚀` `[Cloud]` `[GitHub]` - AI-powered PR reviewer with inline suggestions, security scanning, and automatic code quality checks.
