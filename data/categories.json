@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:10:28.459Z",
+  "generatedAt": "2026-10-26T21:16:46.104Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -106,7 +106,7 @@
     {
       "name": "Voice Agent Platforms",
       "slug": "voice-agent-platforms",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Deep Research Agents",
