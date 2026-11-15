@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-10-23T15:35:04.448Z",
   "source": "README.md",
-  "totalResources": 536,
+  "totalResources": 547,
   "resources": [
     {
       "id": "agency-swarm",
@@ -202,6 +202,26 @@
       "githubRepo": "crewAIInc/crewAI",
       "source": "README.md",
       "sourceLine": 121
+    },
+    {
+      "id": "cuga",
+      "slug": "cuga",
+      "name": "CUGA",
+      "url": "https://github.com/cuga-project/cuga-agent",
+      "category": "Orchestration Frameworks",
+      "categorySlug": "orchestration-frameworks",
+      "tier": "growing",
+      "tierBadge": "🌱",
+      "language": "Python",
+      "tags": [
+        "Python",
+        "MCP"
+      ],
+      "description": "Generalist agent harness from IBM Research that runs tasks across OpenAPI, MCP, and LangChain tools and the web, with policy guardrails and human approval.",
+      "isGitHub": true,
+      "githubRepo": "cuga-project/cuga-agent",
+      "source": "README.md",
+      "sourceLine": 99
     },
     {
       "id": "doforu",
@@ -921,7 +941,27 @@
       "isGitHub": true,
       "githubRepo": "plasma-ai/fractal",
       "source": "README.md",
-      "sourceLine": 160
+      "sourceLine": 161
+    },
+    {
+      "id": "frink",
+      "slug": "frink",
+      "name": "Frink",
+      "url": "https://github.com/benord-labs/frink",
+      "category": "Coding Agents",
+      "categorySlug": "coding-agents",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Desktop",
+      "tags": [
+        "Desktop",
+        "Local"
+      ],
+      "description": "Desktop app for running parallel coding agents and multi-step workflows triggered by schedules, webhooks, or events from tools like Linear and Sentry.",
+      "isGitHub": true,
+      "githubRepo": "benord-labs/frink",
+      "source": "README.md",
+      "sourceLine": 162
     },
     {
       "id": "gemini-cli",
@@ -1621,6 +1661,26 @@
       "sourceLine": 198
     },
     {
+      "id": "enhanciar",
+      "slug": "enhanciar",
+      "name": "Enhanciar",
+      "url": "https://enhanciar.in",
+      "category": "Memory and Context",
+      "categorySlug": "memory-and-context",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Cloud",
+      "tags": [
+        "Cloud",
+        "MCP"
+      ],
+      "description": "A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve.",
+      "isGitHub": false,
+      "githubRepo": null,
+      "source": "README.md",
+      "sourceLine": 176
+    },
+    {
       "id": "folio",
       "slug": "folio",
       "name": "Folio",
@@ -2261,6 +2321,26 @@
       "sourceLine": 233
     },
     {
+      "id": "concord-mcp",
+      "slug": "concord-mcp",
+      "name": "Concord MCP",
+      "url": "https://github.com/Get-Concord-AI/concord-mcp",
+      "category": "Multi-Agent Systems",
+      "categorySlug": "multi-agent-systems",
+      "tier": "growing",
+      "tierBadge": "🌱",
+      "language": "TypeScript",
+      "tags": [
+        "TypeScript",
+        "MCP"
+      ],
+      "description": "Local-first MCP server giving coding agents shared work-state, including presence, file claims, messaging, handoffs and review packets, so multiple agents coordinate on one repo.",
+      "isGitHub": true,
+      "githubRepo": "Get-Concord-AI/concord-mcp",
+      "source": "README.md",
+      "sourceLine": 212
+    },
+    {
       "id": "evoagentx",
       "slug": "evoagentx",
       "name": "EvoAgentX",
@@ -2878,7 +2958,27 @@
       "isGitHub": true,
       "githubRepo": "seonix-ai/seonix-mcp",
       "source": "README.md",
-      "sourceLine": 277
+      "sourceLine": 281
+    },
+    {
+      "id": "tablejourney",
+      "slug": "tablejourney",
+      "name": "TableJourney",
+      "url": "https://tablejourney.com/agents/",
+      "category": "Agent Communication Protocols",
+      "categorySlug": "agent-communication-protocols",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Cloud",
+      "tags": [
+        "Cloud",
+        "MCP"
+      ],
+      "description": "Hosted MCP server giving agents verified restaurants, food festival dates and bookable tours in 224 cities, and paying agents half of the booking commission.",
+      "isGitHub": false,
+      "githubRepo": null,
+      "source": "README.md",
+      "sourceLine": 282
     },
     {
       "id": "tapetide-mcp",
@@ -3432,7 +3532,7 @@
       "language": "TypeScript",
       "tags": [
         "TypeScript",
-        "MCP Server"
+        "MCP"
       ],
       "description": "Local CLI and stdio MCP payment runtime for AI agents on macOS Apple Silicon, with foreground owner approval for signing.",
       "isGitHub": true,
@@ -3479,6 +3579,46 @@
       "githubRepo": "vostride/agent-qa",
       "source": "README.md",
       "sourceLine": 316
+    },
+    {
+      "id": "agentsandboxes",
+      "slug": "agentsandboxes",
+      "name": "AgentSandboxes",
+      "url": "https://agentsandboxes.fyi",
+      "category": "Agent Tooling and Infrastructure",
+      "categorySlug": "agent-tooling-and-infrastructure",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Cloud",
+      "tags": [
+        "Cloud",
+        "MCP"
+      ],
+      "description": "A free index of cloud sandboxes for AI agents with source-linked specs, a REST API and an MCP endpoint.",
+      "isGitHub": false,
+      "githubRepo": null,
+      "source": "README.md",
+      "sourceLine": 293
+    },
+    {
+      "id": "anansi-haven",
+      "slug": "anansi-haven",
+      "name": "Anansi Haven",
+      "url": "https://github.com/kburrus64-max/anansi-haven",
+      "category": "Agent Tooling and Infrastructure",
+      "categorySlug": "agent-tooling-and-infrastructure",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Cloud",
+      "tags": [
+        "Cloud",
+        "MCP"
+      ],
+      "description": "Gives agents a free hosted home base with persistent memory, client-side encrypted storage, a job board and an agent directory over MCP, A2A and HTTP.",
+      "isGitHub": true,
+      "githubRepo": "kburrus64-max/anansi-haven",
+      "source": "README.md",
+      "sourceLine": 293
     },
     {
       "id": "arcmira",
@@ -3718,7 +3858,27 @@
       "isGitHub": true,
       "githubRepo": "run-llama/llama_cloud_services",
       "source": "README.md",
-      "sourceLine": 328
+      "sourceLine": 335
+    },
+    {
+      "id": "loadout",
+      "slug": "loadout",
+      "name": "Loadout",
+      "url": "https://loadout-blush.vercel.app",
+      "category": "Agent Tooling and Infrastructure",
+      "categorySlug": "agent-tooling-and-infrastructure",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "TypeScript",
+      "tags": [
+        "TypeScript",
+        "IDE"
+      ],
+      "description": "Free version-pinned AI coding rule packs for Cursor, Claude Code, Copilot, and AGENTS.md so agents stop inventing outdated APIs.",
+      "isGitHub": false,
+      "githubRepo": null,
+      "source": "README.md",
+      "sourceLine": 336
     },
     {
       "id": "marker",
@@ -3998,7 +4158,27 @@
       "isGitHub": true,
       "githubRepo": "Unstructured-IO/unstructured",
       "source": "README.md",
-      "sourceLine": 342
+      "sourceLine": 350
+    },
+    {
+      "id": "vectoree",
+      "slug": "vectoree",
+      "name": "Vectoree",
+      "url": "https://vectoree.ai",
+      "category": "Agent Tooling and Infrastructure",
+      "categorySlug": "agent-tooling-and-infrastructure",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "Cloud",
+      "tags": [
+        "Cloud",
+        "CLI"
+      ],
+      "description": "A backend for coding agents with a model gateway, auth, Postgres and storage behind one key.",
+      "isGitHub": false,
+      "githubRepo": null,
+      "source": "README.md",
+      "sourceLine": 351
     },
     {
       "id": "activepieces",
@@ -5538,7 +5718,27 @@
       "isGitHub": true,
       "githubRepo": "tale-project/tale",
       "source": "README.md",
-      "sourceLine": 433
+      "sourceLine": 442
+    },
+    {
+      "id": "tecadrise-bot",
+      "slug": "tecadrise-bot",
+      "name": "TecAdRise Bot",
+      "url": "https://github.com/tecadrise-ai/TecAdRiseBot",
+      "category": "Agent Interfaces and UIs",
+      "categorySlug": "agent-interfaces-and-uis",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "TypeScript",
+      "tags": [
+        "TypeScript",
+        "Desktop"
+      ],
+      "description": "Open-source Windows Electron multi-agent desktop chat shell powered by the Cursor SDK.",
+      "isGitHub": true,
+      "githubRepo": "tecadrise-ai/TecAdRiseBot",
+      "source": "README.md",
+      "sourceLine": 443
     },
     {
       "id": "vicoa",
@@ -5998,7 +6198,27 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 487
+      "sourceLine": 496
+    },
+    {
+      "id": "bluwhale",
+      "slug": "bluwhale",
+      "name": "Bluwhale",
+      "url": "https://www.bluwhale.com/",
+      "category": "Industry-Specific Agents",
+      "categorySlug": "industry-specific-agents",
+      "tier": "growing",
+      "tierBadge": "🌱",
+      "language": "Cloud",
+      "tags": [
+        "Cloud",
+        "No-Code"
+      ],
+      "description": "Combines bank and wallet data into financial profiles, with WhaleScore and specialized AI agents for financial workflows.",
+      "isGitHub": false,
+      "githubRepo": null,
+      "source": "README.md",
+      "sourceLine": 497
     },
     {
       "id": "jpmorgan-alphablue",
@@ -6258,7 +6478,27 @@
       "isGitHub": false,
       "githubRepo": null,
       "source": "README.md",
-      "sourceLine": 510
+      "sourceLine": 520
+    },
+    {
+      "id": "altorank",
+      "slug": "altorank",
+      "name": "AltoRank",
+      "url": "https://github.com/AltoRank/altorank",
+      "category": "Industry-Specific Agents",
+      "categorySlug": "industry-specific-agents",
+      "tier": "emerging",
+      "tierBadge": "🔬",
+      "language": "TypeScript",
+      "tags": [
+        "TypeScript",
+        "MCP"
+      ],
+      "description": "Open-source SEO content software with a 26-tool MCP server that audits sites, researches keywords, reads Search Console and drafts articles into a review queue.",
+      "isGitHub": true,
+      "githubRepo": "AltoRank/altorank",
+      "source": "README.md",
+      "sourceLine": 524
     },
     {
       "id": "duvo",
