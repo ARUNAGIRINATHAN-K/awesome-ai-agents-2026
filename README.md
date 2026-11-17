@@ -166,6 +166,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [JetBrains AI](https://www.jetbrains.com/air/) `🌱` `[Kotlin]` `[JetBrains]` - Deep AI integration across all JetBrains IDEs with context-aware completions and refactoring.
 - [Juggler](https://github.com/juggler-ai/juggler) `🌱` `[Desktop]` `[Local]` - Multi-client desktop/remote GUI agent with inspectable tool calls, branching-thread editable context, and plugin extensibility.
 - [Kiro](https://kiro.dev) `🚀` `[Cloud]` `[IDE]` - Spec-driven development agent that writes specs, auto-generates tasks, implements code, and automates DevOps workflows.
+- [Kodama](https://github.com/optimiware/kodama) `🔬` `[Go]` `[Multi-Agent]` - Runs sequential container pipelines and AI coding agents on Podman and Kubernetes with PostgreSQL RLS, NATS JetStream, REST/MCP APIs, and role inbox approvals.
 - [Kolega Code](https://github.com/kolega-ai/kolega-code) `🔬` `[Python]` `[CLI]` - Terminal coding agent where the model writes its own multi-agent workflows across 15+ model providers.
 - [mu](https://github.com/qybaihe/mu) `🔬` `[TypeScript]` `[CLI]` - Coding agent that sends routine decisions, such as which tool output enters context, to a small judge model.
 - [Open Interpreter](https://github.com/openinterpreter/openinterpreter) `🌱` `[Python]` `[CLI]` - Execute code locally via natural-language model instructions with a ChatGPT-like interface.
