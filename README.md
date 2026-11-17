@@ -447,6 +447,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [Tale](https://github.com/tale-project/tale) `🔬` `[TypeScript]` `[Multi-Agent]` - Self-hostable platform for coordinating people and AI agents through delegated project tasks, persistent sandbox workspaces, and human-reviewed results.
 - [TecAdRise Bot](https://github.com/tecadrise-ai/TecAdRiseBot) `🔬` `[TypeScript]` `[Desktop]` - Open-source Windows Electron multi-agent desktop chat shell powered by the Cursor SDK.
 - [Vicoa](https://github.com/vicoa-ai/vicoa) `🔬` `[Desktop]` `[Multi-Agent]` - Agentic IDE orchestrating a team of coding agents from desktop, web, or mobile with real-time sync.
+- [EXTREMELY Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) `🔬` `[Desktop]` `[Multi-Agent]` - Free, open-source AI agency that runs autonomous agents around the clock on your own computer.
 
 ## Agent Deployment and Hosting
 
