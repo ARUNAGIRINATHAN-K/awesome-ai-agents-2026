@@ -1,6 +1,6 @@
 <div align="center">
 
-![](img/top.png)
+![](img/top.jpg)
 
 # AI Agent Registry
 
