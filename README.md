@@ -25,7 +25,6 @@ AI Agent Registry is an open-source, community-driven directory designed to make
 
 ## Contents
 
-
 - [AI Registry Explorer](#ai-registry-explorer)
 - [Quick Start](#quick-start)
 - [Submit an Agent](#submit-an-agent)
