@@ -17,15 +17,6 @@
 
 AI Agent Registry is an open-source, community-driven directory designed to make the rapidly growing AI agent ecosystem easier to discover, explore, and navigate.
 
-### Repository Highlights
-
-- 500+ curated resources
-- 32 organized categories
-- Searchable resource directory
-- AI agent and framework discovery
-- Open-source contribution workflow
-- Continuously growing collection
-
 **[Explore the Stack](#contents) • [Live App](https://ai-agent-registry-kappa.vercel.app/#live) • [Architecture](ARCHITECTURE.md) • [Data Schema](DATA_SCHEMA.md) • [Development](DEVELOPMENT.md) • [Contributing](#contributing) • [Agent Guide](AGENT.md)**
 
 </div>
