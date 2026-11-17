@@ -1,18 +1,19 @@
 {
-  "name": "awesome-ai-agents",
+  "name": "ai-agent-registry",
   "version": "0.1.0",
   "private": true,
-  "description": "Awesome list of AI agent frameworks, tools and resources",
+  "description": "Discover, compare, and explore 500+ AI agents, frameworks, tools, skills, and infrastructure across 32 categories.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026.git"
+    "url": "https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry.git"
   },
   "scripts": {
     "dev": "next dev",
     "build": "node scripts/build-data.js && next build",
     "start": "next start",
     "lint": "next lint",
-    "build:data": "node scripts/build-data.js"
+    "build:data": "node scripts/build-data.js",
+    "resolve-conflicts": "node scripts/resolve-conflicts.js"
   },
   "dependencies": {
     "clsx": "^2.1.1",

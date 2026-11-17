@@ -10,7 +10,7 @@ export function Footer() {
         <div className="space-y-1">
           <p className="font-bold text-foreground">AI Agent Registry</p>
           <p className="text-[11px]">
-            Powered by Awesome AI Agents 2026 • {stats.totalResources} resources across {stats.totalCategories} categories.
+            Curated catalog of {stats.totalResources}+ resources across {stats.totalCategories} categories.
           </p>
         </div>
 
@@ -28,7 +28,7 @@ export function Footer() {
             About
           </Link>
           <a
-            href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026"
+            href="https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-foreground underline"

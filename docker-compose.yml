@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: awesome-ai-agents-registry
+    container_name: ai-agent-registry
     restart: unless-stopped
     ports:
       - "3000:3000"

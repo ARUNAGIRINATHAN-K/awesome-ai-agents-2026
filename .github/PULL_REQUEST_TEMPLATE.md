@@ -27,7 +27,7 @@
 - [ ] The repo has had a commit in the last **6 months**
 - [ ] This tool is **meaningfully different** from existing entries
 - [ ] The tool has a working README or docs site
-- [ ] My entry follows the [format in CONTRIBUTING.md](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents/Contributing.md) exactly
+- [ ] My entry follows the [format in CONTRIBUTING.md](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry/blob/main/CONTRIBUTING.md) exactly
 - [ ] The entry is placed in **alphabetical order** within its section
 - [ ] All links open correctly and go to the right place
 - [ ] Description is exactly **two sentences** — no promotional language

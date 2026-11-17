@@ -3,7 +3,7 @@
 import * as React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { ThemeToggle } from '../theme-toggle';
+import { ThemeToggle } from '@/components/theme/ThemeToggle';
 import { MobileNav } from './MobileNav';
 import { cn } from '@/lib/utils';
 import { Search, Plus } from 'lucide-react';
@@ -76,7 +76,7 @@ export function Header({ onOpenSearch }: HeaderProps) {
           </Link>
 
           <a
-            href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026"
+            href="https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 text-neutral-500 hover:text-neutral-900 dark:text-neutral-400 dark:hover:text-neutral-100 transition-colors rounded-[6px] hover:bg-neutral-100 dark:hover:bg-neutral-900"

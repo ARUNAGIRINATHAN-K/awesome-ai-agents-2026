@@ -1,0 +1,11 @@
+# Mark generated data artifacts to collapse diffs and exclude from language statistics
+data/resources.json linguist-generated=true
+data/categories.json linguist-generated=true
+
+# Normalize line endings
+*.js text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+

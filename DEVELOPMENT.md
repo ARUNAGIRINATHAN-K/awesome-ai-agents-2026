@@ -1,4 +1,4 @@
-# Development Guide — AI Agent Registry 2026
+# Development Guide — AI Agent Registry
 
 This guide provides instructions for local environment setup, data dataset compilation, testing, code guidelines, and deployment.
 
@@ -19,8 +19,8 @@ Ensure your development environment meets the following requirements:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026.git
-cd awesome-ai-agents-2026
+git clone https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry.git
+cd ai-agent-registry
 ```
 
 ### Install Dependencies
@@ -49,6 +49,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 |---|---|---|
 | `dev` | `next dev` | Starts local Next.js development server on port 3000 |
 | `build:data` | `node scripts/build-data.js` | Parses `README.md` and generates static JSON files in `data/` |
+| `resolve-conflicts` | `node scripts/resolve-conflicts.js` | Regenerates and restages valid JSON datasets from `README.md` to resolve merge conflicts |
 | `build` | `node scripts/build-data.js && next build` | Compiles dataset and runs production Next.js build |
 | `start` | `next start` | Starts Next.js production server post-build |
 | `lint` | `next lint` | Runs Next.js ESLint checks |
@@ -112,7 +113,7 @@ codespell -q 3 --skip=.git,node_modules,.next --check-filenames --ignore-words-l
 The project is pre-configured for instant automated deployments via **Vercel + GitHub Integration**:
 
 1. **Import Repository**: Log in to [Vercel Dashboard](https://vercel.com/dashboard) and click **Add New** → **Project**.
-2. **Select GitHub Repo**: Choose `ARUNAGIRINATHAN-K/awesome-ai-agents`.
+2. **Select GitHub Repo**: Choose `ARUNAGIRINATHAN-K/ai-agent-registry`.
 3. **Configure Settings**:
    - **Framework Preset**: `Next.js`
    - **Build Command**: `npm run build` *(runs `node scripts/build-data.js && next build` automatically)*

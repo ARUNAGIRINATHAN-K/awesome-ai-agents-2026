@@ -1,6 +1,6 @@
-# Architecture Overview — AI Agent Registry 2026
+# Architecture Overview — AI Agent Registry
 
-This document details the system architecture, component design, data flow, and deployment model of the **Awesome AI Agents 2026 / AI Agent Registry** application.
+This document details the system architecture, component design, data flow, and deployment model of the **AI Agent Registry** application.
 
 ---
 
@@ -38,7 +38,7 @@ flowchart TD
     end
 
     subgraph Component Primitives
-        H --> K["components/filter-sidebar.tsx"]
+        H --> K["components/search/FilterSidebar.tsx"]
         H & I --> L["components/resource/ResourceGrid.tsx"]
         L --> M["components/resource/ResourceCard.tsx"]
         G --> N["components/category/CategoryCard.tsx"]
@@ -63,7 +63,7 @@ flowchart TD
 ### C. Component Architecture
 - **Header & Navigation** ([`components/layout/Header.tsx`](components/layout/Header.tsx)): Sticky desktop header with navigation links, search trigger modal shortcut (`⌘K`), theme toggle, and repository link.
 - **Resource Grid & Card** ([`components/resource/ResourceCard.tsx`](components/resource/ResourceCard.tsx)): Information-dense cards formatted with strict minimal aesthetic (monospace tags, subtle 1px borders, tier badges, direct source repository links).
-- **Filter Panel** ([`components/filter-sidebar.tsx`](components/filter-sidebar.tsx)): Real-time filter control sidebar for tier, runtime language, and category domain narrowing.
+- **Filter Panel** ([`components/search/FilterSidebar.tsx`](components/search/FilterSidebar.tsx)): Real-time filter control sidebar for tier, runtime language, and category domain narrowing.
 - **Submission Portal** ([`app/submit/page.tsx`](app/submit/page.tsx), [`components/submission/`](components/submission/)): Interactive contribution interface utilizing Shadcn UI form primitives (`Field`, `FieldLabel`, `Input`, `Select`, `Textarea`), real-time client-side validation, pre-filled GitHub Issue link generation, and a two-column lower layout for live Markdown entry preview (`SubmissionPreview.tsx`) and process instructions (`SubmissionInstructions.tsx`).
 
 ---
@@ -87,7 +87,7 @@ flowchart TD
 The application supports dual deployment models:
 
 ### A. Vercel Global Edge Network (Automated CI/CD)
-- **GitHub Integration**: Connected to `ARUNAGIRINATHAN-K/awesome-ai-agents` via webhooks.
+- **GitHub Integration**: Connected to `ARUNAGIRINATHAN-K/ai-agent-registry` via webhooks.
 - **Build Execution**: `npm run build` runs `node scripts/build-data.js && next build`, compiling the dataset and pre-rendering all dynamic routes statically (`/explore`, `/categories/[slug]`, `/resources/[slug]`).
 - **CDN Edge Caching**: Assets and static HTML pages are distributed globally across Vercel's Edge Network with sub-100ms response times.
 - **Preview Deployments**: Branch pushes and Pull Requests generate isolated preview URLs for visual verification before merging to `main`.

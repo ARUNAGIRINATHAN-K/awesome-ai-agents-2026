@@ -33,7 +33,7 @@ function parseGitHubRepo(urlStr) {
 
 function buildData() {
   console.log('===================================================');
-  console.log('🤖 AWESOME AI AGENTS REGISTRY DATA BUILDER');
+  console.log('🤖 AI AGENT REGISTRY DATA BUILDER');
   console.log('===================================================');
 
   if (!fs.existsSync(README_PATH)) {

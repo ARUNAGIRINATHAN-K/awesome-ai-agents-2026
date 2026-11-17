@@ -34,6 +34,14 @@ jobs:
       - name: Validate dataset compilation & Next.js build
         run: npm run build
 
+      - name: Verify data registry is in sync with README.md
+        run: |
+          if [ -n "$(git status --porcelain data/)" ]; then
+            echo "::error file=data/resources.json::Generated datasets (data/resources.json, data/categories.json) are out of sync with README.md. Please run 'npm run build:data' locally and commit the updated data files."
+            git diff data/
+            exit 1
+          fi
+
       - name: Run awesome-lint
         run: npx awesome-lint
         env:

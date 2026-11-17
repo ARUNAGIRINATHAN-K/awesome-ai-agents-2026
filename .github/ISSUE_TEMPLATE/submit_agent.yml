@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for submitting to **Awesome AI Agents 2026**!
+        Thank you for submitting to **AI Agent Registry**!
         Please fill out this form accurately. Our automated pipeline will validate your submission and generate a Pull Request for maintainer review.
 
   - type: input

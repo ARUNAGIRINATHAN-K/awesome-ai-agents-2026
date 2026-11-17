@@ -61,7 +61,7 @@ export default function HomePage() {
             value={searchQuery}
             onChange={(val) => setSearchQuery(val)}
             onSubmit={(val) => executeSearch(val)}
-            placeholder="Search 470+ agents, frameworks, tools (e.g. CrewAI, MCP, RAG)..."
+            placeholder="Search 500+ agents, frameworks, tools (e.g. CrewAI, MCP, RAG)..."
           />
         </form>
 

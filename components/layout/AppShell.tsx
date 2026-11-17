@@ -1,10 +1,10 @@
 'use client';
 
 import * as React from 'react';
-import { ThemeProvider } from '@/components/theme-provider';
+import { ThemeProvider } from '@/components/theme/ThemeProvider';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
-import { SearchModal } from '@/components/search-modal';
+import { SearchModal } from '@/components/search/SearchModal';
 
 interface AppShellProps {
   children: React.ReactNode;

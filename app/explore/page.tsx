@@ -9,7 +9,7 @@ import {
 } from '@/lib/resources';
 import { filterResources, FilterOptions } from '@/lib/search';
 import { ResourceGrid } from '@/components/resource/ResourceGrid';
-import { FilterSidebar } from '@/components/filter-sidebar';
+import { FilterSidebar } from '@/components/search/FilterSidebar';
 import { TierLevel } from '@/types/resource';
 import { EmptyState } from '@/components/common/EmptyState';
 
@@ -93,7 +93,7 @@ function ExploreContent() {
         </div>
 
         <a
-          href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026"
+          href="https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-1.5 px-3 py-1.5 rounded border border-border bg-card hover:bg-accent text-xs font-mono text-foreground transition-colors shrink-0"

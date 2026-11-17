@@ -2,19 +2,29 @@
 
 ![](img/top.png)
 
-# Awesome AI Agents 2026
+# AI Agent Registry
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/awesome-ai-agents-2026?style=social)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)
+[![GitHub stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/ai-agent-registry?style=social)](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
-[![Last Commit](https://img.shields.io/github/last-commit/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/commits/main)
-![Tools Listed](https://img.shields.io/badge/tools_listed-470%2B-blue?style=flat-square)
+[![Last Commit](https://img.shields.io/github/last-commit/ARUNAGIRINATHAN-K/ai-agent-registry)](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry/commits/main)
+![Tools Listed](https://img.shields.io/badge/tools_listed-500%2B-blue?style=flat-square)
 [![Live Registry](https://img.shields.io/website?url=https%3A%2F%2Fai-agent-registry-kappa.vercel.app%2F&up_message=online&label=registry&style=flat-square)](https://ai-agent-registry-kappa.vercel.app/)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](LICENSE)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FARUNAGIRINATHAN-K%2Fawesome-ai-agents-2026)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FARUNAGIRINATHAN-K%2Fai-agent-registry)
 
-*The most comprehensive, structured guide to AI agent frameworks, tools, and resources.*  
-*Updated weekly. Compared side-by-side. Built for developers who ship.*
+**Discover, compare, and explore 500+ AI agents, frameworks, tools, skills, and infrastructure across 32 categories.**
+
+AI Agent Registry is an open-source, community-driven directory designed to make the rapidly growing AI agent ecosystem easier to discover, explore, and navigate.
+
+### Repository Highlights
+
+- 500+ curated resources
+- 32 organized categories
+- Searchable resource directory
+- AI agent and framework discovery
+- Open-source contribution workflow
+- Continuously growing collection
 
 **[Explore the Stack](#contents) • [Live App](https://ai-agent-registry-kappa.vercel.app/#live) • [Architecture](ARCHITECTURE.md) • [Data Schema](DATA_SCHEMA.md) • [Development](DEVELOPMENT.md) • [Contributing](#contributing) • [Agent Guide](AGENT.md)**
 
@@ -96,14 +106,14 @@ npm install && npm run build:data && npm run dev
 **Live Web Registry**: [https://ai-agent-registry-kappa.vercel.app](https://ai-agent-registry-kappa.vercel.app/#explorer)  
 **Local Web App**: `http://localhost:3000`  
 **Docker**: `docker compose up --build`  
-**One-Click Deploy**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FARUNAGIRINATHAN-K%2Fawesome-ai-agents-2026#deploy)
+**One-Click Deploy**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FARUNAGIRINATHAN-K%2Fai-agent-registry#deploy)
 
 ### Submit an Agent
 
 Have an AI agent, framework, tool, skill, or infrastructure project worth sharing?
 
 - **Web Submission Portal**: [Submit a Resource](https://ai-agent-registry-kappa.vercel.app/submit)
-- **GitHub Issue Form**: [Open No-Code Submission Issue](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues/new?template=submit_agent.yml)
+- **GitHub Issue Form**: [Open No-Code Submission Issue](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry/issues/new?template=submit_agent.yml)
 
 ---
 
@@ -996,4 +1006,4 @@ Your contributions are what keep this list useful. Read [Contributing.md](CONTRI
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ARUNAGIRINATHAN-K/awesome-ai-agents-2026&type=Date)](https://star-history.com/#ARUNAGIRINATHAN-K/awesome-ai-agents-2026&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ARUNAGIRINATHAN-K/ai-agent-registry&type=Date)](https://star-history.com/#ARUNAGIRINATHAN-K/ai-agent-registry&Date)

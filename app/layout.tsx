@@ -18,9 +18,25 @@ const geistMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'AI Agent Registry — Discover the AI Agent Ecosystem',
-  description: 'Explore AI agents, frameworks, tools, protocols, models, and infrastructure for building intelligent systems.',
-  viewport: 'width=device-width, initial-scale=1',
+  title: 'AI Agent Registry — Discover, compare, and explore 500+ AI agents',
+  description: 'Explore 500+ AI agents, frameworks, tools, skills, and infrastructure across 32 categories in an open-source AI Agent Registry.',
+  keywords: ['AI agents', 'agent registry', 'multi-agent systems', 'MCP', 'LLM tools', 'agent frameworks'],
+  authors: [{ name: 'ARUNAGIRINATHAN-K', url: 'https://github.com/ARUNAGIRINATHAN-K' }],
+  metadataBase: new URL('https://ai-agent-registry-kappa.vercel.app'),
+  openGraph: {
+    title: 'AI Agent Registry',
+    description: 'Explore 500+ AI agents, frameworks, tools, skills, and infrastructure across 32 categories in an open-source AI Agent Registry.',
+    url: 'https://ai-agent-registry-kappa.vercel.app',
+    siteName: 'AI Agent Registry',
+    images: [{ url: '/img/top.png', width: 1200, height: 630, alt: 'AI Agent Registry' }],
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'AI Agent Registry',
+    description: 'Discover, compare, and explore 500+ AI agents across 32 categories.',
+    images: ['/img/top.png'],
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

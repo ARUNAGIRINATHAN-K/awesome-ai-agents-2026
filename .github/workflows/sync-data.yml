@@ -1,0 +1,42 @@
+name: Sync Data Registry
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-data:
+    name: Regenerate & Commit Data Registry
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerate Datasets
+        run: node scripts/build-data.js
+
+      - name: Commit & Push if Changed
+        run: |
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/resources.json data/categories.json
+            git commit -m "chore(registry): auto-sync data with README.md [skip ci]"
+            git push origin main
+          else
+            echo "Data registry is already up to date."
+          fi
+

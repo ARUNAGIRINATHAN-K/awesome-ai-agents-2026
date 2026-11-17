@@ -1,4 +1,4 @@
-# Contributing to Awesome AI Agents 2026
+# Contributing to AI Agent Registry
 
 First off, thank you. This list only stays useful because people like you take the time to keep it accurate and current.
 
@@ -18,7 +18,7 @@ First off, thank you. This list only stays useful because people like you take t
 5. Automated GitHub Actions validation runs and opens a Pull Request for maintainer review.
 
 #### Option 2 — GitHub Issue Form
-1. Open the repository's [New Issue Page](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/issues/new/choose).
+1. Open the repository's [New Issue Page](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry/issues/new/choose).
 2. Select **Submit an AI Agent / Tool**.
 3. Fill in the structured form fields.
 4. Submit the issue — GitHub Actions validates the entry and opens an automated PR.
@@ -179,13 +179,17 @@ When adding or updating entries in `README.md`, recompile the static dataset and
 # 1. Compile README.md into static normalized JSON datasets
 npm run build:data
 
-# 2. Start Next.js development server
+# 2. Resolving merge conflicts in data/
+# If a branch merge causes a conflict in data/resources.json or data/categories.json:
+npm run resolve-conflicts
+
+# 3. Start Next.js development server
 npm run dev
 
-# 3. Validate production build
+# 4. Validate production build
 npm run build
 
-# 4. (Optional) Test containerized build
+# 5. (Optional) Test containerized build
 docker compose up --build
 ```
 

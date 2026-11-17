@@ -42,8 +42,8 @@ All notable changes to this list will be documented here.
 ---
 
 
-Minor fixes (typos, broken links, small star count corrections) are not logged here individually — those are tracked in [commit history](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents/commits/main).
+Minor fixes (typos, broken links, small star count corrections) are not logged here individually — those are tracked in [commit history](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry/commits/main).
 
 ---
 
-*For the full history of changes, see the [commit log](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents/commits/main).*
+*For the full history of changes, see the [commit log](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry/commits/main).*
