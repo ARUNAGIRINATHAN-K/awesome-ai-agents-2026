@@ -282,6 +282,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Runheed](https://runheed.com?ref=awesome-ai-agents-2026) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server that lets a coding agent read production errors, fix them and mark them resolved.
 - [Scalekit](https://www.scalekit.com/agentkit) `🔬` `[Cloud]` `[MCP]` - Hosted MCP gateway and SDKs giving agents per-user OAuth, scoped tool permissions and audit logs across 500+ connectors.
 - [Seonix SEO MCP](https://github.com/seonix-ai/seonix-mcp) `🔬` `[TypeScript]` `[MCP]` - Audits any website for technical SEO, GEO/AEO readiness and page speed, then proposes and dry-runs minimal fixes.
+- [Solana Rent and Rug Shield MCP](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp) `🔬` `[TypeScript]` `[MCP]` - Audits Solana tokens across ten rug-risk layers, simulates transaction drainers, and scans wallets for unclaimed SOL rent.
 - [TableJourney](https://tablejourney.com/agents/) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server giving agents verified restaurants, food festival dates and bookable tours in 224 cities, and paying agents half of the booking commission.
 - [Tapetide MCP](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) `🔬` `[TypeScript]` `[MCP]` - Gives agents quotes, financials, shareholding, screener and FII/DII flow data for about 8,200 NSE and BSE stocks.
 - [Toolhouse](https://toolhouse.ai/en/) `🌱` `[Python]` `[Multi-Agent]` - Cloud-hosted tool infrastructure for agents with optimized execution and low-latency access.
