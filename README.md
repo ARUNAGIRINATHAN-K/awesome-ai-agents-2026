@@ -19,6 +19,8 @@ AI Agent Registry is an open-source, community-driven directory designed to make
 
 **[Explore the Stack](#contents) • [Live App](https://ai-agent-registry-kappa.vercel.app/#live) • [Architecture](ARCHITECTURE.md) • [Data Schema](DATA_SCHEMA.md) • [Development](DEVELOPMENT.md) • [Contributing](#contributing) • [Agent Guide](AGENT.md)**
 
+<img src="img/main.png" width="100%">
+
 </div>
 
 ## Contents
