@@ -122,6 +122,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) `🌱` `[TypeScript]` `[Multi-Agent]` - Open-source platform for embedding custom AI copilots into React applications.
 - [CrewAI](https://github.com/crewAIInc/crewAI) `🚀` `[Python]` `[Multi-Agent]` - Production multi-agent framework with 5K+ GitHub stars, role-based collaboration, async execution, and 1500+ company adoptions.
 - [CUGA](https://github.com/cuga-project/cuga-agent) `🌱` `[Python]` `[MCP]` - Generalist agent harness from IBM Research that runs tasks across OpenAPI, MCP, and LangChain tools and the web, with policy guardrails and human approval.
+- [Dapr Agents](https://github.com/dapr/dapr-agents) `🌱` `[Python]` `[Multi-Agent]` - Builds durable AI agents with workflow-backed state, messaging, and automatic recovery after a crash.
 - [Doforu](https://doforu.ai) `🔬` `[Desktop]` `[Multi-Agent]` - Orchestrates parallel sub-agents on your desktop and verifies their results before merging.
 - [DSPy](https://github.com/stanfordnlp/dspy) `🌱` `[Python]` `[Research]` - Stanford framework that programmatically optimizes LLM prompts using machine learning.
 - [Ontheia](https://github.com/Ontheia/ontheia) `🌱` `[TypeScript]` `[MCP]` - Self-hosted MCP-native agent platform with visual workflow automation and multi-provider support.
@@ -454,6 +455,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 
 - [AWS Bedrock AgentCore](https://github.com/awslabs/agentcore-samples) `🚀` `[TypeScript]` `[Compliance]` - Managed AWS infrastructure for Bedrock-based agents with compliance, scaling, and monitoring built in.
 - [Cerebras Inference](https://www.cerebras.ai) `🌱` `[Cloud]` `[Multi-Agent]` - Fastest LLM inference delivering 1000+ tokens per second on Llama 3.3 70B with a free tier.
+- [Diagrid](https://www.diagrid.io/platform) `🌱` `[Cloud]` `[Stateful]` - Managed platform for running Dapr workflows and durable agents without operating the underlying infrastructure.
 - [Fireworks AI](https://fireworks.ai) `🌱` `[Cloud]` `[RAG]` - Serverless LLM inference with fine-tuning, RAG support, and free credits for rapid prototyping.
 - [Groq Cloud](https://groq.com) `🌱` `[Cloud]` `[Multi-Agent]` - Ultra-fast LPU-based LLM inference for Mixtral, Llama, and Gemma with a free API tier.
 - [Hivemeld](https://www.hivemeld.ai/buy?plan=annual&utm_source=arunagiri_agents_2026&utm_medium=directory&utm_campaign=GRO-105) `🚀` `[Cloud]` `[Multi-Agent]` - Hosted platform that deploys and runs teams of autonomous AI agents on a company's real backlog across engineering, growth, and support in a shared workspace.
@@ -589,6 +591,7 @@ Frameworks for orchestrating data transformations and long-running agent-driven 
 - [AI for Database](https://www.aifordatabase.com) `🌱` `[Cloud]` `[Database]` - Connects to any database for plain English queries with self-refreshing dashboards and automated workflows.
 - [Burr](https://github.com/apache/burr) `🌱` `[Python]` `[Observability]` - Tracks and manages multi-step agent state machines with built-in observability and persistence.
 - [Dagster](https://github.com/dagster-io/dagster) `🌱` `[Python]` `[Pipeline]` - Manages data assets and pipelines with built-in lineage tracking for data-intensive agent systems.
+- [Dapr Workflow](https://github.com/dapr/dapr) `🚀` `[Go]` `[Stateful]` - Runs agent steps as durable activities that resume after a crash without replaying completed LLM calls.
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher) `🌱` `[Python]` `[LangChain]` - Conducts multi-source autonomous web research and produces cited, structured long-form reports.
 - [Hamilton](https://github.com/apache/hamilton) `🌱` `[Python]` `[Pipeline]` - Defines modular data transformations as Python functions wired automatically into a DAG for agent pipelines.
 - [Hex AI](https://hex.tech) `🌱` `[Cloud]` `[Multi-Agent]` - Collaborative data platform with AI-powered analysis and notebook-based data exploration for teams.
