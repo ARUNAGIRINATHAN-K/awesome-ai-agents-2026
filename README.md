@@ -267,6 +267,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Arcade AI](https://github.com/ArcadeAI/arcade-mcp) `🌱` `[Python]` `[Multi-Agent]` - Tool-use platform with authentication, authorization, and logging for agent-tool interactions.
 - [Chord](https://getchord.xyz/docs/agents/mcp/) `🔬` `[Cloud]` `[MCP]` - Gives agents DEX swap quotes, unsigned swap transactions, candles and wallet PnL on seven EVM chains.
 - [Composio](https://github.com/ComposioHQ/composio) `🌱` `[TypeScript]` `[Multi-Agent]` - Integration platform with 250+ pre-built tool connectors for AI agents and LLMs.
+- [Competitor Ads MCP](https://apify.com/dheerajitbhu/google-ads-transparency?utm_source=ai-agent-registry&utm_medium=directory&utm_campaign=google-ads-transparency) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server returning competitor ad creatives from Google Ads Transparency Center and LinkedIn Ad Library, no LinkedIn login.
 - [Datacircle](https://datacircle.dev/) `🔬` `[Cloud]` `[MCP]` - Query your favorite B2B data APIs through us. Same request, same price, no markup.
 - [DC Hub](https://github.com/azmartone67/dchub-mcp-server) `🔬` `[Cloud]` `[MCP]` - Scores where data centers can get grid power across 300+ markets daily, served to agents over hosted MCP.
 - [Docker MCP](https://github.com/docker/mcp-gateway) `🌱` `[Go]` `[MCP]` - Docker's MCP gateway CLI plugin for running MCP servers in isolated containers.
